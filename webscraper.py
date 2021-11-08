@@ -12,12 +12,7 @@ def write_to_csv():
     return 0
 def click_events():
     return 0
-
-def main():
-    # TODO: implement selenium driver to select multiple pages :(
-    # starting url
-    url = "https://play.usaultimate.org/events/D-III-College-Championships-2019/schedule/Men/CollegeMen/"
-    page = requests.get(url)
+def scrape_page(page):
     soup = bs.BeautifulSoup(page.text,'html.parser')
     # gets each pool eg. Pool A, B, C, D
     pools = soup.findAll("table", {"class":"global_table scores_table"})
@@ -26,5 +21,12 @@ def main():
     rows = pool[0].find_all("th")
     print(rows)
     # TODO: Make a game class?
+    return 0
+def main():
+    # TODO: implement selenium driver to select multiple pages :(
+    # starting url
+    url = "https://play.usaultimate.org/events/D-III-College-Championships-2019/schedule/Men/CollegeMen/"
+    page = requests.get(url)
+    scrape_page(page)
 if __name__ == "__main__":
     main()
