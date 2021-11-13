@@ -1,25 +1,46 @@
-Date,Id
-5/18,Middlebury (1)
-5/18,Tech (8)
-5/18,Middlebury (1)
-5/18,Tech (8)
-5/18,Middlebury (1)
-5/18,Franciscan (12)
-5/18,Force (2)
-5/18,Bryant (7)
-5/18,Force (2)
-5/18,Bryant (7)
-5/18,Force (2)
-5/18,Portland (11)
-5/18,GoP (3)
-5/18,Colby (6)
-5/18,GoP (3)
-5/18,Colby (6)
-5/18,GoP (3)
-5/18,T (10)
-5/18,Richmond (4)
-5/18,Bowdoin (5)
-5/18,Richmond (4)
-5/18,Bowdoin (5)
-5/18,Richmond (4)
-5/18,Luther (9)
+Date,Home Team,Away Team,Home Score,Away Score
+Sat 5/18,Middlebury (1),Franciscan (12),11,10
+Sat 5/18,Michigan Tech (8),Hamilton (13),11,9
+Sat 5/18,Middlebury (1),Hamilton (13),12,10
+Sat 5/18,Michigan Tech (8),Franciscan (12),15,8
+Sat 5/18,Middlebury (1),Michigan Tech (8),14,9
+Sat 5/18,Franciscan (12),Hamilton (13),12,13
+Sat 5/18,Air Force (2),Portland (11),12,5
+Sat 5/18,Bryant (7),Claremont (14),15,2
+Sat 5/18,Air Force (2),Claremont (14),14,3
+Sat 5/18,Bryant (7),Portland (11),13,4
+Sat 5/18,Air Force (2),Bryant (7),11,7
+Sat 5/18,Portland (11),Claremont (14),11,12
+Sat 5/18,Carleton College-GoP (3),Missouri S&T (10),11,10
+Sat 5/18,Colby (6),Berry (15),11,9
+Sat 5/18,Carleton College-GoP (3),Berry (15),15,6
+Sat 5/18,Colby (6),Missouri S&T (10),8,11
+Sat 5/18,Carleton College-GoP (3),Colby (6),14,5
+Sat 5/18,Missouri S&T (10),Berry (15),12,10
+Sat 5/18,Richmond (4),Luther (9),10,8
+Sat 5/18,Bowdoin (5),Valparaiso (16),10,6
+Sat 5/18,Richmond (4),Valparaiso (16),11,6
+Sat 5/18,Bowdoin (5),Luther (9),9,11
+Sat 5/18,Richmond (4),Bowdoin (5),9,11
+Sat 5/18,Luther (9),Valparaiso (16),14,9
+5/19/2019,Middlebury (1),Air Force (2),15,12
+5/19/2019,Middlebury (1),Richmond (4),12,11
+5/19/2019,Carleton College-GoP (3),Air Force (2),13,15
+5/19/2019,Middlebury (1),Bryant (7),15,9
+5/19/2019,Richmond (4),Missouri S&T (10),15,11
+5/19/2019,Carleton College-GoP (3),Luther (9),15,10
+5/19/2019,Air Force (2),Bowdoin (5),15,10
+5/18/2019,Bryant (7),Colby (6),12,5
+5/18/2019,Missouri S&T (10),Claremont (14),14,6
+5/18/2019,Luther (9),Hamilton (13),14,5
+5/18/2019,Michigan Tech (8),Bowdoin (5),10,13
+5/19/2019,Bryant (7),Missouri S&T (10),8,15
+5/19/2019,Luther (9),Bowdoin (5),13,14
+5/19/2019,Colby (6),Claremont (14),11,8
+5/19/2019,Hamilton (13),Michigan Tech (8),11,13
+5/19/2019,Franciscan (12),Valparaiso (16),15,11
+5/19/2019,Colby (6),Franciscan (12),12,15
+5/19/2019,Claremont (14),Valparaiso (16),9,15
+5/19/2019,Berry (15),Portland (11),5,15
+5/19/2019,Hamilton (13),Berry (15),7,14
+5/19/2019,Michigan Tech (8),Portland (11),4,15
