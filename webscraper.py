@@ -1,5 +1,7 @@
 from requests.api import head
 from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import numpy as np
 import bs4 as bs
@@ -17,7 +19,7 @@ def write_to_csv(header, data, csv_name):
 
         # write the data
         for row in data:
-            writer.writerow(row[0:2])
+            writer.writerow(row)
 def scrape_page(page):
     soup = bs.BeautifulSoup(page.text,'html.parser')
     # gets each pool eg. Pool A, B, C, D
@@ -26,13 +28,25 @@ def scrape_page(page):
     for pool in pools:
         entries = pool.find_all("span", {"class":"adjust-data"})
         for i in range(0,len(entries),8):
-            date = re.search("([1-9]|1[0-2])\/(0[1-9]|1\d|2\d|3[01])", str(entries[i])).group()
-            home = re.search("([a-zA-Z]+)\s?([a-zA-Z]*)*\(\d+\)", str(entries[i+3])).group()
-            away = re.search("([a-zA-Z]+)\s?([a-zA-Z]*)*\(\d+\)", str(entries[i+4])).group()
-            h_score = re.search(">(\d+)<", str(entries[i+5])).group(1)
-            a_score = re.search(">(\d+)<", str(entries[i+6])).group(1)
+            date = entries[i].string
+            home = entries[i+3].a.string
+            away = entries[i+4].a.string
+            h_score = entries[i+5].string
+            a_score = entries[i+6].string
             game = [date,home,away,h_score,a_score]
             games.append(game)
+    teams = soup.findAll("span", {"class":"team adjust-data"})
+    scores = soup.findAll("span", {"class":"score adjust-data"})
+    for i in range(0, len(teams), 2):
+        date = teams[i].parent.parent.parent.find("span", class_="date").string
+        # only log the date
+        date = date.split(" ")[0]
+        home = teams[i].a.string
+        away = teams[i+1].a.string
+        h_score = scores[i].string
+        a_score = scores[i+1].string
+        game = [date, home,away,h_score,a_score]
+        games.append(game)
     return games
 def main():
     # TODO: implement selenium driver to select multiple pages :(
@@ -40,7 +54,11 @@ def main():
     url = "https://play.usaultimate.org/events/D-III-College-Championships-2019/schedule/Men/CollegeMen/"
     page = requests.get(url)
     data = scrape_page(page)
-    header = ["Date", "Id"]
+    header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
     write_to_csv(header, data, "nationals.csv")
+    # url = "https://archive.usaultimate.org/archives/2019_college.aspx"
+    # # initialize latest driver
+    # driver = webdriver.Chrome(ChromeDriverManager().install())
+    # driver.get(url)
 if __name__ == "__main__":
     main()
