@@ -8,6 +8,7 @@ from networkx.algorithms import bipartite
 import pandas as pd
 import numpy as np
 import scipy.sparse as sp
+import os
 import re
 
 
@@ -119,11 +120,17 @@ def bipartite_graph(csv_list):
 # plt.savefig('Class loglog')
 
 def main():
-    csv_list = ['./sanctioned2019.csv', './nationals.csv']
+    sanctioned = './Sanctioned 2019'
+    nonsanctioned = './Non-Sanctioned 2019'
+    csv_list = []
+    # csv_list = ['./sanctioned2019.csv', './nationals.csv']
+    for file in os.scandir(sanctioned, nonsanctioned):
+        csv_list.append(file)
+        print(file)
+
     make_edge_list(csv_list)
     make_bipartite_edgelist(csv_list)
 
 
 if __name__ == "__main__":
     main()
-
