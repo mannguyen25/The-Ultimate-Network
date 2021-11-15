@@ -6,6 +6,9 @@ of tournaments and participating teams.
 import networkx as nx
 from networkx.algorithms import bipartite
 
+import matplotlib
+import matplotlib.pyplot as plt
+
 import pandas as pd
 import numpy as np
 import scipy.sparse as sp
@@ -35,10 +38,10 @@ def make_team_graph(csv_list):
         for i in df.index:
             weight1 = df[column_names[3]][i]
             weight2 = df[column_names[4]][i]
-            if weight1 == 'W':
+            if weight1 == 'W' or weight2 == 'F' or weight2 == 'L':
                 weight1 = 15
                 weight2 = 0
-            if weight1 == 'F' or weight1 == 'L':
+            if weight1 == 'F' or weight1 == 'L' or weight2 == 'W':
                 weight1 = 0
                 weight2 = 15
             graph.add_edge(df[column_names[1]][i], df[column_names[2]][i], weight=weight1)
@@ -91,10 +94,19 @@ def make_bipartite_graph(csv_list):
     return bigraph, team_graph, tournament_graph
 
 
-def analyze(graph, file_object=None):
+def analyze(graph, label, file_object=None):
+    print(f'For the {label} graph:', file=file_object)
+
     # Degree assortativity
     assor = nx.algorithms.assortativity.degree_assortativity_coefficient(graph)
     print(f'\tThe degree assortativity is {assor}', file=file_object)
+
+    # Create heatmaps of Laplacians and path matrices
+    # centrality = nx.betweenness_centrality(graph)
+    # for x in centrality
+    # matrix = sns.heatmap(bi_lap.toarray(), cmap='rocket_r')
+    # fig = matrix.get_figure()
+    # fig.savefig("Bipartite Laplacian.png")
 
     # k-components
     # k_components = nx.algorithms.connectivity.k_components(nationals_graph)
@@ -103,25 +115,25 @@ def analyze(graph, file_object=None):
     #         print(f'The {num}-components are {k_components[num]}\\\\')
 
 
-# Histograms
-# degree_sequence = sorted([d for n, d in class_graph.degree()])
-# bin_size = list(n for n in range(1, 150))
-# plt.hist(degree_sequence, bins=bin_size)
-# plt.savefig('Class Histogram2.png')
-
-# p_k = list(0 for _ in range(degree_sequence[-1]))
-# for i in range(degree_sequence[-1]):
-#     sum = 0
-#     for d in degree_sequence:
-#         if d >= i:
-#             sum += 1
-#     p_k[i] = sum / len(degree_sequence)
-#
-# plt.loglog(p_k)
-# plt.title('Class Graph')
-# plt.ylabel('Cumulative Distribution Function')
-# plt.xlabel('Degree')
-# plt.savefig('Class loglog')
+    # Check power law distribution
+    # ugraph = graph.to_undirected()
+    # nx.set_edge_attributes(ugraph, 1, 'weight')
+    # degree_sequence = sorted([d for n, d in ugraph.degree()])
+    #
+    # p_k = list(0 for _ in range(degree_sequence[-1]))
+    # for i in range(degree_sequence[-1]):
+    #     sum = 0
+    #     for d in degree_sequence:
+    #         if d >= i:
+    #             sum += 1
+    #     p_k[i] = sum / len(degree_sequence)
+    #
+    # plt.loglog(p_k)
+    # plt.title(f'{label} graph ')
+    # plt.ylabel('Cumulative Distribution Function')
+    # plt.xlabel('Degree')
+    # plt.savefig(f'./Power Law/{label} loglog')
+    # plt.close()
 
 
 def bianalyze(graph, file_object=None):
@@ -130,6 +142,15 @@ def bianalyze(graph, file_object=None):
     print(f'\tThe average redundancy is {sum(redundancies)/len(redundancies)}', file=file_object)
     for name in redundancies:
         print(f'\t{name} has redundancy {redundancies[name]}', file=file_object)
+
+
+def randanalyze():
+    tourn_seq = ()
+    team_seq = ()
+    biconf = bipartite.configuration_model()
+
+    probability = 4/438
+    birand = bipartite.random_graph(98, 438, probability)
 
 
 def main():
@@ -152,8 +173,7 @@ def main():
 
     with open('Analysis Results.txt', 'w') as file_object:
         for index, graph in enumerate(graphs):
-            print(f'For the {label[index]} graph:', file=file_object)
-            analyze(graph, file_object)
+            analyze(graph, label[index], file_object)
         # print('For the bipartite graph:', file=file_object)
         # bianalyze(part, file_object)
 
