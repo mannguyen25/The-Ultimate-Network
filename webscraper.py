@@ -11,7 +11,7 @@ import re
 
 def write_to_csv(header, data, csv_name):
     """ Writes game results to a csv"""
-    with open(csv_name, 'w', encoding='UTF8') as f:
+    with open(csv_name, 'a') as f:
         writer = csv.writer(f)
 
         # write the header
@@ -30,7 +30,9 @@ def scrape_page(page):
         for i in range(0,len(entries),8):
             date = entries[i].string
             home = entries[i+3].a.string
+            home = re.search("[a-zA-Z]+(\s[a-zA-Z]+)?", home).group()                        
             away = entries[i+4].a.string
+            away = re.search("[a-zA-Z]+(\s[a-zA-Z]+)?", away).group()
             h_score = entries[i+5].string
             a_score = entries[i+6].string
             game = [date,home,away,h_score,a_score]
@@ -41,8 +43,12 @@ def scrape_page(page):
         date = teams[i].parent.parent.parent.find("span", class_="date").string
         # only log the date
         date = date.split(" ")[0]
+        if teams[i].a is None or teams[i+1].a is None:
+            continue
         home = teams[i].a.string
+        home = re.search("[a-zA-Z]+(\s[a-zA-Z]+)?", home).group()
         away = teams[i+1].a.string
+        away = re.search("[a-zA-Z]+(\s[a-zA-Z]+)?", away).group()
         h_score = scores[i].string
         a_score = scores[i+1].string
         game = [date, home,away,h_score,a_score]
@@ -51,14 +57,19 @@ def scrape_page(page):
 def main():
     # TODO: implement selenium driver to select multiple pages :(
     # starting url
-    url = "https://play.usaultimate.org/events/D-III-College-Championships-2019/schedule/Men/CollegeMen/"
+    # url = "https://play.usaultimate.org/events/New-England-D-I-College-Mens-Regionals-2019/schedule/Men/CollegeMen/"
+    # page = requests.get(url)
+    # data = scrape_page(page)
+    # header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
+    # write_to_csv(header, data, "newengland1.csv")
+    url = "https://archive.usaultimate.org/archives/2019_college.aspx#regionals"
+    # initialize latest driver
     page = requests.get(url)
-    data = scrape_page(page)
-    header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
-    write_to_csv(header, data, "nationals.csv")
-    # url = "https://archive.usaultimate.org/archives/2019_college.aspx"
-    # # initialize latest driver
-    # driver = webdriver.Chrome(ChromeDriverManager().install())
-    # driver.get(url)
+    soup = bs.BeautifulSoup(page.text,'html.parser')
+    for a in soup.find_all('a', href=re.compile('(https:\/\/play.usaultimate.org\/events\/).+(Mens).+')):
+        data = scrape_page(requests.get(a['href']+"/schedule/Men/CollegeMen/"))
+        print(data)
+        header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
+        write_to_csv(header, data, "2019.csv")
 if __name__ == "__main__":
     main()
