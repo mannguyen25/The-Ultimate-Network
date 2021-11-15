@@ -156,24 +156,24 @@ def randanalyze():
     # biconf = bipartite.configuration_model()
 
     probability = 4/438
-    rand_edges = pd.DataFrame()
+    rand_graph = nx.Graph()
     for i in range(100):
         birand = bipartite.random_graph(98, 438, probability)
-        edges = birand.to_pandas_edgelist()
-        rand_edges = rand_edges.append(edges, ignore_index=True)
+        rand_graph = nx.disjoint_union(rand_graph, birand)
 
+    edges = rand_graph.to_pandas_edgelist(rand_graph)
     edges.to_csv(path_or_buf='rand_edgelist.csv', index=False)
 
-    with open('Random Results.txt', 'w') as file_object:
-        print(f'For the random bipartite graph:', file=file_object)
-
-        # Degree assortativity
-        assor = nx.algorithms.assortativity.degree_assortativity_coefficient(graph)
-        print(f'\tThe degree assortativity is {assor}', file=file_object)
-
-        centrality = nx.algorithms.eigenvector_centrality(graph)
-        centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
-        print(f'\tThe eigevector centralities are {centrality}', file=file_object)
+    # with open('Random Results.txt', 'w') as file_object:
+    #     print(f'For the random bipartite graph:', file=file_object)
+    #
+    #     # Degree assortativity
+    #     assor = nx.algorithms.assortativity.degree_assortativity_coefficient(graph)
+    #     print(f'\tThe degree assortativity is {assor}', file=file_object)
+    #
+    #     centrality = nx.algorithms.eigenvector_centrality(graph)
+    #     centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
+    #     print(f'\tThe eigevector centralities are {centrality}', file=file_object)
 
 
 def main():
