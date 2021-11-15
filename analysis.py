@@ -161,7 +161,7 @@ def randanalyze():
         birand = bipartite.random_graph(98, 438, probability)
         rand_graph = nx.disjoint_union(rand_graph, birand)
 
-    edges = rand_graph.to_pandas_edgelist(rand_graph)
+    edges = nx.to_pandas_edgelist(rand_graph)
     edges.to_csv(path_or_buf='rand_edgelist.csv', index=False)
 
     # with open('Random Results.txt', 'w') as file_object:
