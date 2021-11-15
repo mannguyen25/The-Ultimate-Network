@@ -1,0 +1,8 @@
+For the games graph:
+	The degree assortativity is 0.21299642607110503
+For the bipartite graph:
+	The degree assortativity is -0.2844883982904501
+For the tournaments graph:
+	The degree assortativity is 0.34577154250508996
+For the teams graph:
+	The degree assortativity is -0.2239093633163441
