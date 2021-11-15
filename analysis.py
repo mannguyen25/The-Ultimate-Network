@@ -38,14 +38,14 @@ def make_team_graph(csv_list):
             if weight1 == 'W':
                 weight1 = 15
                 weight2 = 0
-            if weight1 == 'F' or 'L':
+            if weight1 == 'F' or weight1 == 'L':
                 weight1 = 0
                 weight2 = 15
             graph.add_edge(df[column_names[1]][i], df[column_names[2]][i], weight=weight1)
             graph.add_edge(df[column_names[2]][i], df[column_names[1]][i], weight=weight2)
 
     edge_list = nx.to_pandas_edgelist(graph)
-    edge_list.to_csv(path_or_buf='sanctioned_edgelist.csv', index=False)
+    edge_list.to_csv(path_or_buf='games_edgelist.csv', index=False)
     return graph
 
 
