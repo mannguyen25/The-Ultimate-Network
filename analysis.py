@@ -122,24 +122,24 @@ def analyze(graph, label, file_object=None):
 
 
     # Check power law distribution
-    # ugraph = graph.to_undirected()
-    # nx.set_edge_attributes(ugraph, 1, 'weight')
-    # degree_sequence = sorted([d for n, d in ugraph.degree()])
-    #
-    # p_k = list(0 for _ in range(degree_sequence[-1]))
-    # for i in range(degree_sequence[-1]):
-    #     sum = 0
-    #     for d in degree_sequence:
-    #         if d >= i:
-    #             sum += 1
-    #     p_k[i] = sum / len(degree_sequence)
-    #
-    # plt.loglog(p_k)
-    # plt.title(f'{label} graph ')
-    # plt.ylabel('Cumulative Distribution Function')
-    # plt.xlabel('Degree')
-    # plt.savefig(f'./Power Law/{label} loglog')
-    # plt.close()
+    ugraph = graph.to_undirected()
+    nx.set_edge_attributes(ugraph, 1, 'weight')
+    degree_sequence = sorted([d for n, d in ugraph.degree()])
+
+    p_k = list(0 for _ in range(degree_sequence[-1]))
+    for i in range(degree_sequence[-1]):
+        sum = 0
+        for d in degree_sequence:
+            if d >= i:
+                sum += 1
+        p_k[i] = sum / len(degree_sequence)
+
+    plt.loglog(p_k)
+    plt.title(f'{label} graph ')
+    plt.ylabel('Cumulative Distribution Function')
+    plt.xlabel('Degree')
+    plt.savefig(f'{label} loglog')
+    plt.close()
 
 
 def bianalyze(graph, file_object=None):
@@ -191,10 +191,15 @@ def main():
     games = make_team_graph(csv_list)
     part, tour, team = make_bipartite_graph(csv_list)
 
-    randanalyze()
+    df = pd.read_csv('./sanctioned_edgelist.csv')
+    sanctioned = nx.from_pandas_edgelist(df)
+    df = pd.read_csv('./nonsanctioned_edgelist.csv')
+    nonsanctioned = nx.from_pandas_edgelist(df)
 
-    label = ['games', 'bipartite', 'tournaments', 'teams']
-    graphs = [games, part, tour, team]
+    # randanalyze()
+
+    label = ['games', 'bipartite', 'tournaments', 'teams', 'sanctioned', 'nonsanctioned']
+    graphs = [games, part, tour, team, sanctioned, nonsanctioned]
 
     with open('Analysis Results.txt', 'w') as file_object:
         for index, graph in enumerate(graphs):
