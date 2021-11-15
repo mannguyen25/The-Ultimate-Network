@@ -75,11 +75,11 @@ def scrape_page(page):
 def main():
     # TODO: implement selenium driver to select multiple pages :(
     # starting url
-    url = "https://play.usaultimate.org/events/Easterns-Qualifier-2019/schedule/Men/CollegeMen/"
+    url = "https://play.usaultimate.org/events/Layout-Pigout-2019/schedule/Men/CollegeMen/"
     page = requests.get(url)
     data = scrape_page(page)
     # header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
-    write_to_csv(data, "C:/Users/Man/Documents\GitHub/The-Ultimate-Network/Non-Sanctioned 2019/Easterns Qualifier 2019.csv")
+    write_to_csv(data, "C:/Users/Man/Documents\GitHub/The-Ultimate-Network/Non-Sanctioned 2019/Layout Pigout 2019.csv")
     # url = "https://archive.usaultimate.org/archives/2019_college.aspx#regionals"
     # # initialize latest driver
     # page = requests.get(url)
