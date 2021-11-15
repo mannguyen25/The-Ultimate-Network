@@ -1,24 +1,16 @@
 """
-Analysis of nationals.csv
+Creates edge lists for a directed weighted 2019 graph and for a bipartite graph
 """
 
 import networkx as nx
 from networkx.algorithms import bipartite
 
-import matplotlib
-import matplotlib.pyplot as plt
-
-import seaborn as sns
-
 import pandas as pd
 import numpy as np
 import scipy.sparse as sp
 import re
-from collections.abc import Iterable
-from itertools import combinations
 
 
-# Collect data
 def make_edge_list(csv_list):
     graph = nx.DiGraph()
 
@@ -52,16 +44,6 @@ def make_edge_list(csv_list):
 
     edge_list = nx.to_pandas_edgelist(graph)
     edge_list.to_csv(path_or_buf="sanctioned_edgelist.csv", index=False)
-
-
-def main():
-    csv_list = ['./sanctioned2019.csv', './nationals.csv']
-    make_edge_list(csv_list)
-    make_bipartite_edgelist(csv_list)
-
-
-if __name__ == "__main__":
-    main()
 
 
 def bipartite_graph(csv_list):
@@ -135,3 +117,13 @@ def bipartite_graph(csv_list):
 # plt.ylabel('Cumulative Distribution Function')
 # plt.xlabel('Degree')
 # plt.savefig('Class loglog')
+
+def main():
+    csv_list = ['./sanctioned2019.csv', './nationals.csv']
+    make_edge_list(csv_list)
+    make_bipartite_edgelist(csv_list)
+
+
+if __name__ == "__main__":
+    main()
+
