@@ -101,9 +101,15 @@ def analyze(graph, label, file_object=None):
     assor = nx.algorithms.assortativity.degree_assortativity_coefficient(graph)
     print(f'\tThe degree assortativity is {assor}', file=file_object)
 
+    centrality = nx.algorithms.eigenvector_centrality(graph)
+    centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
+    print(f'\tThe eigevector centralities are {centrality}', file=file_object)
+
+    # centrality = nx.algorithms.betweenness_centrality(graph)
+    # centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
+    # print(f'\tThe betweennes centralities are {centrality}', file=file_object)
+
     # Create heatmaps of Laplacians and path matrices
-    # centrality = nx.betweenness_centrality(graph)
-    # for x in centrality
     # matrix = sns.heatmap(bi_lap.toarray(), cmap='rocket_r')
     # fig = matrix.get_figure()
     # fig.savefig("Bipartite Laplacian.png")
@@ -145,12 +151,29 @@ def bianalyze(graph, file_object=None):
 
 
 def randanalyze():
-    tourn_seq = ()
-    team_seq = ()
-    biconf = bipartite.configuration_model()
+    # tourn_seq = ()
+    # team_seq = ()
+    # biconf = bipartite.configuration_model()
 
     probability = 4/438
-    birand = bipartite.random_graph(98, 438, probability)
+    rand_edges = pd.DataFrame()
+    for i in range(100):
+        birand = bipartite.random_graph(98, 438, probability)
+        edges = birand.to_pandas_edgelist()
+        rand_edges = rand_edges.append(edges, ignore_index=True)
+
+    edges.to_csv(path_or_buf='rand_edgelist.csv', index=False)
+
+    with open('Random Results.txt', 'w') as file_object:
+        print(f'For the random bipartite graph:', file=file_object)
+
+        # Degree assortativity
+        assor = nx.algorithms.assortativity.degree_assortativity_coefficient(graph)
+        print(f'\tThe degree assortativity is {assor}', file=file_object)
+
+        centrality = nx.algorithms.eigenvector_centrality(graph)
+        centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
+        print(f'\tThe eigevector centralities are {centrality}', file=file_object)
 
 
 def main():
@@ -167,6 +190,8 @@ def main():
 
     games = make_team_graph(csv_list)
     part, tour, team = make_bipartite_graph(csv_list)
+
+    randanalyze()
 
     label = ['games', 'bipartite', 'tournaments', 'teams']
     graphs = [games, part, tour, team]
