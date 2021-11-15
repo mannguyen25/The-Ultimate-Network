@@ -37,7 +37,7 @@ def make_edge_list(csv_list):
             if weight1 == 'W':
                 weight1 = 15
                 weight2 = 0
-            if weight1 == 'L':
+            if weight1 == 'F' or 'L':
                 weight1 = 0
                 weight2 = 15
             graph.add_edge(df[column_names[1]][i], df[column_names[2]][i], weight=weight1)
@@ -119,17 +119,21 @@ def bipartite_graph(csv_list):
 # plt.xlabel('Degree')
 # plt.savefig('Class loglog')
 
+
 def main():
     sanctioned = './Sanctioned 2019'
     nonsanctioned = './Non-Sanctioned 2019'
-    csv_list = []
+    csv_list = ['./D-I College Championships.csv', './nationals.csv']
     # csv_list = ['./sanctioned2019.csv', './nationals.csv']
-    for file in os.scandir(sanctioned, nonsanctioned):
-        csv_list.append(file)
-        print(file)
+    for entry in os.scandir(sanctioned):
+        if entry.path.endswith(".csv"):
+            csv_list.append(entry.path)
+    for entry in os.scandir(nonsanctioned):
+        if entry.path.endswith(".csv"):
+            csv_list.append(entry.path)
 
     make_edge_list(csv_list)
-    make_bipartite_edgelist(csv_list)
+    # make_bipartite_edgelist(csv_list)
 
 
 if __name__ == "__main__":
