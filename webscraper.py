@@ -29,6 +29,8 @@ def scrape_page(page):
         entries = pool.find_all("span", {"class":"adjust-data"})
         for i in range(0,len(entries),8):
             date = entries[i].string
+            if entries[i+3].a is None or entries[i+4].a is None:
+                continue
             home = entries[i+3].a.string
             home = re.search("[a-zA-Z]+(\s[a-zA-Z]+)?", home)
             if home is not None:
@@ -73,19 +75,18 @@ def scrape_page(page):
 def main():
     # TODO: implement selenium driver to select multiple pages :(
     # starting url
-    # url = "https://play.usaultimate.org/events/New-England-D-I-College-Mens-Regionals-2019/schedule/Men/CollegeMen/"
-    # page = requests.get(url)
-    # data = scrape_page(page)
-    # header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
-    # write_to_csv(header, data, "newengland1.csv")
-    url = "https://archive.usaultimate.org/archives/2019_college.aspx#regionals"
-    # initialize latest driver
+    url = "https://play.usaultimate.org/events/Easterns-Qualifier-2019/schedule/Men/CollegeMen/"
     page = requests.get(url)
-    soup = bs.BeautifulSoup(page.text,'html.parser')
-    for a in soup.find_all('a', href=re.compile('(https:\/\/play.usaultimate.org\/events\/).+(Mens).+')):
-        data = scrape_page(requests.get(a['href']+"/schedule/Men/CollegeMen/"))
-        print(a['href']+"/schedule/Men/CollegeMen/")
-        # header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
-        write_to_csv(data, "2019.csv")
+    data = scrape_page(page)
+    # header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
+    write_to_csv(data, "C:/Users/Man/Documents\GitHub/The-Ultimate-Network/Non-Sanctioned 2019/Easterns Qualifier 2019.csv")
+    # url = "https://archive.usaultimate.org/archives/2019_college.aspx#regionals"
+    # # initialize latest driver
+    # page = requests.get(url)
+    # soup = bs.BeautifulSoup(page.text,'html.parser')
+    # for a in soup.find_all('a', href=re.compile('(https:\/\/play.usaultimate.org\/events\/).+(Mens).+')):
+    #     data = scrape_page(requests.get(a['href']+"/schedule/Men/CollegeMen/"))
+    #     # header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
+    #     write_to_csv(data, "C:/Users/Man/Documents/GitHub/The-Ultimate-Network/Events"+a.string + ".csv")
 if __name__ == "__main__":
-    main()
+    main() 
