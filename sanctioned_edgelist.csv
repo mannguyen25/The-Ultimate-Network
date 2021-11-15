@@ -138,7 +138,7 @@ Georgetown,William,10
 Georgetown,Virginia,12
 Georgetown,Duke,1
 Georgetown,Johns Hopkins,11
-Georgetown,American,W
+Georgetown,American,15
 Georgetown,Salisbury,11
 Georgetown,Maryland,6
 Georgetown,Towson,11
@@ -234,7 +234,7 @@ American,Delaware,1
 American,South Carolina,1
 American,Maryland,8
 American,George Washington,5
-American,Georgetown,L
+American,Georgetown,0
 American,Salisbury,8
 American,Johns Hopkins,3
 American,Towson,11
@@ -283,7 +283,7 @@ Grand Valley,Northwestern,12
 Grand Valley,Michigan,6
 Grand Valley,Michigan State,15
 Kentucky,Grand Valley,10
-Kentucky,Notre Dame,F
+Kentucky,Notre Dame,0
 Kentucky,Purdue,7
 Kentucky,Michigan,3
 Kentucky,Loyola,11
@@ -292,7 +292,7 @@ Kentucky,Indiana,10
 Kentucky,Southern Indiana,13
 Kentucky,Michigan State,5
 Kentucky,Chicago,11
-Notre Dame,Kentucky,W
+Notre Dame,Kentucky,15
 Notre Dame,Grand Valley,5
 Notre Dame,Michigan,13
 Notre Dame,Purdue,11
@@ -588,8 +588,8 @@ Brown,Massachusetts Amherst,10
 Brown,Rhode Island,13
 Brown,New Hampshire,12
 Brown,Maine,13
-Brown,Colby,W
-Brown,Amherst College,W
+Brown,Colby,15
+Brown,Amherst College,15
 Vermont,Brown,8
 Vermont,Boston College,12
 Vermont,MIT,11
@@ -613,8 +613,8 @@ Northeastern,Massachusetts Amherst,10
 Northeastern,Dartmouth,8
 Northeastern,Boston University,13
 Northeastern,Harvard,13
-Northeastern,Tufts,W
-Northeastern,Northeastern,L
+Northeastern,Tufts,15
+Northeastern,Northeastern,0
 MIT,Northeastern,0
 MIT,Massachusetts,15
 MIT,Vermont,9
@@ -651,17 +651,17 @@ Massachusetts,Boston University,4
 Tufts,Massachusetts,13
 Tufts,Dartmouth,13
 Tufts,New Hampshire,0
-Tufts,Harvard,F
-Tufts,Tufts,F
+Tufts,Harvard,0
+Tufts,Tufts,0
 Tufts,Brown,7
 Tufts,Vermont,15
 Tufts,Boston College,15
-Tufts,Northeastern,F
+Tufts,Northeastern,0
 Tufts,MIT,9
 Tufts,Boston University,15
 Harvard,New Hampshire,13
 Harvard,Massachusetts,13
-Harvard,Tufts,W
+Harvard,Tufts,15
 Harvard,Dartmouth,11
 Harvard,Vermont,12
 Harvard,MIT,6
@@ -686,7 +686,7 @@ Dartmouth,Brown,15
 Dartmouth,Northeastern,9
 Dartmouth,Massachusetts Amherst,9
 Dartmouth,Colby,13
-Dartmouth,Amherst College,W
+Dartmouth,Amherst College,15
 Dartmouth,Bowdoin,13
 Dartmouth,Bates College,13
 Dartmouth,Middlebury,13
@@ -758,10 +758,10 @@ Colby,Bryant University,10
 Colby,Bowdoin,13
 Colby,Williams,15
 Colby,Vermont,5
-Colby,Brown,F
+Colby,Brown,0
 Colby,Massachusetts Amherst,1
 Colby,Dartmouth,4
-Colby,Amherst College,W
+Colby,Amherst College,15
 Colby,Massachusetts,2
 Colby,Middlebury,10
 Colby,Berry,11
@@ -911,7 +911,7 @@ British Columbia,Victoria,13
 British Columbia,Idaho,13
 British Columbia,Montana State,0
 British Columbia,Utah State,15
-British Columbia,Boise State,W
+British Columbia,Boise State,15
 British Columbia,Western Washington,9
 British Columbia,Oregon State,12
 British Columbia,Cal Poly,6
@@ -1001,7 +1001,7 @@ Whitman,Pacific Lutheran,13
 Whitman,Willamette University,13
 Whitman,Portland,15
 Whitman,Lewis,15
-Whitman,Seattle,W
+Whitman,Seattle,15
 Whitman,Washington,2
 Whitman,Nevada,13
 Whitman,Gonzaga,15
@@ -1037,7 +1037,7 @@ Boise State,Montana State,5
 Boise State,Whitman,3
 Boise State,Oregon,1
 Boise State,Oregon State,4
-Boise State,British Columbia,L
+Boise State,British Columbia,0
 Boise State,Idaho,13
 Boise State,Brigham Young,13
 Boise State,Washington State,8
@@ -1048,12 +1048,12 @@ Pittsburgh,Ohio State,0
 Pittsburgh,Carnegie Mellon,13
 Pittsburgh,Villanova,15
 Pittsburgh,Miami,W
-Pittsburgh,Temple,W
+Pittsburgh,Temple,15
 Pittsburgh,Lehigh,10
 Pittsburgh,Pennsylvania,13
 Pittsburgh,Penn State,15
 Pittsburgh,Case Western,14
-Pittsburgh,Oberlin,W
+Pittsburgh,Oberlin,15
 Pittsburgh,West Virginia,15
 Pittsburgh,Edinboro,15
 Pittsburgh,Indiana,15
@@ -1094,9 +1094,9 @@ Villanova,Pittsburgh,3
 Villanova,Case Western,14
 Villanova,Ohio,F
 Villanova,Lehigh,11
-Villanova,West Chester,W
+Villanova,West Chester,15
 Villanova,Saint Joseph,13
-Villanova,Pennsylvania,W
+Villanova,Pennsylvania,15
 Villanova,Temple,11
 Drexel,Carnegie Mellon,5
 Drexel,Penn State,15
@@ -1106,7 +1106,7 @@ Drexel,Millersville,13
 Drexel,Temple,4
 Drexel,Saint Joseph,15
 Temple,Ohio,13
-Temple,Pittsburgh,F
+Temple,Pittsburgh,0
 Temple,Penn State,10
 Temple,Cincinnati,5
 Temple,West Chester,12
@@ -1117,7 +1117,7 @@ Temple,Lehigh,15
 Temple,Case Western,8
 Temple,Ohio State,10
 Temple,Pennsylvania,11
-Temple,Oberlin,W
+Temple,Oberlin,15
 Cincinnati,Ohio State,6
 Cincinnati,Pennsylvania,12
 Cincinnati,Case Western,9
@@ -1132,7 +1132,7 @@ Miami,Dayton,9
 Miami,South Florida,7
 Miami,Central Florida,5
 Miami,Florida Atlantic,11
-Miami,North Florida,W
+Miami,North Florida,15
 Miami,Kent State,13
 Miami,Toledo,13
 Miami,Ohio State,3
@@ -1194,18 +1194,18 @@ Pennsylvania,Dayton,W
 Pennsylvania,Pittsburgh,4
 Pennsylvania,Saint Joseph,13
 Pennsylvania,Lehigh,13
-Pennsylvania,Villanova,L
+Pennsylvania,Villanova,0
 Pennsylvania,Ohio State,4
 Pennsylvania,Temple,10
 Pennsylvania,Case Western,8
-Pennsylvania,Oberlin,W
+Pennsylvania,Oberlin,15
 Pennsylvania,Penn State,W
 West Chester,Ohio State,5
-West Chester,Villanova,L
+West Chester,Villanova,0
 West Chester,Pennsylvania,6
 West Chester,Drexel,7
 West Chester,Temple,11
-West Chester,Millersville,W
+West Chester,Millersville,15
 Muhlenberg,Lehigh,11
 Muhlenberg,Messiah,8
 Muhlenberg,Shippensburg,13
@@ -1245,9 +1245,9 @@ Oberlin,Kenyon,13
 Oberlin,Penn State,1
 Oberlin,Ohio State,2
 Oberlin,Case Western,0
-Oberlin,Pittsburgh,F
-Oberlin,Temple,F
-Oberlin,Pennsylvania,F
+Oberlin,Pittsburgh,0
+Oberlin,Temple,0
+Oberlin,Pennsylvania,0
 Swarthmore,Grove City,9
 Swarthmore,Franciscan,1
 Swarthmore,Wooster,15
@@ -1441,7 +1441,7 @@ Kansas State,Missouri State,0
 Kansas State,Missouri,15
 Rice,John Brown,11
 Rice,Trinity,13
-Rice,Colorado School,W
+Rice,Colorado School,15
 Rice,Air Force,13
 Rice,Missouri S,13
 Rice,Colorado College,13
@@ -1460,7 +1460,7 @@ John Brown,Harding,11
 John Brown,Tulsa,7
 Colorado School,Trinity,15
 Colorado School,John Brown,8
-Colorado School,Rice,L
+Colorado School,Rice,0
 Colorado School,Colorado College,9
 Colorado School,Air Force,10
 Colorado School,Colorado School,5
@@ -1531,7 +1531,7 @@ Kennesaw State,Georgia Tech,12
 Kennesaw State,Central Florida,9
 Kennesaw State,Florida,10
 Kennesaw State,Georgia Southern,11
-Kennesaw State,Tennessee Tech,W
+Kennesaw State,Tennessee Tech,15
 Kennesaw State,Georgia,6
 Kennesaw State,Tennessee,3
 Emory,Kennesaw State,9
@@ -1567,7 +1567,7 @@ Tennessee,Alabama,14
 Tennessee,Georgia State,12
 Tennessee,Georgia Tech,12
 Tennessee,Kennesaw State,15
-Tennessee,Tennessee Tech,W
+Tennessee,Tennessee Tech,15
 Tennessee,Georgia Southern,12
 Auburn,Alabama,11
 Auburn,South Florida,13
@@ -1599,7 +1599,7 @@ Florida State,South Florida,15
 Florida State,Alabama,12
 Florida State,Auburn,7
 Florida State,Tulane,13
-Florida State,North Florida,W
+Florida State,North Florida,15
 Florida State,Florida Gulf,13
 Florida State,Florida,15
 South Florida,Florida State,5
@@ -1617,7 +1617,7 @@ Florida,LSU,13
 Florida,Georgia,14
 Florida,Kennesaw State,15
 Florida,Florida Gulf,13
-Florida,North Florida,W
+Florida,North Florida,15
 Florida,Florida State,13
 Florida,Central Florida,11
 Florida,Florida Tech,13
@@ -1670,7 +1670,7 @@ Stetson,Florida Tech,6
 Stetson,Embry,9
 Stetson,Georgia College,15
 Stetson,Dalton State,13
-Stetson,Ave Maria,W
+Stetson,Ave Maria,15
 Samford,Embry,15
 Samford,Florida Tech,7
 Samford,Union,15
@@ -1713,7 +1713,7 @@ Cal Poly,Las Positas,13
 Cal Poly,UCLA,12
 Cal Poly,Cal Poly,7
 Cal Poly,Cal State,12
-Cal Poly,Southern California,F
+Cal Poly,Southern California,0
 Cal Poly,San Diego,10
 Cal Poly,Arizona State,5
 Cal Poly,Arizona,13
@@ -1763,7 +1763,7 @@ Southern California,UCLA,13
 Southern California,Las Positas,15
 Southern California,Loyola Marymount,13
 Southern California,San Diego,13
-Southern California,Cal Poly,W
+Southern California,Cal Poly,15
 Stanford,Southern California,13
 Stanford,Arizona,14
 Stanford,Humboldt State,13
@@ -1941,13 +1941,13 @@ Grand Canyon,New Mexico,7
 Grand Canyon,Northern Arizona,10
 Millersville,Drexel,5
 Millersville,Temple,7
-Millersville,West Chester,L
-Millersville,Saint Joseph,W
+Millersville,West Chester,0
+Millersville,Saint Joseph,15
 Saint Joseph,Pennsylvania,1
 Saint Joseph,Villanova,2
 Saint Joseph,Lehigh,5
 Saint Joseph,Drexel,4
-Saint Joseph,Millersville,L
+Saint Joseph,Millersville,0
 Ursinus,Swarthmore,2
 Ursinus,Jefferson,6
 Ursinus,Lehigh,1
@@ -1993,11 +1993,11 @@ Kettering,Butler,6
 Kettering,Valparaiso,1
 Kettering,Rose,4
 Georgia College,Stetson,4
-Georgia College,Dalton State,W
+Georgia College,Dalton State,15
 Georgia College,North Georgia,13
 Georgia College,Berry,11
 Dalton State,North Georgia,2
-Dalton State,Georgia College,F
+Dalton State,Georgia College,0
 Dalton State,Stetson,4
 Dalton State,Florida Tech,1
 Dalton State,Ave Maria,3
@@ -2006,15 +2006,15 @@ Ave Maria,Berry,F
 Ave Maria,Embry,11
 Ave Maria,North Georgia,14
 Ave Maria,Dalton State,15
-Ave Maria,Stetson,F
+Ave Maria,Stetson,0
 Florida Atlantic,Central Florida,3
 Florida Atlantic,South Florida,8
 Florida Atlantic,Miami,14
 Florida Atlantic,Florida Gulf,15
-North Florida,Florida State,F
-North Florida,Florida,F
+North Florida,Florida State,0
+North Florida,Florida,0
 North Florida,Florida Gulf,0
-North Florida,Miami,F
+North Florida,Miami,0
 Florida Gulf,Florida,3
 Florida Gulf,Florida State,3
 Florida Gulf,North Florida,0
@@ -2032,9 +2032,9 @@ Maine,Brown,1
 Amherst College,Massachusetts,5
 Amherst College,Massachusetts Amherst,2
 Amherst College,Vermont,7
-Amherst College,Brown,F
-Amherst College,Colby,F
-Amherst College,Dartmouth,F
+Amherst College,Brown,0
+Amherst College,Colby,0
+Amherst College,Dartmouth,0
 Amherst College,Bryant University,5
 Amherst College,Worcester Polytech,13
 Amherst College,Clark,13
@@ -2329,7 +2329,7 @@ Puget Sound,Washington State,15
 Seattle,Puget Sound,0
 Seattle,Lewis,3
 Seattle,Whitworth,5
-Seattle,Whitman,F
+Seattle,Whitman,0
 Seattle,Pacific Lutheran,F
 Seattle,Willamette University,F
 Minnesota State,North Dakota,15
@@ -2465,8 +2465,8 @@ Georgia Southern,Tennessee,9
 Tennessee Tech,Georgia Southern,6
 Tennessee Tech,Georgia Tech,5
 Tennessee Tech,Emory,3
-Tennessee Tech,Kennesaw State,F
-Tennessee Tech,Tennessee,F
+Tennessee Tech,Kennesaw State,0
+Tennessee Tech,Tennessee,0
 Clark,Williams,3
 Clark,Providence College,12
 Clark,Amherst College,8
