@@ -94,6 +94,63 @@ def make_bipartite_graph(csv_list):
     return bigraph, team_graph, tournament_graph
 
 
+def make_region_csv(csv_list):
+    regions = pd.DataFrame()
+    for csv in csv_list:
+        df = pd.read_csv(csv)
+        column_names = []
+        for col in df:
+            column_names.append(col)
+
+        for row in df.index:
+            regions = regions.append({'Name': df[column_names[1]][row], 'region': csv}, ignore_index=True)
+            regions = regions.append({'Name': df[column_names[2]][row], 'region': csv}, ignore_index=True)
+
+    regions = regions.drop_duplicates()
+    # The output file requires cleaning
+    regions.to_csv(path_or_buf='region_labels.csv', index=False)
+
+
+def compare(l1, l2):
+    t1 = []
+    t2 = []
+
+    for csv in l1:
+        df = pd.read_csv(csv)
+        column_names = []
+        for col in df:
+            column_names.append(col)
+
+        for row in df.index:
+            t1.append(df[column_names[1]][row])
+            t1.append(df[column_names[2]][row])
+
+    n1 = []
+    [n1.append(x) for x in t1 if x not in n1]
+
+    for csv in l2:
+        df = pd.read_csv(csv)
+        column_names = []
+        for col in df:
+            column_names.append(col)
+
+        for row in df.index:
+            t2.append(df[column_names[1]][row])
+            t2.append(df[column_names[2]][row])
+
+    n2 = []
+    [n2.append(x) for x in t2 if x not in n2]
+
+    dif = []
+    # [dif.append(x) for x in n1 if x not in n2]
+    [dif.append(x) for x in n2 if x not in n1]
+
+    diff = []
+    [diff.append(x) for x in dif if x not in diff]
+
+    print(diff)
+
+
 def analyze(graph, label, file_object=None):
     print(f'For the {label} graph:', file=file_object)
 
@@ -150,19 +207,29 @@ def bianalyze(graph, file_object=None):
         print(f'\t{name} has redundancy {redundancies[name]}', file=file_object)
 
 
-def randanalyze():
+def randcsvs(graph, part1, part2):
     # tourn_seq = ()
     # team_seq = ()
     # biconf = bipartite.configuration_model()
 
-    probability = 4/438
+    deg_seq = graph.degree
+    deg_seq = {key: val for key, val in deg_seq}
+
+    part_seq1 = []
+    part_seq2 = []
+    [part_seq1.append(val) for key, val in deg_seq.items() if key in part1.nodes]
+    [part_seq2.append(val) for key, val in deg_seq.items() if key in part2.nodes]
+
     rand_graph = nx.Graph()
     for i in range(100):
-        birand = bipartite.random_graph(98, 438, probability)
+        birand = bipartite.configuration_model(part_seq1, part_seq2, create_using=graph)
         rand_graph = nx.disjoint_union(rand_graph, birand)
 
     edges = nx.to_pandas_edgelist(rand_graph)
     edges.to_csv(path_or_buf='rand_edgelist.csv', index=False)
+
+    edges = nx.to_pandas_edgelist(birand)
+    edges.to_csv(path_or_buf='sing_rand_edgelist.csv', index=False)
 
     # with open('Random Results.txt', 'w') as file_object:
     #     print(f'For the random bipartite graph:', file=file_object)
@@ -179,33 +246,38 @@ def randanalyze():
 def main():
     sanctioned = './Sanctioned 2019'
     nonsanctioned = './Non-Sanctioned 2019'
-    csv_list = ['./D-I College Championships.csv', './nationals.csv']
-    # csv_list = ['./sanctioned2019.csv', './nationals.csv']
+    csv_list1 = ['./D-I College Championships.csv', './nationals.csv']
+    csv_list2 = []
+
     for entry in os.scandir(sanctioned):
         if entry.path.endswith('.csv'):
-            csv_list.append(entry.path)
+            csv_list1.append(entry.path)
+    # make_region_csv(csv_list)
     for entry in os.scandir(nonsanctioned):
         if entry.path.endswith('.csv'):
-            csv_list.append(entry.path)
+            csv_list1.append(entry.path)
+            csv_list2.append(entry.path)
 
-    games = make_team_graph(csv_list)
-    part, tour, team = make_bipartite_graph(csv_list)
+    # compare(csv_list1, csv_list2)
+
+    game = make_team_graph(csv_list1)
+    part, tour, team = make_bipartite_graph(csv_list1)
 
     df = pd.read_csv('./sanctioned_edgelist.csv')
     sanctioned = nx.from_pandas_edgelist(df)
     df = pd.read_csv('./nonsanctioned_edgelist.csv')
     nonsanctioned = nx.from_pandas_edgelist(df)
 
-    # randanalyze()
-
     label = ['games', 'bipartite', 'tournaments', 'teams', 'sanctioned', 'nonsanctioned']
-    graphs = [games, part, tour, team, sanctioned, nonsanctioned]
+    graphs = [game, part, tour, team, sanctioned, nonsanctioned]
 
-    with open('Analysis Results.txt', 'w') as file_object:
-        for index, graph in enumerate(graphs):
-            analyze(graph, label[index], file_object)
-        # print('For the bipartite graph:', file=file_object)
-        # bianalyze(part, file_object)
+    randcsvs(part, tour, team)
+
+    # with open('Analysis Results.txt', 'w') as file_object:
+    #     for index, graph in enumerate(graphs):
+    #         analyze(graph, label[index], file_object)
+    #     # print('For the bipartite graph:', file=file_object)
+    #     # bianalyze(part, file_object)
 
 
 if __name__ == '__main__':
