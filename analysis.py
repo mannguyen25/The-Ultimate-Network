@@ -207,40 +207,54 @@ def bianalyze(graph, file_object=None):
         print(f'\t{name} has redundancy {redundancies[name]}', file=file_object)
 
 
-def randcsvs(graph, part1, part2):
-    # tourn_seq = ()
-    # team_seq = ()
-    # biconf = bipartite.configuration_model()
+def randcsvs(games, bipart, tournaments, teams):
 
-    deg_seq = graph.degree
+    deg_seq = bipart.degree
     deg_seq = {key: val for key, val in deg_seq}
+    tournament_seq = tournaments.degree
+    tournament_seq = [val for key, val in tournament_seq]
+    team_seq = teams.degree
+    team_seq = [val for key, val in team_seq]
 
-    part_seq1 = []
-    part_seq2 = []
-    [part_seq1.append(val) for key, val in deg_seq.items() if key in part1.nodes]
-    [part_seq2.append(val) for key, val in deg_seq.items() if key in part2.nodes]
+    part1_seq = []
+    part2_seq = []
 
-    rand_graph = nx.Graph()
+    [part1_seq.append(val) for key, val in deg_seq.items() if key in tournaments.nodes]
+    [part2_seq.append(val) for key, val in deg_seq.items() if key in teams.nodes]
+
+    rand_bipartite = nx.Graph()
+    rand_tournaments = nx.Graph()
+    rand_teams = nx.Graph()
+
     for i in range(100):
-        birand = bipartite.configuration_model(part_seq1, part_seq2, create_using=graph)
-        rand_graph = nx.disjoint_union(rand_graph, birand)
+        birand = bipartite.configuration_model(part1_seq, part2_seq, create_using=bipart)
+        rand_bipartite = nx.disjoint_union(rand_bipartite, birand)
+        tournrand = nx.configuration_model(tournament_seq, create_using=tournaments)
+        rand_tournaments = nx.disjoint_union(rand_tournaments, tournrand)
+        teamrand = nx.configuration_model(team_seq, create_using=teams)
+        rand_teams = nx.disjoint_union(rand_teams, teamrand)
 
-    edges = nx.to_pandas_edgelist(rand_graph)
-    edges.to_csv(path_or_buf='rand_edgelist.csv', index=False)
+    edges = nx.to_pandas_edgelist(rand_bipartite)
+    edges.to_csv(path_or_buf='birand_edgelist.csv', index=False)
+    edges = nx.to_pandas_edgelist(rand_tournaments)
+    edges.to_csv(path_or_buf='tournrand_edgelist.csv', index=False)
+    edges = nx.to_pandas_edgelist(rand_teams)
+    edges.to_csv(path_or_buf='teamrand_edgelist.csv', index=False)
 
+    nodes = pd.DataFrame()
+    for node, label in birand.nodes.data('bipartite'):
+        if label == 0:
+            nodes = nodes.append({'Id': node, 'category': 'tournament'}, ignore_index=True)
+        else:
+            nodes = nodes.append({'Id': node, 'category': 'team'}, ignore_index=True)
+
+    nodes.to_csv(path_or_buf='sing_birand_partition.csv', index=False) #node IDs are not integers?
     edges = nx.to_pandas_edgelist(birand)
-    edges.to_csv(path_or_buf='sing_rand_edgelist.csv', index=False)
-
-    # with open('Random Results.txt', 'w') as file_object:
-    #     print(f'For the random bipartite graph:', file=file_object)
-    #
-    #     # Degree assortativity
-    #     assor = nx.algorithms.assortativity.degree_assortativity_coefficient(graph)
-    #     print(f'\tThe degree assortativity is {assor}', file=file_object)
-    #
-    #     centrality = nx.algorithms.eigenvector_centrality(graph)
-    #     centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
-    #     print(f'\tThe eigevector centralities are {centrality}', file=file_object)
+    edges.to_csv(path_or_buf='sing_birand_edgelist.csv', index=False)
+    edges = nx.to_pandas_edgelist(tournrand)
+    edges.to_csv(path_or_buf='sing_tournrand_edgelist.csv', index=False)
+    edges = nx.to_pandas_edgelist(teamrand)
+    edges.to_csv(path_or_buf='sing_teamrand_edgelist.csv', index=False)
 
 
 def main():
@@ -261,7 +275,7 @@ def main():
     # compare(csv_list1, csv_list2)
 
     game = make_team_graph(csv_list1)
-    part, tour, team = make_bipartite_graph(csv_list1)
+    part, team, tour = make_bipartite_graph(csv_list1)
 
     df = pd.read_csv('./sanctioned_edgelist.csv')
     sanctioned = nx.from_pandas_edgelist(df)
@@ -271,13 +285,13 @@ def main():
     label = ['games', 'bipartite', 'tournaments', 'teams', 'sanctioned', 'nonsanctioned']
     graphs = [game, part, tour, team, sanctioned, nonsanctioned]
 
-    randcsvs(part, tour, team)
+    randcsvs(game, part, tour, team)
 
-    # with open('Analysis Results.txt', 'w') as file_object:
-    #     for index, graph in enumerate(graphs):
-    #         analyze(graph, label[index], file_object)
-    #     # print('For the bipartite graph:', file=file_object)
-    #     # bianalyze(part, file_object)
+    with open('Analysis Results.txt', 'w') as file_object:
+        for index, graph in enumerate(graphs):
+            analyze(graph, label[index], file_object)
+        # print('For the bipartite graph:', file=file_object)
+        # bianalyze(part, file_object)
 
 
 if __name__ == '__main__':
