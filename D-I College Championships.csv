@@ -1,55 +1,110 @@
-Fri 5/24,North Carolina,Ohio State,15,8
-Fri 5/24,Georgia,Minnesota,13,9
-Fri 5/24,Ohio State,Minnesota,8,10
-Fri 5/24,Georgia,California,10,8
-Fri 5/24,North Carolina,California,15,4
-Sat 5/25,North Carolina,Georgia,15,6
-Sat 5/25,Ohio State,California,14,8
-Sat 5/25,North Carolina,Minnesota,15,9
-Sat 5/25,Ohio State,Georgia,14,8
-Sat 5/25,Minnesota,California,12,8
-Fri 5/24,Brown,Iowa State,15,11
-Fri 5/24,North Carolina,Michigan,14,15
-Fri 5/24,Brown,North Carolina,15,8
-Fri 5/24,Texas,Michigan,15,7
-Fri 5/24,Texas,Iowa State,15,7
-Sat 5/25,Brown,Texas,11,7
-Sat 5/25,North Carolina,Iowa State,15,13
-Sat 5/25,Michigan,Iowa State,15,14
-Sat 5/25,North Carolina,Texas,13,14
-Sat 5/25,Brown,Michigan,15,7
-Fri 5/24,Oregon,Tufts,15,8
-Fri 5/24,Wisconsin,Victoria,15,6
-Fri 5/24,Pittsburgh,Oregon,14,12
-Fri 5/24,Wisconsin,Tufts,9,8
-Fri 5/24,Pittsburgh,Victoria,9,14
-Sat 5/25,Tufts,Victoria,10,13
-Sat 5/25,Pittsburgh,Wisconsin,15,13
-Sat 5/25,Oregon,Victoria,15,10
-Sat 5/25,Pittsburgh,Tufts,12,5
-Sat 5/25,Oregon,Wisconsin,12,9
-Fri 5/24,Colorado,Northeastern,15,11
-Fri 5/24,Washington,Rutgers,15,10
-Fri 5/24,Cal Poly,Rutgers,15,4
-Fri 5/24,Washington,Northeastern,14,11
-Fri 5/24,Cal Poly,Colorado,13,10
-Sat 5/25,Cal Poly,Washington,15,10
-Sat 5/25,Northeastern,Rutgers,15,7
-Sat 5/25,Colorado,Rutgers,14,8
-Sat 5/25,Cal Poly,Northeastern,8,14
-Sat 5/25,Colorado,Washington,14,13
-5/27/2019,North Carolina,Brown,8,14
-5/26/2019,North Carolina,Cal Poly,15,10
-5/26/2019,Colorado,Brown,10,15
-5/26/2019,Wisconsin,North Carolina,8,15
-5/26/2019,Michigan,Cal Poly,10,15
-5/26/2019,Colorado,Pittsburgh,15,13
-5/26/2019,Ohio State,Brown,10,15
-5/25/2019,Texas,Wisconsin,11,13
-5/25/2019,Oregon,Michigan,12,13
-5/25/2019,Colorado,Georgia,12,10
-5/25/2019,Ohio State,Washington,14,9
-5/26/2019,Minnesota,Rutgers,15,5
-5/25/2019,Iowa State,Victoria,12,8
-5/25/2019,Northeastern,California,10,9
-5/26/2019,Tufts,North Carolina,15,11
+North Carolina,Ohio State,7
+
+Georgia,Minnesota,4
+
+Minnesota,Ohio State,2
+
+Georgia,California,2s
+
+North Carolina,California,11
+
+North Carolina,Georgia,9
+
+Ohio State,California,6
+
+North Carolina,Minnesota,6
+
+Ohio State,Georgia,6
+
+Minnesota,California,4
+
+Brown,Iowa State,4
+
+Michigan,North Carolina State,1
+
+Brown,North Carolina State,7
+
+Texas,Michigan,8
+
+Texas,Iowa State,8
+
+Brown,Texas,4
+
+North Carolina State,Iowa State,2
+
+Michigan,Iowa State,1
+
+Texas,North Carolina State,1
+
+Brown,Michigan,8
+
+Oregon,Tufts,7
+
+Wisconsin,Victoria,9
+
+Pittsburgh,Oregon,2
+
+Wisconsin,Tufts,1
+
+Victoria,Pittsburgh,5
+
+Victoria,Tufts,3
+
+Pittsburgh,Wisconsin,2
+
+Oregon,Victoria,5
+
+Pittsburgh,Tufts,7
+
+Oregon,Wisconsin,3
+
+Colorado,Northeastern,4
+
+Washington,Rutgers,5
+
+Cal Poly-SLO,Rutgers,11
+
+Washington,Northeastern,3
+
+Cal Poly-SLO,Colorado,3
+
+Cal Poly-SLO,Washington,5
+
+Northeastern,Rutgers,8
+
+Colorado,Rutgers,6
+
+Northeastern,Cal Poly-SLO,6
+
+Colorado,Washington,1
+
+Brown,North Carolina,6
+
+North Carolina,Cal Poly-SLO,5
+
+Brown,Colorado,5
+
+North Carolina,Wisconsin,7
+
+Cal Poly-SLO,Michigan,5
+
+Colorado,Pittsburgh,2
+
+Brown,Ohio State,5
+
+Wisconsin,Texas,2
+
+Michigan,Oregon,1
+
+Colorado,Georgia,2
+
+Ohio State,Washington,5
+
+Minnesota,Rutgers,10
+
+Iowa State,Victoria,4
+
+Northeastern,California,1
+
+Tufts,North Carolina State,4
+
