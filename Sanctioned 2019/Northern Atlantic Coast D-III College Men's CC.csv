@@ -1,19 +1,19 @@
-Sat 4/13,Richmond,Navy,13,8
-Sat 4/13,Catholic,Roanoke,13,6
-Sat 4/13,Richmond,Roanoke,13,2
-Sat 4/13,Catholic,Navy,7,13
-Sat 4/13,Richmond,Catholic,13,5
-Sat 4/13,Navy,Roanoke,13,4
-Sat 4/13,Mary Washington,Shenandoah,13,8
-Sat 4/13,Christopher Newport,St Mary,13,2
-Sat 4/13,Mary Washington,St Mary,13,4
-Sat 4/13,Christopher Newport,Shenandoah,13,5
-Sat 4/13,Mary Washington,Christopher Newport,13,1
-Sat 4/13,Shenandoah,St Mary,11,7
-4/20/2019,Richmond,Mary Washington,7,15
-4/21/2019,Navy,Richmond,7,15
-4/20/2019,Navy,Christopher Newport,15,3
-4/21/2019,Christopher Newport,Catholic,13,7
-4/21/2019,Catholic,Roanoke,11,7
-4/20/2019,Catholic,St Mary,15,2
-4/20/2019,Roanoke,Shenandoah,11,9
+Richmond,Navy,5
+Catholic,Roanoke,7
+Richmond,Roanoke,11
+Navy,Catholic,6
+Richmond,Catholic,8
+Navy,Roanoke,9
+Mary Washington,Shenandoah,5
+Christopher Newport,St Mary's Maryland,11
+Mary Washington,St Mary's Maryland,9
+Christopher Newport,Shenandoah,8
+Mary Washington,Christopher Newport,12
+Shenandoah,St Mary's Maryland,4
+Mary Washington,Richmond,8
+Richmond,Navy,8
+Navy,Christopher Newport,12
+Christopher Newport,Catholic,6
+Catholic,Roanoke,4
+Catholic,St Mary's Maryland,13
+Roanoke,Shenandoah,2

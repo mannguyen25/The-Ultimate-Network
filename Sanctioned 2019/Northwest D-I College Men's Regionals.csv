@@ -1,46 +1,43 @@
-Sat 4/27,Washington,British Columbia,11,9
-Sat 4/27,Victoria,Utah,9,8
-Sat 4/27,Montana,Idaho,13,4
-Sat 4/27,Washington,Victoria,13,8
-Sat 4/27,British Columbia,Montana,9,11
-Sat 4/27,Utah,Idaho,13,2
-Sat 4/27,Washington,Montana,13,2
-Sat 4/27,Victoria,Idaho,13,5
-Sat 4/27,British Columbia,Utah,9,10
-Sat 4/27,Washington,Idaho,13,6
-Sat 4/27,Victoria,British Columbia,13,8
-Sat 4/27,Montana,Utah,5,13
-Sun 4/28,Victoria,Montana,13,9
-Sun 4/28,British Columbia,Idaho,13,4
-Sun 4/28,Washington,Utah,13,9
-Sat 4/27,Oregon,Oregon State,13,6
-Sat 4/27,Whitman,Montana State,9,8
-Sat 4/27,Utah State,Boise State,13,6
-Sat 4/27,Oregon,Whitman,13,6
-Sat 4/27,Oregon State,Utah State,13,11
-Sat 4/27,Montana State,Boise State,13,3
-Sat 4/27,Oregon,Utah State,13,9
-Sat 4/27,Whitman,Boise State,13,3
-Sat 4/27,Oregon State,Montana State,9,10
-Sat 4/27,Oregon,Boise State,13,1
-Sat 4/27,Whitman,Oregon State,8,13
-Sat 4/27,Utah State,Montana State,6,13
-Sun 4/28,Oregon,Montana State,13,9
-Sun 4/28,Whitman,Utah State,13,9
-Sun 4/28,Oregon State,Boise State,13,4
-4/28/2019,Washington,Oregon,13,14
-4/28/2019,Washington,Oregon State,14,10
-4/28/2019,Victoria,Oregon,5,15
-4/28/2019,Utah,Victoria,7,14
-4/28/2019,Oregon State,Utah,11,14
-4/28/2019,Montana,Victoria,8,14
-4/28/2019,Utah,Whitman,12,11
-4/28/2019,Montana,Montana State,12,10
-4/28/2019,Whitman,Montana State,F,F
-4/28/2019,Oregon State,Montana,F,F
-4/28/2019,Montana State,British Columbia,0,0
-4/28/2019,British Columbia,Utah State,15,8
-4/28/2019,British Columbia,Boise State,W,L
-4/28/2019,Idaho,Utah State,12,15
-4/28/2019,Idaho,Utah State,W,F
-4/28/2019,Boise State,Idaho,14,15
+Washington,British Columbia,2
+Victoria,Utah,1
+Montana,Idaho,9
+Washington,Victoria,5
+Montana,British Columbia,2
+Utah,Idaho,11
+Washington,Montana,11
+Victoria,Idaho,8
+Utah,British Columbia,1
+Washington,Idaho,7
+Victoria,British Columbia,5
+Utah,Montana,8
+Victoria,Montana,4
+British Columbia,Idaho,9
+Washington,Utah,4
+Oregon,Oregon State,7
+Whitman,Montana State,1
+Utah State,Boise State,7
+Oregon,Whitman,7
+Oregon State,Utah State,2
+Montana State,Boise State,10
+Oregon,Utah State,4
+Whitman,Boise State,10
+Montana State,Oregon State,1
+Oregon,Boise State,12
+Oregon State,Whitman,5
+Montana State,Utah State,7
+Oregon,Montana State,4
+Whitman,Utah State,4
+Oregon State,Boise State,9
+Oregon,Washington,1
+Washington,Oregon State,4
+Oregon,Victoria,10
+Victoria,Utah,7
+Utah,Oregon State,3
+Victoria,Montana,6
+Utah,Whitman,1
+Montana,Montana State,2
+British Columbia,Utah State,7
+British Columbia,Boise State,15
+Utah State,Idaho,3
+Idaho,Utah State,15
+Idaho,Boise State,1

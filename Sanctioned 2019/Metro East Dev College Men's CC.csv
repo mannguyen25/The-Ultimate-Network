@@ -1,33 +1,31 @@
-Sat 4/13,Yale,SUNY,11,6
-Sat 4/13,Connecticut,Rutgers,13,7
-Sat 4/13,Connecticut,SUNY,13,1
-Sat 4/13,Rutgers,Princeton,12,10
-Sat 4/13,Connecticut,Yale,11,4
-Sat 4/13,SUNY,Princeton,1,13
-Sat 4/13,Rutgers,SUNY,12,6
-Sat 4/13,Yale,Princeton,7,12
-Sat 4/13,Connecticut,Princeton,12,9
-Sat 4/13,Rutgers,Yale,13,7
-Sat 4/13,SUNY,SUNY Oneonta,13,5
-Sat 4/13,Cornell,SUNY,13,3
-Sat 4/13,Cornell,SUNY Oneonta,13,3
-Sat 4/13,SUNY,SUNY,9,6
-Sat 4/13,Cornell,SUNY,13,6
-Sat 4/13,SUNY Oneonta,SUNY,4,13
-Sat 4/13,SUNY,SUNY Oneonta,12,2
-Sat 4/13,SUNY,SUNY,7,9
-Sat 4/13,Cornell,SUNY,13,6
-Sat 4/13,SUNY,SUNY,10,6
-4/14/2019,Connecticut,Cornell,15,10
-4/14/2019,Connecticut,SUNY,15,7
-4/14/2019,Cornell,Rutgers,12,10
-4/14/2019,Connecticut,SUNY,15,9
-4/14/2019,SUNY,Princeton,13,10
-4/14/2019,Cornell,Yale,15,3
-4/14/2019,Rutgers,SUNY,12,7
-4/14/2019,Princeton,SUNY,13,5
-4/14/2019,SUNY,Princeton,13,15
-4/14/2019,Yale,SUNY,6,11
-4/14/2019,SUNY,Rutgers,0,0
-4/14/2019,SUNY,Yale,0,0
-4/14/2019,SUNY,SUNY Oneonta,5,10
+Yale B,SUNY-Stony Brook-B,5
+Connecticut B,Rutgers B,6
+Connecticut B,SUNY-Stony Brook-B,12
+Rutgers B,Princeton B,2
+Connecticut B,Yale B,7
+Princeton B,SUNY-Stony Brook-B,12
+Rutgers B,SUNY-Stony Brook-B,6
+Princeton B,Yale B,5
+Connecticut B,Princeton B,3
+Rutgers B,Yale B,6
+SUNY-Binghamton B,SUNY Oneonta B,8
+Cornell B,SUNY-Albany B,10
+Cornell B,SUNY Oneonta B,10
+SUNY-Albany B,SUNY-Buffalo B,3
+Cornell B,SUNY-Binghamton B,7
+SUNY-Buffalo B,SUNY Oneonta B,9
+SUNY-Albany B,SUNY Oneonta B,10
+SUNY-Buffalo B,SUNY-Binghamton B,2
+Cornell B,SUNY-Buffalo B,7
+SUNY-Albany B,SUNY-Binghamton B,4
+Connecticut B,Cornell B,5
+Connecticut B,SUNY-Albany B,8
+Cornell B,Rutgers B,2
+Connecticut B,SUNY-Binghamton B,6
+SUNY-Albany B,Princeton B,3
+Cornell B,Yale B,12
+Rutgers B,SUNY-Buffalo B,5
+Princeton B,SUNY-Buffalo B,8
+Princeton B,SUNY-Binghamton B,2
+SUNY-Buffalo B,Yale B,5
+SUNY Oneonta B,SUNY-Stony Brook-B,5

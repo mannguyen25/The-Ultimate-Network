@@ -1,45 +1,45 @@
-Sat 1/26,Western Washington,Washington State,2,15
-Sat 1/26,Oregon,Washington State,15,4
-Sat 1/26,Oregon,Western Washington,15,2
-Sat 1/26,Oregon State,Humboldt State,13,8
-Sat 1/26,Lewis,Washington,13,1
-Sat 1/26,Oregon State,Washington,13,0
-Sat 1/26,Lewis,Humboldt State,13,8
-Sat 1/26,Oregon State,Lewis,13,4
-Sat 1/26,Humboldt State,Washington,13,3
-Sat 1/26,Whitman,Washington,13,7
-Sat 1/26,Nevada,Oregon State,13,2
-Sat 1/26,Whitman,Oregon State,13,1
-Sat 1/26,Nevada,Washington,13,3
-Sat 1/26,Whitman,Nevada,13,7
-Sat 1/26,Washington,Oregon State,13,8
-Sat 1/26,Gonzaga,Portland State,13,4
-Sat 1/26,Puget Sound,Lewis,13,1
-Sat 1/26,Gonzaga,Lewis,13,0
-Sat 1/26,Puget Sound,Portland State,13,6
-Sat 1/26,Gonzaga,Puget Sound,13,7
-Sat 1/26,Portland State,Lewis,13,1
-1/27/2019,Oregon,Oregon State,15,8
-1/27/2019,Oregon,Whitman,15,8
-1/27/2019,Oregon State,Gonzaga,14,9
-1/26/2019,Oregon,Puget Sound,15,3
-1/26/2019,Whitman,Lewis,15,5
-1/26/2019,Oregon State,Nevada,15,8
-1/26/2019,Gonzaga,Washington State,13,11
-1/27/2019,Nevada,Lewis,15,11
-1/27/2019,Washington State,Nevada,11,15
-1/27/2019,Puget Sound,Lewis,11,15
-1/27/2019,Puget Sound,Washington State,15,5
-1/27/2019,Whitman,Gonzaga,15,7
-1/26/2019,Western Washington,Washington,15,14
-1/26/2019,Washington,Lewis,15,0
-1/26/2019,Humboldt State,Portland State,13,9
-1/27/2019,Western Washington,Washington,8,15
-1/27/2019,Humboldt State,Lewis,15,2
-1/27/2019,Oregon State,Washington,15,12
-1/27/2019,Western Washington,Oregon State,15,9
-1/27/2019,Portland State,Washington,15,7
-1/27/2019,Washington,Humboldt State,15,13
-1/27/2019,Portland State,Western Washington,15,6
-1/27/2019,Washington,Lewis,15,5
-1/27/2019,Washington,Oregon State,15,7
+Washington State,Western Washington B,13
+Oregon,Washington State,11
+Oregon,Western Washington B,13
+Oregon State,Humboldt State,5
+Lewis,Washington C,12
+Oregon State,Washington C,13
+Lewis,Humboldt State,5
+Oregon State,Lewis,9
+Humboldt State,Washington C,10
+Whitman  ,Washington B,6
+Nevada-Reno,Oregon State B,11
+Whitman  ,Oregon State B,12
+Nevada-Reno,Washington B,10
+Whitman  ,Nevada-Reno,6
+Washington B,Oregon State B,5
+Gonzaga,Portland State,9
+Puget Sound,Lewis,12
+Gonzaga,Lewis,13
+Puget Sound,Portland State,7
+Gonzaga,Puget Sound,6
+Portland State,Lewis,12
+Oregon,Oregon State,7
+Oregon,Whitman  ,7
+Oregon State,Gonzaga,5
+Oregon,Puget Sound,12
+Whitman  ,Lewis,10
+Oregon State,Nevada-Reno,7
+Gonzaga,Washington State,2
+Nevada-Reno,Lewis,4
+Nevada-Reno,Washington State,4
+Lewis,Puget Sound,4
+Puget Sound,Washington State,10
+Whitman  ,Gonzaga,8
+Western Washington B,Washington C,1
+Washington B,Lewis,15
+Humboldt State,Portland State,4
+Washington B,Western Washington B,7
+Humboldt State,Lewis,13
+Oregon State B,Washington C,3
+Western Washington B,Oregon State B,6
+Portland State,Washington C,8
+Washington B,Humboldt State,2
+Portland State,Western Washington B,9
+Washington C,Lewis,10
+Washington B,Oregon State B,8

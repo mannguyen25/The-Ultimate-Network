@@ -1,45 +1,43 @@
-Sat 4/27,Brown,Vermont,13,7
-Sat 4/27,Northeastern,MIT,13,4
-Sat 4/27,Boston College,Massachusetts,13,10
-Sat 4/27,Brown,Northeastern,13,6
-Sat 4/27,Vermont,Boston College,12,11
-Sat 4/27,MIT,Massachusetts,13,9
-Sat 4/27,Brown,Boston College,13,2
-Sat 4/27,Northeastern,Massachusetts,13,3
-Sat 4/27,Vermont,MIT,11,9
-Sat 4/27,Brown,Massachusetts,13,4
-Sat 4/27,Northeastern,Vermont,13,10
-Sat 4/27,Boston College,MIT,10,12
-Sun 4/28,Northeastern,Boston College,13,4
-Sun 4/28,Vermont,Massachusetts,13,5
-Sun 4/28,Brown,MIT,13,6
-Sat 4/27,Massachusetts,Tufts,10,9
-Sat 4/27,Harvard,New Hampshire,13,11
-Sat 4/27,Dartmouth,Tufts,13,4
-Sat 4/27,Massachusetts,Harvard,13,5
-Sat 4/27,Tufts,Dartmouth,13,7
-Sat 4/27,New Hampshire,Tufts,13,11
-Sat 4/27,Massachusetts,Dartmouth,13,5
-Sat 4/27,Harvard,Tufts,13,4
-Sat 4/27,Tufts,New Hampshire,13,1
-Sat 4/27,Massachusetts,Tufts,13,4
-Sat 4/27,Harvard,Tufts,5,13
-Sat 4/27,Dartmouth,New Hampshire,13,1
-Sun 4/28,Massachusetts,New Hampshire,13,10
-Sun 4/28,Harvard,Dartmouth,11,13
-Sun 4/28,Tufts,Tufts,13,5
-4/28/2019,Brown,Northeastern,15,9
-4/28/2019,Brown,Tufts,15,7
-4/28/2019,Northeastern,Massachusetts,14,13
-4/28/2019,Tufts,Massachusetts,12,10
-4/28/2019,Tufts,Vermont,15,6
-4/28/2019,Dartmouth,Massachusetts,12,15
-4/28/2019,Vermont,Harvard,15,12
-4/28/2019,MIT,Dartmouth,10,15
-4/28/2019,Harvard,MIT,L,W
-4/28/2019,Vermont,Dartmouth,0,0
-4/28/2019,MIT,Massachusetts,F,W
-4/28/2019,Boston College,Massachusetts,F,W
-4/28/2019,Boston College,Tufts,15,7
-4/28/2019,Massachusetts,New Hampshire,15,11
-4/28/2019,Tufts,New Hampshire,0,0
+Brown,Vermont,6
+Northeastern,MIT,9
+Boston College,Massachusetts C,3
+Brown,Northeastern,7
+Vermont,Boston College,1
+MIT,Massachusetts C,4
+Brown,Boston College,11
+Northeastern,Massachusetts C,10
+Vermont,MIT,2
+Brown,Massachusetts C,9
+Northeastern,Vermont,3
+MIT,Boston College,2
+Northeastern,Boston College,9
+Vermont,Massachusetts C,8
+Brown,MIT,7
+Massachusetts,Tufts,1
+Harvard,New Hampshire,2
+Dartmouth,Tufts B,9
+Massachusetts,Harvard,8
+Tufts,Dartmouth,6
+New Hampshire,Tufts B,2
+Massachusetts,Dartmouth,8
+Harvard,Tufts B,9
+Tufts,New Hampshire,12
+Massachusetts,Tufts B,9
+Tufts,Harvard,8
+Dartmouth,New Hampshire,12
+Massachusetts,New Hampshire,3
+Dartmouth,Harvard,2
+Tufts,Tufts B,8
+Brown,Northeastern,6
+Brown,Tufts,8
+Northeastern,Massachusetts,1
+Tufts,Massachusetts,2
+Tufts,Vermont,9
+Massachusetts,Dartmouth,3
+Vermont,Harvard,3
+Dartmouth,MIT,5
+MIT,Harvard,15
+Massachusetts C,MIT,15
+Massachusetts C,Boston College,15
+Boston College,Tufts B,8
+Massachusetts C,New Hampshire,4

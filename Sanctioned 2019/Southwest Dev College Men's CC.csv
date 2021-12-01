@@ -1,40 +1,39 @@
-Sat 4/20,California,Cal Poly,6,10
-Sat 4/20,California,Southern California,9,4
-Sat 4/20,California,Southern California,13,0
-Sat 4/20,Cal Poly,California,12,3
-Sat 4/20,California,California,13,5
-Sat 4/20,Southern California,California,0,11
-Sat 4/20,Cal Poly,Southern California,9,0
-Sat 4/20,California,California,5,11
-Sat 4/20,Cal Poly,California,13,4
-Sat 4/20,California,California,13,5
-Sat 4/20,Arizona State,Arizona,11,5
-Sat 4/20,California,Cal Poly,11,2
-Sat 4/20,UCLA,California,11,0
-Sat 4/20,Arizona State,Cal Poly,11,4
-Sat 4/20,California,UCLA,6,7
-Sat 4/20,Arizona,California,11,2
-Sat 4/20,Arizona State,California,9,6
-Sat 4/20,Arizona State,UCLA,9,4
-Sat 4/20,California,California,11,4
-Sat 4/20,Arizona,Cal Poly,11,2
-Sat 4/20,Arizona,UCLA,7,11
-Sat 4/20,Arizona State,California,8,2
-Sat 4/20,California,Arizona,11,6
-Sat 4/20,UCLA,Cal Poly,9,1
-Sat 4/20,Cal Poly,California,8,3
-Sun 4/21,Cal Poly,California,6,5
-Sun 4/21,Southern California,California,0,0
-Sun 4/21,Southern California,Cal Poly,W,F
-4/21/2019,Cal Poly,Arizona State,5,12
-4/21/2019,Cal Poly,UCLA,12,5
-4/21/2019,California,Arizona State,5,8
-4/21/2019,Cal Poly,Arizona,13,2
-4/21/2019,UCLA,California,8,6
-4/21/2019,California,California,10,9
-4/21/2019,Arizona State,California,9,4
-4/21/2019,UCLA,California,9,8
-4/21/2019,Arizona,California,10,12
-4/21/2019,Arizona,California,9,6
-4/21/2019,California,California,13,4
-4/21/2019,California,California,8,7
+Cal Poly-SLO B,California B,4
+California-San Diego C,Southern California B,5
+California B,Southern California B,13
+Cal Poly-SLO B,California-Santa Barbara B,9
+California B,California-San Diego C,8
+California-Santa Barbara B,Southern California B,11
+Cal Poly-SLO B,Southern California B,9
+California-Santa Barbara B,California-San Diego C,6
+Cal Poly-SLO B,California-San Diego C,9
+California B,California-Santa Barbara B,8
+Arizona State B,Arizona B,6
+California-San Diego B,Cal Poly-SLO C,9
+UCLA B,California-Irvine B,11
+Arizona State B,Cal Poly-SLO C,7
+UCLA B,California-San Diego B,1
+Arizona B,California-Irvine B,9
+Arizona State B,California-San Diego B,3
+Arizona State B,UCLA B,5
+California-San Diego B,California-Irvine B,7
+Arizona B,Cal Poly-SLO C,9
+UCLA B,Arizona B,4
+Arizona State B,California-Irvine B,6
+California-San Diego B,Arizona B,5
+UCLA B,Cal Poly-SLO C,8
+Cal Poly-SLO C,California-Irvine B,5
+Cal Poly-SLO C,California-Irvine B,1
+Southern California B,Cal Poly-SLO C,15
+Arizona State B,Cal Poly-SLO B,7
+Cal Poly-SLO B,UCLA B,7
+Arizona State B,California B,3
+Cal Poly-SLO B,Arizona B,11
+UCLA B,California-Santa Barbara B,2
+California B,California-San Diego B,1
+Arizona State B,California-San Diego C,5
+UCLA B,California B,1
+California-San Diego B,Arizona B,2
+Arizona B,California-Santa Barbara B,3
+California-San Diego B,California-San Diego C,9
+California-Santa Barbara B,California-San Diego C,1

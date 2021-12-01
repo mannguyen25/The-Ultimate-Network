@@ -1,20 +1,20 @@
-Sat 4/13,NYU,New Jersey,13,1
-Sat 4/13,Rutgers,Columbia,11,8
-Sat 4/13,Rutgers,New Jersey,13,2
-Sat 4/13,NYU,Columbia,10,4
-Sat 4/13,Rutgers,NYU,10,7
-Sat 4/13,Columbia,New Jersey,11,7
-Sat 4/13,Princeton,Rowan,10,9
-Sat 4/13,SUNY,Hofstra,11,6
-Sat 4/13,Princeton,Hofstra,13,9
-Sat 4/13,SUNY,Rowan,13,6
-Sat 4/13,Princeton,SUNY,9,8
-Sat 4/13,Rowan,Hofstra,11,7
-4/14/2019,Rutgers,Princeton,9,7
-4/14/2019,Princeton,NYU,9,6
-4/14/2019,NYU,SUNY,9,7
-4/14/2019,SUNY,Columbia,10,6
-4/14/2019,Columbia,Rowan,11,5
-4/14/2019,Columbia,Hofstra,13,11
-4/14/2019,New Jersey,Rowan,3,13
-4/14/2019,Hofstra,New Jersey,13,4
+NYU,New Jersey Tech,12
+Rutgers,Columbia,3
+Rutgers,New Jersey Tech,11
+NYU,Columbia,6
+Rutgers,NYU,3
+Columbia,New Jersey Tech,4
+Princeton,Rowan,1
+SUNY-Stony Brook,Hofstra,5
+Princeton,Hofstra,4
+SUNY-Stony Brook,Rowan,7
+Princeton,SUNY-Stony Brook,1
+Rowan,Hofstra,4
+Rutgers,Princeton,2
+Princeton,NYU,3
+NYU,SUNY-Stony Brook,2
+SUNY-Stony Brook,Columbia,4
+Columbia,Rowan,6
+Columbia,Hofstra,2
+Rowan,New Jersey Tech,10
+Hofstra,New Jersey Tech,9

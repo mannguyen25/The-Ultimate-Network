@@ -1,27 +1,27 @@
-Sat 4/13,SUNY,SUNY,13,5
-Sat 4/13,Colgate,Ithaca,12,8
-Sat 4/13,SUNY,Ithaca,9,10
-Sat 4/13,Colgate,SUNY,13,6
-Sat 4/13,SUNY,Colgate,4,11
-Sat 4/13,SUNY,Ithaca,3,13
-Sat 4/13,Rochester,St Lawrence,13,6
-Sat 4/13,SUNY,SUNY,10,11
-Sat 4/13,SUNY,Rochester,10,7
-Sat 4/13,Hamilton,St Lawrence,13,6
-Sat 4/13,SUNY,St Lawrence,13,4
-Sat 4/13,Hamilton,SUNY,13,6
-Sat 4/13,Rochester,Hamilton,7,10
-Sat 4/13,SUNY,St Lawrence,13,5
-Sat 4/13,Rochester,SUNY,11,7
-Sat 4/13,SUNY,Hamilton,8,10
-Sun 4/14,Rochester,SUNY,11,7
-Sun 4/14,SUNY,SUNY,12,11
-Sun 4/14,Rochester,SUNY,10,11
-Sun 4/14,SUNY,St Lawrence,14,13
-Sun 4/14,SUNY,St Lawrence,15,3
-Sun 4/14,SUNY,SUNY,9,10
-4/14/2019,Colgate,Hamilton,12,15
-4/14/2019,Colgate,SUNY,15,8
-4/14/2019,Ithaca,Hamilton,10,14
-4/14/2019,Ithaca,Colgate,12,8
-4/14/2019,SUNY,Ithaca,7,13
+SUNY-Geneseo,SUNY-Cortland,8
+Colgate,Ithaca,4
+Ithaca,SUNY-Geneseo,1
+Colgate,SUNY-Cortland,7
+Colgate,SUNY-Geneseo,7
+Ithaca,SUNY-Cortland,10
+Rochester,St Lawrence University,7
+SUNY-Fredonia,SUNY-Oneonta,1
+SUNY-Oneonta,Rochester,3
+Hamilton,St Lawrence University,7
+SUNY-Oneonta,St Lawrence University,9
+Hamilton,SUNY-Fredonia,7
+Hamilton,Rochester,3
+SUNY-Fredonia,St Lawrence University,8
+Rochester,SUNY-Fredonia,4
+Hamilton,SUNY-Oneonta,2
+Rochester,SUNY-Cortland,4
+SUNY-Geneseo,SUNY-Fredonia,1
+SUNY-Geneseo,Rochester,1
+SUNY-Cortland,St Lawrence University,1
+SUNY-Geneseo,St Lawrence University,12
+SUNY-Fredonia,SUNY-Cortland,1
+Hamilton,Colgate,3
+Colgate,SUNY-Oneonta,7
+Hamilton,Ithaca,4
+Ithaca,Colgate,4
+Ithaca,SUNY-Oneonta,6

@@ -1,32 +1,30 @@
-Sat 4/27,SUNY,SUNY,11,7
-Sat 4/27,Marist,SUNY,15,2
-Sat 4/27,Marist,SUNY,15,6
-Sat 4/27,SUNY,Stevens Tech,9,11
-Sat 4/27,Hamilton,Stevens Tech,13,8
-Sat 4/27,Hamilton,SUNY,12,6
-Sat 4/27,Colgate,Rensselaer Polytech,11,7
-Sat 4/27,Wesleyan,Rensselaer Polytech,15,5
-Sat 4/27,Wesleyan,Colgate,6,9
-Sat 4/27,Ithaca,Rochester,12,10
-Sat 4/27,Army,Rochester,12,4
-Sat 4/27,Army,Ithaca,12,6
-4/28/2019,Marist,Hamilton,14,15
-4/28/2019,Marist,Wesleyan,16,15
-4/28/2019,Colgate,Hamilton,12,15
-4/28/2019,Marist,Stevens Tech,15,10
-4/28/2019,Wesleyan,Army,15,12
-4/28/2019,Colgate,Ithaca,13,8
-4/28/2019,Rochester,Hamilton,6,14
-4/27/2019,Stevens Tech,Rensselaer Polytech,10,9
-4/27/2019,Wesleyan,SUNY,15,1
-4/27/2019,SUNY,Ithaca,4,13
-4/27/2019,Rochester,SUNY,11,8
-4/28/2019,Wesleyan,Colgate,0,0
-4/28/2019,Stevens Tech,Rochester,13,9
-4/28/2019,Stevens Tech,Army,1,0
-4/28/2019,Ithaca,Rochester,9,10
-4/28/2019,Army,Ithaca,0,0
-4/28/2019,Rensselaer Polytech,SUNY,9,6
-4/28/2019,Rensselaer Polytech,SUNY,9,8
-4/28/2019,SUNY,SUNY,7,11
-4/28/2019,SUNY,SUNY,3,5
+SUNY-Geneseo,SUNY-Fredonia,4
+Marist,SUNY-Fredonia,13
+Marist,SUNY-Geneseo,9
+Stevens Tech,SUNY-Oneonta,2
+Hamilton,Stevens Tech,5
+Hamilton,SUNY-Oneonta,6
+Colgate,Rensselaer Polytech,4
+Wesleyan,Rensselaer Polytech,10
+Colgate,Wesleyan,3
+Ithaca,Rochester,2
+Army,Rochester,8
+Army,Ithaca,6
+Hamilton,Marist,1
+Marist,Wesleyan,1
+Hamilton,Colgate,3
+Marist,Stevens Tech,5
+Wesleyan,Army,3
+Colgate,Ithaca,5
+Hamilton,Rochester,8
+Stevens Tech,Rensselaer Polytech,1
+Wesleyan,SUNY-Oneonta,14
+Ithaca,SUNY-Fredonia,9
+Rochester,SUNY-Geneseo,3
+Stevens Tech,Rochester,4
+Stevens Tech,Army,1
+Rochester,Ithaca,1
+Rensselaer Polytech,SUNY-Geneseo,3
+Rensselaer Polytech,SUNY-Oneonta,1
+SUNY-Geneseo,SUNY-Fredonia,4
+SUNY-Fredonia,SUNY-Oneonta,2

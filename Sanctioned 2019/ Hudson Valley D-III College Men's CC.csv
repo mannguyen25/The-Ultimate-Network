@@ -1,28 +1,27 @@
-Sat 4/20,Marist,New Haven,11,2
-Sat 4/20,Rensselaer Polytech,Union,11,5
-Sat 4/20,Marist,Rensselaer Polytech,11,5
-Sat 4/20,Skidmore,Union,11,6
-Sat 4/20,Union,New Haven,3,11
-Sat 4/20,Skidmore,Rensselaer Polytech,5,10
-Sat 4/20,Marist,Union,11,5
-Sat 4/20,Skidmore,New Haven,11,4
-Sun 4/21,Marist,Skidmore,11,7
-Sun 4/21,Rensselaer Polytech,New Haven,9,10
-Sat 4/20,Army,Vassar,11,5
-Sat 4/20,Hartford,Saint Rose,10,6
-Sat 4/20,Army,Hartford,10,9
-Sat 4/20,Wesleyan,Saint Rose,11,1
-Sat 4/20,Saint Rose,Vassar,3,11
-Sat 4/20,Wesleyan,Hartford,11,5
-Sat 4/20,Army,Saint Rose,11,3
-Sat 4/20,Wesleyan,Vassar,11,1
-Sun 4/21,Army,Wesleyan,9,11
-Sun 4/21,Hartford,Vassar,11,8
-4/21/2019,Marist,Wesleyan,15,12
-4/21/2019,Wesleyan,Army,15,14
-4/21/2019,Rensselaer Polytech,Army,9,13
-4/21/2019,Rensselaer Polytech,Skidmore,15,9
-4/21/2019,Skidmore,New Haven,15,13
-4/21/2019,Skidmore,Vassar,13,11
-4/21/2019,New Haven,Hartford,10,15
-4/21/2019,Vassar,Hartford,0,0
+Marist,New Haven,9
+Rensselaer Polytech,Union,6
+Marist,Rensselaer Polytech,6
+Skidmore,Union,5
+New Haven,Union,8
+Rensselaer Polytech,Skidmore,5
+Marist,Union,6
+Skidmore,New Haven,7
+Marist,Skidmore,4
+New Haven,Rensselaer Polytech,1
+Army,Vassar,6
+Hartford,Saint Rose,4
+Army,Hartford,1
+Wesleyan,Saint Rose,10
+Vassar,Saint Rose,8
+Wesleyan,Hartford,6
+Army,Saint Rose,8
+Wesleyan,Vassar,10
+Wesleyan,Army,2
+Hartford,Vassar,3
+Marist,Wesleyan,3
+Wesleyan,Army,1
+Army,Rensselaer Polytech,4
+Rensselaer Polytech,Skidmore,6
+Skidmore,New Haven,2
+Skidmore,Vassar,2
+Hartford,New Haven,5

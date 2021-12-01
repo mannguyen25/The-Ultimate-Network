@@ -1,10 +1,10 @@
-Sat 4/13,North Park,Eastern Illinois,12,7
-Sat 4/13,Knox,Olivet Nazarene,14,10
-Sat 4/13,Knox,North Park,5,12
-Sat 4/13,Wheaton,Olivet Nazarene,5,13
-Sat 4/13,Olivet Nazarene,North Park,14,13
-Sat 4/13,Wheaton,Eastern Illinois,10,7
-Sat 4/13,Knox,Eastern Illinois,12,7
-Sat 4/13,Wheaton,North Park,13,7
-Sat 4/13,Olivet Nazarene,Eastern Illinois,13,5
-Sat 4/13,Wheaton,Knox,5,10
+North Park,Eastern Illinois,5
+Knox,Olivet Nazarene,4
+North Park,Knox,7
+Olivet Nazarene,Wheaton Illinois,8
+Olivet Nazarene,North Park,1
+Wheaton Illinois,Eastern Illinois,3
+Knox,Eastern Illinois,5
+Wheaton Illinois,North Park,6
+Olivet Nazarene,Eastern Illinois,8
+Knox,Wheaton Illinois,5

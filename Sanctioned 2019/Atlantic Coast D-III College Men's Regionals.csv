@@ -1,24 +1,22 @@
-Sat 4/27,Mary Washington,Navy,14,15
-Sat 4/27,Davidson,High Point,15,5
-Sat 4/27,Mary Washington,High Point,12,6
-Sat 4/27,Davidson,Navy,15,6
-Sat 4/27,Navy,High Point,9,12
-Sat 4/27,Mary Washington,Davidson,11,10
-Sat 4/27,North Carolina,Christopher Newport,13,11
-Sat 4/27,Richmond,Elon,15,8
-Sat 4/27,Richmond,Christopher Newport,15,6
-Sat 4/27,North Carolina,Elon,10,8
-Sat 4/27,Richmond,North Carolina,15,9
-Sat 4/27,Elon,Christopher Newport,15,8
-4/28/2019,North Carolina,Richmond,6,15
-4/28/2019,Mary Washington,North Carolina,12,13
-4/28/2019,Davidson,Richmond,5,15
-4/28/2019,Mary Washington,Christopher Newport,15,7
-4/28/2019,North Carolina,High Point,13,11
-4/28/2019,Davidson,Elon,12,10
-4/28/2019,Richmond,Navy,15,7
-4/28/2019,High Point,Navy,F,F
-4/28/2019,Christopher Newport,High Point,10,12
-4/28/2019,Elon,Navy,13,15
-4/28/2019,Mary Washington,Davidson,5,7
-4/28/2019,Christopher Newport,Elon,F,F
+Navy,Mary Washington,1
+Davidson,High Point,10
+Mary Washington,High Point,6
+Davidson,Navy,9
+High Point,Navy,3
+Mary Washington,Davidson,1
+North Carolina-Asheville,Christopher Newport,2
+Richmond,Elon,7
+Richmond,Christopher Newport,9
+North Carolina-Asheville,Elon,2
+Richmond,North Carolina-Asheville,6
+Elon,Christopher Newport,7
+Richmond,North Carolina-Asheville,9
+North Carolina-Asheville,Mary Washington,1
+Richmond,Davidson,10
+Mary Washington,Christopher Newport,8
+North Carolina-Asheville,High Point,2
+Davidson,Elon,2
+Richmond,Navy,8
+High Point,Christopher Newport,2
+Navy,Elon,2
+Davidson,Mary Washington,2

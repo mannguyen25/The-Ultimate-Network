@@ -1,24 +1,23 @@
-Sat 4/27,Knox,North Park,11,5
-Sat 4/27,Valparaiso,Eastern Illinois,12,0
-Sat 4/27,Knox,Eastern Illinois,13,5
-Sat 4/27,Valparaiso,North Park,15,4
-Sun 4/28,Knox,Valparaiso,8,10
-Sun 4/28,North Park,Eastern Illinois,15,3
-Sat 4/27,Butler,Wheaton,15,5
-Sat 4/27,Olivet Nazarene,Rose,14,7
-Sat 4/27,Butler,Rose,15,5
-Sat 4/27,Olivet Nazarene,Wheaton,12,3
-Sun 4/28,Butler,Olivet Nazarene,7,14
-Sun 4/28,Wheaton,Rose,12,8
-4/28/2019,Valparaiso,Olivet Nazarene,13,4
-4/28/2019,Valparaiso,Butler,13,10
-4/28/2019,Knox,Olivet Nazarene,6,11
-4/28/2019,Valparaiso,Rose,15,1
-4/28/2019,Butler,North Park,12,11
-4/28/2019,Knox,Wheaton,10,6
-4/28/2019,Olivet Nazarene,Eastern Illinois,15,3
-4/28/2019,Rose,Wheaton,4,9
-4/28/2019,Rose,North Park,10,8
-4/28/2019,Wheaton,Eastern Illinois,13,7
-4/28/2019,Butler,Knox,5,7
-4/28/2019,North Park,Eastern Illinois,0,0
+Knox,North Park,6
+Valparaiso,Eastern Illinois,12
+Knox,Eastern Illinois,8
+Valparaiso,North Park,11
+Valparaiso,Knox,2
+North Park,Eastern Illinois,12
+Butler,Wheaton Illinois,10
+Olivet Nazarene,Rose-Hulman,7
+Butler,Rose-Hulman,10
+Olivet Nazarene,Wheaton Illinois,9
+Olivet Nazarene,Butler,7
+Wheaton Illinois,Rose-Hulman,4
+Valparaiso,Olivet Nazarene,9
+Valparaiso,Butler,3
+Olivet Nazarene,Knox,5
+Valparaiso,Rose-Hulman,14
+Butler,North Park,1
+Knox,Wheaton Illinois,4
+Olivet Nazarene,Eastern Illinois,12
+Wheaton Illinois,Rose-Hulman,5
+Rose-Hulman,North Park,2
+Wheaton Illinois,Eastern Illinois,6
+Knox,Butler,2
