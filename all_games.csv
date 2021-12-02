@@ -1,3 +1,4 @@
+source, target, weight
 North Carolina,Duke,6
 
 Johns Hopkins,East Carolina,5
@@ -5158,7 +5159,7 @@ Michigan,Boston College,4
 
 Rutgers,Florida,2
 
-Carleton College,Harvard,2
+Carleton College-CUT,Harvard,2
 
 Kennesaw State,Northwestern,5
 
@@ -5206,7 +5207,7 @@ Florida State,Cincinnati,5
 
 Pittsburgh,South Florida,10
 
-Carleton College,Emory,5
+Carleton College-CUT,Emory,5
 
 Temple,Boston College,5
 
@@ -5214,7 +5215,7 @@ Brigham Young,LSU,4
 
 Tufts,Emory,1
 
-Pittsburgh,Carleton College,2
+Pittsburgh,Carleton College-CUT,2
 
 Cincinnati,South Florida,3
 
@@ -5262,7 +5263,7 @@ Brigham Young,Pittsburgh,1
 
 Texas-Dallas,South Florida,9
 
-Carleton College,Kansas,8
+Carleton College-CUT,Kansas,8
 
 LSU,Wisconsin,3
 
@@ -5280,7 +5281,7 @@ Florida,Kansas,8
 
 Texas-Dallas,Illinois State,1
 
-Central Florida,Carleton College,5
+Central Florida,Carleton College-CUT,5
 
 Brigham Young,Cincinnati,8
 
@@ -5310,7 +5311,7 @@ Temple,South Florida,5
 
 Brown,Emory,8
 
-Brigham Young,Carleton College,3
+Brigham Young,Carleton College-CUT,3
 
 Northeastern,Kennesaw State,3
 
@@ -5440,15 +5441,15 @@ Harvard,Kennesaw State,1
 
 Minnesota,Northeastern,4
 
-Tufts,Carleton College,2
+Tufts,Carleton College-CUT,2
 
 Minnesota,Harvard,4
 
-Carleton College,Kennesaw State,11
+Carleton College-CUT,Kennesaw State,11
 
 Kennesaw State,South Carolina,1
 
-Carleton College,Northeastern,5
+Carleton College-CUT,Northeastern,5
 
 Northeastern,South Carolina,5
 
@@ -6814,15 +6815,15 @@ Wisconsin,Stanford,1
 
 Brown,Colorado State,4
 
-Carleton College,Washington,2
+Carleton College-CUT,Washington,2
 
 Colorado State,Washington,1
 
-Brown,Carleton College,3
+Brown,Carleton College-CUT,3
 
 Washington,Brown,1
 
-Carleton College,Colorado State,1
+Carleton College-CUT,Colorado State,1
 
 Brigham Young,Northwestern,2
 
@@ -6844,13 +6845,13 @@ California,Northwestern,7
 
 Oregon,Ohio State,2
 
-Cal Poly,Colorado,1
+Cal Poly-SLO,Colorado,1
 
-Cal Poly,Minnesota,3
+Cal Poly-SLO,Minnesota,3
 
 Texas,Colorado,3
 
-Texas,Cal Poly,3
+Texas,Cal Poly-SLO,3
 
 Colorado,Minnesota,1
 
@@ -6874,27 +6875,27 @@ North Carolina,Brown,5
 
 North Carolina,Texas,7
 
-Brown,Cal Poly,2
+Brown,Cal Poly-SLO,2
 
-North Carolina,Carleton College,1
+North Carolina,Carleton College-CUT,1
 
 Texas,Ohio State,2
 
-Cal Poly,Oregon,1
+Cal Poly-SLO,Oregon,1
 
 Brown,Colorado,2
 
-Carleton College,California,6
+Carleton College-CUT,California,6
 
 Ohio State,Colorado State,2
 
-Cal Poly,Victoria,6
+Cal Poly-SLO,Victoria,6
 
 Colorado,Wisconsin,3
 
-Colorado,Carleton College,3
+Colorado,Carleton College-CUT,3
 
-Carleton College,Ohio State,1
+Carleton College-CUT,Ohio State,1
 
 Colorado,Oregon,1
 
@@ -10264,246 +10265,489 @@ Northwestern-St. Paul,Chicago B,3
 
 Creighton,Cornell College,4
 
-Chicago B,Cornell College,15Butler,Indiana Wesleyan,10
-Olivet Nazarene,Southern Indiana,3
-Olivet Nazarene,Indiana Wesleyan,2
-Indiana Wesleyan,Southern Indiana,2
-Butler,Olivet Nazarene,2
-Butler,Southern Indiana,9
-Saint Louis,Notre Dame B,11
-Kentucky B,Illinois-Chicago,3
-Saint Louis,Kentucky B,10
-Illinois-Chicago,Iowa State B,1
-Notre Dame B,Illinois-Chicago,2
-Iowa State B,Kentucky B,6
-Saint Louis,Illinois-Chicago,11
-Iowa State B,Notre Dame B,1
-Saint Louis,Iowa State B,11
-Notre Dame B,Kentucky B,2
-Knox,Eastern Illinois,9
-Western Michigan,Northern Michigan,4
-Knox,Northern Michigan,11
-North Park,Western Michigan,5
-Western Michigan,Eastern Illinois,1
-North Park,Northern Michigan,4
-Knox,Western Michigan,9
-North Park,Eastern Illinois,11
-Knox,North Park,3
-Northern Michigan,Eastern Illinois,9
-Wheaton Illinois,Dayton B,8
-Rose-Hulman,Marquette B,2
-Wheaton Illinois,Marquette B,6
-Valparaiso,Rose-Hulman,9
-Rose-Hulman,Dayton B,9
-Valparaiso,Marquette B,11
-Wheaton Illinois,Rose-Hulman,7
-Valparaiso,Dayton B,11
-Valparaiso,Wheaton Illinois,10
-Marquette B,Dayton B,8
-Eastern Illinois,Southern Indiana,1
-Illinois-Chicago,Dayton B,3
-Southern Indiana,Dayton B,4
-Illinois-Chicago,Eastern Illinois,9
-Illinois-Chicago,Southern Indiana,6
-Eastern Illinois,Dayton B,15
-Rose-Hulman,Indiana Wesleyan,6
-Saint Louis,Western Michigan,3
-Saint Louis,Indiana Wesleyan,8
-Rose-Hulman,Western Michigan,2
-Maryland-Baltimore County,Millersville,9
-Maryland-Baltimore County,West Chester B,14
-Millersville,West Chester B,6
-Maryland-Baltimore County,Millersville,12
-SUNY-Stony Brook,Syracuse,1
-SUNY-Albany,Massachusetts-Lowell,7
-SUNY-Stony Brook,Massachusetts-Lowell,6
-SUNY-Albany,Syracuse,4
-SUNY-Stony Brook,SUNY-Albany,1
-Syracuse,Massachusetts-Lowell,8
-Hofstra,SUNY-Albany B,10
-Northeastern C,SUNY-Stony Brook B,9
-Hofstra,SUNY-Stony Brook B,13
-Northeastern C,SUNY-Albany B,1
-Hofstra,Northeastern C,1
-SUNY-Albany B,SUNY-Stony Brook B,9
-SUNY-Stony Brook,Hofstra,5
-SUNY-Albany,Northeastern C,4
-Syracuse,SUNY-Albany B,11
-Massachusetts-Lowell,SUNY-Stony Brook B,7
-Syracuse,SUNY-Albany,2
-Syracuse,SUNY-Stony Brook,8
-SUNY-Albany,Hofstra,3
-SUNY-Stony Brook,SUNY-Albany B,12
-Syracuse,Northeastern C,7
-SUNY-Albany,SUNY-Stony Brook B,9
-Hofstra,Massachusetts-Lowell,1
-Massachusetts-Lowell,Northeastern C,1
-Northeastern C,SUNY-Albany B,8
-Massachusetts-Lowell,SUNY-Stony Brook B,12
-SUNY-Stony Brook,Hofstra,12
-SUNY-Stony Brook B,SUNY-Albany B,3
-Arizona,Grand Canyon,9
-Arizona,Arizona State B,10
-Arizona State B,Grand Canyon,1
-Richmond,Messiah,1
-Davidson,Ohio State-B,8
-Wesleyan,Shippensburg,5
-Davidson,Messiah,2
-Richmond,Shippensburg,5
-Wesleyan,Ohio State-B,5
-Messiah,Shippensburg,6
-Davidson,Wesleyan,5
-Richmond,Ohio State-B,8
-Wesleyan,Messiah,5
-Davidson,Richmond,8
-Shippensburg,Ohio State-B,5
-Ohio State-B,Messiah,4
-Davidson,Shippensburg,4
-Richmond,Wesleyan,1
-Shippensburg,Wesleyan,3
-Yale,SUNY-Oneonta,2
-Tufts B,Amherst College,3
-Yale,Tufts B,2
-Amherst College,SUNY-Oneonta,2
-Yale,Amherst College,7
-Tufts B,SUNY-Oneonta,1
-Columbia,Hartford,2
-Boston College,Worcester Polytech,12
-Worcester Polytech,Columbia,2
-Boston College,Hartford,7
-Boston College,Columbia,11
-Hartford,Worcester Polytech,1
-Northeastern B,Wentworth,3
-Boston College B,Yale B,12
-Northeastern B,Boston College B,2
-Connecticut B,Yale B,11
-Wentworth,Yale B,13
-Boston College B,Connecticut B,6
-Northeastern B,Yale B,13
-Connecticut B,Wentworth,4
-Northeastern B,Connecticut B,5
-Boston College B,Wentworth,5
-University of Massachusetts Amherst B,Rutgers B,10
-SUNY Oneonta B,Amherst College B,9
-University of Massachusetts Amherst B,Amherst College B,13
-Southern Connecticut State,SUNY Oneonta B,12
-Rutgers B,SUNY Oneonta B,12
-Southern Connecticut State,Amherst College B,12
-University of Massachusetts Amherst B,SUNY Oneonta B,13
-Southern Connecticut State,Rutgers B,10
-University of Massachusetts Amherst B,Southern Connecticut State,7
-Rutgers B,Amherst College B,10
-Yale,Boston College,4
-Tufts B,Worcester Polytech,1
-Amherst College,Columbia,5
-Hartford,SUNY-Oneonta,3
-Boston College,Yale,3
-Yale,Amherst College,5
-Boston College,Tufts B,1
-Yale,University of Massachusetts Amherst B,2
-Amherst College,Worcester Polytech,7
-Tufts B,Columbia,3
-Boston College,Northeastern B,7
-Tufts B,Amherst College,4
-University of Massachusetts Amherst B,Columbia,8
-University of Massachusetts Amherst B,Worcester Polytech,2
-Columbia,Northeastern B,4
-Northeastern B,Worcester Polytech,3
-Hartford,Connecticut B,6
-SUNY-Oneonta,Boston College B,3
-Hartford,Yale B,11
-Connecticut B,Southern Connecticut State,1
-Boston College B,Rutgers B,7
-SUNY-Oneonta,Amherst College B,13
-Yale B,SUNY Oneonta B,5
-Amherst College B,Wentworth,15
-Boston College B,Connecticut B,7
-Rutgers B,Southern Connecticut State,1
-Southern Connecticut State,Yale B,7
-Rutgers B,Amherst College B,10
-Yale B,Amherst College B,2
-SUNY Oneonta B,Wentworth,15
-Williams,Rensselaer Polytech,8
-Rochester,Colgate,2
-Williams,Colgate,7
-Amherst Regional,Rochester,5
-Rensselaer Polytech,Rochester,1
-Amherst Regional,Colgate,1
-Williams,Rochester,2
-Amherst Regional,Rensselaer Polytech,3
-Williams,Amherst Regional,1
-Colgate,Rensselaer Polytech,2
-SUNY-Buffalo,Siena,10
-Maine,SUNY-Binghamton B,10
-SUNY-Buffalo,SUNY-Binghamton B,12
-Maine,Siena,9
-Maine,SUNY-Buffalo,1
-SUNY-Binghamton B,Siena,6
-Ithaca,Emerson,5
-Skidmore,SUNY-Buffalo B,11
-Ithaca,SUNY-Buffalo B,11
-Skidmore,Emerson,10
-Emerson,SUNY-Buffalo B,2
-Ithaca,Skidmore,3
-Maine,Ithaca,5
-Skidmore,SUNY-Buffalo,1
-Williams,Amherst Regional,2
-Williams,Colgate,5
-Amherst Regional,Maine,9
-Williams,Skidmore,7
-Colgate,Rensselaer Polytech,1
-Maine,Rochester,3
-Amherst Regional,Ithaca,10
-SUNY-Buffalo,Emerson,15
-Emerson,Siena,3
-SUNY-Buffalo,SUNY-Binghamton B,10
-Siena,SUNY-Buffalo B,8
-Rochester,Skidmore,15
-Skidmore,Rensselaer Polytech,1
-Rochester,Ithaca,2
-Siena,SUNY-Binghamton B,15
-Siena,SUNY-Binghamton B,1
-Maine,Colgate,15
-Haverford,SUNY-Geneseo,2
-Kenyon,Jefferson,8
-Bowdoin,SUNY-Geneseo,7
-Haverford,Jefferson,4
-Bowdoin,Kenyon,7
-SUNY-Geneseo,Jefferson,6
-Bowdoin,Jefferson,11
-Haverford,Kenyon,6
-Bowdoin,Haverford,10
-SUNY-Geneseo,Kenyon,10
-Bates College,Swarthmore,5
-Army,Muhlenberg,7
-Bates College,Muhlenberg,7
-Army,Swarthmore,2
-Bates College,Army,6
-Swarthmore,Muhlenberg,2
-Franciscan,Catholic,4
-Brandeis,Bentley,8
-Franciscan,Bentley,5
-Brandeis,Catholic,7
-Brandeis,Franciscan,2
-Bentley,Catholic,7
-Brandeis,Bates College,6
-Franciscan,Army,3
-Bentley,Swarthmore,4
-Catholic,Muhlenberg,5
-Muhlenberg,Kenyon,2
-Swarthmore,Kenyon,6
-Muhlenberg,Jefferson,5
-Catholic,Kenyon,15
-Swarthmore,Jefferson,3
-Swarthmore,Catholic,15
-Bowdoin,Brandeis,7
-Bowdoin,Bates College,8
-Brandeis,Franciscan,3
-Bowdoin,Bentley,5
-Bates College,Army,2
-Franciscan,Haverford,3
-Brandeis,SUNY-Geneseo,4
-Bentley,SUNY-Geneseo,4
-Bentley,Army,8
-SUNY-Geneseo,Haverford,6
-Haverford,Army,15
+Chicago B,Cornell College,15Butler,Indiana Wesleyan,10
+
+Olivet Nazarene,Southern Indiana,3
+
+Olivet Nazarene,Indiana Wesleyan,2
+
+Indiana Wesleyan,Southern Indiana,2
+
+Butler,Olivet Nazarene,2
+
+Butler,Southern Indiana,9
+
+Saint Louis,Notre Dame B,11
+
+Kentucky B,Illinois-Chicago,3
+
+Saint Louis,Kentucky B,10
+
+Illinois-Chicago,Iowa State B,1
+
+Notre Dame B,Illinois-Chicago,2
+
+Iowa State B,Kentucky B,6
+
+Saint Louis,Illinois-Chicago,11
+
+Iowa State B,Notre Dame B,1
+
+Saint Louis,Iowa State B,11
+
+Notre Dame B,Kentucky B,2
+
+Knox,Eastern Illinois,9
+
+Western Michigan,Northern Michigan,4
+
+Knox,Northern Michigan,11
+
+North Park,Western Michigan,5
+
+Western Michigan,Eastern Illinois,1
+
+North Park,Northern Michigan,4
+
+Knox,Western Michigan,9
+
+North Park,Eastern Illinois,11
+
+Knox,North Park,3
+
+Northern Michigan,Eastern Illinois,9
+
+Wheaton Illinois,Dayton B,8
+
+Rose-Hulman,Marquette B,2
+
+Wheaton Illinois,Marquette B,6
+
+Valparaiso,Rose-Hulman,9
+
+Rose-Hulman,Dayton B,9
+
+Valparaiso,Marquette B,11
+
+Wheaton Illinois,Rose-Hulman,7
+
+Valparaiso,Dayton B,11
+
+Valparaiso,Wheaton Illinois,10
+
+Marquette B,Dayton B,8
+
+Eastern Illinois,Southern Indiana,1
+
+Illinois-Chicago,Dayton B,3
+
+Southern Indiana,Dayton B,4
+
+Illinois-Chicago,Eastern Illinois,9
+
+Illinois-Chicago,Southern Indiana,6
+
+Eastern Illinois,Dayton B,15
+
+Rose-Hulman,Indiana Wesleyan,6
+
+Saint Louis,Western Michigan,3
+
+Saint Louis,Indiana Wesleyan,8
+
+Rose-Hulman,Western Michigan,2
+
+Maryland-Baltimore County,Millersville,9
+
+Maryland-Baltimore County,West Chester B,14
+
+Millersville,West Chester B,6
+
+Maryland-Baltimore County,Millersville,12
+
+SUNY-Stony Brook,Syracuse,1
+
+SUNY-Albany,Massachusetts-Lowell,7
+
+SUNY-Stony Brook,Massachusetts-Lowell,6
+
+SUNY-Albany,Syracuse,4
+
+SUNY-Stony Brook,SUNY-Albany,1
+
+Syracuse,Massachusetts-Lowell,8
+
+Hofstra,SUNY-Albany B,10
+
+Northeastern C,SUNY-Stony Brook B,9
+
+Hofstra,SUNY-Stony Brook B,13
+
+Northeastern C,SUNY-Albany B,1
+
+Hofstra,Northeastern C,1
+
+SUNY-Albany B,SUNY-Stony Brook B,9
+
+SUNY-Stony Brook,Hofstra,5
+
+SUNY-Albany,Northeastern C,4
+
+Syracuse,SUNY-Albany B,11
+
+Massachusetts-Lowell,SUNY-Stony Brook B,7
+
+Syracuse,SUNY-Albany,2
+
+Syracuse,SUNY-Stony Brook,8
+
+SUNY-Albany,Hofstra,3
+
+SUNY-Stony Brook,SUNY-Albany B,12
+
+Syracuse,Northeastern C,7
+
+SUNY-Albany,SUNY-Stony Brook B,9
+
+Hofstra,Massachusetts-Lowell,1
+
+Massachusetts-Lowell,Northeastern C,1
+
+Northeastern C,SUNY-Albany B,8
+
+Massachusetts-Lowell,SUNY-Stony Brook B,12
+
+SUNY-Stony Brook,Hofstra,12
+
+SUNY-Stony Brook B,SUNY-Albany B,3
+
+Arizona,Grand Canyon,9
+
+Arizona,Arizona State B,10
+
+Arizona State B,Grand Canyon,1
+
+Richmond,Messiah,1
+
+Davidson,Ohio State-B,8
+
+Wesleyan,Shippensburg,5
+
+Davidson,Messiah,2
+
+Richmond,Shippensburg,5
+
+Wesleyan,Ohio State-B,5
+
+Messiah,Shippensburg,6
+
+Davidson,Wesleyan,5
+
+Richmond,Ohio State-B,8
+
+Wesleyan,Messiah,5
+
+Davidson,Richmond,8
+
+Shippensburg,Ohio State-B,5
+
+Ohio State-B,Messiah,4
+
+Davidson,Shippensburg,4
+
+Richmond,Wesleyan,1
+
+Shippensburg,Wesleyan,3
+
+Yale,SUNY-Oneonta,2
+
+Tufts B,Amherst College,3
+
+Yale,Tufts B,2
+
+Amherst College,SUNY-Oneonta,2
+
+Yale,Amherst College,7
+
+Tufts B,SUNY-Oneonta,1
+
+Columbia,Hartford,2
+
+Boston College,Worcester Polytech,12
+
+Worcester Polytech,Columbia,2
+
+Boston College,Hartford,7
+
+Boston College,Columbia,11
+
+Hartford,Worcester Polytech,1
+
+Northeastern B,Wentworth,3
+
+Boston College B,Yale B,12
+
+Northeastern B,Boston College B,2
+
+Connecticut B,Yale B,11
+
+Wentworth,Yale B,13
+
+Boston College B,Connecticut B,6
+
+Northeastern B,Yale B,13
+
+Connecticut B,Wentworth,4
+
+Northeastern B,Connecticut B,5
+
+Boston College B,Wentworth,5
+
+University of Massachusetts Amherst B,Rutgers B,10
+
+SUNY Oneonta B,Amherst College B,9
+
+University of Massachusetts Amherst B,Amherst College B,13
+
+Southern Connecticut State,SUNY Oneonta B,12
+
+Rutgers B,SUNY Oneonta B,12
+
+Southern Connecticut State,Amherst College B,12
+
+University of Massachusetts Amherst B,SUNY Oneonta B,13
+
+Southern Connecticut State,Rutgers B,10
+
+University of Massachusetts Amherst B,Southern Connecticut State,7
+
+Rutgers B,Amherst College B,10
+
+Yale,Boston College,4
+
+Tufts B,Worcester Polytech,1
+
+Amherst College,Columbia,5
+
+Hartford,SUNY-Oneonta,3
+
+Boston College,Yale,3
+
+Yale,Amherst College,5
+
+Boston College,Tufts B,1
+
+Yale,University of Massachusetts Amherst B,2
+
+Amherst College,Worcester Polytech,7
+
+Tufts B,Columbia,3
+
+Boston College,Northeastern B,7
+
+Tufts B,Amherst College,4
+
+University of Massachusetts Amherst B,Columbia,8
+
+University of Massachusetts Amherst B,Worcester Polytech,2
+
+Columbia,Northeastern B,4
+
+Northeastern B,Worcester Polytech,3
+
+Hartford,Connecticut B,6
+
+SUNY-Oneonta,Boston College B,3
+
+Hartford,Yale B,11
+
+Connecticut B,Southern Connecticut State,1
+
+Boston College B,Rutgers B,7
+
+SUNY-Oneonta,Amherst College B,13
+
+Yale B,SUNY Oneonta B,5
+
+Amherst College B,Wentworth,15
+
+Boston College B,Connecticut B,7
+
+Rutgers B,Southern Connecticut State,1
+
+Southern Connecticut State,Yale B,7
+
+Rutgers B,Amherst College B,10
+
+Yale B,Amherst College B,2
+
+SUNY Oneonta B,Wentworth,15
+
+Williams,Rensselaer Polytech,8
+
+Rochester,Colgate,2
+
+Williams,Colgate,7
+
+Amherst Regional,Rochester,5
+
+Rensselaer Polytech,Rochester,1
+
+Amherst Regional,Colgate,1
+
+Williams,Rochester,2
+
+Amherst Regional,Rensselaer Polytech,3
+
+Williams,Amherst Regional,1
+
+Colgate,Rensselaer Polytech,2
+
+SUNY-Buffalo,Siena,10
+
+Maine,SUNY-Binghamton B,10
+
+SUNY-Buffalo,SUNY-Binghamton B,12
+
+Maine,Siena,9
+
+Maine,SUNY-Buffalo,1
+
+SUNY-Binghamton B,Siena,6
+
+Ithaca,Emerson,5
+
+Skidmore,SUNY-Buffalo B,11
+
+Ithaca,SUNY-Buffalo B,11
+
+Skidmore,Emerson,10
+
+Emerson,SUNY-Buffalo B,2
+
+Ithaca,Skidmore,3
+
+Maine,Ithaca,5
+
+Skidmore,SUNY-Buffalo,1
+
+Williams,Amherst Regional,2
+
+Williams,Colgate,5
+
+Amherst Regional,Maine,9
+
+Williams,Skidmore,7
+
+Colgate,Rensselaer Polytech,1
+
+Maine,Rochester,3
+
+Amherst Regional,Ithaca,10
+
+SUNY-Buffalo,Emerson,15
+
+Emerson,Siena,3
+
+SUNY-Buffalo,SUNY-Binghamton B,10
+
+Siena,SUNY-Buffalo B,8
+
+Rochester,Skidmore,15
+
+Skidmore,Rensselaer Polytech,1
+
+Rochester,Ithaca,2
+
+Siena,SUNY-Binghamton B,15
+
+Siena,SUNY-Binghamton B,1
+
+Maine,Colgate,15
+
+Haverford,SUNY-Geneseo,2
+
+Kenyon,Jefferson,8
+
+Bowdoin,SUNY-Geneseo,7
+
+Haverford,Jefferson,4
+
+Bowdoin,Kenyon,7
+
+SUNY-Geneseo,Jefferson,6
+
+Bowdoin,Jefferson,11
+
+Haverford,Kenyon,6
+
+Bowdoin,Haverford,10
+
+SUNY-Geneseo,Kenyon,10
+
+Bates College,Swarthmore,5
+
+Army,Muhlenberg,7
+
+Bates College,Muhlenberg,7
+
+Army,Swarthmore,2
+
+Bates College,Army,6
+
+Swarthmore,Muhlenberg,2
+
+Franciscan,Catholic,4
+
+Brandeis,Bentley,8
+
+Franciscan,Bentley,5
+
+Brandeis,Catholic,7
+
+Brandeis,Franciscan,2
+
+Bentley,Catholic,7
+
+Brandeis,Bates College,6
+
+Franciscan,Army,3
+
+Bentley,Swarthmore,4
+
+Catholic,Muhlenberg,5
+
+Muhlenberg,Kenyon,2
+
+Swarthmore,Kenyon,6
+
+Muhlenberg,Jefferson,5
+
+Catholic,Kenyon,15
+
+Swarthmore,Jefferson,3
+
+Swarthmore,Catholic,15
+
+Bowdoin,Brandeis,7
+
+Bowdoin,Bates College,8
+
+Brandeis,Franciscan,3
+
+Bowdoin,Bentley,5
+
+Bates College,Army,2
+
+Franciscan,Haverford,3
+
+Brandeis,SUNY-Geneseo,4
+
+Bentley,SUNY-Geneseo,4
+
+Bentley,Army,8
+
+SUNY-Geneseo,Haverford,6
+
+Haverford,Army,15
+
