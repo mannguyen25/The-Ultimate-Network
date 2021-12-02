@@ -1,39 +1,39 @@
-Sat 3/9,Carnegie Mellon,Georgia Tech,12,8
-Sat 3/9,North Carolina,Georgia,13,10
-Sat 3/9,Northeastern,Georgia Tech,13,7
-Sat 3/9,Georgia,Carnegie Mellon,13,9
-Sat 3/9,Georgia,Northeastern,11,10
-Sat 3/9,North Carolina,Carnegie Mellon,13,4
-Sat 3/9,North Carolina,Georgia Tech,13,8
-Sat 3/9,Carnegie Mellon,Northeastern,9,10
-Sat 3/9,North Carolina,Northeastern,13,10
-Sat 3/9,Georgia,Georgia Tech,11,10
-Sat 3/9,North Carolina,South Carolina,13,8
-Sat 3/9,Tufts,Tennessee,13,9
-Sat 3/9,Tufts,South Carolina,12,13
-Sat 3/9,North Carolina,Tennessee,13,4
-Sat 3/9,North Carolina,Tufts,13,10
-Sat 3/9,Tennessee,South Carolina,10,12
-Sat 3/9,Massachusetts,Kennesaw State,13,10
-Sat 3/9,Kennesaw State,Florida State,11,13
-Sat 3/9,Massachusetts,Pittsburgh,13,12
-Sat 3/9,Kennesaw State,Pittsburgh,9,13
-Sat 3/9,Massachusetts,Florida State,12,11
-Sat 3/9,Florida State,Pittsburgh,6,15
-Sat 3/9,Tufts,Florida State,13,8
-Sat 3/9,Tennessee,Kennesaw State,11,13
-Sun 3/10,Georgia,South Carolina,9,13
-Sun 3/10,North Carolina,Massachusetts,8,11
-Sun 3/10,Georgia,Pittsburgh,3,13
-Sun 3/10,North Carolina,North Carolina,9,8
-Sun 3/10,North Carolina,Massachusetts,7,10
-Sun 3/10,South Carolina,Massachusetts,8,9
-Sun 3/10,Carnegie Mellon,Florida State,8,9
-Sun 3/10,Northeastern,Florida State,12,9
-Sun 3/10,Northeastern,Tufts,9,10
-Sun 3/10,Tufts,Kennesaw State,9,8
-Sun 3/10,Georgia Tech,Tennessee,9,11
-Sun 3/10,Georgia Tech,Kennesaw State,9,13
-Sun 3/10,Carnegie Mellon,Tennessee,9,8
-Sun 3/10,Pittsburgh,North Carolina,10,5
-Sun 3/10,Pittsburgh,South Carolina,11,8
+Carnegie Mellon,Georgia Tech,4
+North Carolina-Wilmington,Georgia,3
+Northeastern,Georgia Tech,6
+Georgia,Carnegie Mellon,4
+Georgia,Northeastern,1
+North Carolina-Wilmington,Carnegie Mellon,9
+North Carolina-Wilmington,Georgia Tech,5
+Northeastern,Carnegie Mellon,1
+North Carolina-Wilmington,Northeastern,3
+Georgia,Georgia Tech,1
+North Carolina State,South Carolina,5
+Tufts,Tennessee,4
+South Carolina,Tufts,1
+North Carolina State,Tennessee,9
+North Carolina State,Tufts,3
+South Carolina,Tennessee,2
+Massachusetts,Kennesaw State,3
+Florida State,Kennesaw State,2
+Massachusetts,Pittsburgh,1
+Pittsburgh,Kennesaw State,4
+Massachusetts,Florida State,1
+Pittsburgh,Florida State,9
+Tufts,Florida State,5
+Kennesaw State,Tennessee,2
+South Carolina,Georgia,4
+Massachusetts,North Carolina State,3
+Pittsburgh,Georgia,10
+North Carolina-Wilmington,North Carolina State,1
+Massachusetts,North Carolina-Wilmington,3
+Massachusetts,South Carolina,1
+Florida State,Carnegie Mellon,1
+Northeastern,Florida State,3
+Tufts,Northeastern,1
+Tufts,Kennesaw State,1
+Tennessee,Georgia Tech,2
+Kennesaw State,Georgia Tech,4
+Carnegie Mellon,Tennessee,1
+Pittsburgh,North Carolina State,5
+Pittsburgh,South Carolina,3

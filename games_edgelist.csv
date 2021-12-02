@@ -847,7 +847,7 @@ Middlebury,Hamilton,12
 Middlebury,Michigan Tech,14
 Middlebury,Air Force,14
 Middlebury,Richmond,12
-Middlebury,Bryant,15
+Middlebury,Bryant University,15
 Middlebury,Williams,14
 Middlebury,Bowdoin,12
 Middlebury,Bryant University,15
@@ -929,7 +929,7 @@ Hamilton,St Lawrence,13
 Hamilton,Ithaca,14
 Air Force,Portland,12
 Air Force,Claremont,7
-Air Force,Bryant,11
+Air Force,Bryant University,11
 Air Force,Middlebury,13
 Air Force,Carleton Colleg,15
 Air Force,Bowdoin,15
@@ -959,7 +959,7 @@ Air Force,Sonoma State,13
 Air Force,Occidental,13
 Air Force,California,0
 Portland,Air Force,5
-Portland,Bryant,4
+Portland,Bryant University,4
 Portland,Claremont,11
 Portland,Berry,15
 Portland,Michigan Tech,8
@@ -984,13 +984,13 @@ Portland,Duke,9
 Portland,Cal Poly,13
 Portland,Seven Hills,9
 Portland,California,10
-Bryant,Claremont,15
-Bryant,Portland,13
-Bryant,Air Force,7
-Bryant,Middlebury,9
-Bryant,Colby,12
-Bryant,Missouri ,8
-Claremont,Bryant,2
+Bryant University,Claremont,15
+Bryant University,Portland,13
+Bryant University,Air Force,7
+Bryant University,Middlebury,9
+Bryant University,Colby,12
+Bryant University,Missouri ,8
+Claremont,Bryant University,2
 Claremont,Air Force,1
 Claremont,Portland,12
 Claremont,Missouri ,6
@@ -1015,11 +1015,11 @@ Missouri ,Colby,11
 Missouri ,Berry,12
 Missouri ,Richmond,11
 Missouri ,Claremont,14
-Missouri ,Bryant,15
+Missouri ,Bryant University,15
 Colby,Berry,11
 Colby,Missouri ,8
 Colby,Carleton Colleg,5
-Colby,Bryant,5
+Colby,Bryant University,5
 Colby,Claremont,11
 Colby,Franciscan,12
 Colby,Brown,0

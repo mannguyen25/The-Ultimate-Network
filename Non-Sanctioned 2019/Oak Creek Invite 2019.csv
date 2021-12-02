@@ -1,64 +1,64 @@
-Sat 3/16,Michigan,SUNY,13,4
-Sat 3/16,James Madison,Delaware,10,7
-Sat 3/16,Michigan,James Madison,13,6
-Sat 3/16,Princeton,Delaware,12,13
-Sat 3/16,Delaware,SUNY,10,13
-Sat 3/16,Princeton,James Madison,10,11
-Sat 3/16,Michigan,Delaware,13,1
-Sat 3/16,Princeton,SUNY,10,13
-Sat 3/16,Michigan,Princeton,13,6
-Sat 3/16,James Madison,SUNY,7,10
-Sat 3/16,Maryland,George Mason,13,1
-Sat 3/16,Cornell,Drexel,10,13
-Sat 3/16,Maryland,Cornell,13,9
-Sat 3/16,Temple,Drexel,13,7
-Sat 3/16,Drexel,George Mason,13,11
-Sat 3/16,Temple,Cornell,11,7
-Sat 3/16,Maryland,Drexel,13,3
-Sat 3/16,Temple,George Mason,13,6
-Sat 3/16,Maryland,Temple,12,9
-Sat 3/16,Cornell,George Mason,13,6
-Sat 3/16,Johns Hopkins,SUNY,13,8
-Sat 3/16,Penn State,North Carolina,11,8
-Sat 3/16,Johns Hopkins,Penn State,13,11
-Sat 3/16,Virginia Tech,North Carolina,13,3
-Sat 3/16,North Carolina,SUNY,11,10
-Sat 3/16,Virginia Tech,Penn State,11,13
-Sat 3/16,Johns Hopkins,North Carolina,13,8
-Sat 3/16,Virginia Tech,SUNY,13,4
-Sat 3/16,Johns Hopkins,Virginia Tech,13,8
-Sat 3/16,Penn State,SUNY,13,5
-Sat 3/16,William,East Carolina,13,8
-Sat 3/16,Connecticut,Williams,13,6
-Sat 3/16,William,Connecticut,11,9
-Sat 3/16,Georgetown,Williams,14,12
-Sat 3/16,Williams,East Carolina,13,10
-Sat 3/16,Georgetown,Connecticut,10,13
-Sat 3/16,William,Williams,13,6
-Sat 3/16,Georgetown,East Carolina,12,13
-Sat 3/16,William,Georgetown,13,6
-Sat 3/16,Connecticut,East Carolina,13,8
-Sun 3/17,James Madison,North Carolina,5,15
-Sun 3/17,Drexel,Williams,6,15
-Sun 3/17,James Madison,Drexel,13,12
-Sun 3/17,North Carolina,Williams,12,11
-Sun 3/17,Virginia Tech,Delaware,15,8
-Sun 3/17,Georgetown,Cornell,15,10
-Sun 3/17,Virginia Tech,Georgetown,15,11
-Sun 3/17,Delaware,Cornell,15,9
-3/17/2019,Michigan,Johns Hopkins,15,12
-3/17/2019,Michigan,William,14,13
-3/17/2019,Johns Hopkins,Maryland,15,12
-3/17/2019,Michigan,Temple,13,9
-3/17/2019,William,Penn State,15,12
-3/17/2019,Johns Hopkins,Connecticut,15,13
-3/17/2019,Maryland,SUNY,15,7
-3/17/2019,William,Maryland,12,11
-3/17/2019,Penn State,Connecticut,15,11
-3/17/2019,Temple,Penn State,10,15
-3/17/2019,Connecticut,SUNY,15,12
-3/17/2019,Temple,SUNY,15,7
-3/17/2019,East Carolina,George Mason,14,11
-3/17/2019,Princeton,East Carolina,13,15
-3/17/2019,George Mason,SUNY,15,3
-3/17/2019,Princeton,SUNY,14,11
+Michigan,SUNY-Geneseo,9
+James Madison,Delaware,3
+Michigan,James Madison,7
+Delaware,Princeton,1
+SUNY-Geneseo,Delaware,3
+James Madison,Princeton,1
+Michigan,Delaware,12
+SUNY-Geneseo,Princeton,3
+Michigan,Princeton,7
+SUNY-Geneseo,James Madison,3
+Maryland,George Mason,12
+Drexel,Cornell,3
+Maryland,Cornell,4
+Temple,Drexel,6
+Drexel,George Mason,2
+Temple,Cornell,4
+Maryland,Drexel,10
+Temple,George Mason,7
+Maryland,Temple,3
+Cornell,George Mason,7
+Johns Hopkins,SUNY-Buffalo,5
+Penn State,North Carolina-Charlotte,3
+Johns Hopkins,Penn State,2
+Virginia Tech,North Carolina-Charlotte,10
+North Carolina-Charlotte,SUNY-Buffalo,1
+Penn State,Virginia Tech,2
+Johns Hopkins,North Carolina-Charlotte,5
+Virginia Tech,SUNY-Buffalo,9
+Johns Hopkins,Virginia Tech,5
+Penn State,SUNY-Buffalo,8
+William & Mary,East Carolina,5
+Connecticut,Williams,7
+William & Mary,Connecticut,2
+Georgetown,Williams,2
+Williams,East Carolina,3
+Connecticut,Georgetown,3
+William & Mary,Williams,7
+East Carolina,Georgetown,1
+William & Mary,Georgetown,7
+Connecticut,East Carolina,5
+North Carolina-Charlotte,James Madison,10
+Williams,Drexel,9
+James Madison,Drexel,1
+North Carolina-Charlotte,Williams,1
+Virginia Tech,Delaware,7
+Georgetown,Cornell,5
+Virginia Tech,Georgetown,4
+Delaware,Cornell,6
+Michigan,Johns Hopkins,3
+Michigan,William & Mary,1
+Johns Hopkins,Maryland,3
+Michigan,Temple,4
+William & Mary,Penn State,3
+Johns Hopkins,Connecticut,2
+Maryland,SUNY-Geneseo,8
+William & Mary,Maryland,1
+Penn State,Connecticut,4
+Penn State,Temple,5
+Connecticut,SUNY-Geneseo,3
+Temple,SUNY-Geneseo,8
+East Carolina,George Mason,3
+East Carolina,Princeton,2
+George Mason,SUNY-Buffalo,12
+Princeton,SUNY-Buffalo,3

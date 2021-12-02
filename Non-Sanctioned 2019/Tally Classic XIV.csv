@@ -1,86 +1,86 @@
-Sat 3/16,Florida,Central Florida,13,8
-Sat 3/16,Georgia Tech,Embry,12,11
-Sat 3/16,Central Florida,Florida Tech,13,6
-Sat 3/16,Florida,Florida Tech,13,1
-Sat 3/16,Central Florida,Embry,6,13
-Sat 3/16,Georgia Tech,Central Florida,13,2
-Sat 3/16,Florida Tech,Embry,3,13
-Sat 3/16,Florida,Embry,13,6
-Sat 3/16,Georgia Tech,Florida Tech,13,1
-Sat 3/16,Florida,Georgia Tech,11,13
-Sat 3/16,Florida State,South Florida,11,5
-Sat 3/16,Columbus State,Stetson,1,11
-Sat 3/16,North Georgia,Florida State,9,11
-Sat 3/16,Notre Dame,Columbus State,11,2
-Sat 3/16,South Florida,Stetson,2,11
-Sat 3/16,North Georgia,Columbus State,11,1
-Sat 3/16,Notre Dame,South Florida,8,9
-Sat 3/16,North Georgia,Stetson,11,9
-Sat 3/16,Florida State,Notre Dame,11,2
-Sat 3/16,North Georgia,South Florida,11,4
-Sat 3/16,Florida State,Columbus State,11,2
-Sat 3/16,Notre Dame,Stetson,4,11
-Sat 3/16,North Georgia,Notre Dame,11,6
-Sat 3/16,Florida State,Stetson,11,1
-Sat 3/16,Columbus State,South Florida,6,11
-Sun 3/17,Florida Tech,Columbus State,10,8
-Sun 3/17,Notre Dame,Columbus State,13,9
-Sun 3/17,South Florida,Central Florida,10,13
-Sun 3/17,Embry,Stetson,13,8
-Sun 3/17,Florida Tech,Notre Dame,9,13
-3/17/2019,Georgia Tech,Florida State,7,12
-3/17/2019,Georgia Tech,North Georgia,15,9
-3/17/2019,Florida,Florida State,11,14
-3/17/2019,Georgia Tech,South Florida,15,7
-3/17/2019,North Georgia,Embry,13,12
-3/17/2019,Florida,Stetson,14,7
-3/17/2019,Florida State,Central Florida,15,6
-3/17/2019,North Georgia,Florida,15,12
-Sat 3/16,Central Florida,Alabama,12,9
-Sat 3/16,Notre Dame,Georgia Southern,13,6
-Sat 3/16,Alabama,Georgia Southern,13,11
-Sat 3/16,Central Florida,Notre Dame,12,14
-Sat 3/16,Central Florida,Georgia Southern,13,7
-Sat 3/16,Notre Dame,Alabama,10,13
-Sat 3/16,Florida State,Tennessee,13,11
-Sat 3/16,Florida State,Minnesota,13,9
-Sat 3/16,Auburn,Tennessee,12,7
-Sat 3/16,Auburn,Florida State,13,10
-Sat 3/16,Tennessee,Minnesota,11,12
-Sat 3/16,Auburn,Minnesota,13,3
-Sat 3/16,Alabama,Cincinnati,10,13
-Sat 3/16,Tennessee,Mississippi State,12,9
-Sat 3/16,Tennessee,Cincinnati,13,6
-Sat 3/16,Alabama,Tennessee,12,10
-Sat 3/16,Cincinnati,Mississippi State,13,3
-Sat 3/16,Alabama,Mississippi State,13,5
-Sat 3/16,Georgia State,Clemson,11,6
-Sat 3/16,Harvard,Clemson,12,6
-Sat 3/16,Georgia State,Tulane,3,13
-Sat 3/16,Harvard,Tulane,11,12
-Sat 3/16,Tulane,Clemson,9,10
-Sat 3/16,Harvard,Georgia State,13,4
-3/17/2019,Central Florida,Auburn,15,10
-3/17/2019,Central Florida,Florida State,15,10
-3/17/2019,Auburn,Alabama,12,10
-3/16/2019,Central Florida,Alabama,15,10
-3/16/2019,Tulane,Florida State,4,15
-3/16/2019,Auburn,Harvard,15,11
-3/16/2019,Tennessee,Alabama,14,15
-3/17/2019,Florida State,Alabama,15,8
-3/17/2019,Tulane,Tennessee,7,13
-3/17/2019,Alabama,Tulane,10,12
-3/17/2019,Tennessee,Harvard,14,13
-3/17/2019,Alabama,Harvard,9,14
-3/17/2019,Notre Dame,Cincinnati,15,12
-3/17/2019,Notre Dame,Minnesota,15,10
-3/17/2019,Georgia Southern,Cincinnati,8,15
-3/16/2019,Notre Dame,Clemson,15,14
-3/16/2019,Minnesota,Mississippi State,13,12
-3/16/2019,Georgia State,Georgia Southern,12,15
-3/16/2019,Cincinnati,Tennessee,15,14
-3/17/2019,Minnesota,Georgia Southern,14,13
-3/17/2019,Tennessee,Georgia State,10,13
-3/17/2019,Clemson,Tennessee,12,15
-3/17/2019,Mississippi State,Georgia State,14,15
-3/17/2019,Clemson,Mississippi State,15,11
+Central Florida,Alabama-Huntsville,3
+Notre Dame,Georgia Southern,7
+Alabama-Huntsville,Georgia Southern,2
+Notre Dame,Central Florida,2
+Central Florida,Georgia Southern,6
+Alabama-Huntsville,Notre Dame,3
+Florida State,Tennessee-Chattanooga,2
+Florida State,Minnesota-Duluth,4
+Auburn,Tennessee-Chattanooga,5
+Auburn,Florida State,3
+Minnesota-Duluth,Tennessee-Chattanooga,1
+Auburn,Minnesota-Duluth,10
+Cincinnati,Alabama,3
+Tennessee,Mississippi State,3
+Tennessee,Cincinnati,7
+Alabama,Tennessee,2
+Cincinnati,Mississippi State,10
+Alabama,Mississippi State,8
+Georgia State,Clemson,5
+Harvard,Clemson,6
+Tulane,Georgia State,10
+Tulane,Harvard,1
+Clemson,Tulane,1
+Harvard,Georgia State,9
+Central Florida,Auburn,5
+Central Florida,Florida State,5
+Auburn,Alabama-Huntsville,2
+Central Florida,Alabama,5
+Florida State,Tulane,11
+Auburn,Harvard,4
+Alabama-Huntsville,Tennessee,1
+Florida State,Alabama-Huntsville,7
+Tennessee,Tulane,6
+Tulane,Alabama,2
+Tennessee,Harvard,1
+Harvard,Alabama,5
+Notre Dame,Cincinnati,3
+Notre Dame,Minnesota-Duluth,5
+Cincinnati,Georgia Southern,7
+Notre Dame,Clemson,1
+Minnesota-Duluth,Mississippi State,1
+Georgia Southern,Georgia State,3
+Cincinnati,Tennessee-Chattanooga,1
+Minnesota-Duluth,Georgia Southern,1
+Georgia State,Tennessee-Chattanooga,3
+Tennessee-Chattanooga,Clemson,3
+Georgia State,Mississippi State,1
+Clemson,Mississippi State,4
+Florida B,Central Florida B,5
+Georgia Tech B,Embry-Riddle Florida,1
+Central Florida B,Florida Tech B,7
+Florida B,Florida Tech B,12
+Embry-Riddle Florida,Central Florida B,7
+Georgia Tech B,Central Florida B,11
+Embry-Riddle Florida,Florida Tech B,10
+Florida B,Embry-Riddle Florida,7
+Georgia Tech B,Florida Tech B,12
+Georgia Tech B,Florida B,2
+Florida State B,South Florida B,6
+Stetson,Columbus State,10
+Florida State B,North Georgia,2
+Notre Dame B,Columbus State,9
+Stetson,South Florida B,9
+North Georgia,Columbus State,10
+South Florida B,Notre Dame B,1
+North Georgia,Stetson,2
+Florida State B,Notre Dame B,9
+North Georgia,South Florida B,7
+Florida State B,Columbus State,9
+Stetson,Notre Dame B,7
+North Georgia,Notre Dame B,5
+Florida State B,Stetson,10
+South Florida B,Columbus State,5
+Florida Tech B,Columbus State,2
+Notre Dame B,Columbus State,4
+Central Florida B,South Florida B,3
+Embry-Riddle Florida,Stetson,5
+Notre Dame B,Florida Tech B,4
+Florida State B,Georgia Tech B,5
+Georgia Tech B,North Georgia,6
+Florida State B,Florida B,3
+Georgia Tech B,South Florida B,8
+North Georgia,Embry-Riddle Florida,1
+Florida B,Stetson,7
+Florida State B,Central Florida B,9
+North Georgia,Florida B,3

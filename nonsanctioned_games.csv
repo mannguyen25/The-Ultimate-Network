@@ -570,7 +570,7 @@ Oklahoma State,Nebraska,9
 
 John Brown,North Texas B,11
 
-North Texas,Texas State  B,10
+North Texas,Texas State B,10
 
 Sam Houston State,Stephen F Austin,1
 
@@ -578,17 +578,17 @@ North Texas,Stephen F Austin,13
 
 Baylor,Sam Houston State,8
 
-Texas State  B,Sam Houston State,2
+Texas State B,Sam Houston State,2
 
 Baylor,Stephen F Austin,9
 
 North Texas,Sam Houston State,13
 
-Baylor,Texas State  B,5
+Baylor,Texas State B,5
 
 Baylor,North Texas,1
 
-Texas State  B,Stephen F Austin,3
+Texas State B,Stephen F Austin,3
 
 Stephen F Austin,Texas-Dallas B,10
 
@@ -616,7 +616,7 @@ Texas Tech,Kansas State,9
 
 Rice,Oklahoma State,1
 
-John Brown,Texas State  B,13
+John Brown,Texas State B,13
 
 Oklahoma,Colorado College,8
 
@@ -650,9 +650,9 @@ North Texas,Oklahoma B,9
 
 Texas-San Antonio,Sam Houston State,7
 
-Sam Houston State,Texas State  B,15
+Sam Houston State,Texas State B,15
 
-Texas State  B,Nebraska,15
+Texas State B,Nebraska,15
 
 Sam Houston State,Oklahoma B,3
 
@@ -1220,21 +1220,13 @@ Stetson,South Florida B,2
 
 Florida Tech B,South Florida B,2
 
-Seven Hills Red Boys High School  ,Cal Poly-SLO B,8
-
 Duke,Portland,4
-
-California,Seven Hills Red Boys High School  ,4
 
 Portland,Cal Poly-SLO B,8
 
 California,Cal Poly-SLO B,11
 
-Duke,Seven Hills Red Boys High School  ,2
-
 California,Duke,7
-
-Seven Hills Red Boys High School  ,Portland,1
 
 Portland,California,1
 
@@ -1272,17 +1264,11 @@ Santa Clara,Texas B,12
 
 Whitman,California B,11
 
-UCLA,Coup Red High School  ,11
-
 Humboldt State,Utah State,8
 
 UCLA,Whitworth,6
 
-Humboldt State,Coup Red High School  ,2
-
 Whitworth,Humboldt State,1
-
-Utah State,Coup Red High School  ,1
 
 Utah State,Whitworth,1
 
@@ -1290,27 +1276,17 @@ UCLA,Humboldt State,9
 
 UCLA,Utah State,3
 
-Coup Red High School  ,Whitworth,2
-
-California-Davis,Seven Hills Blue Boys High School  ,3
-
 Chico State,Stanford B,11
 
 California-Davis,Chico State,3
 
 North Texas,Stanford B,11
 
-Seven Hills Blue Boys High School  ,Stanford B,11
-
 North Texas,Chico State,2
 
 California-Davis,Stanford B,11
 
-North Texas,Seven Hills Blue Boys High School  ,1
-
 California-Davis,North Texas,5
-
-Chico State,Seven Hills Blue Boys High School  ,4
 
 Lewis,Arizona,2
 
@@ -1344,8 +1320,6 @@ Air Force,Occidental,9
 
 Nevada-Reno,Sonoma State,7
 
-Carleton College-GoP,Control High School  ,10
-
 Oregon B,Sacramento State,2
 
 Carleton College-GoP,Sacramento State,11
@@ -1354,13 +1328,7 @@ Claremont,Oregon B,2
 
 Carleton College-GoP,Claremont,6
 
-Control High School  ,Sacramento State,7
-
 Carleton College-GoP,Oregon B,8
-
-Claremont,Control High School  ,4
-
-Oregon B,Control High School  ,3
 
 Claremont,Sacramento State,4
 
@@ -1568,7 +1536,7 @@ Tennessee-Chattanooga,James Madison,5
 
 James Madison,Connecticut,5
 
-Vanderbilt,Vanderbilt University  B,11
+Vanderbilt,Vanderbilt University B,11
 
 Middle Tennessee State,Belmont,5
 
@@ -1576,17 +1544,17 @@ Middle Tennessee State,Vanderbilt,2
 
 Belmont,Union Tennessee,5
 
-Belmont,Vanderbilt University  B,6
+Belmont,Vanderbilt University B,6
 
 Middle Tennessee State,Union Tennessee,2
 
 Vanderbilt,Belmont,6
 
-Union Tennessee,Vanderbilt University  B,9
+Union Tennessee,Vanderbilt University B,9
 
 Vanderbilt,Union Tennessee,10
 
-Middle Tennessee State,Vanderbilt University  B,8
+Middle Tennessee State,Vanderbilt University B,8
 
 Oregon,California-Santa Cruz,10
 
@@ -2250,15 +2218,15 @@ Texas-San Antonio,Texas A&M,7
 
 North Florida,Mississippi,4
 
-Texas Christian,Texas State  B,9
+Texas Christian,Texas State B,9
 
-North Florida,Texas State  B,7
+North Florida,Texas State B,7
 
 Texas Christian,Mississippi,4
 
 North Florida,Texas Christian,4
 
-Mississippi,Texas State  B,8
+Mississippi,Texas State B,8
 
 Georgia State,Sul Ross State,6
 
@@ -2304,7 +2272,7 @@ Mississippi,Texas A&M,3
 
 Sam Houston State,Texas A&M,5
 
-LSU B,Texas State  B,2
+LSU B,Texas State B,2
 
 Alabama,Mississippi,11
 
@@ -2354,11 +2322,11 @@ Texas Christian,Mississippi,6
 
 Sul Ross State,Florida State B,4
 
-Texas State  B,Sam Houston State,15
+Texas State B,Sam Houston State,15
 
 LSU B,Texas A&M,7
 
-Texas State  B,Texas-San Antonio,5
+Texas State B,Texas-San Antonio,5
 
 Texas A&M,LSU B,1
 
@@ -2643,56 +2611,1434 @@ California,Wisconsin,1
 Colorado State,Victoria,6
 
 Wisconsin,Victoria,9
-SUNY New Paltz,Salisbury,9
-Stevens Tech,SUNY-Albany,1
-Bates College,SUNY-Albany,3
-Stevens Tech,Salisbury,11
-Bates College,SUNY New Paltz,10
-SUNY-Albany,Salisbury,12
-Bates College,Salisbury,10
-SUNY New Paltz,Stevens Tech,3
-Bates College,Stevens Tech,11
-SUNY-Albany,SUNY New Paltz,7
-MIT,SUNY-Cortland,11
-Yale,College of New Jersey,7
-Yale,MIT,3
-Colby,College of New Jersey,7
-SUNY-Cortland,College of New Jersey,1
-Colby,Yale,6
-MIT,College of New Jersey,10
-Colby,SUNY-Cortland,6
-Colby,MIT,3
-Yale,SUNY-Cortland,7
-Brown B,SUNY-Binghamton B,9
-SUNY-Albany B,Yale B,8
-Brown B,SUNY-Albany B,10
-Rutgers B,Yale B,8
-SUNY-Binghamton B,Yale B,6
-Rutgers B,SUNY-Albany B,11
-Brown B,Yale B,12
-Rutgers B,SUNY-Binghamton B,11
-Brown B,Rutgers B,10
-SUNY-Albany B,SUNY-Binghamton B,7
-Colby,Bates College,3
-Bates College,Yale,2
-Colby,MIT,4
-Bates College,SUNY-Cortland,13
-Yale,Brown B,5
-MIT,SUNY-Albany,4
-Colby,SUNY New Paltz,6
-SUNY-Cortland,Salisbury,11
-Brown B,Stevens Tech,5
-MIT,Rutgers B,10
-SUNY New Paltz,College of New Jersey,4
-SUNY-Albany,Brown B,3
-Brown B,SUNY-Cortland,1
-SUNY-Albany,SUNY New Paltz,7
-MIT,Yale,2
-Stevens Tech,Rutgers B,1
-Stevens Tech,Salisbury,8
-Rutgers B,College of New Jersey,15
-Salisbury,SUNY-Albany B,2
-Stevens Tech,SUNY-Binghamton B,8
-Rutgers B,Yale B,2
-SUNY-Binghamton B,SUNY-Albany B,3
-SUNY-Binghamton B,Yale B,6
+SUNY New Paltz,Salisbury,9
+
+Stevens Tech,SUNY-Albany,1
+
+Bates College,SUNY-Albany,3
+
+Stevens Tech,Salisbury,11
+
+Bates College,SUNY New Paltz,10
+
+SUNY-Albany,Salisbury,12
+
+Bates College,Salisbury,10
+
+SUNY New Paltz,Stevens Tech,3
+
+Bates College,Stevens Tech,11
+
+SUNY-Albany,SUNY New Paltz,7
+
+MIT,SUNY-Cortland,11
+
+Yale,College of New Jersey,7
+
+Yale,MIT,3
+
+Colby,College of New Jersey,7
+
+SUNY-Cortland,College of New Jersey,1
+
+Colby,Yale,6
+
+MIT,College of New Jersey,10
+
+Colby,SUNY-Cortland,6
+
+Colby,MIT,3
+
+Yale,SUNY-Cortland,7
+
+Brown B,SUNY-Binghamton B,9
+
+SUNY-Albany B,Yale B,8
+
+Brown B,SUNY-Albany B,10
+
+Rutgers B,Yale B,8
+
+SUNY-Binghamton B,Yale B,6
+
+Rutgers B,SUNY-Albany B,11
+
+Brown B,Yale B,12
+
+Rutgers B,SUNY-Binghamton B,11
+
+Brown B,Rutgers B,10
+
+SUNY-Albany B,SUNY-Binghamton B,7
+
+Colby,Bates College,3
+
+Bates College,Yale,2
+
+Colby,MIT,4
+
+Bates College,SUNY-Cortland,13
+
+Yale,Brown B,5
+
+MIT,SUNY-Albany,4
+
+Colby,SUNY New Paltz,6
+
+SUNY-Cortland,Salisbury,11
+
+Brown B,Stevens Tech,5
+
+MIT,Rutgers B,10
+
+SUNY New Paltz,College of New Jersey,4
+
+SUNY-Albany,Brown B,3
+
+Brown B,SUNY-Cortland,1
+
+SUNY-Albany,SUNY New Paltz,7
+
+MIT,Yale,2
+
+Stevens Tech,Rutgers B,1
+
+Stevens Tech,Salisbury,8
+
+Rutgers B,College of New Jersey,15
+
+Salisbury,SUNY-Albany B,2
+
+Stevens Tech,SUNY-Binghamton B,8
+
+Rutgers B,Yale B,2
+
+SUNY-Binghamton B,SUNY-Albany B,3
+
+SUNY-Binghamton B,Yale B,6
+
+Michigan B,Miami Ohio,6
+
+Miami Upper,Miami Ohio,5
+
+Miami Upper,Michigan B,2
+
+Cincinnati,SUNY-Buffalo,5
+
+Cincinnati,Cleveland State,11
+
+SUNY-Buffalo,Cleveland State,9
+
+Miami Upper,Cleveland State,11
+
+Michigan B,SUNY-Buffalo,5
+
+Cincinnati,Miami Ohio,9
+
+Cincinnati,SUNY-Buffalo,6
+
+SUNY-Buffalo,Miami Upper,3
+
+Cincinnati,Michigan B,6
+
+SUNY-Buffalo,Miami Ohio,6
+
+Michigan B,Cleveland State,10
+
+Michigan B,Miami Upper,2
+
+Miami Ohio,Cleveland State,8
+
+Oklahoma,Oklahoma State,5
+
+Oklahoma State,Colorado College,7
+
+Oklahoma,John Brown,7
+
+Oklahoma State,Nebraska,9
+
+Colorado College,Arkansas,5
+
+Oklahoma,Colorado B,4
+
+John Brown,Missouri,11
+
+Oklahoma State,Colorado School of Mines-B,14
+
+Nebraska,Arkansas State,11
+
+Colorado College,Hendrix,14
+
+Arkansas,Nebraska-Omaha,12
+
+Oklahoma,Dallas Baptist,5
+
+Colorado B,Central Arkansas,6
+
+Missouri,Tulsa,12
+
+John Brown,Oklahoma B,11
+
+Dallas Baptist,Arkansas State,15
+
+Arkansas State,Hendrix,2
+
+Dallas Baptist,Oklahoma B,2
+
+Arkansas State,Colorado School of Mines-B,5
+
+Hendrix,Nebraska-Omaha,2
+
+Dallas Baptist,Central Arkansas,2
+
+Oklahoma B,Tulsa,6
+
+John Brown,Colorado College,5
+
+Nebraska,Colorado B,15
+
+Nebraska,Arkansas,1
+
+Colorado B,Missouri,7
+
+Arkansas,Missouri,6
+
+Tulsa,Nebraska-Omaha,8
+
+Nebraska-Omaha,Colorado School of Mines-B,7
+
+Tulsa,Central Arkansas,2
+
+Colorado School of Mines-B,Central Arkansas,2
+
+Kent State,Denison,2
+
+Kettering,University of Louisville,15
+
+Denison,Kettering,2
+
+Oberlin B,University of Louisville,15
+
+Denison,University of Louisville,15
+
+Kent State,Oberlin B,5
+
+Denison,Oberlin B,10
+
+Kent State,Kettering,9
+
+Kent State,Denison,6
+
+Denison,Kettering,2
+
+Kent State,Oberlin B,11
+
+Oberlin B,University of Louisville,15
+
+Kettering,Oberlin B,15
+
+Oberlin B,University of Louisville,15
+
+Marist,SUNY-Stony Brook,2
+
+SUNY-Binghamton,Cornell B,8
+
+NYU,Hofstra,3
+
+Columbia,Rowan,1
+
+SUNY-Stony Brook,Cornell B,9
+
+SUNY-Binghamton,Hofstra,7
+
+NYU,Columbia,1
+
+Marist,Tufts B,6
+
+SUNY-Binghamton,Tufts B,9
+
+Marist,NYU,3
+
+Rowan,Cornell B,5
+
+Columbia,Hofstra,1
+
+Marist,SUNY-Binghamton,3
+
+Rowan,Hofstra,6
+
+SUNY-Stony Brook,Tufts B,9
+
+SUNY-Stony Brook,NYU,2
+
+Rowan,Tufts B,4
+
+Columbia,Marist,1
+
+Hofstra,Cornell B,3
+
+NYU,Tufts B,2
+
+Columbia,Cornell B,6
+
+SUNY-Binghamton,SUNY-Stony Brook,3
+
+Columbia,SUNY-Stony Brook,6
+
+Hofstra,Tufts B,3
+
+Marist,Cornell B,3
+
+SUNY-Binghamton,Rowan,2
+
+SUNY-Stony Brook,Rowan,3
+
+NYU,SUNY-Binghamton,4
+
+Columbia,Tufts B,9
+
+Marist,Hofstra,4
+
+SUNY-Stony Brook,Hofstra,6
+
+Columbia,SUNY-Binghamton,5
+
+NYU,Rowan,1
+
+Cornell B,Tufts B,1
+
+NYU,Cornell B,15
+
+Marist,Rowan,5
+
+Wisconsin-Eau Claire,Wisconsin-Platteville,1
+
+Minnesota-Duluth,Northwestern B,8
+
+Wisconsin-Oshkosh,UW Stevens Point,1
+
+Minnesota-Duluth,Wisconsin-Platteville,1
+
+Minnesota State-Mankato,Wisconsin-Oshkosh,2
+
+UW Stevens Point,Northwestern B,2
+
+Minnesota State-Mankato,Wisconsin-Platteville,3
+
+Wisconsin-Eau Claire,Northwestern B,2
+
+Minnesota-Duluth,Wisconsin-Oshkosh,2
+
+Minnesota State-Mankato,Northwestern B,3
+
+Wisconsin-Platteville,Wisconsin-Oshkosh,4
+
+Wisconsin-Eau Claire,UW Stevens Point,5
+
+Wisconsin-Platteville,UW Stevens Point,1
+
+Minnesota State-Mankato,Minnesota-Duluth,1
+
+Wisconsin-Eau Claire,Wisconsin-Oshkosh,3
+
+Minnesota-Duluth,UW Stevens Point,15
+
+Minnesota State-Mankato,Wisconsin-Eau Claire,3
+
+Northwestern B,Wisconsin-Oshkosh,2
+
+Minnesota State-Mankato,UW Stevens Point,15
+
+Minnesota-Duluth,Wisconsin-Eau Claire,3
+
+Northwestern B,Wisconsin-Platteville,15
+
+Macalester,Milwaukee School of Engineering,2
+
+Michigan Tech,Pacific Lutheran,8
+
+Macalester,Pacific Lutheran,3
+
+Michigan Tech,Milwaukee School of Engineering,8
+
+Milwaukee School of Engineering,Pacific Lutheran,1
+
+Michigan Tech,Macalester,5
+
+Portland,Ohio Northern,3
+
+Missouri S&T,Grinnell,4
+
+Portland,Grinnell,11
+
+Missouri S&T,Ohio Northern,2
+
+Portland,Missouri S&T,2
+
+North Park,Indiana Wesleyan,3
+
+Puget Sound,St Olaf,1
+
+Puget Sound,North Park,5
+
+St Olaf,Indiana Wesleyan,8
+
+Puget Sound,Indiana Wesleyan,5
+
+St Olaf,North Park,7
+
+Oberlin,Rose-Hulman,2
+
+Brandeis,Winona State,1
+
+Brandeis,Oberlin,2
+
+Winona State,Rose-Hulman,4
+
+Winona State,Oberlin,1
+
+Brandeis,Rose-Hulman,7
+
+Michigan Tech,Portland,5
+
+Michigan Tech,Ohio Northern,8
+
+St Olaf,Portland,2
+
+St Olaf,Missouri S&T,1
+
+Portland,Puget Sound,1
+
+Missouri S&T,Michigan Tech,2
+
+St Olaf,Brandeis,2
+
+Puget Sound,Winona State,3
+
+Portland,Macalester,2
+
+Michigan Tech,Rose-Hulman,10
+
+Missouri S&T,North Park,3
+
+Brandeis,Pacific Lutheran,6
+
+St Olaf,Ohio Northern,4
+
+Puget Sound,Grinnell,4
+
+Winona State,Milwaukee School of Engineering,3
+
+Portland,Indiana Wesleyan,13
+
+Macalester,Oberlin,4
+
+Carnegie Mellon,Georgia Tech,4
+
+North Carolina-Wilmington,Georgia,3
+
+Northeastern,Georgia Tech,6
+
+Georgia,Carnegie Mellon,4
+
+Georgia,Northeastern,1
+
+North Carolina-Wilmington,Carnegie Mellon,9
+
+North Carolina-Wilmington,Georgia Tech,5
+
+Northeastern,Carnegie Mellon,1
+
+North Carolina-Wilmington,Northeastern,3
+
+Georgia,Georgia Tech,1
+
+North Carolina State,South Carolina,5
+
+Tufts,Tennessee,4
+
+South Carolina,Tufts,1
+
+North Carolina State,Tennessee,9
+
+North Carolina State,Tufts,3
+
+South Carolina,Tennessee,2
+
+Massachusetts,Kennesaw State,3
+
+Florida State,Kennesaw State,2
+
+Massachusetts,Pittsburgh,1
+
+Pittsburgh,Kennesaw State,4
+
+Massachusetts,Florida State,1
+
+Pittsburgh,Florida State,9
+
+Tufts,Florida State,5
+
+Kennesaw State,Tennessee,2
+
+South Carolina,Georgia,4
+
+Massachusetts,North Carolina State,3
+
+Pittsburgh,Georgia,10
+
+North Carolina-Wilmington,North Carolina State,1
+
+Massachusetts,North Carolina-Wilmington,3
+
+Massachusetts,South Carolina,1
+
+Florida State,Carnegie Mellon,1
+
+Northeastern,Florida State,3
+
+Tufts,Northeastern,1
+
+Tufts,Kennesaw State,1
+
+Tennessee,Georgia Tech,2
+
+Kennesaw State,Georgia Tech,4
+
+Carnegie Mellon,Tennessee,1
+
+Pittsburgh,North Carolina State,5
+
+Pittsburgh,South Carolina,3
+
+Bradley,Minnesota C,10
+
+Illinois B,Wisconsin- La Crosse,3
+
+DePaul,Bradley,2
+
+Wisconsin- La Crosse,Eastern Illinois,9
+
+Minnesota C,Eastern Illinois,3
+
+Bradley,Wisconsin- La Crosse,5
+
+Bradley,Illinois B,6
+
+DePaul,Eastern Illinois,5
+
+DePaul,Wisconsin- La Crosse,1
+
+Illinois B,Minnesota C,1
+
+Bradley,Eastern Illinois,8
+
+DePaul,Minnesota C,4
+
+Illinois B,Eastern Illinois,4
+
+DePaul,Illinois B,2
+
+Wisconsin- La Crosse,Minnesota C,10
+
+New Hampshire,SUNY-Fredonia,5
+
+University of Pittsburgh B,Campbell,9
+
+New Hampshire,Campbell,11
+
+University of Pittsburgh B,SUNY-Fredonia,5
+
+University of Pittsburgh B,New Hampshire,2
+
+Campbell,SUNY-Fredonia,2
+
+Ohio,Delaware B,7
+
+Rhode Island,North Carolina State B,1
+
+Ohio,North Carolina State B,8
+
+Delaware B,Rhode Island,1
+
+Ohio,Rhode Island,10
+
+Delaware B,North Carolina State B,6
+
+Ohio,University of Pittsburgh B,4
+
+University of Pittsburgh B,Delaware B,10
+
+Ohio,New Hampshire,3
+
+University of Pittsburgh B,North Carolina State B,12
+
+Delaware B,Campbell,8
+
+Ohio,SUNY-Fredonia,10
+
+New Hampshire,Rhode Island,9
+
+New Hampshire,Delaware B,7
+
+SUNY-Fredonia,Campbell,3
+
+Campbell,North Carolina State B,2
+
+SUNY-Fredonia,Rhode Island,1
+
+North Carolina State B,Rhode Island,9
+
+Oregon State,Idaho,11
+
+Washington State,Central Washington,11
+
+Oregon State,Central Washington,10
+
+Washington State,Idaho,9
+
+Oregon State,Washington State,8
+
+Idaho,Central Washington,11
+
+Whitworth,Portland State,9
+
+Western Washington University B,Boise State,4
+
+Whitworth,Western Washington University B,2
+
+Boise State,Portland State,1
+
+Whitworth,Boise State,5
+
+Western Washington University B,Portland State,6
+
+Oregon State,Whitworth,8
+
+Oregon State,Western Washington University B,6
+
+Whitworth,Washington State,1
+
+Washington State,Western Washington University B,6
+
+Boise State,Portland State,2
+
+Portland State,Idaho,3
+
+Boise State,Central Washington,1
+
+Central Washington,Idaho,7
+
+Colorado-Colorado Springs,Air Force B,1
+
+Colorado-Denver,Colorado B,8
+
+Colorado School of Mines,New Mexico,2
+
+Colorado Mesa,Colorado Cutthroat,1
+
+Air Force,Colorado School of Mines,3
+
+Colorado B,Colorado Cutthroat,1
+
+Colorado Mesa,Air Force B,8
+
+Colorado-Denver,Colorado-Colorado Springs,9
+
+Air Force,Colorado-Denver,7
+
+Colorado School of Mines,Air Force B,13
+
+New Mexico,Colorado Cutthroat,8
+
+Colorado-Colorado Springs,Colorado Mesa,1
+
+Air Force,Colorado Cutthroat,10
+
+Colorado School of Mines,Colorado Mesa,10
+
+Colorado B,Colorado-Colorado Springs,10
+
+New Mexico,Air Force B,9
+
+Air Force,Colorado B,9
+
+Air Force B,Colorado Cutthroat,4
+
+Colorado-Denver,Colorado Mesa,2
+
+New Mexico,Colorado-Colorado Springs,7
+
+Air Force,Air Force B,15
+
+Colorado School of Mines,Colorado B,8
+
+Colorado-Denver,Colorado Cutthroat,7
+
+New Mexico,Colorado Mesa,9
+
+Air Force,New Mexico,3
+
+Colorado-Denver,Colorado School of Mines,1
+
+Colorado B,Air Force B,11
+
+Colorado-Colorado Springs,Colorado Cutthroat,2
+
+Air Force,Colorado Mesa,13
+
+Colorado School of Mines,Colorado-Colorado Springs,11
+
+New Mexico,Colorado B,10
+
+Colorado-Denver,Air Force B,6
+
+Texas,Texas A&M,8
+
+Wisconsin,Illinois,6
+
+Texas,Illinois,1
+
+Wisconsin,Texas A&M,8
+
+Wisconsin,Texas,4
+
+Texas A&M,Illinois,4
+
+Colorado,Texas-Dallas,4
+
+LSU,Colorado State,1
+
+Colorado,LSU,5
+
+Texas-Dallas,Colorado State,2
+
+Colorado,Colorado State,1
+
+LSU,Texas-Dallas,1
+
+Dartmouth,Kansas,4
+
+Oklahoma State,Arkansas,5
+
+Dartmouth,Arkansas,9
+
+Oklahoma State,Kansas,3
+
+Dartmouth,Oklahoma State,9
+
+Kansas,Arkansas,2
+
+Texas State,Utah,1
+
+Iowa State,Oklahoma,5
+
+Iowa State,Texas State,5
+
+Utah,Oklahoma,5
+
+Texas State,Oklahoma,7
+
+Utah,Iowa State,4
+
+Rice,North Texas,2
+
+Wisconsin-Milwaukee,Texas A&M B,10
+
+Rice,Texas A&M B,10
+
+Wisconsin-Milwaukee,North Texas,3
+
+Rice,Wisconsin-Milwaukee,5
+
+North Texas,Texas A&M B,6
+
+Trinity,LSU B,4
+
+Baylor,Northern Iowa,4
+
+Northern Iowa,Trinity,3
+
+Baylor,LSU B,5
+
+Baylor,Trinity,7
+
+Northern Iowa,LSU B,1
+
+Colorado State B,Stephen F. Austin,2
+
+Wisconsin B,Texas-Dallas B,2
+
+Colorado State B,Texas-Dallas B,4
+
+Wisconsin B,Stephen F. Austin,6
+
+Wisconsin B,Colorado State B,1
+
+Stephen F. Austin,Texas-Dallas B,4
+
+Texas-San Antonio,Houston,7
+
+Texas B,Texas State B,1
+
+Texas-San Antonio,Texas B,10
+
+Houston,Texas State B,1
+
+Texas-San Antonio,Texas State B,6
+
+Houston,Texas B,3
+
+Texas State,Kansas,2
+
+Oklahoma,Arkansas,4
+
+Oklahoma,Kansas,2
+
+Arkansas,Texas State,4
+
+Kansas,Arkansas,2
+
+Oklahoma,Texas State,5
+
+Stephen F. Austin,Texas B,4
+
+Texas State B,Texas-Dallas B,1
+
+Stephen F. Austin,Texas State B,7
+
+Texas B,Texas-Dallas B,7
+
+Stephen F. Austin,Texas-Dallas B,3
+
+Texas B,Texas State B,1
+
+Rice,Wisconsin-Milwaukee,15
+
+Rice,Northern Iowa,8
+
+Wisconsin-Milwaukee,Baylor,1
+
+Rice,Texas-San Antonio,10
+
+Northern Iowa,North Texas,1
+
+Wisconsin-Milwaukee,Trinity,6
+
+Baylor,Wisconsin B,8
+
+Texas-San Antonio,LSU B,5
+
+North Texas,Colorado State B,5
+
+Trinity,Houston,7
+
+Wisconsin B,Texas A&M B,5
+
+Baylor,Northern Iowa,4
+
+Wisconsin B,North Texas,3
+
+North Texas,Texas-San Antonio,2
+
+Wisconsin B,Trinity,11
+
+Texas-San Antonio,Trinity,15
+
+Texas A&M B,LSU B,4
+
+LSU B,Colorado State B,1
+
+Texas A&M B,Houston,8
+
+Colorado State B,Houston,11
+
+Colorado,Wisconsin,1
+
+Wisconsin,LSU,2
+
+Colorado,Texas,8
+
+Wisconsin,Colorado State,2
+
+LSU,Oklahoma State,4
+
+Texas,Iowa State,1
+
+Colorado,Dartmouth,4
+
+Colorado State,Utah,1
+
+Oklahoma State,Texas A&M,1
+
+Iowa State,Texas-Dallas,3
+
+Dartmouth,Illinois,2
+
+Texas,LSU,1
+
+Colorado State,Dartmouth,7
+
+Colorado State,Oklahoma State,5
+
+Dartmouth,Iowa State,3
+
+Iowa State,Oklahoma State,15
+
+Illinois,Texas A&M,2
+
+Texas A&M,Utah,6
+
+Illinois,Texas-Dallas,1
+
+Utah,Texas-Dallas,2
+
+Iowa,Miami Ohio,4
+
+Middle Tennessee State,Southern Indiana,3
+
+Iowa,Ball State,8
+
+Miami Ohio,Middle Tennessee State,2
+
+Iowa,Middle Tennessee State,5
+
+Ball State,Southern Indiana,10
+
+Iowa,Southern Indiana,10
+
+Miami Ohio,Ball State,3
+
+Miami Ohio,Southern Indiana,5
+
+Middle Tennessee State,Ball State,6
+
+Vanderbilt,Arkansas State,7
+
+Missouri,Tennessee Tech,9
+
+Vanderbilt,Northern Illinois,10
+
+Missouri,Arkansas State,6
+
+Vanderbilt,Missouri,5
+
+Tennessee Tech,Northern Illinois,9
+
+Vanderbilt,Tennessee Tech,6
+
+Arkansas State,Northern Illinois,9
+
+Tennessee Tech,Arkansas State,1
+
+Missouri,Northern Illinois,8
+
+Iowa,Miami Ohio,12
+
+Iowa,Middle Tennessee State,9
+
+Miami Ohio,Vanderbilt,2
+
+Iowa,Southern Indiana,11
+
+Middle Tennessee State,Missouri,1
+
+Miami Ohio,Tennessee Tech,4
+
+Vanderbilt,Ball State,1
+
+Southern Indiana,Arkansas State,1
+
+Ball State,Northern Illinois,13
+
+Vanderbilt,Middle Tennessee State,1
+
+Missouri,Southern Indiana,15
+
+Tennessee Tech,Ball State,5
+
+Arkansas State,Northern Illinois,1
+
+Michigan,SUNY-Geneseo,9
+
+James Madison,Delaware,3
+
+Michigan,James Madison,7
+
+Delaware,Princeton,1
+
+SUNY-Geneseo,Delaware,3
+
+James Madison,Princeton,1
+
+Michigan,Delaware,12
+
+SUNY-Geneseo,Princeton,3
+
+Michigan,Princeton,7
+
+SUNY-Geneseo,James Madison,3
+
+Maryland,George Mason,12
+
+Drexel,Cornell,3
+
+Maryland,Cornell,4
+
+Temple,Drexel,6
+
+Drexel,George Mason,2
+
+Temple,Cornell,4
+
+Maryland,Drexel,10
+
+Temple,George Mason,7
+
+Maryland,Temple,3
+
+Cornell,George Mason,7
+
+Johns Hopkins,SUNY-Buffalo,5
+
+Penn State,North Carolina-Charlotte,3
+
+Johns Hopkins,Penn State,2
+
+Virginia Tech,North Carolina-Charlotte,10
+
+North Carolina-Charlotte,SUNY-Buffalo,1
+
+Penn State,Virginia Tech,2
+
+Johns Hopkins,North Carolina-Charlotte,5
+
+Virginia Tech,SUNY-Buffalo,9
+
+Johns Hopkins,Virginia Tech,5
+
+Penn State,SUNY-Buffalo,8
+
+William & Mary,East Carolina,5
+
+Connecticut,Williams,7
+
+William & Mary,Connecticut,2
+
+Georgetown,Williams,2
+
+Williams,East Carolina,3
+
+Connecticut,Georgetown,3
+
+William & Mary,Williams,7
+
+East Carolina,Georgetown,1
+
+William & Mary,Georgetown,7
+
+Connecticut,East Carolina,5
+
+North Carolina-Charlotte,James Madison,10
+
+Williams,Drexel,9
+
+James Madison,Drexel,1
+
+North Carolina-Charlotte,Williams,1
+
+Virginia Tech,Delaware,7
+
+Georgetown,Cornell,5
+
+Virginia Tech,Georgetown,4
+
+Delaware,Cornell,6
+
+Michigan,Johns Hopkins,3
+
+Michigan,William & Mary,1
+
+Johns Hopkins,Maryland,3
+
+Michigan,Temple,4
+
+William & Mary,Penn State,3
+
+Johns Hopkins,Connecticut,2
+
+Maryland,SUNY-Geneseo,8
+
+William & Mary,Maryland,1
+
+Penn State,Connecticut,4
+
+Penn State,Temple,5
+
+Connecticut,SUNY-Geneseo,3
+
+Temple,SUNY-Geneseo,8
+
+East Carolina,George Mason,3
+
+East Carolina,Princeton,2
+
+George Mason,SUNY-Buffalo,12
+
+Princeton,SUNY-Buffalo,3
+
+Maryland B,Dartmouth B,3
+
+Pennsylvania B,Siena,3
+
+Maryland B,Siena,8
+
+Dartmouth B,Pennsylvania B,11
+
+Maryland B,Pennsylvania B,6
+
+Dartmouth B,Siena,11
+
+Connecticut B,Temple B,8
+
+James Madison B,Georgetown B,2
+
+James Madison B,Temple B,7
+
+Connecticut B,Georgetown B,4
+
+Georgetown B,Temple B,1
+
+James Madison B,Connecticut B,3
+
+William & Mary B,Edinboro,5
+
+Messiah,Towson B,13
+
+William & Mary B,Towson B,10
+
+Messiah,Penn State B,5
+
+Messiah,Edinboro,3
+
+Penn State B,Towson B,13
+
+Messiah,William & Mary B,12
+
+Penn State B,Edinboro,5
+
+Penn State B,William & Mary B,9
+
+Edinboro,Towson B,9
+
+Maryland B,James Madison B,7
+
+Connecticut B,Dartmouth B,4
+
+Georgetown B,Pennsylvania B,1
+
+Siena,Temple B,3
+
+Siena,Towson B,3
+
+Pennsylvania B,Temple B,1
+
+Siena,Temple B,3
+
+Towson B,Pennsylvania B,3
+
+Pennsylvania B,Siena,3
+
+Temple B,Towson B,9
+
+Connecticut B,Penn State B,6
+
+Penn State B,Maryland B,4
+
+Connecticut B,Dartmouth B,3
+
+Penn State B,Georgetown B,11
+
+Maryland B,Edinboro,5
+
+Dartmouth B,James Madison B,6
+
+Connecticut B,William & Mary B,9
+
+Maryland B,Dartmouth B,4
+
+Edinboro,William & Mary B,2
+
+Edinboro,Georgetown B,6
+
+William & Mary B,James Madison B,7
+
+James Madison B,Georgetown B,9
+
+Central Florida,Alabama-Huntsville,3
+
+Notre Dame,Georgia Southern,7
+
+Alabama-Huntsville,Georgia Southern,2
+
+Notre Dame,Central Florida,2
+
+Central Florida,Georgia Southern,6
+
+Alabama-Huntsville,Notre Dame,3
+
+Florida State,Tennessee-Chattanooga,2
+
+Florida State,Minnesota-Duluth,4
+
+Auburn,Tennessee-Chattanooga,5
+
+Auburn,Florida State,3
+
+Minnesota-Duluth,Tennessee-Chattanooga,1
+
+Auburn,Minnesota-Duluth,10
+
+Cincinnati,Alabama,3
+
+Tennessee,Mississippi State,3
+
+Tennessee,Cincinnati,7
+
+Alabama,Tennessee,2
+
+Cincinnati,Mississippi State,10
+
+Alabama,Mississippi State,8
+
+Georgia State,Clemson,5
+
+Harvard,Clemson,6
+
+Tulane,Georgia State,10
+
+Tulane,Harvard,1
+
+Clemson,Tulane,1
+
+Harvard,Georgia State,9
+
+Central Florida,Auburn,5
+
+Central Florida,Florida State,5
+
+Auburn,Alabama-Huntsville,2
+
+Central Florida,Alabama,5
+
+Florida State,Tulane,11
+
+Auburn,Harvard,4
+
+Alabama-Huntsville,Tennessee,1
+
+Florida State,Alabama-Huntsville,7
+
+Tennessee,Tulane,6
+
+Tulane,Alabama,2
+
+Tennessee,Harvard,1
+
+Harvard,Alabama,5
+
+Notre Dame,Cincinnati,3
+
+Notre Dame,Minnesota-Duluth,5
+
+Cincinnati,Georgia Southern,7
+
+Notre Dame,Clemson,1
+
+Minnesota-Duluth,Mississippi State,1
+
+Georgia Southern,Georgia State,3
+
+Cincinnati,Tennessee-Chattanooga,1
+
+Minnesota-Duluth,Georgia Southern,1
+
+Georgia State,Tennessee-Chattanooga,3
+
+Tennessee-Chattanooga,Clemson,3
+
+Georgia State,Mississippi State,1
+
+Clemson,Mississippi State,4
+
+Florida B,Central Florida B,5
+
+Georgia Tech B,Embry-Riddle Florida,1
+
+Central Florida B,Florida Tech B,7
+
+Florida B,Florida Tech B,12
+
+Embry-Riddle Florida,Central Florida B,7
+
+Georgia Tech B,Central Florida B,11
+
+Embry-Riddle Florida,Florida Tech B,10
+
+Florida B,Embry-Riddle Florida,7
+
+Georgia Tech B,Florida Tech B,12
+
+Georgia Tech B,Florida B,2
+
+Florida State B,South Florida B,6
+
+Stetson,Columbus State,10
+
+Florida State B,North Georgia,2
+
+Notre Dame B,Columbus State,9
+
+Stetson,South Florida B,9
+
+North Georgia,Columbus State,10
+
+South Florida B,Notre Dame B,1
+
+North Georgia,Stetson,2
+
+Florida State B,Notre Dame B,9
+
+North Georgia,South Florida B,7
+
+Florida State B,Columbus State,9
+
+Stetson,Notre Dame B,7
+
+North Georgia,Notre Dame B,5
+
+Florida State B,Stetson,10
+
+South Florida B,Columbus State,5
+
+Florida Tech B,Columbus State,2
+
+Notre Dame B,Columbus State,4
+
+Central Florida B,South Florida B,3
+
+Embry-Riddle Florida,Stetson,5
+
+Notre Dame B,Florida Tech B,4
+
+Florida State B,Georgia Tech B,5
+
+Georgia Tech B,North Georgia,6
+
+Florida State B,Florida B,3
+
+Georgia Tech B,South Florida B,8
+
+North Georgia,Embry-Riddle Florida,1
+
+Florida B,Stetson,7
+
+Florida State B,Central Florida B,9
+
+North Georgia,Florida B,3
+
+Bates College B,Colby B,3
+
+Bates College B,Brandeis B,1
+
+Colby B,Brandeis B,6
+
+Bates College,Emerson,10
+
+Colby,Emerson,11
+
+Bates College,Colby,5
+
+Emerson,Bates College B,5
+
+Bates College,Colby B,13
+
+Colby,Brandeis B,11
+
+North Carolina,North Carolina State,6
+
+Richmond,William & Mary,2
+
+Bentley,Worcester Polytech,8
+
+Amherst College,Massachusetts-Lowell,3
+
+Massachusetts-Lowell,Worcester Polytech,7
+
+Bates College,Amherst College,6
+
+Amherst College,Bentley,1
+
+Bates College,Massachusetts-Lowell,7
+
+Amherst College,Worcester Polytech,3
+
+Bates College,Bentley,7
+
+Bates College,Worcester Polytech,12
+
+Bentley,Massachusetts-Lowell,4
+
+Butler,Indiana Wesleyan,8
+
+Indiana Wesleyan,Eastern Illinois,1
+
+Butler,Eastern Illinois,9
+SUNY-Oneonta,Towson B,10
+
+Maryland-Baltimore County B,St Mary's Maryland,3
+
+SUNY-Oneonta,Maryland-Baltimore County B,13
+
+Towson B,St Mary's Maryland,1
+
+SUNY-Oneonta,St Mary's Maryland,12
+
+Maryland-Baltimore County B,Towson B,1
+
+American B,Lancaster Bible,3
+
+Delaware B,SUNY Oneonta B,11
+
+Lancaster Bible,SUNY Oneonta B,2
+
+Delaware B,American B,5
+
+Delaware B,Lancaster Bible,10
+
+American B,SUNY Oneonta B,4
+
+SUNY-Oneonta,Delaware B,9
+
+SUNY-Oneonta,American B,14
+
+Delaware B,Maryland-Baltimore County B,8
+
+SUNY-Oneonta,SUNY Oneonta B,14
+
+American B,Towson B,11
+
+Maryland-Baltimore County B,Lancaster Bible,10
+
+Delaware B,St Mary's Maryland,12
+
+St Mary's Maryland,SUNY Oneonta B,2
+
+SUNY Oneonta B,Towson B,5
+
+St Mary's Maryland,Lancaster Bible,1
+
+Towson B,Lancaster Bible,3
+
+Maryland-Baltimore County B,American B,2
+

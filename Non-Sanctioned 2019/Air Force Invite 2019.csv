@@ -1,32 +1,32 @@
-Sat 3/16,Air Force,Colorado,10,11
-Sat 3/16,Colorado,Colorado,5,13
-Sat 3/16,Colorado School,New Mexico,13,11
-Sat 3/16,Colorado Mesa,Colorado Cutthroat,11,10
-Sat 3/16,Air Force,Colorado School,13,10
-Sat 3/16,Colorado,Colorado Cutthroat,5,4
-Sat 3/16,Air Force,Colorado Mesa,4,12
-Sat 3/16,Colorado,Colorado,12,3
-Sat 3/16,Air Force,Colorado,13,6
-Sat 3/16,Colorado School,Air Force,13,0
-Sat 3/16,New Mexico,Colorado Cutthroat,13,5
-Sat 3/16,Colorado,Colorado Mesa,11,10
-Sat 3/16,Air Force,Colorado Cutthroat,13,3
-Sat 3/16,Colorado School,Colorado Mesa,13,3
-Sat 3/16,Colorado,Colorado,13,3
-Sat 3/16,Air Force,New Mexico,4,13
-Sun 3/17,Air Force,Colorado,13,4
-Sun 3/17,Air Force,Colorado Cutthroat,10,6
-Sun 3/17,Colorado,Colorado Mesa,11,9
-Sun 3/17,New Mexico,Colorado,13,6
-Sun 3/17,Air Force,Air Force,W,L
-Sun 3/17,Colorado School,Colorado,11,3
-Sun 3/17,Colorado,Colorado Cutthroat,12,5
-Sun 3/17,New Mexico,Colorado Mesa,13,4
-Sun 3/17,Air Force,New Mexico,12,9
-Sun 3/17,Colorado School,Colorado,10,11
-Sun 3/17,Colorado,Air Force,13,2
-Sun 3/17,Colorado,Colorado Cutthroat,11,9
-Sun 3/17,Air Force,Colorado Mesa,13,0
-Sun 3/17,Colorado School,Colorado,13,2
-Sun 3/17,Colorado,New Mexico,3,13
-Sun 3/17,Air Force,Colorado,5,11
+Colorado-Colorado Springs,Air Force B,1
+Colorado-Denver,Colorado B,8
+Colorado School of Mines,New Mexico,2
+Colorado Mesa,Colorado Cutthroat,1
+Air Force,Colorado School of Mines,3
+Colorado B,Colorado Cutthroat,1
+Colorado Mesa,Air Force B,8
+Colorado-Denver,Colorado-Colorado Springs,9
+Air Force,Colorado-Denver,7
+Colorado School of Mines,Air Force B,13
+New Mexico,Colorado Cutthroat,8
+Colorado-Colorado Springs,Colorado Mesa,1
+Air Force,Colorado Cutthroat,10
+Colorado School of Mines,Colorado Mesa,10
+Colorado B,Colorado-Colorado Springs,10
+New Mexico,Air Force B,9
+Air Force,Colorado B,9
+Air Force B,Colorado Cutthroat,4
+Colorado-Denver,Colorado Mesa,2
+New Mexico,Colorado-Colorado Springs,7
+Air Force,Air Force B,15
+Colorado School of Mines,Colorado B,8
+Colorado-Denver,Colorado Cutthroat,7
+New Mexico,Colorado Mesa,9
+Air Force,New Mexico,3
+Colorado-Denver,Colorado School of Mines,1
+Colorado B,Air Force B,11
+Colorado-Colorado Springs,Colorado Cutthroat,2
+Air Force,Colorado Mesa,13
+Colorado School of Mines,Colorado-Colorado Springs,11
+New Mexico,Colorado B,10
+Colorado-Denver,Air Force B,6

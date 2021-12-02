@@ -1,14 +1,14 @@
-Sat 3/9,Denison,Kent State,9,11
-Sat 3/9,Kettering,University of,W,F
-Sat 3/9,Denison,Kettering,12,10
-Sat 3/9,Oberlin,University of,W,F
-Sat 3/9,Denison,University of,W,F
-Sat 3/9,Oberlin,Kent State,10,15
-Sat 3/9,Denison,Oberlin,15,5
-Sat 3/9,Kettering,Kent State,6,15
-3/10/2019,Denison,Kent State,5,11
-3/10/2019,Denison,Kettering,9,7
-3/10/2019,Kent State,Oberlin,14,3
-3/10/2019,Oberlin,University of,W,F
-3/10/2019,Oberlin,Kettering,0,W
-3/10/2019,Oberlin,University of,W,F
+Kent State,Denison,2
+Kettering,University of Louisville,15
+Denison,Kettering,2
+Oberlin B,University of Louisville,15
+Denison,University of Louisville,15
+Kent State,Oberlin B,5
+Denison,Oberlin B,10
+Kent State,Kettering,9
+Kent State,Denison,6
+Denison,Kettering,2
+Kent State,Oberlin B,11
+Oberlin B,University of Louisville,15
+Kettering,Oberlin B,15
+Oberlin B,University of Louisville,15

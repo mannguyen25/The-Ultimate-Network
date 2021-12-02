@@ -1,46 +1,92 @@
-Date,Home Team,Away Team,Home Score,Away Score
-Sat 5/18,Middlebury,Franciscan,11,10
-Sat 5/18,Michigan Tech,Hamilton,11,9
-Sat 5/18,Middlebury,Hamilton,12,10
-Sat 5/18,Michigan Tech,Franciscan,15,8
-Sat 5/18,Middlebury,Michigan Tech,14,9
-Sat 5/18,Franciscan,Hamilton,12,13
-Sat 5/18,Air Force,Portland,12,5
-Sat 5/18,Bryant,Claremont,15,2
-Sat 5/18,Air Force,Claremont,14,3
-Sat 5/18,Bryant,Portland,13,4
-Sat 5/18,Air Force,Bryant,11,7
-Sat 5/18,Portland,Claremont,11,12
-Sat 5/18,Carleton Colleg,Missouri ,11,10
-Sat 5/18,Colby,Berry,11,9
-Sat 5/18,Carleton Colleg,Berry,15,6
-Sat 5/18,Colby,Missouri ,8,11
-Sat 5/18,Carleton Colleg,Colby,14,5
-Sat 5/18,Missouri ,Berry,12,10
-Sat 5/18,Richmond,Luther,10,8
-Sat 5/18,Bowdoin,Valparaiso,10,6
-Sat 5/18,Richmond,Valparaiso,11,6
-Sat 5/18,Bowdoin,Luther,9,11
-Sat 5/18,Richmond,Bowdoin,9,11
-Sat 5/18,Luther,Valparaiso,14,9
-5/19/2019,Middlebury,Air Force,15,12
-5/19/2019,Middlebury,Richmond,12,11
-5/19/2019,Carleton Colleg,Air Force,13,15
-5/19/2019,Middlebury,Bryant,15,9
-5/19/2019,Richmond,Missouri ,15,11
-5/19/2019,Carleton Colleg,Luther,15,10
-5/19/2019,Air Force,Bowdoin,15,10
-5/18/2019,Bryant,Colby,12,5
-5/18/2019,Missouri ,Claremont,14,6
-5/18/2019,Luther,Hamilton,14,5
-5/18/2019,Michigan Tech,Bowdoin,10,13
-5/19/2019,Bryant,Missouri ,8,15
-5/19/2019,Luther,Bowdoin,13,14
-5/19/2019,Colby,Claremont,11,8
-5/19/2019,Hamilton,Michigan Tech,11,13
-5/19/2019,Franciscan,Valparaiso,15,11
-5/19/2019,Colby,Franciscan,12,15
-5/19/2019,Claremont,Valparaiso,9,15
-5/19/2019,Berry,Portland,5,15
-5/19/2019,Hamilton,Berry,7,14
-5/19/2019,Michigan Tech,Portland,4,15
+Date,Home Team,Away Team,Home Score,Away Score
+
+Sat 5/18,Middlebury,Franciscan,11,10
+
+Sat 5/18,Michigan Tech,Hamilton,11,9
+
+Sat 5/18,Middlebury,Hamilton,12,10
+
+Sat 5/18,Michigan Tech,Franciscan,15,8
+
+Sat 5/18,Middlebury,Michigan Tech,14,9
+
+Sat 5/18,Franciscan,Hamilton,12,13
+
+Sat 5/18,Air Force,Portland,12,5
+
+Sat 5/18,Bryant University,Claremont,15,2
+
+Sat 5/18,Air Force,Claremont,14,3
+
+Sat 5/18,Bryant University,Portland,13,4
+
+Sat 5/18,Air Force,Bryant University,11,7
+
+Sat 5/18,Portland,Claremont,11,12
+
+Sat 5/18,Carleton College-GoP,Missouri ,11,10
+
+Sat 5/18,Colby,Berry,11,9
+
+Sat 5/18,Carleton College-GoP,Berry,15,6
+
+Sat 5/18,Colby,Missouri ,8,11
+
+Sat 5/18,Carleton College-GoP,Colby,14,5
+
+Sat 5/18,Missouri ,Berry,12,10
+
+Sat 5/18,Richmond,Luther,10,8
+
+Sat 5/18,Bowdoin,Valparaiso,10,6
+
+Sat 5/18,Richmond,Valparaiso,11,6
+
+Sat 5/18,Bowdoin,Luther,9,11
+
+Sat 5/18,Richmond,Bowdoin,9,11
+
+Sat 5/18,Luther,Valparaiso,14,9
+
+5/19/2019,Middlebury,Air Force,15,12
+
+5/19/2019,Middlebury,Richmond,12,11
+
+5/19/2019,Carleton College-GoP,Air Force,13,15
+
+5/19/2019,Middlebury,Bryant University,15,9
+
+5/19/2019,Richmond,Missouri ,15,11
+
+5/19/2019,Carleton College-GoP,Luther,15,10
+
+5/19/2019,Air Force,Bowdoin,15,10
+
+5/18/2019,Bryant University,Colby,12,5
+
+5/18/2019,Missouri ,Claremont,14,6
+
+5/18/2019,Luther,Hamilton,14,5
+
+5/18/2019,Michigan Tech,Bowdoin,10,13
+
+5/19/2019,Bryant University,Missouri ,8,15
+
+5/19/2019,Luther,Bowdoin,13,14
+
+5/19/2019,Colby,Claremont,11,8
+
+5/19/2019,Hamilton,Michigan Tech,11,13
+
+5/19/2019,Franciscan,Valparaiso,15,11
+
+5/19/2019,Colby,Franciscan,12,15
+
+5/19/2019,Claremont,Valparaiso,9,15
+
+5/19/2019,Berry,Portland,5,15
+
+5/19/2019,Hamilton,Berry,7,14
+
+5/19/2019,Michigan Tech,Portland,4,15
+

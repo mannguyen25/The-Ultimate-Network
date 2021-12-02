@@ -1,24 +1,48 @@
-Sat 3/23,SUNY,Towson,13,3
-Sat 3/23,St Mary,Maryland,7,10
-Sat 3/23,SUNY,Maryland,15,2
-Sat 3/23,St Mary,Towson,8,9
-Sat 3/23,SUNY,St Mary,15,3
-Sat 3/23,Towson,Maryland,5,6
-Sat 3/23,Lancaster Bible,American,3,6
-Sat 3/23,Delaware,SUNY Oneonta,13,2
-Sat 3/23,Lancaster Bible,SUNY Oneonta,7,5
-Sat 3/23,Delaware,American,9,4
-Sat 3/23,Lancaster Bible,Delaware,1,11
-Sat 3/23,American,SUNY Oneonta,7,3
-3/24/2019,SUNY,Delaware,13,4
-3/24/2019,SUNY,American,15,1
-3/24/2019,Maryland,Delaware,5,13
-3/24/2019,SUNY,SUNY Oneonta,15,1
-3/24/2019,American,Towson,15,4
-3/24/2019,Maryland,Lancaster Bible,14,4
-3/24/2019,Delaware,St Mary,15,3
-3/24/2019,SUNY Oneonta,St Mary,5,7
-3/24/2019,SUNY Oneonta,Towson,11,6
-3/24/2019,St Mary,Lancaster Bible,9,8
-3/24/2019,Towson,Lancaster Bible,9,6
-3/24/2019,American,Maryland,6,8
+SUNY-Oneonta,Towson B,10
+
+Maryland-Baltimore County B,St Mary's Maryland,3
+
+SUNY-Oneonta,Maryland-Baltimore County B,13
+
+Towson B,St Mary's Maryland,1
+
+SUNY-Oneonta,St Mary's Maryland,12
+
+Maryland-Baltimore County B,Towson B,1
+
+American B,Lancaster Bible,3
+
+Delaware B,SUNY Oneonta B,11
+
+Lancaster Bible,SUNY Oneonta B,2
+
+Delaware B,American B,5
+
+Delaware B,Lancaster Bible,10
+
+American B,SUNY Oneonta B,4
+
+SUNY-Oneonta,Delaware B,9
+
+SUNY-Oneonta,American B,14
+
+Delaware B,Maryland-Baltimore County B,8
+
+SUNY-Oneonta,SUNY Oneonta B,14
+
+American B,Towson B,11
+
+Maryland-Baltimore County B,Lancaster Bible,10
+
+Delaware B,St Mary's Maryland,12
+
+St Mary's Maryland,SUNY Oneonta B,2
+
+SUNY Oneonta B,Towson B,5
+
+St Mary's Maryland,Lancaster Bible,1
+
+Towson B,Lancaster Bible,3
+
+Maryland-Baltimore County B,American B,2
+

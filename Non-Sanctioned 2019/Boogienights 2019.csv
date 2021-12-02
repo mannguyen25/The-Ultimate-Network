@@ -1,16 +1,16 @@
-Sat 3/9,Michigan,Miami,13,7
-Sat 3/9,Miami,Miami,13,8
-Sat 3/9,Miami,Michigan,13,11
-Sat 3/9,Cincinnati,SUNY,13,8
-Sat 3/9,Cincinnati,Cleveland State,13,2
-Sat 3/9,SUNY,Cleveland State,13,4
-Sat 3/9,Miami,Cleveland State,13,2
-Sat 3/9,SUNY,Michigan,8,13
-Sat 3/9,Cincinnati,Miami,13,4
-3/10/2019,SUNY,Cincinnati,9,15
-3/10/2019,Miami,SUNY,10,13
-3/10/2019,Michigan,Cincinnati,9,15
-3/10/2019,Miami,SUNY,9,15
-3/10/2019,Michigan,Cleveland State,15,5
-3/10/2019,Michigan,Miami,9,7
-3/10/2019,Miami,Cleveland State,15,7
+Michigan B,Miami Ohio,6
+Miami Upper,Miami Ohio,5
+Miami Upper,Michigan B,2
+Cincinnati,SUNY-Buffalo,5
+Cincinnati,Cleveland State,11
+SUNY-Buffalo,Cleveland State,9
+Miami Upper,Cleveland State,11
+Michigan B,SUNY-Buffalo,5
+Cincinnati,Miami Ohio,9
+Cincinnati,SUNY-Buffalo,6
+SUNY-Buffalo,Miami Upper,3
+Cincinnati,Michigan B,6
+SUNY-Buffalo,Miami Ohio,6
+Michigan B,Cleveland State,10
+Michigan B,Miami Upper,2
+Miami Ohio,Cleveland State,8

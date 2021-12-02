@@ -1414,17 +1414,17 @@ American B,Maryland-Baltimore County B,1
 
 Georgetown B,George Washington B,4
 
-Maryland B,Towson  B,12
+Maryland B,Towson B,12
 
 Delaware B,Georgetown B,8
 
 Maryland B,American B,11
 
-George Washington B,Towson  B,9
+George Washington B,Towson B,9
 
 Delaware B,Maryland B,1
 
-Maryland-Baltimore County B,Towson  B,10
+Maryland-Baltimore County B,Towson B,10
 
 George Washington B,American B,8
 
@@ -1436,15 +1436,15 @@ Maryland B,George Washington B,4
 
 Georgetown B,Maryland-Baltimore County B,2
 
-Delaware B,Towson  B,12
+Delaware B,Towson B,12
 
-American B,Towson  B,6
+American B,Towson B,6
 
 Delaware B,George Washington B,5
 
 Maryland B,Maryland-Baltimore County B,5
 
-Georgetown B,Towson  B,9
+Georgetown B,Towson B,9
 
 Delaware B,American B,12
 
@@ -3324,17 +3324,17 @@ Virginia B,James Madison B,2
 
 Virginia Tech B,South Carolina B,1
 
-North Carolina State  B,William & Mary B,7
+North Carolina State B,William & Mary B,7
 
 North Carolina B,South Carolina B,4
 
 Virginia B,William & Mary B,8
 
-Virginia Tech B,North Carolina State  B,5
+Virginia Tech B,North Carolina State B,5
 
 North Carolina B,William & Mary B,6
 
-James Madison B,North Carolina State  B,2
+James Madison B,North Carolina State B,2
 
 Virginia Tech B,Virginia B,4
 
@@ -3346,15 +3346,15 @@ Virginia Tech B,William & Mary B,9
 
 James Madison B,South Carolina B,1
 
-North Carolina B,North Carolina State  B,6
+North Carolina B,North Carolina State B,6
 
-Virginia B,North Carolina State  B,5
+Virginia B,North Carolina State B,5
 
 North Carolina B,Virginia Tech B,3
 
 James Madison B,William & Mary B,8
 
-South Carolina B,North Carolina State  B,7
+South Carolina B,North Carolina State B,7
 
 North Carolina B,Virginia B,6
 
@@ -3408,7 +3408,7 @@ Williams,Amherst College,11
 
 Amherst College,Providence College,5
 
-Texas,Texas State  B,9
+Texas,Texas State B,9
 
 Texas State,Texas A&M B,8
 
@@ -3416,7 +3416,7 @@ Texas-Rio Grande Valley,Sam Houston State,2
 
 Texas State,Texas,1
 
-Sam Houston State,Texas State  B,1
+Sam Houston State,Texas State B,1
 
 Texas-Rio Grande Valley,Texas A&M B,2
 
@@ -3424,17 +3424,17 @@ Texas,Sam Houston State,10
 
 Texas State,Texas-Rio Grande Valley,4
 
-Texas State  B,Texas A&M B,1
+Texas State B,Texas A&M B,1
 
 Texas,Texas-Rio Grande Valley,10
 
-Texas State,Texas State  B,9
+Texas State,Texas State B,9
 
 Texas A&M B,Sam Houston State,7
 
 Texas,Texas A&M B,8
 
-Texas-Rio Grande Valley,Texas State  B,5
+Texas-Rio Grande Valley,Texas State B,5
 
 Texas State,Sam Houston State,8
 
@@ -3468,11 +3468,11 @@ Texas-San Antonio,Houston,3
 
 Texas A&M,Lamar,9
 
-Texas State  B,Texas-El Paso,5
+Texas State B,Texas-El Paso,5
 
 Sam Houston State,Houston,5
 
-Texas State  B,Sam Houston State,8
+Texas State B,Sam Houston State,8
 
 Houston,Texas-El Paso,7
 

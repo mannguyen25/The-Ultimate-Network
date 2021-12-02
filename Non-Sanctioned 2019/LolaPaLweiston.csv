@@ -1,9 +1,18 @@
-Sun 3/17,Bates College,Colby,6,3
-Sun 3/17,Bates College,Brandeis,5,4
-Sun 3/17,Brandeis,Colby,5,11
-Sun 3/17,Bates College,Emerson,13,3
-Sun 3/17,Emerson,Colby,2,13
-Sun 3/17,Bates College,Colby,12,7
-Sun 3/17,Bates College,Emerson,5,10
-Sun 3/17,Bates College,Colby,13,0
-Sun 3/17,Colby,Brandeis,13,2
+Bates College B,Colby B,3
+
+Bates College B,Brandeis B,1
+
+Colby B,Brandeis B,6
+
+Bates College,Emerson,10
+
+Colby,Emerson,11
+
+Bates College,Colby,5
+
+Emerson,Bates College B,5
+
+Bates College,Colby B,13
+
+Colby,Brandeis B,11
+
