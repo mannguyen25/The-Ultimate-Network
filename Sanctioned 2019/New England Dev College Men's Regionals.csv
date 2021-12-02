@@ -1,8 +1,8 @@
-Northeastern C,Massachusetts Amherst B,1
-Dartmouth B,Brown B,3
-Massachusetts Amherst B,Brown B,3
-Dartmouth B,Northeastern C,1
-Massachusetts Amherst B,Dartmouth B,3
-Northeastern C,Brown B,3
-Massachusetts Amherst B,Northeastern C,2
-Brown B,Dartmouth B,6
+Massachusetts Amherst B,Northeastern C,10,11
+Dartmouth B,Brown B,10,7
+Massachusetts Amherst B,Brown B,11,8
+Dartmouth B,Northeastern C,9,8
+Massachusetts Amherst B,Dartmouth B,11,8
+Northeastern C,Brown B,12,9
+Massachusetts Amherst B,Northeastern C,12,10
+Brown B,Dartmouth B,13,7

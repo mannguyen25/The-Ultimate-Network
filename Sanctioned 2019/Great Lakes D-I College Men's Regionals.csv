@@ -1,32 +1,32 @@
-Chicago,Illinois State,1
-Michigan,Chicago,8
-Michigan,Illinois State,1
-Grand Valley State,Kentucky,2
-Notre Dame,Kentucky,14
-Grand Valley State,Notre Dame,2
-Michigan B,Purdue,1
-Northwestern,Michigan B,14
-Purdue,Northwestern,5
-Indiana,Loyola-Chicago,11
-Illinois,Loyola-Chicago,9
-Illinois,Indiana,3
-Michigan,Indiana,9
-Michigan,Illinois,2
-Indiana,Chicago,3
-Michigan,Notre Dame,4
-Illinois,Purdue,2
-Indiana,Northwestern,3
-Chicago,Grand Valley State,4
-Notre Dame,Michigan B,7
-Purdue,Kentucky,1
-Indiana,Illinois State,6
-Chicago,Loyola-Chicago,8
-Illinois,Chicago,10
-Northwestern,Purdue,1
-Purdue,Notre Dame,4
-Northwestern,Grand Valley State,1
-Grand Valley State,Notre Dame,6
-Illinois State,Michigan B,1
-Michigan B,Kentucky,9
-Illinois State,Loyola-Chicago,6
-Kentucky,Loyola-Chicago,4
+Illinois State,Chicago,8,9
+Michigan,Chicago,12,4
+Michigan,Illinois State,11,10
+Grand Valley State,Kentucky,12,10
+Notre Dame,Kentucky,15,1
+Notre Dame,Grand Valley State,10,12
+Purdue,Michigan B,10,11
+Northwestern,Michigan B,15,1
+Northwestern,Purdue,6,11
+Indiana,Loyola-Chicago,15,4
+Illinois,Loyola-Chicago,15,6
+Illinois,Indiana,9,6
+Michigan,Indiana,13,4
+Michigan,Illinois,11,9
+Indiana,Chicago,13,10
+Michigan,Notre Dame,11,7
+Illinois,Purdue,10,8
+Northwestern,Indiana,7,10
+Grand Valley State,Chicago,7,11
+Notre Dame,Michigan B,13,6
+Purdue,Kentucky,11,10
+Indiana,Illinois State,13,7
+Chicago,Loyola-Chicago,13,5
+Illinois,Chicago,11,1
+Purdue,Northwestern,8,9
+Notre Dame,Purdue,6,10
+Northwestern,Grand Valley State,13,12
+Notre Dame,Grand Valley State,5,11
+Michigan B,Illinois State,9,10
+Michigan B,Kentucky,14,5
+Illinois State,Loyola-Chicago,12,6
+Kentucky,Loyola-Chicago,11,7

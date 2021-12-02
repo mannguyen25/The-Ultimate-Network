@@ -1,31 +1,31 @@
-Texas Tech,Baylor,2
-Stephen F. Austin,North Texas B,9
-Baylor,Texas-Arlington,7
-Texas Tech,North Texas B,9
-Texas Tech,Stephen F. Austin,12
-Texas-Arlington,North Texas B,8
-Stephen F. Austin,Texas-Arlington,5
-Baylor,North Texas B,9
-Texas Tech,Texas-Arlington,11
-Baylor,Stephen F. Austin,7
-Texas Christian,Southern Methodist,10
-Texas-Dallas,North Texas,9
-Texas-Dallas,Southern Methodist,12
-North Texas,Texas-Dallas B,12
-Southern Methodist,Texas-Dallas B,2
-Texas-Dallas,Texas Christian,7
-Texas Christian,Texas-Dallas B,8
-North Texas,Southern Methodist,7
-Texas Christian,North Texas,4
-Texas-Dallas,Texas-Dallas B,10
-Texas-Dallas,Texas Tech,2
-Texas Tech,Texas Christian,9
-Texas-Dallas,Baylor,8
-Texas Tech,Texas Christian,1
-Baylor,Texas Christian,2
-Texas Christian,Stephen F. Austin,5
-Baylor,North Texas,3
-Stephen F. Austin,Southern Methodist,4
-North Texas,Texas-Arlington,4
-Southern Methodist,Texas-Arlington,4
-Texas-Dallas B,North Texas B,4
+Texas Tech,Baylor,12,10
+Stephen F. Austin,North Texas B,13,4
+Baylor,Texas-Arlington,13,6
+Texas Tech,North Texas B,13,4
+Texas Tech,Stephen F. Austin,13,1
+North Texas B,Texas-Arlington,5,13
+Stephen F. Austin,Texas-Arlington,13,8
+Baylor,North Texas B,13,4
+Texas Tech,Texas-Arlington,13,2
+Baylor,Stephen F. Austin,13,6
+Texas Christian,Southern Methodist,13,3
+Texas-Dallas,North Texas,13,4
+Texas-Dallas,Southern Methodist,13,1
+North Texas,Texas-Dallas B,13,1
+Southern Methodist,Texas-Dallas B,9,7
+Texas-Dallas,Texas Christian,12,5
+Texas Christian,Texas-Dallas B,13,5
+North Texas,Southern Methodist,13,6
+North Texas,Texas Christian,8,12
+Texas-Dallas,Texas-Dallas B,13,3
+Texas Tech,Texas-Dallas,8,10
+Texas Tech,Texas Christian,13,4
+Baylor,Texas-Dallas,5,13
+Texas Tech,Texas Christian,1,0
+Texas Christian,Baylor,7,9
+Texas Christian,Stephen F. Austin,10,5
+North Texas,Baylor,7,10
+Stephen F. Austin,Southern Methodist,9,5
+Texas-Arlington,North Texas,7,11
+Southern Methodist,Texas-Arlington,12,8
+North Texas B,Texas-Dallas B,7,11

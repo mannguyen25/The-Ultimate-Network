@@ -1,10 +1,10 @@
-Grand Canyon,Arizona State,1
-Northern Arizona,New Mexico,4
-Arizona,Northern Arizona,2
-New Mexico,Arizona State,7
-Northern Arizona,Arizona State,10
-Arizona,Grand Canyon,3
-Arizona,Arizona State,5
-New Mexico,Grand Canyon,6
-Northern Arizona,Grand Canyon,3
-Arizona,New Mexico,3
+Arizona State,Grand Canyon,10,11
+New Mexico,Northern Arizona,9,13
+Arizona,Northern Arizona,12,10
+New Mexico,Arizona State,13,6
+Northern Arizona,Arizona State,13,3
+Arizona,Grand Canyon,13,10
+Arizona,Arizona State,13,8
+New Mexico,Grand Canyon,13,7
+Northern Arizona,Grand Canyon,13,10
+Arizona,New Mexico,13,10

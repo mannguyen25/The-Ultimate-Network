@@ -1,23 +1,23 @@
-Syracuse,SUNY-Buffalo,2
-Rutgers,SUNY-Buffalo,7
-Rutgers,Syracuse,8
-SUNY-Binghamton,SUNY-Albany,2
-Connecticut,SUNY-Albany,5
-Connecticut,SUNY-Binghamton,8
-SUNY-Stony Brook,RIT,2
-Cornell,SUNY-Stony Brook,5
-RIT,Cornell,3
-NYU,Princeton,1
-Yale,NYU,3
-Yale,Princeton,3
-Rutgers,Connecticut,1
-Rutgers,Yale,7
-Connecticut,Cornell,1
-Rutgers,SUNY-Stony Brook,9
-Yale,RIT,3
-Cornell,NYU,7
-Connecticut,Syracuse,6
-SUNY-Stony Brook,SUNY-Binghamton,4
-RIT,SUNY-Albany,6
-NYU,SUNY-Buffalo,2
-Syracuse,Princeton,1
+Syracuse,SUNY-Buffalo,12,10
+Rutgers,SUNY-Buffalo,13,6
+Rutgers,Syracuse,13,5
+SUNY-Binghamton,SUNY-Albany,11,9
+Connecticut,SUNY-Albany,13,8
+Connecticut,SUNY-Binghamton,13,5
+RIT,SUNY-Stony Brook,10,12
+Cornell,SUNY-Stony Brook,13,8
+Cornell,RIT,10,13
+Princeton,NYU,11,12
+Yale,NYU,12,9
+Yale,Princeton,12,9
+Rutgers,Connecticut,15,14
+Rutgers,Yale,15,8
+Cornell,Connecticut,11,12
+SUNY-Stony Brook,Rutgers,6,15
+Yale,RIT,15,12
+NYU,Cornell,8,15
+Connecticut,Syracuse,15,9
+SUNY-Binghamton,SUNY-Stony Brook,11,15
+RIT,SUNY-Albany,15,9
+NYU,SUNY-Buffalo,14,12
+Syracuse,Princeton,14,13

@@ -1,47 +1,47 @@
-California,Fresno State,10
-California-Davis,California-Santa Cruz,5
-Humboldt State,Las Positas,1
-California,Humboldt State,3
-California-Davis,Sacramento State,8
-California-Santa Cruz,Fresno State,10
-California,California-Davis,3
-Humboldt State,Sacramento State,6
-Las Positas,California-Santa Cruz,2
-California-Santa Cruz,Humboldt State,4
-Las Positas,Fresno State,9
-California,Sacramento State,7
-California-Davis,Fresno State,10
-Las Positas,Sacramento State,3
-Sacramento State,Fresno State,9
-California,California-Santa Cruz,3
-California-Davis,Las Positas,4
-Humboldt State,Fresno State,9
-California-Santa Cruz,Sacramento State,6
-California,Las Positas,5
-California-Davis,Humboldt State,4
-Stanford,Sonoma State,7
-Santa Clara,Nevada-Reno,5
-Chico State,San Jose State,8
-Stanford,Chico State,4
-Santa Clara,Sonoma State,3
-Nevada-Reno,San Jose State,7
-Stanford,Santa Clara,5
-Nevada-Reno,Chico State,2
-Sonoma State,San Jose State,6
-Stanford,Nevada-Reno,6
-Santa Clara,San Jose State,6
-Chico State,Sonoma State,7
-Stanford,San Jose State,11
-Chico State,Santa Clara,4
-Nevada-Reno,Sonoma State,11
-San Jose State,Fresno State,7
-Sacramento State,San Jose State,7
-California,Stanford,1
-California-Davis,Stanford,7
-California-Davis,Chico State,10
-California-Santa Cruz,Chico State,5
-California-Santa Cruz,Santa Clara,8
-Santa Clara,Las Positas,4
-Las Positas,Nevada-Reno,1
-Humboldt State,Nevada-Reno,1
-Humboldt State,Sonoma State,3
+California,Fresno State,11,1
+California-Davis,California-Santa Cruz,11,6
+Humboldt State,Las Positas,11,10
+California,Humboldt State,11,8
+California-Davis,Sacramento State,11,3
+California-Santa Cruz,Fresno State,11,1
+California,California-Davis,11,8
+Humboldt State,Sacramento State,11,5
+California-Santa Cruz,Las Positas,10,12
+California-Santa Cruz,Humboldt State,11,7
+Las Positas,Fresno State,11,2
+California,Sacramento State,11,4
+California-Davis,Fresno State,11,1
+Las Positas,Sacramento State,11,8
+Sacramento State,Fresno State,11,2
+California,California-Santa Cruz,11,8
+California-Davis,Las Positas,11,7
+Humboldt State,Fresno State,11,2
+California-Santa Cruz,Sacramento State,11,5
+California,Las Positas,11,6
+California-Davis,Humboldt State,11,7
+Stanford,Sonoma State,13,6
+Santa Clara,Nevada-Reno,13,8
+Chico State,San Jose State,13,5
+Stanford,Chico State,13,9
+Santa Clara,Sonoma State,13,10
+Nevada-Reno,San Jose State,13,6
+Stanford,Santa Clara,13,8
+Nevada-Reno,Chico State,13,11
+San Jose State,Sonoma State,7,13
+Stanford,Nevada-Reno,13,7
+Santa Clara,San Jose State,13,7
+Chico State,Sonoma State,12,5
+Stanford,San Jose State,13,2
+Santa Clara,Chico State,9,13
+Nevada-Reno,Sonoma State,13,2
+San Jose State,Fresno State,15,8
+San Jose State,Sacramento State,8,15
+California,Stanford,13,12
+Stanford,California-Davis,7,14
+California-Davis,Chico State,15,5
+Chico State,California-Santa Cruz,10,15
+California-Santa Cruz,Santa Clara,15,7
+Santa Clara,Las Positas,15,11
+Las Positas,Nevada-Reno,13,12
+Nevada-Reno,Humboldt State,14,15
+Humboldt State,Sonoma State,15,12

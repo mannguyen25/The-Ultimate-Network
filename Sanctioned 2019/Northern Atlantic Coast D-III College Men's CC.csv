@@ -1,19 +1,19 @@
-Richmond,Navy,5
-Catholic,Roanoke,7
-Richmond,Roanoke,11
-Navy,Catholic,6
-Richmond,Catholic,8
-Navy,Roanoke,9
-Mary Washington,Shenandoah,5
-Christopher Newport,St Mary's Maryland,11
-Mary Washington,St Mary's Maryland,9
-Christopher Newport,Shenandoah,8
-Mary Washington,Christopher Newport,12
-Shenandoah,St Mary's Maryland,4
-Mary Washington,Richmond,8
-Richmond,Navy,8
-Navy,Christopher Newport,12
-Christopher Newport,Catholic,6
-Catholic,Roanoke,4
-Catholic,St Mary's Maryland,13
-Roanoke,Shenandoah,2
+Richmond,Navy,13,8
+Catholic,Roanoke,13,6
+Richmond,Roanoke,13,2
+Catholic,Navy,7,13
+Richmond,Catholic,13,5
+Navy,Roanoke,13,4
+Mary Washington,Shenandoah,13,8
+Christopher Newport,St Mary's Maryland,13,2
+Mary Washington,St Mary's Maryland,13,4
+Christopher Newport,Shenandoah,13,5
+Mary Washington,Christopher Newport,13,1
+Shenandoah,St Mary's Maryland,11,7
+Richmond,Mary Washington,7,15
+Navy,Richmond,7,15
+Navy,Christopher Newport,15,3
+Christopher Newport,Catholic,13,7
+Catholic,Roanoke,11,7
+Catholic,St Mary's Maryland,15,2
+Roanoke,Shenandoah,11,9

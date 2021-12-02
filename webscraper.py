@@ -46,16 +46,20 @@ def scrape_page(page):
                 continue
             h_score = key[entries[i+5].string] if entries[i+5].string in key else int(entries[i+5].string)
             a_score = key[entries[i+6].string] if entries[i+6].string in key else int(entries[i+6].string)
-            team = [home, away]
-            winner = team.pop(team.index(home)) if h_score > a_score else team.pop(team.index(away))
-            loser = team.pop(0)
             if abs(h_score-a_score) == 0:
                 continue
-            else:
-                if "Alum" in winner or "Alum" in loser:
-                    continue
-                game = [winner, loser, abs(h_score-a_score)]
-                games.append(game)
+            game = [home,away,h_score,a_score]
+            games.append(game)
+            # team = [home, away]
+            # winner = team.pop(team.index(home)) if h_score > a_score else team.pop(team.index(away))
+            # loser = team.pop(0)
+            # if abs(h_score-a_score) == 0:
+            #     continue
+            # else:
+            #     if "Alum" in winner or "Alum" in loser:
+            #         continue
+            #     game = [winner, loser, abs(h_score-a_score)]
+            #     games.append(game)
     teams = soup.findAll("span", {"class":"team adjust-data"})
     scores = soup.findAll("span", {"class":"score adjust-data"})
     for i in range(0, len(teams), 2):
@@ -78,16 +82,20 @@ def scrape_page(page):
             continue
         h_score = key[scores[i].string] if scores[i].string in key else int(scores[i].string)
         a_score = key[scores[i+1].string] if scores[i+1].string in key else int(scores[i+1].string)
-        team = [home, away]
-        winner = team.pop(team.index(home)) if h_score > a_score else team.pop(team.index(away))
-        loser = team.pop(0)
         if abs(h_score-a_score) == 0:
             continue
-        else:
-            if "Alum" in winner or "Alum" in loser:
-                continue
-            game = [winner, loser, abs(h_score-a_score)]
-            games.append(game)
+        game = [home,away,h_score,a_score]
+        games.append(game)
+        # team = [home, away]
+        # winner = team.pop(team.index(home)) if h_score > a_score else team.pop(team.index(away))
+        # loser = team.pop(0)
+        # if abs(h_score-a_score) == 0:
+        #     continue
+        # else:
+        #     if "Alum" in winner or "Alum" in loser:
+        #         continue
+        #     game = [winner, loser, abs(h_score-a_score)]
+        #     games.append(game)
     return games
 def main():
     # TODO: implement selenium driver to select multiple pages :(
@@ -107,6 +115,7 @@ def main():
     # for a in soup.find_all('a', href=re.compile('(https:\/\/play.usaultimate.org\/events\/).+(Mens).+')):
     #     data = scrape_page(requests.get(a['href']+"/schedule/Men/CollegeMen/"))
     #     # header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
+    #     print(data)
     #     write_to_csv(data, "C:/Users/Man/Documents/GitHub/The-Ultimate-Network/sanctioned_update.csv")
     #     write_to_csv(data, "C:/Users/Man/Documents/GitHub/The-Ultimate-Network/Sanctioned 2019/"+a.string + ".csv", 'w')
 if __name__ == "__main__":

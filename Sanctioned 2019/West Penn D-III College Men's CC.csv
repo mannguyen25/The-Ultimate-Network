@@ -1,24 +1,24 @@
-Messiah,Grove City,6
-Bucknell,Allegheny,7
-Messiah,Bucknell,8
-Grove City,Allegheny,8
-Messiah,Allegheny,12
-Grove City,Bucknell,2
-Susquehanna,California-Pennsylvania,5
-Shippensburg,Susquehanna,4
-Dickinson,California-Pennsylvania,2
-Shippensburg,California-Pennsylvania,11
-Dickinson,Susquehanna,5
-Shippensburg,Dickinson,6
-Bucknell,Dickinson,2
-Grove City,Susquehanna,1
-Messiah,Bucknell,8
-Shippensburg,Grove City,2
-Messiah,Shippensburg,5
-Dickinson,California-Pennsylvania,1
-Susquehanna,Allegheny,10
-Grove City,Dickinson,11
-Susquehanna,Bucknell,4
-Grove City,Susquehanna,8
-Dickinson,Bucknell,1
-Allegheny,California-Pennsylvania,1
+Messiah,Grove City,13,7
+Allegheny,Bucknell,6,13
+Messiah,Bucknell,13,5
+Allegheny,Grove City,5,13
+Messiah,Allegheny,13,1
+Grove City,Bucknell,13,11
+Susquehanna,California-Pennsylvania,12,7
+Shippensburg,Susquehanna,13,9
+Dickinson,California-Pennsylvania,11,9
+Shippensburg,California-Pennsylvania,13,2
+Dickinson,Susquehanna,12,7
+Shippensburg,Dickinson,13,7
+Dickinson,Bucknell,9,11
+Grove City,Susquehanna,1,0
+Messiah,Bucknell,15,7
+Grove City,Shippensburg,13,15
+Messiah,Shippensburg,15,10
+California-Pennsylvania,Dickinson,13,14
+Susquehanna,Allegheny,15,5
+Dickinson,Grove City,4,15
+Bucknell,Susquehanna,11,15
+Grove City,Susquehanna,15,7
+Dickinson,Bucknell,15,14
+California-Pennsylvania,Allegheny,10,11

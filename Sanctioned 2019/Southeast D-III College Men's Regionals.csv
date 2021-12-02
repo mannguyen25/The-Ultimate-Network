@@ -1,21 +1,21 @@
-Berry,North Georgia,7
-Belmont,Stetson,2
-North Georgia,Stetson,8
-Berry,Belmont,9
-North Georgia,Belmont,7
-Berry,Stetson,9
-Samford,Embry-Riddle Florida,4
-Florida Tech,Union Tennessee,7
-Florida Tech,Samford,8
-Embry-Riddle Florida,Union Tennessee,2
-Samford,Union Tennessee,7
-Florida Tech,Embry-Riddle Florida,6
-Berry,Florida Tech,3
-Berry,Samford,2
-Florida Tech,North Georgia,1
-Berry,Union Tennessee,5
-Samford,Belmont,3
-North Georgia,Embry-Riddle Florida,10
-Florida Tech,Stetson,12
-Embry-Riddle Florida,Stetson,4
-North Georgia,Samford,1
+North Georgia,Berry,6,13
+Belmont,Stetson,13,11
+North Georgia,Stetson,13,5
+Belmont,Berry,6,15
+North Georgia,Belmont,13,6
+Berry,Stetson,13,4
+Samford,Embry-Riddle Florida,15,11
+Union Tennessee,Florida Tech,6,13
+Samford,Florida Tech,7,15
+Union Tennessee,Embry-Riddle Florida,12,14
+Samford,Union Tennessee,15,8
+Embry-Riddle Florida,Florida Tech,9,15
+Berry,Florida Tech,14,11
+Berry,Samford,15,13
+North Georgia,Florida Tech,11,12
+Berry,Union Tennessee,15,10
+Samford,Belmont,15,12
+North Georgia,Embry-Riddle Florida,15,5
+Florida Tech,Stetson,15,3
+Embry-Riddle Florida,Stetson,15,11
+Samford,North Georgia,10,11

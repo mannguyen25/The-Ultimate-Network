@@ -1,18 +1,18 @@
-Bryant University,Amherst College,8
-Williams,Clark,10
-Providence College,Worcester Polytech,7
-Bryant University,Williams,7
-Amherst College,Worcester Polytech,4
-Providence College,Clark,1
-Bryant University,Worcester Polytech,10
-Williams,Providence College,9
-Amherst College,Clark,5
-Bryant University,Providence College,5
-Williams,Amherst College,7
-Clark,Worcester Polytech,1
-Bryant University,Clark,9
-Williams,Worcester Polytech,10
-Providence College,Amherst College,3
-Bryant University,Williams,5
-Williams,Amherst College,11
-Amherst College,Providence College,5
+Bryant University,Amherst College,13,5
+Williams,Clark,13,3
+Worcester Polytech,Providence College,6,13
+Bryant University,Williams,13,6
+Amherst College,Worcester Polytech,13,9
+Clark,Providence College,12,13
+Bryant University,Worcester Polytech,13,3
+Williams,Providence College,13,4
+Amherst College,Clark,13,8
+Bryant University,Providence College,13,8
+Williams,Amherst College,13,6
+Worcester Polytech,Clark,12,13
+Bryant University,Clark,13,4
+Williams,Worcester Polytech,13,3
+Amherst College,Providence College,10,13
+Bryant University,Williams,15,10
+Williams,Amherst College,15,4
+Providence College,Amherst College,9,14

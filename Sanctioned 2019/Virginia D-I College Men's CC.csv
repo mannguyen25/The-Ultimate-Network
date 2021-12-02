@@ -1,27 +1,27 @@
-William & Mary,Virginia Commonwealth,7
-Virginia Tech,Radford,11
-William & Mary,Radford,8
-Virginia Tech,Virginia Commonwealth,11
-Virginia Tech,William & Mary,4
-Virginia Commonwealth,Radford,5
-Virginia,James Madison,1
-Liberty,George Mason,7
-Virginia,George Mason,4
-James Madison,Liberty,1
-Virginia,Liberty,6
-James Madison,George Mason,5
-Virginia Tech,Virginia,3
-Virginia Tech,James Madison,9
-Virginia,Liberty,9
-Virginia Tech,George Mason,7
-James Madison,Virginia Commonwealth,7
-Liberty,William & Mary,1
-Virginia,Radford,13
-William & Mary,Virginia,7
-William & Mary,Liberty,11
-Liberty,George Mason,5
-William & Mary,James Madison,2
-George Mason,Virginia Commonwealth,1
-William & Mary,Radford,12
-James Madison,George Mason,11
-Virginia Commonwealth,Radford,5
+William & Mary,Virginia Commonwealth,13,6
+Virginia Tech,Radford,13,2
+William & Mary,Radford,13,5
+Virginia Tech,Virginia Commonwealth,13,2
+William & Mary,Virginia Tech,9,13
+Virginia Commonwealth,Radford,13,8
+Virginia,James Madison,15,14
+Liberty,George Mason,13,6
+Virginia,George Mason,13,9
+Liberty,James Madison,11,12
+Virginia,Liberty,13,7
+James Madison,George Mason,13,8
+Virginia Tech,Virginia,15,12
+Virginia Tech,James Madison,15,6
+Liberty,Virginia,6,15
+Virginia Tech,George Mason,15,8
+James Madison,Virginia Commonwealth,15,8
+William & Mary,Liberty,10,11
+Virginia,Radford,15,2
+William & Mary,Virginia,13,6
+Liberty,William & Mary,4,15
+George Mason,Liberty,7,12
+William & Mary,James Madison,12,10
+George Mason,Virginia Commonwealth,11,10
+William & Mary,Radford,15,3
+George Mason,James Madison,4,15
+Virginia Commonwealth,Radford,15,10

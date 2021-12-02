@@ -1,26 +1,26 @@
-Arkansas,Missouri,1
-Oklahoma,Washington University,3
-Oklahoma,Missouri,5
-Washington University,Missouri State,1
-Missouri,Missouri State,1
-Oklahoma,Arkansas,2
-Washington University,Missouri,1
-Arkansas,Missouri State,5
-Washington University,Arkansas,4
-Oklahoma,Missouri State,8
-Oklahoma State,Saint Louis,7
-Kansas,Central Arkansas,6
-Kansas State,Oklahoma B,9
-Oklahoma State,Central Arkansas,7
-Kansas,Kansas State,5
-Saint Louis,Oklahoma B,8
-Oklahoma State,Kansas,5
-Saint Louis,Kansas State,8
-Oklahoma B,Central Arkansas,1
-Oklahoma State,Kansas State,5
-Kansas,Oklahoma B,6
-Saint Louis,Central Arkansas,10
-Oklahoma State,Oklahoma B,11
-Kansas,Saint Louis,2
-Kansas State,Central Arkansas,8
-Kansas State,Missouri,1
+Arkansas,Missouri,7,6
+Oklahoma,Washington University,9,6
+Oklahoma,Missouri,11,6
+Washington University,Missouri State,10,9
+Missouri,Missouri State,8,7
+Oklahoma,Arkansas,8,6
+Washington University,Missouri,8,7
+Arkansas,Missouri State,11,6
+Washington University,Arkansas,10,6
+Oklahoma,Missouri State,11,3
+Oklahoma State,Saint Louis,11,4
+Kansas,Central Arkansas,11,5
+Kansas State,Oklahoma B,11,2
+Oklahoma State,Central Arkansas,11,4
+Kansas,Kansas State,11,6
+Saint Louis,Oklahoma B,11,3
+Oklahoma State,Kansas,11,6
+Saint Louis,Kansas State,11,3
+Central Arkansas,Oklahoma B,10,11
+Oklahoma State,Kansas State,11,6
+Kansas,Oklahoma B,11,5
+Saint Louis,Central Arkansas,11,1
+Oklahoma State,Oklahoma B,11,0
+Kansas,Saint Louis,10,8
+Kansas State,Central Arkansas,11,3
+Kansas State,Missouri,15,14

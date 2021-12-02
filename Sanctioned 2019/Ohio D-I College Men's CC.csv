@@ -1,30 +1,30 @@
-Ohio State,Cincinnati,7
-Toledo,Kent State,2
-Ohio State,Toledo,10
-Miami Ohio,Kent State,5
-Cincinnati,Kent State,10
-Miami Ohio,Toledo,5
-Ohio State,Miami Ohio,10
-Cincinnati,Toledo,9
-Ohio State,Kent State,12
-Cincinnati,Miami Ohio,8
-Ohio,Dayton,4
-Case Western Reserve,Wright State,8
-Akron,Cleveland State,7
-Ohio,Wright State,5
-Case Western Reserve,Akron,8
-Dayton,Cleveland State,7
-Ohio,Cleveland State,10
-Case Western Reserve,Dayton,3
-Wright State,Akron,4
-Ohio,Akron,8
-Case Western Reserve,Cleveland State,9
-Dayton,Wright State,6
-Ohio,Case Western Reserve,3
-Dayton,Akron,8
-Wright State,Cleveland State,5
-Dayton,Miami Ohio,3
-Miami Ohio,Toledo,2
-Toledo,Wright State,1
-Toledo,Akron,1
-Wright State,Kent State,1
+Ohio State,Cincinnati,13,6
+Toledo,Kent State,11,9
+Ohio State,Toledo,13,3
+Miami Ohio,Kent State,13,8
+Cincinnati,Kent State,13,3
+Miami Ohio,Toledo,13,8
+Ohio State,Miami Ohio,13,3
+Cincinnati,Toledo,13,4
+Ohio State,Kent State,13,1
+Cincinnati,Miami Ohio,13,5
+Ohio,Dayton,11,7
+Case Western Reserve,Wright State,11,3
+Akron,Cleveland State,11,4
+Ohio,Wright State,11,6
+Case Western Reserve,Akron,11,3
+Dayton,Cleveland State,11,4
+Ohio,Cleveland State,11,1
+Case Western Reserve,Dayton,11,8
+Akron,Wright State,7,11
+Ohio,Akron,11,3
+Case Western Reserve,Cleveland State,11,2
+Dayton,Wright State,11,5
+Ohio,Case Western Reserve,11,8
+Dayton,Akron,11,3
+Wright State,Cleveland State,11,6
+Miami Ohio,Dayton,9,12
+Toledo,Miami Ohio,11,13
+Toledo,Wright State,13,12
+Toledo,Akron,1,0
+Kent State,Wright State,0,1

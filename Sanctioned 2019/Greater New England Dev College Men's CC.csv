@@ -1,25 +1,25 @@
-Vermont B,Colby B,5
-Massachusetts C,Amherst College B,8
-Massachusetts Amherst B,Dartmouth B,3
-Massachusetts C,Dartmouth B,6
-Brown B,Colby B,10
-Massachusetts Amherst B,Amherst College B,11
-Massachusetts C,Brown B,8
-Vermont B,Amherst College B,5
-Massachusetts Amherst B,Colby B,12
-Massachusetts C,Vermont B,6
-Dartmouth B,Colby B,8
-Brown B,Amherst College B,15
-Massachusetts Amherst B,Brown B,3
-Vermont B,Dartmouth B,6
-Colby B,Amherst College B,15
-Massachusetts C,Massachusetts Amherst B,2
-Brown B,Vermont B,5
-Dartmouth B,Amherst College B,15
-Massachusetts C,Colby B,11
-Dartmouth B,Brown B,10
-Vermont B,Massachusetts Amherst B,2
-Massachusetts C,Vermont B,2
-Dartmouth B,Brown B,4
-Colby B,Amherst College B,15
-Brown B,Colby B,15
+Vermont B,Colby B,10,5
+Massachusetts C,Amherst College B,13,5
+Massachusetts Amherst B,Dartmouth B,12,9
+Massachusetts C,Dartmouth B,11,5
+Brown B,Colby B,13,3
+Massachusetts Amherst B,Amherst College B,13,2
+Massachusetts C,Brown B,13,5
+Vermont B,Amherst College B,12,7
+Massachusetts Amherst B,Colby B,13,1
+Massachusetts C,Vermont B,12,6
+Dartmouth B,Colby B,13,5
+Brown B,Amherst College B,15,0
+Brown B,Massachusetts Amherst B,10,13
+Dartmouth B,Vermont B,7,13
+Colby B,Amherst College B,15,0
+Massachusetts C,Massachusetts Amherst B,13,11
+Brown B,Vermont B,13,8
+Dartmouth B,Amherst College B,15,0
+Massachusetts C,Colby B,13,2
+Brown B,Dartmouth B,3,13
+Massachusetts Amherst B,Vermont B,11,13
+Massachusetts C,Vermont B,15,13
+Dartmouth B,Brown B,15,11
+Colby B,Amherst College B,15,0
+Brown B,Colby B,15,0

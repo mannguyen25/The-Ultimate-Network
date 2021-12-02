@@ -1,23 +1,23 @@
-John Brown,Rice,4
-Colorado School of Mines,Trinity,9
-Rice,Trinity,6
-John Brown,Colorado School of Mines,4
-Rice,Colorado School of Mines,15
-John Brown,Trinity,7
-Air Force,Truman State,6
-Missouri S&T,Colorado College,1
-Air Force,Colorado College,2
-Missouri S&T,Truman State,5
-Air Force,Missouri S&T,7
-Truman State,Colorado College,7
-Air Force,Missouri S&T,6
-Missouri S&T,John Brown,6
-Air Force,Rice,2
-Missouri S&T,Rice,2
-Rice,Colorado College,1
-Colorado College,John Brown,1
-Rice,Truman State,3
-Colorado College,Colorado School of Mines,4
-Truman State,Trinity,7
-Colorado School of Mines,Trinity,7
-John Brown,Truman State,4
+Rice,John Brown,11,15
+Colorado School of Mines,Trinity,15,6
+Rice,Trinity,15,9
+Colorado School of Mines,John Brown,8,12
+Rice,Colorado School of Mines,15,0
+John Brown,Trinity,15,8
+Air Force,Truman State,15,9
+Missouri S&T,Colorado College,13,12
+Air Force,Colorado College,12,10
+Missouri S&T,Truman State,15,10
+Air Force,Missouri S&T,15,8
+Truman State,Colorado College,14,7
+Missouri S&T,Air Force,9,15
+John Brown,Missouri S&T,9,15
+Rice,Air Force,13,15
+Missouri S&T,Rice,15,13
+Colorado College,Rice,12,13
+John Brown,Colorado College,11,12
+Truman State,Rice,12,15
+Colorado School of Mines,Colorado College,8,12
+Trinity,Truman State,8,15
+Colorado School of Mines,Trinity,15,8
+John Brown,Truman State,15,11

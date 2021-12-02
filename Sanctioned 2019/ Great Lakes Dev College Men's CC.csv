@@ -1,28 +1,28 @@
-Kentucky B,Michigan State B,3
-Michigan B,Indiana B,9
-Michigan B,Michigan State B,8
-Indiana B,Chicago B,9
-Michigan State B,Chicago B,1
-Michigan B,Kentucky B,8
-Indiana B,Michigan State B,4
-Kentucky B,Chicago B,8
-Kentucky B,Indiana B,3
-Michigan B,Chicago B,11
-Illinois B,Notre Dame B,6
-Northwestern B,Purdue B,1
-Illinois B,Purdue B,2
-Notre Dame B,Northwestern B,2
-Illinois B,Northwestern B,8
-Purdue B,Notre Dame B,1
-Michigan B,Illinois B,12
-Michigan B,Indiana B,11
-Illinois B,Purdue B,4
-Michigan B,Northwestern B,13
-Indiana B,Notre Dame B,9
-Purdue B,Kentucky B,4
-Illinois B,Michigan State B,15
-Indiana B,Purdue B,3
-Northwestern B,Michigan State B,9
-Northwestern B,Notre Dame B,13
-Michigan State B,Kentucky B,1
-Notre Dame B,Kentucky B,15
+Kentucky B,Michigan State B,9,6
+Michigan B,Indiana B,11,2
+Michigan B,Michigan State B,11,3
+Indiana B,Chicago B,11,2
+Michigan State B,Chicago B,8,7
+Michigan B,Kentucky B,11,3
+Indiana B,Michigan State B,11,7
+Kentucky B,Chicago B,11,3
+Indiana B,Kentucky B,7,10
+Michigan B,Chicago B,11,0
+Illinois B,Notre Dame B,13,7
+Northwestern B,Purdue B,10,9
+Illinois B,Purdue B,11,9
+Northwestern B,Notre Dame B,7,9
+Illinois B,Northwestern B,15,7
+Notre Dame B,Purdue B,11,12
+Michigan B,Illinois B,15,3
+Michigan B,Indiana B,15,4
+Purdue B,Illinois B,6,10
+Michigan B,Northwestern B,15,2
+Notre Dame B,Indiana B,6,15
+Kentucky B,Purdue B,7,11
+Illinois B,Michigan State B,15,0
+Indiana B,Purdue B,9,6
+Northwestern B,Michigan State B,11,2
+Northwestern B,Notre Dame B,15,2
+Kentucky B,Michigan State B,5,6
+Notre Dame B,Kentucky B,15,0

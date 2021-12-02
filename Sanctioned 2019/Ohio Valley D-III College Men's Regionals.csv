@@ -1,24 +1,24 @@
-Muhlenberg,Lehigh B,9
-Messiah,Lehigh B,10
-Messiah,Muhlenberg,2
-Xavier,Wooster,5
-Oberlin,Wooster,5
-Oberlin,Xavier,1
-Swarthmore,Grove City,1
-Franciscan,Grove City,6
-Franciscan,Swarthmore,12
-Haverford,Shippensburg,8
-Cedarville,Haverford,1
-Cedarville,Shippensburg,1
-Franciscan,Cedarville,3
-Xavier,Grove City,5
-Swarthmore,Wooster,3
-Haverford,Lehigh B,12
-Shippensburg,Muhlenberg,2
-Messiah,Xavier,4
-Cedarville,Swarthmore,9
-Franciscan,Haverford,7
-Oberlin,Shippensburg,7
-Cedarville,Xavier,14
-Franciscan,Oberlin,4
-Haverford,Shippensburg,2
+Muhlenberg,Lehigh B,11,2
+Messiah,Lehigh B,12,2
+Messiah,Muhlenberg,10,8
+Xavier,Wooster,10,5
+Oberlin,Wooster,10,5
+Oberlin,Xavier,9,8
+Swarthmore,Grove City,9,8
+Franciscan,Grove City,13,7
+Franciscan,Swarthmore,13,1
+Shippensburg,Haverford,3,11
+Cedarville,Haverford,6,5
+Cedarville,Shippensburg,10,9
+Cedarville,Franciscan,12,15
+Xavier,Grove City,15,10
+Swarthmore,Wooster,15,12
+Lehigh B,Haverford,3,15
+Shippensburg,Muhlenberg,15,13
+Messiah,Xavier,14,10
+Swarthmore,Cedarville,6,15
+Franciscan,Haverford,15,8
+Shippensburg,Oberlin,8,15
+Xavier,Cedarville,0,14
+Franciscan,Oberlin,15,11
+Haverford,Shippensburg,10,8

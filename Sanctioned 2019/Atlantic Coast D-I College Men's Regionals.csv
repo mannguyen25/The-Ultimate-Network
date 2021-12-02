@@ -1,46 +1,46 @@
-North Carolina,Duke,6
-Johns Hopkins,East Carolina,5
-North Carolina,East Carolina,8
-Duke,Johns Hopkins,2
-North Carolina,Johns Hopkins,8
-Duke,East Carolina,4
-Virginia,North Carolina State,2
-Maryland,Appalachian State,1
-North Carolina State,Appalachian State,6
-Maryland,Virginia,1
-North Carolina State,Maryland,5
-Virginia,Appalachian State,6
-North Carolina-Wilmington,Liberty,8
-James Madison,William & Mary,1
-North Carolina-Wilmington,James Madison,9
-William & Mary,Liberty,4
-William & Mary,North Carolina-Wilmington,2
-James Madison,Liberty,3
-South Carolina,Georgetown,7
-Virginia Tech,North Carolina B,5
-South Carolina,North Carolina B,3
-Virginia Tech,Georgetown,6
-Virginia Tech,South Carolina,4
-Georgetown,North Carolina B,5
-North Carolina,North Carolina State,13
-North Carolina,Virginia Tech,8
-North Carolina State,North Carolina-Wilmington,7
-North Carolina State,Maryland,5
-Maryland,Johns Hopkins,5
-Johns Hopkins,Virginia Tech,2
-Maryland,North Carolina-Wilmington,1
-Johns Hopkins,William & Mary,1
-Maryland,South Carolina,2
-William & Mary,Georgetown,2
-Johns Hopkins,Virginia,7
-Maryland,Duke,3
-South Carolina,James Madison,9
-South Carolina,William & Mary,5
-Virginia,James Madison,9
-Virginia,Georgetown,2
-James Madison,Duke,2
-Georgetown,Duke,1
-North Carolina B,Appalachian State,2
-North Carolina B,East Carolina,2
-Appalachian State,Liberty,2
-Liberty,East Carolina,4
+North Carolina,Duke,13,7
+Johns Hopkins,East Carolina,13,8
+North Carolina,East Carolina,13,5
+Johns Hopkins,Duke,9,11
+North Carolina,Johns Hopkins,13,5
+Duke,East Carolina,10,6
+North Carolina State,Virginia,11,13
+Maryland,Appalachian State,12,11
+North Carolina State,Appalachian State,13,7
+Maryland,Virginia,11,10
+North Carolina State,Maryland,13,8
+Virginia,Appalachian State,12,6
+North Carolina-Wilmington,Liberty,13,5
+William & Mary,James Madison,11,12
+North Carolina-Wilmington,James Madison,13,4
+William & Mary,Liberty,10,6
+North Carolina-Wilmington,William & Mary,8,10
+Liberty,James Madison,10,13
+South Carolina,Georgetown,13,6
+Virginia Tech,North Carolina B,13,8
+South Carolina,North Carolina B,12,9
+Virginia Tech,Georgetown,13,7
+South Carolina,Virginia Tech,8,12
+Georgetown,North Carolina B,12,7
+North Carolina,North Carolina State,15,2
+North Carolina,Virginia Tech,15,7
+North Carolina-Wilmington,North Carolina State,8,15
+North Carolina State,Maryland,14,9
+Johns Hopkins,Maryland,8,13
+Virginia Tech,Johns Hopkins,12,14
+Maryland,North Carolina-Wilmington,13,12
+William & Mary,Johns Hopkins,11,12
+Maryland,South Carolina,15,13
+William & Mary,Georgetown,12,10
+Johns Hopkins,Virginia,15,8
+Duke,Maryland,11,14
+James Madison,South Carolina,6,15
+William & Mary,South Carolina,6,11
+Virginia,James Madison,13,4
+Georgetown,Virginia,12,14
+Duke,James Madison,11,13
+Georgetown,Duke,1,0
+North Carolina B,Appalachian State,13,11
+East Carolina,North Carolina B,13,15
+Liberty,Appalachian State,11,13
+East Carolina,Liberty,9,13

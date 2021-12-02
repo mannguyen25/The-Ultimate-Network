@@ -1,34 +1,34 @@
-Colorado,Texas,3
-Colorado,Texas-Dallas,2
-Texas,Colorado State,1
-Colorado,Texas A&M,5
-Texas-Dallas,Texas Tech,3
-Colorado State,Oklahoma,5
-Texas,Oklahoma State,8
-Colorado,Colorado B,9
-Texas A&M,Texas State,3
-Texas Tech,Baylor,9
-Texas-Dallas,Saint Louis,10
-Colorado State,Arkansas,1
-Oklahoma,Kansas,7
-Oklahoma State,Washington University,4
-Texas,Kansas State,10
-Texas,Texas A&M,5
-Texas A&M,Texas-Dallas,3
-Texas-Dallas,Oklahoma,4
-Texas A&M,Colorado State,2
-Oklahoma,Oklahoma State,6
-Texas A&M,Texas Tech,7
-Oklahoma State,Colorado B,4
-Oklahoma,Saint Louis,4
-Texas Tech,Kansas,2
-Texas A&M,Washington University,4
-Colorado B,Texas State,6
-Saint Louis,Baylor,3
-Kansas,Arkansas,5
-Washington University,Kansas State,3
-Kansas State,Texas State,15
-Texas State,Baylor,9
-Kansas State,Arkansas,6
-Saint Louis,Colorado B,4
-Washington University,Kansas,8
+Colorado,Texas,12,9
+Colorado,Texas-Dallas,13,11
+Colorado State,Texas,10,11
+Colorado,Texas A&M,14,9
+Texas Tech,Texas-Dallas,9,12
+Colorado State,Oklahoma,12,7
+Oklahoma State,Texas,7,15
+Colorado,Colorado B,15,6
+Texas A&M,Texas State,13,10
+Texas Tech,Baylor,15,6
+Saint Louis,Texas-Dallas,5,15
+Colorado State,Arkansas,10,9
+Kansas,Oklahoma,6,13
+Oklahoma State,Washington University,15,11
+Kansas State,Texas,5,15
+Texas,Texas A&M,15,10
+Texas-Dallas,Texas A&M,11,14
+Oklahoma,Texas-Dallas,9,13
+Texas A&M,Colorado State,13,11
+Oklahoma State,Oklahoma,8,14
+Texas Tech,Texas A&M,8,15
+Oklahoma State,Colorado B,15,11
+Oklahoma,Saint Louis,14,10
+Texas Tech,Kansas,12,10
+Texas A&M,Washington University,12,8
+Colorado B,Texas State,15,9
+Baylor,Saint Louis,12,15
+Arkansas,Kansas,6,11
+Washington University,Kansas State,12,9
+Texas State,Kansas State,0,15
+Texas State,Baylor,15,6
+Arkansas,Kansas State,9,15
+Colorado B,Saint Louis,9,13
+Kansas,Washington University,3,11

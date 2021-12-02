@@ -1,14 +1,14 @@
-Luther,Cornell College,12
-Grinnell,Coe,10
-Luther,Grinnell,9
-Drake,Coe,13
-Cornell College,Coe,4
-Grinnell,Drake,1
-Luther,Coe,12
-Drake,Cornell College,5
-Luther,Drake,8
-Grinnell,Cornell College,5
-Luther,Drake,7
-Luther,Cornell College,8
-Drake,Grinnell,7
-Grinnell,Cornell College,9
+Luther,Cornell College,13,1
+Grinnell,Coe,13,3
+Luther,Grinnell,13,4
+Drake,Coe,13,0
+Coe,Cornell College,6,10
+Drake,Grinnell,8,9
+Luther,Coe,13,1
+Drake,Cornell College,13,8
+Luther,Drake,13,5
+Grinnell,Cornell College,12,7
+Luther,Drake,13,6
+Luther,Cornell College,13,5
+Grinnell,Drake,4,11
+Cornell College,Grinnell,4,13

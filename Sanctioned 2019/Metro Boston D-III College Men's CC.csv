@@ -1,13 +1,13 @@
-Bentley,Brandeis,2
-Wentworth,Wheaton MA,9
-Brandeis,Wheaton MA,9
-Bentley,Stonehill,7
-Brandeis,Wentworth,6
-Stonehill,Wheaton MA,4
-Bentley,Wheaton MA,9
-Stonehill,Wentworth,1
-Bentley,Wentworth,8
-Brandeis,Stonehill,7
-Bentley,Brandeis,1
-Brandeis,Stonehill,11
-Stonehill,Wentworth,3
+Brandeis,Bentley,7,9
+Wentworth,Wheaton MA,13,4
+Brandeis,Wheaton MA,13,4
+Bentley,Stonehill,13,6
+Brandeis,Wentworth,13,7
+Wheaton MA,Stonehill,9,13
+Bentley,Wheaton MA,13,4
+Wentworth,Stonehill,10,11
+Bentley,Wentworth,13,5
+Brandeis,Stonehill,13,6
+Bentley,Brandeis,12,11
+Stonehill,Brandeis,4,15
+Stonehill,Wentworth,11,8

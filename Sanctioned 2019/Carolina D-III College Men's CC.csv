@@ -1,20 +1,20 @@
-Davidson,Elon,1
-North Carolina-Asheville,High Point,9
-Campbell,Anderson,5
-Davidson,North Carolina-Asheville,5
-Elon,Anderson,3
-High Point,Campbell,3
-Davidson,Anderson,10
-North Carolina-Asheville,Campbell,2
-Elon,High Point,11
-Davidson,Campbell,5
-North Carolina-Asheville,Elon,4
-High Point,Anderson,5
-Davidson,High Point,6
-North Carolina-Asheville,Anderson,8
-Elon,Campbell,6
-Davidson,North Carolina-Asheville,3
-North Carolina-Asheville,Elon,2
-Elon,High Point,4
-High Point,Anderson,8
-Campbell,Anderson,4
+Davidson,Elon,10,9
+North Carolina-Asheville,High Point,13,4
+Anderson,Campbell,6,11
+Davidson,North Carolina-Asheville,10,5
+Elon,Anderson,10,7
+High Point,Campbell,10,7
+Davidson,Anderson,13,3
+North Carolina-Asheville,Campbell,10,8
+Elon,High Point,13,2
+Davidson,Campbell,10,5
+North Carolina-Asheville,Elon,10,6
+Anderson,High Point,7,12
+Davidson,High Point,12,6
+North Carolina-Asheville,Anderson,12,4
+Elon,Campbell,12,6
+Davidson,North Carolina-Asheville,10,7
+North Carolina-Asheville,Elon,11,9
+Elon,High Point,11,7
+High Point,Anderson,13,5
+Campbell,Anderson,10,6

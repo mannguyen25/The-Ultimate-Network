@@ -1,45 +1,45 @@
-Washington State,Western Washington B,13
-Oregon,Washington State,11
-Oregon,Western Washington B,13
-Oregon State,Humboldt State,5
-Lewis & Clark College,Washington C,12
-Oregon State,Washington C,13
-Lewis & Clark College,Humboldt State,5
-Oregon State,Lewis & Clark College,9
-Humboldt State,Washington C,10
-Whitman,Washington B,6
-Nevada-Reno,Oregon State B,11
-Whitman,Oregon State B,12
-Nevada-Reno,Washington B,10
-Whitman,Nevada-Reno,6
-Washington B,Oregon State B,5
-Gonzaga,Portland State,9
-Puget Sound,Lewis & Clark B,12
-Gonzaga,Lewis & Clark B,13
-Puget Sound,Portland State,7
-Gonzaga,Puget Sound,6
-Portland State,Lewis & Clark B,12
-Oregon,Oregon State,7
-Oregon,Whitman,7
-Oregon State,Gonzaga,5
-Oregon,Puget Sound,12
-Whitman,Lewis & Clark College,10
-Oregon State,Nevada-Reno,7
-Gonzaga,Washington State,2
-Nevada-Reno,Lewis & Clark College,4
-Nevada-Reno,Washington State,4
-Lewis & Clark College,Puget Sound,4
-Puget Sound,Washington State,10
-Whitman,Gonzaga,8
-Western Washington B,Washington C,1
-Washington B,Lewis & Clark B,15
-Humboldt State,Portland State,4
-Washington B,Western Washington B,7
-Humboldt State,Lewis & Clark B,13
-Oregon State B,Washington C,3
-Western Washington B,Oregon State B,6
-Portland State,Washington C,8
-Washington B,Humboldt State,2
-Portland State,Western Washington B,9
-Washington C,Lewis & Clark B,10
-Washington B,Oregon State B,8
+Western Washington B,Washington State,2,15
+Oregon,Washington State,15,4
+Oregon,Western Washington B,15,2
+Oregon State,Humboldt State,13,8
+Lewis & Clark College,Washington C,13,1
+Oregon State,Washington C,13,0
+Lewis & Clark College,Humboldt State,13,8
+Oregon State,Lewis & Clark College,13,4
+Humboldt State,Washington C,13,3
+Whitman,Washington B,13,7
+Nevada-Reno,Oregon State B,13,2
+Whitman,Oregon State B,13,1
+Nevada-Reno,Washington B,13,3
+Whitman,Nevada-Reno,13,7
+Washington B,Oregon State B,13,8
+Gonzaga,Portland State,13,4
+Puget Sound,Lewis & Clark B,13,1
+Gonzaga,Lewis & Clark B,13,0
+Puget Sound,Portland State,13,6
+Gonzaga,Puget Sound,13,7
+Portland State,Lewis & Clark B,13,1
+Oregon,Oregon State,15,8
+Oregon,Whitman,15,8
+Oregon State,Gonzaga,14,9
+Oregon,Puget Sound,15,3
+Whitman,Lewis & Clark College,15,5
+Oregon State,Nevada-Reno,15,8
+Gonzaga,Washington State,13,11
+Nevada-Reno,Lewis & Clark College,15,11
+Washington State,Nevada-Reno,11,15
+Puget Sound,Lewis & Clark College,11,15
+Puget Sound,Washington State,15,5
+Whitman,Gonzaga,15,7
+Western Washington B,Washington C,15,14
+Washington B,Lewis & Clark B,15,0
+Humboldt State,Portland State,13,9
+Western Washington B,Washington B,8,15
+Humboldt State,Lewis & Clark B,15,2
+Oregon State B,Washington C,15,12
+Western Washington B,Oregon State B,15,9
+Portland State,Washington C,15,7
+Washington B,Humboldt State,15,13
+Portland State,Western Washington B,15,6
+Washington C,Lewis & Clark B,15,5
+Washington B,Oregon State B,15,7
