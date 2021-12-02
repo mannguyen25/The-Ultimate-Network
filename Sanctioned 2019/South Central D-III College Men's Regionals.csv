@@ -5,15 +5,15 @@ John Brown,Colorado School of Mines,4
 Rice,Colorado School of Mines,15
 John Brown,Trinity,7
 Air Force,Truman State,6
-Missouri S,Colorado College,1
+Missouri S&T,Colorado College,1
 Air Force,Colorado College,2
-Missouri S,Truman State,5
-Air Force,Missouri S,7
+Missouri S&T,Truman State,5
+Air Force,Missouri S&T,7
 Truman State,Colorado College,7
-Air Force,Missouri S,6
-Missouri S,John Brown,6
+Air Force,Missouri S&T,6
+Missouri S&T,John Brown,6
 Air Force,Rice,2
-Missouri S,Rice,2
+Missouri S&T,Rice,2
 Rice,Colorado College,1
 Colorado College,John Brown,1
 Rice,Truman State,3

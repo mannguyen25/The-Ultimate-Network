@@ -1,17 +1,17 @@
-Sat 3/9,Occidental,Caltech,12,13
-Sat 3/9,California,Grand Canyon,5,13
-Sat 3/9,California,Caltech,10,9
-Sat 3/9,Occidental,California,13,5
-Sat 3/9,Caltech,Grand Canyon,5,10
-Sat 3/9,Occidental,Grand Canyon,9,10
-Sat 3/9,Cal Poly,Biola Univeristy,W,L
-Sat 3/9,Cal Poly,Claremont,6,13
-Sat 3/9,Biola Univeristy,California,L,W
-Sat 3/9,Cal Poly,California,8,7
-Sat 3/9,Claremont,Biola Univeristy,W,L
-Sat 3/9,Claremont,California,12,10
-3/9/2019,Grand Canyon,Occidental,9,8
-3/9/2019,Grand Canyon,Cal Poly,9,8
-3/9/2019,Claremont,Occidental,11,13
-3/9/2019,California,California,11,10
-3/9/2019,Cal Poly,Claremont,7,11
+Caltech,Occidental,1
+Grand Canyon,California,8
+California,Caltech,1
+Occidental,California,8
+Grand Canyon,Caltech,5
+Grand Canyon,Occidental,1
+Cal Poly,Biola Univeristy,15
+Claremont,Cal Poly,7
+California,Biola Univeristy,15
+Cal Poly,California,1
+Claremont,Biola Univeristy,15
+Claremont,California,2
+Grand Canyon,Occidental,1
+Grand Canyon,Cal Poly,1
+Occidental,Claremont,2
+California,California,1
+Claremont,Cal Poly,4

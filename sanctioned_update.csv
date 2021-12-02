@@ -24,13 +24,13 @@ Virginia,Appalachian State,6
 
 North Carolina-Wilmington,Liberty,8
 
-James Madison,William,1
+James Madison,William & Mary,1
 
 North Carolina-Wilmington,James Madison,9
 
-William,Liberty,4
+William & Mary,Liberty,4
 
-William,North Carolina-Wilmington,2
+William & Mary,North Carolina-Wilmington,2
 
 James Madison,Liberty,3
 
@@ -60,11 +60,11 @@ Johns Hopkins,Virginia Tech,2
 
 Maryland,North Carolina-Wilmington,1
 
-Johns Hopkins,William,1
+Johns Hopkins,William & Mary,1
 
 Maryland,South Carolina,2
 
-William,Georgetown,2
+William & Mary,Georgetown,2
 
 Johns Hopkins,Virginia,7
 
@@ -72,7 +72,7 @@ Maryland,Duke,3
 
 South Carolina,James Madison,9
 
-South Carolina,William,5
+South Carolina,William & Mary,5
 
 Virginia,James Madison,9
 
@@ -810,7 +810,7 @@ Colorado,Texas-Dallas,2
 
 Texas,Colorado State,1
 
-Colorado,Texas A,5
+Colorado,Texas A&M,5
 
 Texas-Dallas,Texas Tech,3
 
@@ -820,7 +820,7 @@ Texas,Oklahoma State,8
 
 Colorado,Colorado B,9
 
-Texas A,Texas State,3
+Texas A&M,Texas State,3
 
 Texas Tech,Baylor,9
 
@@ -834,17 +834,17 @@ Oklahoma State,Washington University,4
 
 Texas,Kansas State,10
 
-Texas,Texas A,5
+Texas,Texas A&M,5
 
-Texas A,Texas-Dallas,3
+Texas A&M,Texas-Dallas,3
 
 Texas-Dallas,Oklahoma,4
 
-Texas A,Colorado State,2
+Texas A&M,Colorado State,2
 
 Oklahoma,Oklahoma State,6
 
-Texas A,Texas Tech,7
+Texas A&M,Texas Tech,7
 
 Oklahoma State,Colorado B,4
 
@@ -852,7 +852,7 @@ Oklahoma,Saint Louis,4
 
 Texas Tech,Kansas,2
 
-Texas A,Washington University,4
+Texas A&M,Washington University,4
 
 Colorado B,Texas State,6
 
@@ -886,23 +886,23 @@ John Brown,Trinity,7
 
 Air Force,Truman State,6
 
-Missouri S,Colorado College,1
+Missouri S&T,Colorado College,1
 
 Air Force,Colorado College,2
 
-Missouri S,Truman State,5
+Missouri S&T,Truman State,5
 
-Air Force,Missouri S,7
+Air Force,Missouri S&T,7
 
 Truman State,Colorado College,7
 
-Air Force,Missouri S,6
+Air Force,Missouri S&T,6
 
-Missouri S,John Brown,6
+Missouri S&T,John Brown,6
 
 Air Force,Rice,2
 
-Missouri S,Rice,2
+Missouri S&T,Rice,2
 
 Rice,Colorado College,1
 
@@ -990,13 +990,13 @@ Florida,Kennesaw State,5
 
 Berry,North Georgia,7
 
-Belmont  ,Stetson,2
+Belmont,Stetson,2
 
 North Georgia,Stetson,8
 
-Berry,Belmont  ,9
+Berry,Belmont,9
 
-North Georgia,Belmont  ,7
+North Georgia,Belmont,7
 
 Berry,Stetson,9
 
@@ -1020,7 +1020,7 @@ Florida Tech,North Georgia,1
 
 Berry,Union Tennessee,5
 
-Samford,Belmont  ,3
+Samford,Belmont,3
 
 North Georgia,Embry-Riddle Florida,10
 
@@ -2086,15 +2086,15 @@ Hartford,New Haven,5
 
 Illinois,Loyola-Chicago,11
 
-Illinois State,Illinois-Chicago  ,6
+Illinois State,Illinois-Chicago,6
 
-Illinois,Illinois-Chicago  ,12
+Illinois,Illinois-Chicago,12
 
 Illinois State,Loyola-Chicago,5
 
 Illinois,Illinois State,6
 
-Loyola-Chicago,Illinois-Chicago  ,8
+Loyola-Chicago,Illinois-Chicago,8
 
 Northwestern,DePaul,11
 
@@ -2118,7 +2118,7 @@ Northwestern,Loyola-Chicago,10
 
 Illinois State,DePaul,3
 
-Chicago,Illinois-Chicago  ,8
+Chicago,Illinois-Chicago,8
 
 Chicago,Loyola-Chicago,4
 
@@ -2126,7 +2126,7 @@ Illinois,DePaul,7
 
 Loyola-Chicago,Northern Illinois,1
 
-DePaul,Illinois-Chicago  ,2
+DePaul,Illinois-Chicago,2
 
 Loyola-Chicago,DePaul,4
 
@@ -2696,21 +2696,21 @@ Texas Tech,Texas-Arlington,11
 
 Baylor,Stephen F. Austin,7
 
-Texas Christian,Southern Methodist  ,10
+Texas Christian,Southern Methodist,10
 
 Texas-Dallas,North Texas,9
 
-Texas-Dallas,Southern Methodist  ,12
+Texas-Dallas,Southern Methodist,12
 
 North Texas,Texas-Dallas B,12
 
-Southern Methodist  ,Texas-Dallas B,2
+Southern Methodist,Texas-Dallas B,2
 
 Texas-Dallas,Texas Christian,7
 
 Texas Christian,Texas-Dallas B,8
 
-North Texas,Southern Methodist  ,7
+North Texas,Southern Methodist,7
 
 Texas Christian,North Texas,4
 
@@ -2730,11 +2730,11 @@ Texas Christian,Stephen F. Austin,5
 
 Baylor,North Texas,3
 
-Stephen F. Austin,Southern Methodist  ,4
+Stephen F. Austin,Southern Methodist,4
 
 North Texas,Texas-Arlington,4
 
-Southern Methodist  ,Texas-Arlington,4
+Southern Methodist,Texas-Arlington,4
 
 Texas-Dallas B,North Texas B,4
 
@@ -2750,27 +2750,27 @@ Whitman,Portland,7
 
 Pacific Lutheran,Willamette University,11
 
-Whitworth,Lewis,2
+Whitworth,Lewis & Clark,2
 
 Puget Sound,Seattle,13
 
-Lewis,Seattle,10
+Lewis & Clark,Seattle,10
 
 Whitworth,Puget Sound,2
 
-Lewis,Puget Sound,4
+Lewis & Clark,Puget Sound,4
 
 Whitworth,Seattle,5
 
 Whitman,Portland,9
 
-Whitman,Lewis,3
+Whitman,Lewis & Clark,3
 
 Portland,Whitworth,11
 
 Whitman,Seattle,15
 
-Lewis,Pacific Lutheran,11
+Lewis & Clark,Pacific Lutheran,11
 
 Portland,Puget Sound,9
 
@@ -2784,7 +2784,7 @@ Puget Sound,Willamette University,11
 
 Willamette University,Seattle,15
 
-Lewis,Whitworth,7
+Lewis & Clark,Whitworth,7
 
 Minnesota State-Mankato,North Dakota State,3
 
@@ -3068,15 +3068,15 @@ Kansas State,Missouri,1
 
 Tulsa,Harding,1
 
-Missouri S,Truman State,1
+Missouri S&T,Truman State,1
 
-Missouri S,John Brown,2
+Missouri S&T,John Brown,2
 
 Truman State,Tulsa,5
 
 John Brown,Harding,5
 
-Missouri S,Tulsa,8
+Missouri S&T,Tulsa,8
 
 John Brown,Tulsa,6
 
@@ -3084,7 +3084,7 @@ Truman State,Harding,4
 
 Truman State,John Brown,4
 
-Missouri S,Harding,7
+Missouri S&T,Harding,7
 
 Colorado,Colorado Mesa,9
 
@@ -3134,7 +3134,7 @@ Colorado Mesa,Colorado State B,1
 
 Colorado-Colorado Springs,Colorado State B,4
 
-Air Force,Colorado School of Mines,11
+Air Force,Colorado School of Mines - B,11
 
 Colorado College,Air Force B,10
 
@@ -3142,17 +3142,17 @@ Air Force,Colorado College,7
 
 Colorado School of Mines,Air Force B,12
 
-Colorado School of Mines,Air Force B,7
+Colorado School of Mines - B,Air Force B,7
 
 Colorado School of Mines,Colorado College,2
 
 Air Force,Air Force B,13
 
-Colorado School of Mines,Colorado School of Mines,8
+Colorado School of Mines,Colorado School of Mines - B,8
 
 Air Force,Colorado School of Mines,6
 
-Colorado College,Colorado School of Mines,12
+Colorado College,Colorado School of Mines - B,12
 
 Air Force,Colorado School of Mines,8
 
@@ -3160,7 +3160,7 @@ Colorado School of Mines,Colorado College,2
 
 Colorado College,Air Force B,11
 
-Air Force B,Colorado School of Mines,1
+Air Force B,Colorado School of Mines - B,1
 
 California-Irvine,Cal State-Long Beach,5
 
@@ -3324,15 +3324,15 @@ Virginia B,James Madison B,2
 
 Virginia Tech B,South Carolina B,1
 
-North Carolina State  B,William,7
+North Carolina State  B,William & Mary B,7
 
 North Carolina B,South Carolina B,4
 
-Virginia B,William,8
+Virginia B,William & Mary B,8
 
 Virginia Tech B,North Carolina State  B,5
 
-North Carolina B,William,6
+North Carolina B,William & Mary B,6
 
 James Madison B,North Carolina State  B,2
 
@@ -3342,7 +3342,7 @@ North Carolina B,James Madison B,6
 
 Virginia B,South Carolina B,7
 
-Virginia Tech B,William,9
+Virginia Tech B,William & Mary B,9
 
 James Madison B,South Carolina B,1
 
@@ -3352,13 +3352,13 @@ Virginia B,North Carolina State  B,5
 
 North Carolina B,Virginia Tech B,3
 
-James Madison B,William,8
+James Madison B,William & Mary B,8
 
 South Carolina B,North Carolina State  B,7
 
 North Carolina B,Virginia B,6
 
-South Carolina B,William,8
+South Carolina B,William & Mary B,8
 
 Virginia Tech B,James Madison B,5
 
@@ -3370,7 +3370,7 @@ Virginia B,James Madison B,2
 
 South Carolina B,James Madison B,5
 
-South Carolina B,William,12
+South Carolina B,William & Mary B,12
 
 Bryant University,Amherst College,8
 
@@ -3410,7 +3410,7 @@ Amherst College,Providence College,5
 
 Texas,Texas State  B,9
 
-Texas State,Texas A,8
+Texas State,Texas A&M B,8
 
 Texas-Rio Grande Valley,Sam Houston State,2
 
@@ -3418,45 +3418,45 @@ Texas State,Texas,1
 
 Sam Houston State,Texas State  B,1
 
-Texas-Rio Grande Valley,Texas A,2
+Texas-Rio Grande Valley,Texas A&M B,2
 
 Texas,Sam Houston State,10
 
 Texas State,Texas-Rio Grande Valley,4
 
-Texas State  B,Texas A,1
+Texas State  B,Texas A&M B,1
 
 Texas,Texas-Rio Grande Valley,10
 
 Texas State,Texas State  B,9
 
-Texas A,Sam Houston State,7
+Texas A&M B,Sam Houston State,7
 
-Texas,Texas A,8
+Texas,Texas A&M B,8
 
 Texas-Rio Grande Valley,Texas State  B,5
 
 Texas State,Sam Houston State,8
 
-Texas A,Texas B,11
+Texas A&M,Texas B,11
 
 Lamar,Texas-San Antonio,2
 
 Houston,Texas-El Paso,1
 
-Texas A,Texas-San Antonio,10
+Texas A&M,Texas-San Antonio,10
 
 Texas B,Houston,2
 
 Lamar,Texas-El Paso,5
 
-Texas A,Houston,11
+Texas A&M,Houston,11
 
 Texas-San Antonio,Texas-El Paso,4
 
 Lamar,Texas B,6
 
-Texas A,Texas-El Paso,9
+Texas A&M,Texas-El Paso,9
 
 Texas-San Antonio,Texas B,2
 
@@ -3466,7 +3466,7 @@ Texas B,Texas-El Paso,4
 
 Texas-San Antonio,Houston,3
 
-Texas A,Lamar,9
+Texas A&M,Lamar,9
 
 Texas State  B,Texas-El Paso,5
 
@@ -3480,23 +3480,23 @@ Houston,Sam Houston State,2
 
 Texas State,Lamar,8
 
-Texas,Texas A,3
+Texas,Texas A&M,3
 
 Texas,Texas State,3
 
 Texas-Rio Grande Valley,Texas B,1
 
-Texas-San Antonio,Texas A,2
+Texas-San Antonio,Texas A&M B,2
 
 Lamar,Texas-Rio Grande Valley,10
 
-Texas A,Texas-San Antonio,2
+Texas A&M,Texas-San Antonio,2
 
-Texas A,Lamar,11
+Texas A&M,Lamar,11
 
 Texas-San Antonio,Texas-Rio Grande Valley,2
 
-Texas B,Texas A,1
+Texas B,Texas A&M B,1
 
 Caltech,Occidental,3
 
@@ -3632,15 +3632,15 @@ Trinity,Sul Ross State,5
 
 Trinity,Abilene Christian,1
 
-William,Virginia Commonwealth,7
+William & Mary,Virginia Commonwealth,7
 
 Virginia Tech,Radford,11
 
-William,Radford,8
+William & Mary,Radford,8
 
 Virginia Tech,Virginia Commonwealth,11
 
-Virginia Tech,William,4
+Virginia Tech,William & Mary,4
 
 Virginia Commonwealth,Radford,5
 
@@ -3666,21 +3666,21 @@ Virginia Tech,George Mason,7
 
 James Madison,Virginia Commonwealth,7
 
-Liberty,William,1
+Liberty,William & Mary,1
 
 Virginia,Radford,13
 
-William,Virginia,7
+William & Mary,Virginia,7
 
-William,Liberty,11
+William & Mary,Liberty,11
 
 Liberty,George Mason,5
 
-William,James Madison,2
+William & Mary,James Madison,2
 
 George Mason,Virginia Commonwealth,1
 
-William,Radford,12
+William & Mary,Radford,12
 
 James Madison,George Mason,11
 
@@ -3760,7 +3760,7 @@ Ithaca,Colgate,4
 
 Ithaca,SUNY-Oneonta,6
 
-Slippery Rock  ,Edinboro,7
+Slippery Rock,Edinboro,7
 
 Carnegie Mellon,Indiana Pennsylvania,12
 
@@ -3768,7 +3768,7 @@ Penn State,West Virginia,11
 
 Pittsburgh,West Virginia,14
 
-Carnegie Mellon,Slippery Rock  ,11
+Carnegie Mellon,Slippery Rock,11
 
 Penn State,Indiana Pennsylvania,12
 
@@ -3776,19 +3776,19 @@ Pittsburgh,Carnegie Mellon,4
 
 Edinboro,Indiana Pennsylvania,11
 
-Penn State,Slippery Rock  ,6
+Penn State,Slippery Rock,6
 
 Pittsburgh,Edinboro,15
 
 Penn State,Carnegie Mellon,1
 
-West Virginia,Slippery Rock  ,4
+West Virginia,Slippery Rock,4
 
 Pittsburgh,Indiana Pennsylvania,13
 
 Edinboro,West Virginia,8
 
-Slippery Rock  ,Indiana Pennsylvania,8
+Slippery Rock,Indiana Pennsylvania,8
 
 Pittsburgh,Penn State,3
 
@@ -3796,7 +3796,7 @@ Carnegie Mellon,Edinboro,11
 
 West Virginia,Indiana Pennsylvania,6
 
-Pittsburgh,Slippery Rock  ,14
+Pittsburgh,Slippery Rock,14
 
 Carnegie Mellon,West Virginia,11
 
@@ -3808,7 +3808,7 @@ Carnegie Mellon,Edinboro,10
 
 Carnegie Mellon,West Virginia,7
 
-Edinboro,Slippery Rock  ,4
+Edinboro,Slippery Rock,4
 
 Messiah,Grove City,6
 
@@ -3822,21 +3822,21 @@ Messiah,Allegheny,12
 
 Grove City,Bucknell,2
 
-Susquehanna  ,California-Pennsylvania,5
+Susquehanna,California-Pennsylvania,5
 
-Shippensburg,Susquehanna  ,4
+Shippensburg,Susquehanna,4
 
 Dickinson,California-Pennsylvania,2
 
 Shippensburg,California-Pennsylvania,11
 
-Dickinson,Susquehanna  ,5
+Dickinson,Susquehanna,5
 
 Shippensburg,Dickinson,6
 
 Bucknell,Dickinson,2
 
-Grove City,Susquehanna  ,1
+Grove City,Susquehanna,1
 
 Messiah,Bucknell,8
 
@@ -3846,13 +3846,13 @@ Messiah,Shippensburg,5
 
 Dickinson,California-Pennsylvania,1
 
-Susquehanna  ,Allegheny,10
+Susquehanna,Allegheny,10
 
 Grove City,Dickinson,11
 
-Susquehanna  ,Bucknell,4
+Susquehanna,Bucknell,4
 
-Grove City,Susquehanna  ,8
+Grove City,Susquehanna,8
 
 Dickinson,Bucknell,1
 
@@ -3930,9 +3930,9 @@ Drake,Grinnell,7
 
 Grinnell,Cornell College,9
 
-Samford,Belmont  ,9
+Samford,Belmont,9
 
-Belmont  ,Johnson,4
+Belmont,Johnson,4
 
 Samford,Union Tennessee,5
 
@@ -3946,73 +3946,73 @@ Oregon,Western Washington B,13
 
 Oregon State,Humboldt State,5
 
-Lewis,Washington C,12
+Lewis & Clark College,Washington C,12
 
 Oregon State,Washington C,13
 
-Lewis,Humboldt State,5
+Lewis & Clark College,Humboldt State,5
 
-Oregon State,Lewis,9
+Oregon State,Lewis & Clark College,9
 
 Humboldt State,Washington C,10
 
-Whitman  ,Washington B,6
+Whitman,Washington B,6
 
 Nevada-Reno,Oregon State B,11
 
-Whitman  ,Oregon State B,12
+Whitman,Oregon State B,12
 
 Nevada-Reno,Washington B,10
 
-Whitman  ,Nevada-Reno,6
+Whitman,Nevada-Reno,6
 
 Washington B,Oregon State B,5
 
 Gonzaga,Portland State,9
 
-Puget Sound,Lewis,12
+Puget Sound,Lewis & Clark B,12
 
-Gonzaga,Lewis,13
+Gonzaga,Lewis & Clark B,13
 
 Puget Sound,Portland State,7
 
 Gonzaga,Puget Sound,6
 
-Portland State,Lewis,12
+Portland State,Lewis & Clark B,12
 
 Oregon,Oregon State,7
 
-Oregon,Whitman  ,7
+Oregon,Whitman,7
 
 Oregon State,Gonzaga,5
 
 Oregon,Puget Sound,12
 
-Whitman  ,Lewis,10
+Whitman,Lewis & Clark College,10
 
 Oregon State,Nevada-Reno,7
 
 Gonzaga,Washington State,2
 
-Nevada-Reno,Lewis,4
+Nevada-Reno,Lewis & Clark College,4
 
 Nevada-Reno,Washington State,4
 
-Lewis,Puget Sound,4
+Lewis & Clark College,Puget Sound,4
 
 Puget Sound,Washington State,10
 
-Whitman  ,Gonzaga,8
+Whitman,Gonzaga,8
 
 Western Washington B,Washington C,1
 
-Washington B,Lewis,15
+Washington B,Lewis & Clark B,15
 
 Humboldt State,Portland State,4
 
 Washington B,Western Washington B,7
 
-Humboldt State,Lewis,13
+Humboldt State,Lewis & Clark B,13
 
 Oregon State B,Washington C,3
 
@@ -4024,7 +4024,7 @@ Washington B,Humboldt State,2
 
 Portland State,Western Washington B,9
 
-Washington C,Lewis,10
+Washington C,Lewis & Clark B,10
 
 Washington B,Oregon State B,8
 
@@ -4100,7 +4100,7 @@ Georgia,Minnesota,4
 
 Minnesota,Ohio State,2
 
-Georgia,California,2s
+Georgia,California,2
 
 North Carolina,California,11
 
@@ -4228,17 +4228,17 @@ Air Force,Bryant University,4
 
 Claremont,Portland,1
 
-Carleton College-GoP,Missouri S,1
+Carleton College-GoP,Missouri S&T,1
 
 Colby,Berry,2
 
 Carleton College-GoP,Berry,9
 
-Missouri S,Colby,3
+Missouri S&T,Colby,3
 
 Carleton College-GoP,Colby,9
 
-Missouri S,Berry,2
+Missouri S&T,Berry,2
 
 Richmond,Luther,2
 
@@ -4260,7 +4260,7 @@ Air Force,Carleton College-GoP,2
 
 Middlebury,Bryant University,6
 
-Richmond,Missouri S,4
+Richmond,Missouri S&T,4
 
 Carleton College-GoP,Luther,5
 
@@ -4268,13 +4268,13 @@ Air Force,Bowdoin,5
 
 Bryant University,Colby,7
 
-Missouri S,Claremont,8
+Missouri S&T,Claremont,8
 
 Luther,Hamilton,9
 
 Bowdoin,Michigan Tech,3
 
-Missouri S,Bryant University,7
+Missouri S&T,Bryant University,7
 
 Bowdoin,Luther,1
 
@@ -4293,3 +4293,4 @@ Portland,Berry,10
 Berry,Hamilton,7
 
 Portland,Michigan Tech,11
+

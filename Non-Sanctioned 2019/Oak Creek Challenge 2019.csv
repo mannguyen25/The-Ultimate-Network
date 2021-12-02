@@ -1,66 +1,66 @@
-Sat 2/23,Rutgers,Wake Forest,13,0
-Sat 2/23,Liberty,American,13,2
-Sat 2/23,Rutgers,Liberty,9,10
-Sat 2/23,North Carolina,American,10,3
-Sat 2/23,American,Wake Forest,5,11
-Sat 2/23,North Carolina,Liberty,10,11
-Sat 2/23,Rutgers,American,13,2
-Sat 2/23,North Carolina,Wake Forest,13,0
-Sat 2/23,Rutgers,North Carolina,12,8
-Sat 2/23,Liberty,Wake Forest,13,1
-Sat 2/23,Princeton,Towson,11,4
-Sat 2/23,Shippensburg,Maryland,10,9
-Sat 2/23,Princeton,Shippensburg,11,6
-Sat 2/23,Drexel University,Maryland,13,6
-Sat 2/23,Maryland,Towson,10,6
-Sat 2/23,Drexel University,Shippensburg,13,6
-Sat 2/23,Princeton,Maryland,13,2
-Sat 2/23,Drexel University,Towson,11,5
-Sat 2/23,Princeton,Drexel University,10,9
-Sat 2/23,Shippensburg,Towson,11,2
-Sat 2/23,Brandeis,Salisbury,13,4
-Sat 2/23,Cedarville,Navy,12,10
-Sat 2/23,Brandeis,Cedarville,13,6
-Sat 2/23,Lehigh,Navy,13,6
-Sat 2/23,Navy,Salisbury,8,13
-Sat 2/23,Lehigh,Cedarville,8,13
-Sat 2/23,Brandeis,Navy,13,5
-Sat 2/23,Lehigh,Salisbury,13,3
-Sat 2/23,Brandeis,Lehigh,10,3
-Sat 2/23,Cedarville,Salisbury,13,1
-Sat 2/23,RIT,Christopher Newport,13,8
-Sat 2/23,West Chester,East Carolina,9,7
-Sat 2/23,RIT,West Chester,11,10
-Sat 2/23,Virginia Commonwealth,East Carolina,8,7
-Sat 2/23,East Carolina,Christopher Newport,8,11
-Sat 2/23,Virginia Commonwealth,West Chester,9,10
-Sat 2/23,RIT,East Carolina,13,9
-Sat 2/23,Virginia Commonwealth,Christopher Newport,8,4
-Sat 2/23,RIT,Virginia Commonwealth,12,6
-Sat 2/23,West Chester,Christopher Newport,11,3
-2/24/2019,Liberty,Brandeis,9,8
-2/24/2019,Liberty,RIT,11,10
-2/24/2019,Brandeis,Princeton,11,9
-2/24/2019,Liberty,Drexel University,15,10
-2/24/2019,RIT,Cedarville,12,8
-2/24/2019,Brandeis,West Chester,12,8
-2/24/2019,Princeton,Rutgers,10,9
-2/24/2019,RIT,Princeton,7,9
-2/24/2019,Cedarville,Rutgers,11,15
-2/24/2019,Drexel University,Cedarville,12,13
-2/24/2019,West Chester,Rutgers,6,13
-2/24/2019,Drexel University,West Chester,11,6
-2/24/2019,North Carolina,Lehigh,9,15
-2/24/2019,North Carolina,Virginia Commonwealth,10,9
-2/24/2019,Lehigh,Shippensburg,15,6
-2/24/2019,North Carolina,Maryland,15,9
-2/24/2019,Virginia Commonwealth,Salisbury,15,5
-2/24/2019,Lehigh,Christopher Newport,15,11
-2/24/2019,Shippensburg,Wake Forest,15,7
-2/24/2019,Virginia Commonwealth,Shippensburg,12,14
-2/24/2019,Maryland,Salisbury,15,10
-2/24/2019,Christopher Newport,Wake Forest,15,7
-2/24/2019,East Carolina,Navy,12,9
-2/24/2019,American,East Carolina,8,14
-2/24/2019,Towson,Navy,3,15
-2/24/2019,American,Towson,7,11
+Rutgers,Wake Forest,13
+Liberty,American,11
+Liberty,Rutgers,1
+North Carolina B,American,7
+Wake Forest,American,6
+Liberty,North Carolina B,1
+Rutgers,American,11
+North Carolina B,Wake Forest,13
+Rutgers,North Carolina B,4
+Liberty,Wake Forest,12
+Princeton,Towson,7
+Shippensburg,Maryland-Baltimore County,1
+Princeton,Shippensburg,5
+Drexel University,Maryland-Baltimore County,7
+Maryland-Baltimore County,Towson,4
+Drexel University,Shippensburg,7
+Princeton,Maryland-Baltimore County,11
+Drexel University,Towson,6
+Princeton,Drexel University,1
+Shippensburg,Towson,9
+Brandeis,Salisbury,9
+Cedarville,Navy,2
+Brandeis,Cedarville,7
+Lehigh,Navy,7
+Salisbury,Navy,5
+Cedarville,Lehigh,5
+Brandeis,Navy,8
+Lehigh,Salisbury,10
+Brandeis,Lehigh,7
+Cedarville,Salisbury,12
+RIT,Christopher Newport,5
+West Chester,East Carolina,2
+RIT,West Chester,1
+Virginia Commonwealth,East Carolina,1
+Christopher Newport,East Carolina,3
+West Chester,Virginia Commonwealth,1
+RIT,East Carolina,4
+Virginia Commonwealth,Christopher Newport,4
+RIT,Virginia Commonwealth,6
+West Chester,Christopher Newport,8
+Liberty,Brandeis,1
+Liberty,RIT,1
+Brandeis,Princeton,2
+Liberty,Drexel University,5
+RIT,Cedarville,4
+Brandeis,West Chester,4
+Princeton,Rutgers,1
+Princeton,RIT,2
+Rutgers,Cedarville,4
+Cedarville,Drexel University,1
+Rutgers,West Chester,7
+Drexel University,West Chester,5
+Lehigh,North Carolina B,6
+North Carolina B,Virginia Commonwealth,1
+Lehigh,Shippensburg,9
+North Carolina B,Maryland-Baltimore County,6
+Virginia Commonwealth,Salisbury,10
+Lehigh,Christopher Newport,4
+Shippensburg,Wake Forest,8
+Shippensburg,Virginia Commonwealth,2
+Maryland-Baltimore County,Salisbury,5
+Christopher Newport,Wake Forest,8
+East Carolina,Navy,3
+East Carolina,American,6
+Navy,Towson,12
+Towson,American,4

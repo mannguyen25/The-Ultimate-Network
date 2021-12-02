@@ -1,8 +1,8 @@
 Berry,North Georgia,7
-Belmont  ,Stetson,2
+Belmont,Stetson,2
 North Georgia,Stetson,8
-Berry,Belmont  ,9
-North Georgia,Belmont  ,7
+Berry,Belmont,9
+North Georgia,Belmont,7
 Berry,Stetson,9
 Samford,Embry-Riddle Florida,4
 Florida Tech,Union Tennessee,7
@@ -14,7 +14,7 @@ Berry,Florida Tech,3
 Berry,Samford,2
 Florida Tech,North Georgia,1
 Berry,Union Tennessee,5
-Samford,Belmont  ,3
+Samford,Belmont,3
 North Georgia,Embry-Riddle Florida,10
 Florida Tech,Stetson,12
 Embry-Riddle Florida,Stetson,4

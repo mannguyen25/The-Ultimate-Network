@@ -1,24 +1,24 @@
-Sat 3/2,Iowa,Wisconsin,10,11
-Sat 3/2,Marquette,Saint Louis,11,10
-Sat 3/2,Iowa,Saint Louis,8,11
-Sat 3/2,Marquette,Wisconsin,8,7
-Sat 3/2,Iowa,Marquette,12,11
-Sat 3/2,Wisconsin,Saint Louis,10,9
-Sat 3/2,St Olaf,St John,13,4
-Sat 3/2,Missouri State,Missouri,11,7
-Sat 3/2,St Olaf,Missouri,12,6
-Sat 3/2,Missouri State,St John,13,10
-Sat 3/2,St Olaf,Missouri State,13,9
-Sat 3/2,St John,Missouri,7,13
-Sat 3/2,Northern Iowa,Wisconsin,13,1
-Sat 3/2,Southern Illinois,Wisconsin,7,10
-Sat 3/2,Northern Iowa,Wisconsin,10,7
-Sat 3/2,Southern Illinois,Wisconsin,13,2
-Sat 3/2,Northern Iowa,Southern Illinois,13,3
-Sat 3/2,Wisconsin,Wisconsin,0,13
-Sat 3/2,Saint Louis,Northern Iowa,11,5
-Sat 3/2,Iowa,Wisconsin,10,9
-Sat 3/2,Missouri,Southern Illinois,10,5
-Sat 3/2,St John,Wisconsin,13,3
-Sat 3/2,Marquette,St Olaf,8,13
-Sat 3/2,Wisconsin,Missouri State,7,13
+Wisconsin-Milwaukee,Iowa,1
+Marquette,Saint Louis University,1
+Saint Louis University,Iowa,3
+Marquette,Wisconsin-Milwaukee,1
+Iowa,Marquette,1
+Wisconsin-Milwaukee,Saint Louis University,1
+St Olaf,St John's,9
+Missouri State,Missouri,4
+St Olaf,Missouri,6
+Missouri State,St John's,3
+St Olaf,Missouri State,4
+Missouri,St John's,6
+Northern Iowa,Wisconsin-Milwaukee B,12
+Wisconsin C,Southern Illinois-Edwardsville,3
+Northern Iowa,Wisconsin C,3
+Southern Illinois-Edwardsville,Wisconsin-Milwaukee B,11
+Northern Iowa,Southern Illinois-Edwardsville,10
+Wisconsin C,Wisconsin-Milwaukee B,13
+Saint Louis University,Northern Iowa,6
+Iowa,Wisconsin C,1
+Missouri,Southern Illinois-Edwardsville,5
+St John's,Wisconsin-Milwaukee B,10
+St Olaf,Marquette,5
+Missouri State,Wisconsin-Milwaukee,6

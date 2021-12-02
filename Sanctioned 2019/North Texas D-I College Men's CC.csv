@@ -8,14 +8,14 @@ Stephen F. Austin,Texas-Arlington,5
 Baylor,North Texas B,9
 Texas Tech,Texas-Arlington,11
 Baylor,Stephen F. Austin,7
-Texas Christian,Southern Methodist  ,10
+Texas Christian,Southern Methodist,10
 Texas-Dallas,North Texas,9
-Texas-Dallas,Southern Methodist  ,12
+Texas-Dallas,Southern Methodist,12
 North Texas,Texas-Dallas B,12
-Southern Methodist  ,Texas-Dallas B,2
+Southern Methodist,Texas-Dallas B,2
 Texas-Dallas,Texas Christian,7
 Texas Christian,Texas-Dallas B,8
-North Texas,Southern Methodist  ,7
+North Texas,Southern Methodist,7
 Texas Christian,North Texas,4
 Texas-Dallas,Texas-Dallas B,10
 Texas-Dallas,Texas Tech,2
@@ -25,7 +25,7 @@ Texas Tech,Texas Christian,1
 Baylor,Texas Christian,2
 Texas Christian,Stephen F. Austin,5
 Baylor,North Texas,3
-Stephen F. Austin,Southern Methodist  ,4
+Stephen F. Austin,Southern Methodist,4
 North Texas,Texas-Arlington,4
-Southern Methodist  ,Texas-Arlington,4
+Southern Methodist,Texas-Arlington,4
 Texas-Dallas B,North Texas B,4

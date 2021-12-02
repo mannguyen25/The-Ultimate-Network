@@ -1,53 +1,53 @@
-Sat 3/9,Salisbury,SUNY New,4,13
-Sat 3/9,Stevens Tech,SUNY,9,8
-Sat 3/9,Bates College,SUNY,13,10
-Sat 3/9,Stevens Tech,Salisbury,13,2
-Sat 3/9,Bates College,SUNY New,13,3
-Sat 3/9,SUNY,Salisbury,13,1
-Sat 3/9,Bates College,Salisbury,13,3
-Sat 3/9,Stevens Tech,SUNY New,7,10
-Sat 3/9,Bates College,Stevens Tech,13,2
-Sat 3/9,SUNY,SUNY New,12,5
-Sat 3/9,MIT,SUNY,13,2
-Sat 3/9,Yale,College of,13,6
-Sat 3/9,MIT,Yale,10,13
-Sat 3/9,Colby,College of,13,6
-Sat 3/9,College of,SUNY,11,12
-Sat 3/9,Colby,Yale,13,7
-Sat 3/9,MIT,College of,13,3
-Sat 3/9,Colby,SUNY,13,7
-Sat 3/9,MIT,Colby,9,12
-Sat 3/9,Yale,SUNY,13,6
-Sat 3/9,Brown,SUNY,13,4
-Sat 3/9,SUNY,Yale,11,3
-Sat 3/9,Brown,SUNY,12,2
-Sat 3/9,Rutgers,Yale,12,4
-Sat 3/9,Yale,SUNY,5,11
-Sat 3/9,Rutgers,SUNY,13,2
-Sat 3/9,Brown,Yale,13,1
-Sat 3/9,Rutgers,SUNY,13,2
-Sat 3/9,Brown,Rutgers,13,3
-Sat 3/9,SUNY,SUNY,13,6
-3/10/2019,Bates College,Colby,8,11
-3/10/2019,Bates College,Yale,11,9
-3/10/2019,MIT,Colby,7,11
-3/10/2019,SUNY,Bates College,0,13
-3/10/2019,Brown,Yale,7,12
-3/10/2019,SUNY,MIT,9,13
-3/10/2019,SUNY New,Colby,6,12
-3/10/2019,SUNY,Salisbury,13,2
-3/10/2019,Brown,Stevens Tech,10,5
-3/10/2019,MIT,Rutgers,13,3
-3/10/2019,College of,SUNY New,8,12
-3/10/2019,Brown,SUNY,10,13
-3/10/2019,SUNY,Brown,7,8
-3/10/2019,SUNY,SUNY New,13,6
-3/10/2019,Yale,MIT,7,9
-3/10/2019,Stevens Tech,Rutgers,8,7
-3/10/2019,Salisbury,Stevens Tech,5,13
-3/10/2019,Rutgers,College of,W,F
-3/10/2019,SUNY,Salisbury,7,9
-3/10/2019,SUNY,Stevens Tech,4,12
-3/10/2019,Yale,Rutgers,6,8
-3/10/2019,SUNY,SUNY,3,6
-3/10/2019,SUNY,Yale,11,5
+SUNY New Paltz,Salisbury,9
+Stevens Tech,SUNY-Albany,1
+Bates College,SUNY-Albany,3
+Stevens Tech,Salisbury,11
+Bates College,SUNY New Paltz,10
+SUNY-Albany,Salisbury,12
+Bates College,Salisbury,10
+SUNY New Paltz,Stevens Tech,3
+Bates College,Stevens Tech,11
+SUNY-Albany,SUNY New Paltz,7
+MIT,SUNY-Cortland,11
+Yale,College of New Jersey,7
+Yale,MIT,3
+Colby,College of New Jersey,7
+SUNY-Cortland,College of New Jersey,1
+Colby,Yale,6
+MIT,College of New Jersey,10
+Colby,SUNY-Cortland,6
+Colby,MIT,3
+Yale,SUNY-Cortland,7
+Brown B,SUNY-Binghamton B,9
+SUNY-Albany B,Yale B,8
+Brown B,SUNY-Albany B,10
+Rutgers B,Yale B,8
+SUNY-Binghamton B,Yale B,6
+Rutgers B,SUNY-Albany B,11
+Brown B,Yale B,12
+Rutgers B,SUNY-Binghamton B,11
+Brown B,Rutgers B,10
+SUNY-Albany B,SUNY-Binghamton B,7
+Colby,Bates College,3
+Bates College,Yale,2
+Colby,MIT,4
+Bates College,SUNY-Cortland,13
+Yale,Brown B,5
+MIT,SUNY-Albany,4
+Colby,SUNY New Paltz,6
+SUNY-Cortland,Salisbury,11
+Brown B,Stevens Tech,5
+MIT,Rutgers B,10
+SUNY New Paltz,College of New Jersey,4
+SUNY-Albany,Brown B,3
+Brown B,SUNY-Cortland,1
+SUNY-Albany,SUNY New Paltz,7
+MIT,Yale,2
+Stevens Tech,Rutgers B,1
+Stevens Tech,Salisbury,8
+Rutgers B,College of New Jersey,15
+Salisbury,SUNY-Albany B,2
+Stevens Tech,SUNY-Binghamton B,8
+Rutgers B,Yale B,2
+SUNY-Binghamton B,SUNY-Albany B,3
+SUNY-Binghamton B,Yale B,6

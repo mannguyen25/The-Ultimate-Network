@@ -1,55 +1,54 @@
-Sat 3/2,North Carolina,Stanford,13,2
-Sat 3/2,Victoria,Wisconsin,5,13
-Sat 3/2,North Carolina,Wisconsin,12,8
-Sat 3/2,Victoria,Stanford,13,11
-Sat 3/2,North Carolina,Victoria,13,10
-Sat 3/2,Wisconsin,Stanford,11,10
-Sat 3/2,Brown,Colorado State,13,9
-Sat 3/2,Carleton College,Washington,13,11
-Sat 3/2,Washington,Colorado State,9,10
-Sat 3/2,Brown,Carleton College,11,8
-Sat 3/2,Brown,Washington,11,12
-Sat 3/2,Carleton College,Colorado State,11,10
-Sat 3/2,Brigham Young,Northwestern,11,9
-Sat 3/2,Ohio State,California,8,7
-Sat 3/2,Brigham Young,Ohio State,10,11
-Sat 3/2,Oregon,California,13,7
-Sat 3/2,Brigham Young,California,10,11
-Sat 3/2,Oregon,Northwestern,13,8
-Sat 3/2,Brigham Young,Oregon,15,14
-Sat 3/2,Ohio State,Northwestern,12,9
-Sat 3/2,California,Northwestern,13,6
-Sat 3/2,Oregon,Ohio State,13,11
-Sat 3/2,Cal Poly,Colorado,11,10
-Sat 3/2,Cal Poly,Minnesota,10,7
-Sat 3/2,Texas,Colorado,10,7
-Sat 3/2,Cal Poly,Texas,10,13
-Sat 3/2,Minnesota,Colorado,9,10
-Sat 3/2,Texas,Minnesota,13,12
-Fri 3/1,Brigham Young,Stanford,13,10
-Sun 3/3,Stanford,Northwestern,11,12
-Sun 3/3,Washington,Minnesota,10,9
-Sun 3/3,Stanford,Washington,6,9
-Sun 3/3,Northwestern,Minnesota,6,10
-Sun 3/3,Washington,Northwestern,13,5
-Sun 3/3,Stanford,Minnesota,6,13
-3/3/2019,North Carolina,Brown,13,8
-3/3/2019,North Carolina,Texas,13,6
-3/3/2019,Cal Poly,Brown,10,12
-3/3/2019,North Carolina,Carleton College,12,11
-3/3/2019,Texas,Ohio State,12,10
-3/3/2019,Oregon,Cal Poly,12,13
-3/3/2019,Brown,Colorado,11,9
-3/3/2019,Carleton College,California,12,6
-3/3/2019,Ohio State,Colorado State,12,10
-3/3/2019,Cal Poly,Victoria,13,7
-3/3/2019,Wisconsin,Colorado,7,10
-3/3/2019,Texas,Cal Poly,0,0
-3/3/2019,Carleton College,Colorado,8,11
-3/3/2019,Carleton College,Ohio State,9,8
-3/3/2019,Oregon,Colorado,10,11
-3/3/2019,Ohio State,Oregon,6,13
-3/3/2019,California,Colorado State,3,7
-3/3/2019,California,Wisconsin,11,10
-3/3/2019,Colorado State,Victoria,13,7
-3/3/2019,Wisconsin,Victoria,13,4
+North Carolina,Stanford,11
+Wisconsin,Victoria,8
+North Carolina,Wisconsin,4
+Victoria,Stanford,2
+North Carolina,Victoria,3
+Wisconsin,Stanford,1
+Brown,Colorado State,4
+Carleton College,Washington,2
+Colorado State,Washington,1
+Brown,Carleton College,3
+Washington,Brown,1
+Carleton College,Colorado State,1
+Brigham Young,Northwestern,2
+Ohio State,California,1
+Ohio State,Brigham Young,1
+Oregon,California,6
+California,Brigham Young,1
+Oregon,Northwestern,5
+Brigham Young,Oregon,1
+Ohio State,Northwestern,3
+California,Northwestern,7
+Oregon,Ohio State,2
+Cal Poly,Colorado,1
+Cal Poly,Minnesota,3
+Texas,Colorado,3
+Texas,Cal Poly,3
+Colorado,Minnesota,1
+Texas,Minnesota,1
+Brigham Young,Stanford,3
+Northwestern,Stanford,1
+Washington,Minnesota,1
+Washington,Stanford,3
+Minnesota,Northwestern,4
+Washington,Northwestern,8
+Minnesota,Stanford,7
+North Carolina,Brown,5
+North Carolina,Texas,7
+Brown,Cal Poly,2
+North Carolina,Carleton College,1
+Texas,Ohio State,2
+Cal Poly,Oregon,1
+Brown,Colorado,2
+Carleton College,California,6
+Ohio State,Colorado State,2
+Cal Poly,Victoria,6
+Colorado,Wisconsin,3
+Colorado,Carleton College,3
+Carleton College,Ohio State,1
+Colorado,Oregon,1
+Oregon,Ohio State,7
+Colorado State,California,4
+California,Wisconsin,1
+Colorado State,Victoria,6
+Wisconsin,Victoria,9

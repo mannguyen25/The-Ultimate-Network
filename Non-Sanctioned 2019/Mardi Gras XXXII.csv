@@ -1,80 +1,138 @@
-Sat 3/2,LSU,Texas State,11,13
-Sat 3/2,Florida,Texas State,13,10
-Sat 3/2,LSU,Florida,13,10
-Sat 3/2,Alabama,Wisconsin,13,6
-Sat 3/2,Texas Tech,Wisconsin,13,10
-Sat 3/2,Texas Tech,Alabama,8,13
-Sat 3/2,Minnesota State,Texas,11,3
-Sat 3/2,Alabama,Texas A,11,4
-Sat 3/2,Minnesota State,Texas A,11,2
-Sat 3/2,Alabama,Texas,11,5
-Sat 3/2,Minnesota State,Alabama,9,11
-Sat 3/2,Texas,Texas A,11,4
-Sat 3/2,North Florida,Mississippi,11,7
-Sat 3/2,Texas Christian,Texas State,13,4
-Sat 3/2,North Florida,Texas State,11,4
-Sat 3/2,Texas Christian,Mississippi,11,7
-Sat 3/2,North Florida,Texas Christian,11,7
-Sat 3/2,Mississippi,Texas State,11,3
-Sat 3/2,Georgia State,Sul Ross,11,5
-Sat 3/2,Florida State,Sam Houston,11,7
-Sat 3/2,Georgia State,Sam Houston,11,3
-Sat 3/2,Florida State,Sul Ross,7,11
-Sat 3/2,Georgia State,Florida State,11,5
-Sat 3/2,Sul Ross,Sam Houston,11,5
-Sat 3/2,Mississippi State,Trinity,9,11
-Sat 3/2,Texas A,LSU,11,8
-Sat 3/2,Mississippi State,LSU,11,8
-Sat 3/2,Texas A,Trinity,4,11
-Sat 3/2,Mississippi State,Texas A,11,4
-Sat 3/2,Trinity,LSU,11,1
-Sat 3/2,LSU,Alabama,10,13
-Sat 3/2,Florida,Texas Tech,9,13
-Sat 3/2,Texas State,Wisconsin,13,11
-Sat 3/2,Alabama,Georgia State,6,11
-Sat 3/2,North Florida,Trinity,7,11
-Sat 3/2,Minnesota State,Sul Ross,12,10
-Sat 3/2,Texas Christian,Mississippi State,5,11
-Sat 3/2,Texas,Florida State,8,9
-Sat 3/2,Mississippi,Texas A,13,10
-Sat 3/2,Texas A,Sam Houston,6,11
-Sat 3/2,Texas State,LSU,9,11
-3/3/2019,Alabama,Texas Tech,0,0
-3/2/2019,Alabama,Mississippi,13,2
-3/2/2019,Trinity,Alabama,7,13
-3/2/2019,Texas State,Minnesota State,13,7
-3/2/2019,Florida,Texas Christian,13,1
-3/2/2019,Texas Tech,Sul Ross,15,9
-3/2/2019,Wisconsin,Mississippi State,4,13
-3/2/2019,Georgia State,North Florida,12,9
-3/2/2019,LSU,Florida State,13,6
-3/3/2019,Alabama,Alabama,13,4
-3/3/2019,Texas State,Florida,13,12
-3/3/2019,Texas Tech,Mississippi State,13,7
-3/3/2019,Georgia State,LSU,11,10
-3/3/2019,Alabama,Texas State,12,8
-3/3/2019,Texas Tech,Georgia State,13,2
-3/3/2019,Texas State,Georgia State,0,0
-3/3/2019,Alabama,Florida,1,11
-3/3/2019,Mississippi State,LSU,2,13
-3/3/2019,Florida,LSU,0,0
-3/3/2019,Alabama,Mississippi State,0,0
-3/3/2019,Mississippi,Trinity,8,13
-3/3/2019,Minnesota State,Texas Christian,12,9
-3/3/2019,Sul Ross,Wisconsin,12,14
-3/3/2019,North Florida,Florida State,11,7
-3/3/2019,Trinity,Minnesota State,12,10
-3/3/2019,Wisconsin,North Florida,13,9
-3/3/2019,Trinity,Wisconsin,0,0
-3/3/2019,Minnesota State,North Florida,0,0
-3/3/2019,Mississippi,Texas Christian,6,12
-3/3/2019,Sul Ross,Florida State,13,9
-3/3/2019,Texas Christian,Sul Ross,0,0
-3/3/2019,Mississippi,Florida State,0,0
-3/3/2019,Sam Houston,Texas State,F,W
-3/3/2019,LSU,Texas A,10,3
-3/3/2019,Texas,Texas State,8,13
-3/3/2019,LSU,Texas A,7,8
-3/3/2019,Texas,LSU,0,0
-3/3/2019,Texas State,Texas A,0,0
-3/3/2019,Sam Houston,Texas A,0,0
+Texas State,LSU,2
+
+Florida,Texas State,3
+
+LSU,Florida,3
+
+Alabama,Wisconsin-Whitewater,7
+
+Texas Tech,Wisconsin-Whitewater,3
+
+Alabama,Texas Tech,5
+
+Minnesota State-Mankato,Texas-San Antonio,8
+
+Alabama-Birmingham,Texas A&M,7
+
+Minnesota State-Mankato,Texas A&M,9
+
+Alabama-Birmingham,Texas-San Antonio,6
+
+Alabama-Birmingham,Minnesota State-Mankato,2
+
+Texas-San Antonio,Texas A&M,7
+
+North Florida,Mississippi,4
+
+Texas Christian,Texas State  B,9
+
+North Florida,Texas State  B,7
+
+Texas Christian,Mississippi,4
+
+North Florida,Texas Christian,4
+
+Mississippi,Texas State  B,8
+
+Georgia State,Sul Ross State,6
+
+Florida State B,Sam Houston State,4
+
+Georgia State,Sam Houston State,8
+
+Sul Ross State,Florida State B,4
+
+Georgia State,Florida State B,6
+
+Sul Ross State,Sam Houston State,6
+
+Trinity,Mississippi State,2
+
+Texas A&M,LSU B,3
+
+Mississippi State,LSU B,3
+
+Trinity,Texas A&M,7
+
+Mississippi State,Texas A&M,7
+
+Trinity,LSU B,10
+
+Alabama,LSU,3
+
+Texas Tech,Florida,4
+
+Texas State,Wisconsin-Whitewater,2
+
+Georgia State,Alabama-Birmingham,5
+
+Trinity,North Florida,4
+
+Minnesota State-Mankato,Sul Ross State,2
+
+Mississippi State,Texas Christian,6
+
+Florida State B,Texas-San Antonio,1
+
+Mississippi,Texas A&M,3
+
+Sam Houston State,Texas A&M,5
+
+LSU B,Texas State  B,2
+
+Alabama,Mississippi,11
+
+Alabama-Birmingham,Trinity,6
+
+Texas State,Minnesota State-Mankato,6
+
+Florida,Texas Christian,12
+
+Texas Tech,Sul Ross State,6
+
+Mississippi State,Wisconsin-Whitewater,9
+
+Georgia State,North Florida,3
+
+LSU,Florida State B,7
+
+Alabama,Alabama-Birmingham,9
+
+Texas State,Florida,1
+
+Texas Tech,Mississippi State,6
+
+Georgia State,LSU,1
+
+Alabama,Texas State,4
+
+Texas Tech,Georgia State,11
+
+Florida,Alabama-Birmingham,10
+
+LSU,Mississippi State,11
+
+Trinity,Mississippi,5
+
+Minnesota State-Mankato,Texas Christian,3
+
+Wisconsin-Whitewater,Sul Ross State,2
+
+North Florida,Florida State B,4
+
+Trinity,Minnesota State-Mankato,2
+
+Wisconsin-Whitewater,North Florida,4
+
+Texas Christian,Mississippi,6
+
+Sul Ross State,Florida State B,4
+
+Texas State  B,Sam Houston State,15
+
+LSU B,Texas A&M,7
+
+Texas State  B,Texas-San Antonio,5
+
+Texas A&M,LSU B,1
+

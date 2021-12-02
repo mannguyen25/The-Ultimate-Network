@@ -1,44 +1,72 @@
-Sat 3/2,Washington State,Oregon State,13,4
-Sat 3/2,Washington,Pacific Lutheran,13,1
-Sat 3/2,Parkland,Oregon State,13,2
-Sat 3/2,Washington State,Pacific Lutheran,13,0
-Sat 3/2,Washington State,Parkland,5,13
-Sat 3/2,Oregon State,Washington,5,10
-Sat 3/2,Parkland,Washington,13,4
-Sat 3/2,Oregon State,Pacific Lutheran,11,2
-Sat 3/2,Parkland,Pacific Lutheran,13,1
-Sat 3/2,Washington State,Washington,13,3
-Sat 3/2,Gonzaga,Willamette University,13,8
-Sat 3/2,Whitworth,Washington,5,13
-Sat 3/2,Gonzaga,Whitworth,8,13
-Sat 3/2,Washington,Willamette University,13,4
-Sat 3/2,Gonzaga,Washington,13,8
-Sat 3/2,Whitworth,Willamette University,13,6
-Sat 3/2,Lewis,Seattle,13,3
-Sat 3/2,Pacific Lutheran,Western Washington,12,8
-Sat 3/2,Pacific Lutheran,Lewis,8,12
-Sat 3/2,Western Washington,Seattle,11,10
-Sat 3/2,Lewis,Western Washington,13,6
-Sat 3/2,Pacific Lutheran,Seattle,13,3
-Sat 3/2,Lewis,Willamette University,13,3
-Sat 3/2,Washington,Seattle,W,F
-Sat 3/2,Pacific Lutheran,Whitworth,7,12
-Sat 3/2,Gonzaga,Western Washington,12,7
-3/3/2019,Washington,Lewis,9,11
-3/3/2019,Parkland,Washington,11,14
-3/3/2019,Whitworth,Lewis,7,15
-3/3/2019,Parkland,Washington,15,2
-3/3/2019,Washington,Gonzaga,13,7
-3/3/2019,Washington State,Whitworth,9,13
-3/3/2019,Lewis,Pacific Lutheran,15,6
-3/3/2019,Parkland,Whitworth,F,W
-3/3/2019,Gonzaga,Washington State,6,15
-3/3/2019,Washington,Gonzaga,8,14
-3/3/2019,Washington State,Pacific Lutheran,14,7
-3/3/2019,Washington,Pacific Lutheran,3,15
-3/3/2019,Western Washington,Willamette University,13,14
-3/3/2019,Western Washington,Seattle,12,8
-3/3/2019,Oregon State,Willamette University,12,14
-3/3/2019,Seattle,Pacific Lutheran,15,3
-3/3/2019,Seattle,Oregon State,0,0
-3/3/2019,Pacific Lutheran,Oregon State,2,15
+Washington State,Oregon State B,9
+
+Washington C,Pacific Lutheran B,12
+
+Washington State,Pacific Lutheran B,13
+
+Washington C,Oregon State B,5
+
+Oregon State B,Pacific Lutheran B,9
+
+Washington State,Washington C,10
+
+Gonzaga,Willamette University,5
+
+Washington B,Whitworth,8
+
+Whitworth,Gonzaga,5
+
+Washington B,Willamette University,9
+
+Gonzaga,Washington B,5
+
+Whitworth,Willamette University,7
+
+Lewis,Seattle B,10
+
+Pacific Lutheran,Western Washington University B,4
+
+Lewis,Pacific Lutheran,4
+
+Western Washington University B,Seattle B,1
+
+Lewis,Western Washington University B,7
+
+Pacific Lutheran,Seattle B,10
+
+Lewis,Willamette University,10
+
+Washington B,Seattle B,15
+
+Whitworth,Pacific Lutheran,5
+
+Gonzaga,Western Washington University B,5
+
+Lewis,Washington B,2
+
+Lewis,Whitworth,8
+
+Washington B,Gonzaga,6
+
+Whitworth,Washington State,4
+
+Lewis,Pacific Lutheran,9
+
+Washington State,Gonzaga,9
+
+Gonzaga,Washington C,6
+
+Washington State,Pacific Lutheran,7
+
+Pacific Lutheran,Washington C,12
+
+Willamette University,Western Washington University B,1
+
+Western Washington University B,Seattle B,4
+
+Willamette University,Oregon State B,2
+
+Seattle B,Pacific Lutheran B,12
+
+Oregon State B,Pacific Lutheran B,13
+

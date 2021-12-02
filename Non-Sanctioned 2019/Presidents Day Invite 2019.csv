@@ -1,0 +1,48 @@
+Oregon,California-Santa Cruz,10
+UCLA,Western Washington,2
+Oregon,UCLA,4
+Western Washington,California-Santa Cruz,2
+UCLA,California-Santa Cruz,11
+Oregon,Western Washington,9
+Cal Poly-SLO,California-San Diego,1
+Utah,California-Santa Barbara,3
+Cal Poly-SLO,California-Santa Barbara,4
+California-San Diego,Utah,1
+Cal Poly-SLO,Utah,7
+California-San Diego,California-Santa Barbara,3
+Colorado,San Diego State,11
+California,California-Davis,5
+Colorado,California-Davis,6
+California,San Diego State,9
+California,Colorado,1
+California-Davis,San Diego State,5
+British Columbia,Santa Clara,7
+Southern California,Illinois,9
+British Columbia,Illinois,1
+Southern California,Santa Clara,6
+Southern California,British Columbia,10
+Illinois,Santa Clara,3
+Cal Poly-SLO,Oregon,1
+Oregon,Southern California,2
+Cal Poly-SLO,California,6
+Oregon,California-San Diego,8
+Southern California,Colorado,2
+California,British Columbia,3
+Cal Poly-SLO,UCLA,6
+Southern California,California,6
+UCLA,Colorado,1
+Colorado,California-San Diego,7
+UCLA,British Columbia,7
+California-San Diego,British Columbia,1
+Utah,Illinois,1
+Illinois,California-Santa Barbara,6
+Utah,California-Davis,2
+California-Santa Barbara,Western Washington,6
+Illinois,San Diego State,9
+California-Davis,Santa Clara,1
+Utah,California-Santa Cruz,1
+California-Santa Barbara,California-Davis,1
+Western Washington,Santa Clara,3
+Western Washington,San Diego State,7
+Santa Clara,California-Santa Cruz,1
+California-Santa Cruz,San Diego State,6

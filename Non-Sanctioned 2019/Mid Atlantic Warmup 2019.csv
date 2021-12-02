@@ -1,0 +1,61 @@
+William,Case Western Reserve,6
+Tennessee-Chattanooga,Drexel University,2
+William,Drexel University,8
+Case Western Reserve,Tennessee-Chattanooga,2
+William,Tennessee-Chattanooga,2
+Case Western Reserve,Drexel University,5
+Davidson,James Madison,2
+Williams,Liberty,1
+James Madison,Liberty,8
+Davidson,Williams,1
+Williams,James Madison,2
+Liberty,Davidson,4
+Vermont,North Carolina B,6
+Mary Washington,Virginia Commonwealth,2
+Vermont,Virginia Commonwealth,9
+Mary Washington,North Carolina B,2
+Vermont,Mary Washington,8
+Virginia Commonwealth,North Carolina B,6
+Richmond,George Mason,2
+SUNY-Binghamton,Lehigh,4
+Richmond,George Washington,7
+SUNY-Binghamton,George Mason,7
+Richmond,Lehigh,6
+George Mason,George Washington,6
+Richmond,SUNY-Binghamton,1
+Lehigh,George Washington,1
+SUNY-Binghamton,George Washington,9
+George Mason,Lehigh,1
+William,Liberty,6
+Davidson,North Carolina B,1
+Vermont,Drexel University,9
+Case Western Reserve,James Madison,6
+Williams,Virginia Commonwealth,2
+Tennessee-Chattanooga,Mary Washington,2
+Vermont,William,1
+William,Tennessee-Chattanooga,4
+Vermont,Richmond,7
+William,SUNY-Binghamton,5
+Tennessee-Chattanooga,Davidson,6
+Vermont,Case Western Reserve,3
+Richmond,Williams,3
+Case Western Reserve,Davidson,5
+Case Western Reserve,SUNY-Binghamton,9
+Davidson,Williams,2
+Williams,SUNY-Binghamton,15
+Tennessee-Chattanooga,Richmond,2
+James Madison,Mary Washington,3
+Mary Washington,North Carolina B,2
+James Madison,Drexel University,6
+North Carolina B,George Mason,4
+Mary Washington,Liberty,6
+James Madison,Lehigh,1
+Drexel University,Virginia Commonwealth,2
+Drexel University,George Washington,3
+George Mason,Virginia Commonwealth,3
+Virginia Commonwealth,Lehigh,5
+George Mason,George Washington,3
+Lehigh,Liberty,7
+North Carolina B,Drexel University,4
+George Washington,Lehigh,1
+George Washington,Liberty,5
