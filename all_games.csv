@@ -6908,7 +6908,7 @@ California,Wisconsin,1
 Colorado State,Victoria,6
 
 Wisconsin,Victoria,9
-SUNY New Paltz,Salisbury,9
+SUNY-New Paltz,Salisbury,9
 
 Stevens Tech,SUNY-Albany,1
 
@@ -6916,17 +6916,17 @@ Bates College,SUNY-Albany,3
 
 Stevens Tech,Salisbury,11
 
-Bates College,SUNY New Paltz,10
+Bates College,SUNY-New Paltz,10
 
 SUNY-Albany,Salisbury,12
 
 Bates College,Salisbury,10
 
-SUNY New Paltz,Stevens Tech,3
+SUNY-New Paltz,Stevens Tech,3
 
 Bates College,Stevens Tech,11
 
-SUNY-Albany,SUNY New Paltz,7
+SUNY-Albany,SUNY-New Paltz,7
 
 MIT,SUNY-Cortland,11
 
@@ -6980,7 +6980,7 @@ Yale,Brown B,5
 
 MIT,SUNY-Albany,4
 
-Colby,SUNY New Paltz,6
+Colby,SUNY-New Paltz,6
 
 SUNY-Cortland,Salisbury,11
 
@@ -6988,13 +6988,13 @@ Brown B,Stevens Tech,5
 
 MIT,Rutgers B,10
 
-SUNY New Paltz,College of New Jersey,4
+SUNY-New Paltz,College of New Jersey,4
 
 SUNY-Albany,Brown B,3
 
 Brown B,SUNY-Cortland,1
 
-SUNY-Albany,SUNY New Paltz,7
+SUNY-Albany,SUNY-New Paltz,7
 
 MIT,Yale,2
 

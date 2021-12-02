@@ -1,0 +1,530 @@
+Id,Label,timeset,division,region
+North Carolina,North Carolina,,Division I,Atlantic Coast
+Duke,Duke,,Division I,Atlantic Coast
+Johns Hopkins,Johns Hopkins,,Division I,Atlantic Coast
+East Carolina,East Carolina,,Division I,Atlantic Coast
+Virginia,Virginia,,Division I,Atlantic Coast
+North Carolina State,North Carolina State,,Division I,Atlantic Coast
+Maryland,Maryland,,Division I,Atlantic Coast
+Appalachian State,Appalachian State,,Division I,Atlantic Coast
+North Carolina-Wilmington,North Carolina-Wilmington,,Division I,Atlantic Coast
+Liberty,Liberty,,Division I,Atlantic Coast
+James Madison,James Madison,,Division I,Atlantic Coast
+William & Mary,William & Mary,,Division I,Atlantic Coast
+South Carolina,South Carolina,,Division I,Atlantic Coast
+Georgetown,Georgetown,,Division I,Atlantic Coast
+Virginia Tech,Virginia Tech,,Division I,Atlantic Coast
+North Carolina B,North Carolina B,,,Atlantic Coast
+Navy,Navy,,Division III,Atlantic Coast
+Mary Washington,Mary Washington,,Division III,Atlantic Coast
+Davidson,Davidson,,Division III,Atlantic Coast
+High Point,High Point,,Division III,Atlantic Coast
+North Carolina-Asheville,North Carolina-Asheville,,Division III,Atlantic Coast
+Christopher Newport,Christopher Newport,,Division III,Atlantic Coast
+Richmond,Richmond,,Division III,Atlantic Coast
+Elon,Elon,,Division III,Atlantic Coast
+Delaware B,Delaware B,,,Atlantic Coast
+South Carolina B,South Carolina B,,,Atlantic Coast
+Virginia Tech B,Virginia Tech B,,,Atlantic Coast
+American B,American B,,,Atlantic Coast
+Maryland B,Maryland B,,,Atlantic Coast
+George Washington B,George Washington B,,,Atlantic Coast
+James Madison B,James Madison B,,,Atlantic Coast
+Virginia B,Virginia B,,,Atlantic Coast
+Chicago,Chicago,,Division I,Great Lakes
+Illinois State,Illinois State,,Division I,Great Lakes
+Michigan,Michigan,,Division I,Great Lakes
+Grand Valley State,Grand Valley State,,,Great Lakes
+Kentucky,Kentucky,,Division I,Great Lakes
+Notre Dame,Notre Dame,,Division I,Great Lakes
+Michigan B,Michigan B,,,
+Purdue,Purdue,,Division I,Great Lakes
+Northwestern,Northwestern,,Division I,Great Lakes
+Indiana,Indiana,,Division I,Great Lakes
+Loyola-Chicago,Loyola-Chicago,,,
+Illinois,Illinois,,Division I,Great Lakes
+Knox,Knox,,Division III,Great Lakes
+North Park,North Park,,,Great Lakes
+Valparaiso,Valparaiso,,,Great Lakes
+Eastern Illinois,Eastern Illinois,,,Great Lakes
+Butler,Butler,,Division III,Great Lakes
+Wheaton Illinois,Wheaton Illinois,,,Great Lakes
+Olivet Nazarene,Olivet Nazarene,,Division III,Great Lakes
+Rose-Hulman,Rose-Hulman,,,Great Lakes
+Syracuse,Syracuse,,Division I,Metro East
+SUNY-Buffalo,SUNY-Buffalo,,Division I,Metro East
+Rutgers,Rutgers,,,Metro East
+SUNY-Binghamton,SUNY-Binghamton,,Division I,Metro East
+SUNY-Albany,SUNY-Albany,,Division I,Metro East
+Connecticut,Connecticut,,Division I,Metro East
+SUNY-Stony Brook,SUNY-Stony Brook,,Division I,Metro East
+RIT,RIT,,Division I,Metro East
+Cornell,Cornell,,Division I,Metro East
+NYU,NYU,,Division I,Metro East
+Princeton,Princeton,,Division I,Metro East
+Yale,Yale,,Division I,Metro East
+SUNY-Geneseo,SUNY-Geneseo,,,Metro East
+SUNY-Fredonia,SUNY-Fredonia,,Division III,Metro East
+Marist,Marist,,Division III,Metro East
+Stevens Tech,Stevens Tech,,Division III,Metro East
+SUNY-Oneonta,SUNY-Oneonta,,,Metro East
+Hamilton,Hamilton,,,Metro East
+Colgate,Colgate,,Division III,Metro East
+Rensselaer Polytech,Rensselaer Polytech,,,Metro East
+Wesleyan,Wesleyan,,Division III,Metro East
+Ithaca,Ithaca,,Division III,Metro East
+Rochester,Rochester,,Division III,Metro East
+Army,Army,,,Metro East
+Brown,Brown,,Division I,New England
+Vermont,Vermont,,Division I,New England
+Northeastern,Northeastern,,Division I,New England
+MIT,MIT,,Division I,New England
+Boston College,Boston College,,Division I,New England
+Massachusetts C,Massachusetts C,,,New England
+Massachusetts,Massachusetts,,Division I,New England
+Tufts,Tufts,,Division I,New England
+Harvard,Harvard,,Division I,New England
+New Hampshire,New Hampshire,,Division I,New England
+Dartmouth,Dartmouth,,Division I,New England
+Tufts B,Tufts B,,,New England
+Middlebury,Middlebury,,,New England
+Bentley,Bentley,,,New England
+Bowdoin,Bowdoin,,,New England
+Williams,Williams,,Division III,New England
+Bryant University,Bryant University,,Division III,New England
+Brandeis,Brandeis,,Division III,New England
+Bates College,Bates College,,,New England
+Colby,Colby,,Division III,New England
+Northeastern C,Northeastern C,,,New England
+Massachusetts Amherst B,Massachusetts Amherst B,,,New England
+Dartmouth B,Dartmouth B,,,New England
+Brown B,Brown B,,,New England
+Michigan Tech,Michigan Tech,,,North Central
+St Olaf,St Olaf,,,North Central
+Winona State,Winona State,,,North Central
+St John's,St John's,,Division III,North Central
+St. Thomas,St. Thomas,,Division III,North Central
+Macalester,Macalester,,,North Central
+Wisconsin-Platteville,Wisconsin-Platteville,,,North Central
+Carleton College-GoP,Carleton College-GoP,,Division III,North Central
+Luther,Luther,,Division III,North Central
+Carleton Hot Karls,Carleton Hot Karls,,,North Central
+Washington,Washington,,Division I,Northwest
+British Columbia,British Columbia,,Division I,Northwest
+Victoria,Victoria,,Division I,Northwest
+Utah,Utah,,Division I,Northwest
+Montana,Montana,,Division I,Northwest
+Idaho,Idaho,,Division I,Northwest
+Oregon,Oregon,,Division I,Northwest
+Oregon State,Oregon State,,Division I,Northwest
+Whitman,Whitman,,Division I,Northwest
+Montana State,Montana State,,Division I,Northwest
+Utah State,Utah State,,Division I,Northwest
+Boise State,Boise State,,Division I,Northwest
+Ohio State,Ohio State,,Division I,Ohio Valley
+Pittsburgh,Pittsburgh,,Division I,Ohio Valley
+Carnegie Mellon,Carnegie Mellon,,Division I,Ohio Valley
+Ohio,Ohio,,Division I,Ohio Valley
+Villanova,Villanova,,Division I,Ohio Valley
+Drexel,Drexel,,Division I,Ohio Valley
+Temple,Temple,,Division I,Ohio Valley
+Cincinnati,Cincinnati,,Division I,Ohio Valley
+Miami Ohio,Miami Ohio,,,Ohio Valley
+Case Western Reserve,Case Western Reserve,,Division I,Ohio Valley
+Dayton,Dayton,,Division I,Ohio Valley
+Penn State,Penn State,,Division I,Ohio Valley
+Lehigh,Lehigh,,Division I,Ohio Valley
+Pittsburgh B,Pittsburgh B,,,Ohio Valley
+Pennsylvania,Pennsylvania,,Division I,Ohio Valley
+West Chester,West Chester,,Division I,Ohio Valley
+Muhlenberg,Muhlenberg,,,Ohio Valley
+Lehigh B,Lehigh B,,Division III,Ohio Valley
+Messiah,Messiah,,Division III,Ohio Valley
+Xavier,Xavier,,Division III,Ohio Valley
+Wooster,Wooster,,Division III,Ohio Valley
+Oberlin,Oberlin,,Division III,Ohio Valley
+Swarthmore,Swarthmore,,Division III,Ohio Valley
+Grove City,Grove City,,,Ohio Valley
+Franciscan,Franciscan,,Division III,Ohio Valley
+Haverford,Haverford,,Division III,Ohio Valley
+Shippensburg,Shippensburg,,Division III,Ohio Valley
+Cedarville,Cedarville,,Division III,Ohio Valley
+Colorado,Colorado,,Division I,South Central
+Texas,Texas,,Division I,South Central
+Texas-Dallas,Texas-Dallas,,Division I,South Central
+Colorado State,Colorado State,,Division I,South Central
+Texas A&M,Texas A&M,,Division I,South Central
+Texas Tech,Texas Tech,,Division I,South Central
+Oklahoma,Oklahoma,,Division I,South Central
+Oklahoma State,Oklahoma State,,Division I,South Central
+Colorado B,Colorado B,,Division I,South Central
+Texas State,Texas State,,Division I,South Central
+Baylor,Baylor,,Division I,South Central
+Saint Louis,Saint Louis,,Division I,South Central
+Arkansas,Arkansas,,Division I,South Central
+Kansas,Kansas,,Division I,South Central
+Washington University,Washington University,,Division I,South Central
+Kansas State,Kansas State,,Division I,South Central
+John Brown,John Brown,,Division III,South Central
+Rice,Rice,,Division III,South Central
+Colorado School of Mines,Colorado School of Mines,,Division III,South Central
+Trinity,Trinity,,Division III,South Central
+Air Force,Air Force,,Division III,South Central
+Truman State,Truman State,,Division III,South Central
+Missouri S&T,Missouri S&T,,Division III,South Central
+Colorado College,Colorado College,,Division III,South Central
+Central Florida,Central Florida,,Division I,Southeast
+Georgia Tech,Georgia Tech,,Division I,Southeast
+Kennesaw State,Kennesaw State,,Division I,Southeast
+Emory,Emory,,Division I,Southeast
+Georgia,Georgia,,Division I,Southeast
+Tulane,Tulane,,Division I,Southeast
+Tennessee,Tennessee,,Division I,Southeast
+Tennessee-Chattanooga,Tennessee-Chattanooga,,Division I,Southeast
+Auburn,Auburn,,Division I,Southeast
+Alabama-Huntsville,Alabama-Huntsville,,Division I,Southeast
+Florida State,Florida State,,Division I,Southeast
+South Florida,South Florida,,Division I,Southeast
+Alabama,Alabama,,Division I,Southeast
+Florida,Florida,,Division I,Southeast
+LSU,LSU,,Division I,Southeast
+Alabama-Birmingham,Alabama-Birmingham,,Division I,Southeast
+Berry,Berry,,Division III,Southeast
+North Georgia,North Georgia,,Division III,Southeast
+Belmont,Belmont,,,Southeast
+Stetson,Stetson,,Division III,Southeast
+Samford,Samford,,Division III,Southeast
+Embry-Riddle Florida,Embry-Riddle Florida,,,Southeast
+Florida Tech,Florida Tech,,Division III,Southeast
+Union Tennessee,Union Tennessee,,,Southeast
+Cal Poly-SLO,Cal Poly-SLO,,Division I,Southwest
+California-Santa Cruz,California-Santa Cruz,,Division I,Southwest
+California-Davis,California-Davis,,Division I,Southwest
+Las Positas,Las Positas,,,Southwest
+Stanford,Stanford,,Division I,Southwest
+Southern California,Southern California,,Division I,Southwest
+Arizona,Arizona,,Division I,Southwest
+Humboldt State,Humboldt State,,Division I,Southwest
+California,California,,Division I,Southwest
+New Mexico,New Mexico,,Division I,Southwest
+California-Santa Barbara,California-Santa Barbara,,Division I,Southwest
+Chico State,Chico State,,Division I,Southwest
+California-San Diego,California-San Diego,,Division I,Southwest
+Northern Arizona,Northern Arizona,,Division I,Southwest
+UCLA,UCLA,,Division I,Southwest
+Santa Clara,Santa Clara,,Division I,Southwest
+Brigham Young,Brigham Young,,Division I,Northwest
+Brigham Young B,Brigham Young B,,,Northwest
+Gonzaga,Gonzaga,,Division I,Northwest
+Washington State,Washington State,,Division I,Northwest
+Washington B,Washington B,,Division I,Northwest
+Oregon State B,Oregon State B,,,Northwest
+Western Washington,Western Washington,,Division I,Northwest
+Western Washington B,Western Washington B,,,Northwest
+Washington C,Washington C,,,Northwest
+North Carolina-Charlotte,North Carolina-Charlotte,,Division I,Atlantic Coast
+Charleston,Charleston,,Division I,Atlantic Coast
+Clemson,Clemson,,Division I,Atlantic Coast
+Wake Forest,Wake Forest,,Division I,Atlantic Coast
+Campbell,Campbell,,Division III,Atlantic Coast
+Anderson,Anderson,,,Atlantic Coast
+Maryland-Baltimore County,Maryland-Baltimore County,,Division I,Atlantic Coast
+Salisbury,Salisbury,,Division I,Atlantic Coast
+American,American,,Division I,Atlantic Coast
+George Washington,George Washington,,Division I,Atlantic Coast
+Towson,Towson,,Division I,Atlantic Coast
+Delaware,Delaware,,Division I,Atlantic Coast
+Maryland-Baltimore County B,Maryland-Baltimore County B,,,Atlantic Coast
+Georgetown B,Georgetown B,,,Atlantic Coast
+Towson B,Towson B,,,Atlantic Coast
+Grand Canyon,Grand Canyon,,Division I,Southwest
+Arizona State,Arizona State,,Division I,Southwest
+Millersville,Millersville,,,Ohio Valley
+Saint Joseph's,Saint Joseph's,,,Ohio Valley
+Ursinus,Ursinus,,,Ohio Valley
+Jefferson,Jefferson,,Division III,Ohio Valley
+Lancaster Bible,Lancaster Bible,,,Ohio Valley
+Scranton,Scranton,,,Ohio Valley
+Ball State,Ball State,,Division I,Great Lakes
+Southern Indiana,Southern Indiana,,,Great Lakes
+Kalamazoo,Kalamazoo,,,Great Lakes
+Indiana Wesleyan,Indiana Wesleyan,,,Great Lakes
+Kettering,Kettering,,,Great Lakes
+Georgia College,Georgia College,,Division III,Southeast
+Dalton State,Dalton State,,,Southeast
+Ave Maria,Ave Maria,,Division III,Southeast
+Florida Atlantic,Florida Atlantic,,,Southeast
+Miami,Miami,,Division I,Southeast
+North Florida,North Florida,,Division I,Southeast
+Florida Gulf Coast,Florida Gulf Coast,,Division I,Southeast
+Rhode Island,Rhode Island,,Division I,New England
+Maine,Maine,,Division I,New England
+Vermont B,Vermont B,,,New England
+Colby B,Colby B,,,New England
+Amherst College B,Amherst College B,,,New England
+Kentucky B,Kentucky B,,Division I,Great Lakes
+Michigan State B,Michigan State B,,,Great Lakes
+Indiana B,Indiana B,,,Great Lakes
+Chicago B,Chicago B,,,Great Lakes
+Illinois B,Illinois B,,,Great Lakes
+Notre Dame B,Notre Dame B,,,Great Lakes
+Northwestern B,Northwestern B,,,Great Lakes
+Purdue B,Purdue B,,,Great Lakes
+Southern Mississippi,Southern Mississippi,,,Southeast
+Troy,Troy,,Division I,Southeast
+Mississippi State,Mississippi State,,Division I,Southeast
+Vanderbilt,Vanderbilt,,Division I,Southeast
+Jacksonville State,Jacksonville State,,Division I,Southeast
+Middle Tennessee State,Middle Tennessee State,,Division I,Southeast
+Mississippi,Mississippi,,Division I,Southeast
+Sacred Heart,Sacred Heart,,Division I,Metro East
+Southern Connecticut State,Southern Connecticut State,,,New England
+New Haven,New Haven,,,New England
+Union,Union,,,Metro East
+Skidmore,Skidmore,,,Metro East
+Vassar,Vassar,,,Metro East
+Hartford,Hartford,,,New England
+Saint Rose,Saint Rose,,,North Central
+Illinois-Chicago,Illinois-Chicago,,,North Central
+DePaul,DePaul,,,North Central
+Northern Illinois,Northern Illinois,,,North Central
+Wisconsin,Wisconsin,,Division I,North Central
+Wisconsin-Eau Claire,Wisconsin-Eau Claire,,Division I,North Central
+Wisconsin-Milwaukee,Wisconsin-Milwaukee,,Division I,North Central
+Wisconsin-Oshkosh,Wisconsin-Oshkosh,,Division I,North Central
+Marquette,Marquette,,,North Central
+Northern Michigan,Northern Michigan,,,North Central
+Wisconsin- La Crosse,Wisconsin- La Crosse,,,North Central
+Wisconsin-Stevens Point,Wisconsin-Stevens Point,,,North Central
+Wisconsin-Whitewater,Wisconsin-Whitewater,,Division I,North Central
+Milwaukee School of Engineering,Milwaukee School of Engineering,,,North Central
+Carthage College,Carthage College,,,North Central
+Wisconsin-Green Bay,Wisconsin-Green Bay,,,North Central
+Wisconsin-River Falls,Wisconsin-River Falls,,,North Central
+Massachusetts-Lowell,Massachusetts-Lowell,,Division I,New England
+Massachusetts- Dartmouth,Massachusetts- Dartmouth,,,New England
+Boston University,Boston University,,Division I,New England
+Wentworth,Wentworth,,,New England
+Wheaton MA,Wheaton MA,,,New England
+Stonehill,Stonehill,,,New England
+Northeastern B,Northeastern B,,,New England
+Harvard B,Harvard B,,,New England
+Tufts C,Tufts C,,,New England
+MIT B,MIT B,,,New England
+Yale B,Yale B,,,New England
+SUNY-Stony Brook-B,SUNY-Stony Brook-B,,,New England
+Connecticut B,Connecticut B,,,New England
+Rutgers B,Rutgers B,,,Metro East
+Princeton B,Princeton B,,,Metro East
+SUNY-Binghamton B,SUNY-Binghamton B,,,Metro East
+SUNY Oneonta B,SUNY Oneonta B,,,Metro East
+Cornell B,Cornell B,,,Metro East
+SUNY-Albany B,SUNY-Albany B,,,Metro East
+SUNY-Buffalo B,SUNY-Buffalo B,,,Metro East
+New Jersey Tech,New Jersey Tech,,,Metro East
+Columbia,Columbia,,Division I,Metro East
+Rowan,Rowan,,Division I,Metro East
+Hofstra,Hofstra,,Division I,Metro East
+College of New Jersey,College of New Jersey,,Division III,Metro East
+New York Tech,New York Tech,,,Metro East
+Western Michigan,Western Michigan,,,Great Lakes
+Michigan State,Michigan State,,Division I,Great Lakes
+Fresno State,Fresno State,,Division I,Southwest
+Sacramento State,Sacramento State,,,Southwest
+Sonoma State,Sonoma State,,Division I,Southwest
+Nevada-Reno,Nevada-Reno,,Division I,Southwest
+San Jose State,San Jose State,,Division I,Southwest
+Minnesota B,Minnesota B,,,North Central
+Luther B,Luther B,,,North Central
+Marquette B,Marquette B,,,North Central
+Wisconsin C,Wisconsin C,,,North Central
+Wisconsin B,Wisconsin B,,,North Central
+Iowa State B,Iowa State B,,,North Central
+Minnesota C,Minnesota C,,,North Central
+Wisconsin-Milwaukee B,Wisconsin-Milwaukee B,,,North Central
+Catholic,Catholic,,Division III,Atlantic Coast
+Roanoke,Roanoke,,,Atlantic Coast
+Shenandoah,Shenandoah,,Division III,Atlantic Coast
+St Mary's Maryland,St Mary's Maryland,,,Atlantic Coast
+Stephen F. Austin,Stephen F. Austin,,Division I,South Central
+North Texas B,North Texas B,,,South Central
+Texas-Arlington,Texas-Arlington,,Division I,South Central
+Texas Christian,Texas Christian,,Division I,South Central
+Southern Methodist,Southern Methodist,,Division I,South Central
+North Texas,North Texas,,Division I,South Central
+Texas-Dallas B,Texas-Dallas B,,,South Central
+Pacific Lutheran,Pacific Lutheran,,Division III,Northwest
+Portland,Portland,,Division III,Northwest
+Willamette University,Willamette University,,Division III,Northwest
+Whitworth,Whitworth,,Division III,Northwest
+Lewis & Clark,Lewis & Clark,,Division III,Northwest
+Puget Sound,Puget Sound,,Division III,Northwest
+Seattle,Seattle,,Division III,Northwest
+Minnesota State-Mankato,Minnesota State-Mankato,,,North Central
+North Dakota State,North Dakota State,,,North Central
+Minnesota,Minnesota,,Division I,North Central
+Minnesota-Duluth,Minnesota-Duluth,,Division I,North Central
+Carleton College-CUT,Carleton College-CUT,,Division I,North Central
+Bethel,Bethel,,,North Central
+Toledo,Toledo,,Division I,Ohio Valley
+Kent State,Kent State,,,Ohio Valley
+Wright State,Wright State,,Division I,Ohio Valley
+Akron,Akron,,Division I,Ohio Valley
+Cleveland State,Cleveland State,,,Ohio Valley
+John Carroll,John Carroll,,,Ohio Valley
+Ohio Wesleyan,Ohio Wesleyan,,,Ohio Valley
+Kenyon,Kenyon,,Division III,Ohio Valley
+Denison,Denison,,Division III,Ohio Valley
+Ohio Northern,Ohio Northern,,,Ohio Valley
+Case Western Reserve B,Case Western Reserve B,,,Ohio Valley
+Temple B,Temple B,,,Ohio Valley
+Penn State B,Penn State B,,,Ohio Valley
+Oberlin B,Oberlin B,,,Ohio Valley
+Ohio State-B B,Ohio State-B B,,,Ohio Valley
+Pennsylvania B,Pennsylvania B,,,Ohio Valley
+Missouri,Missouri,,Division I,South Central
+Missouri State,Missouri State,,Division I,South Central
+Central Arkansas,Central Arkansas,,,South Central
+Oklahoma B,Oklahoma B,,,South Central
+Tulsa,Tulsa,,Division III,South Central
+Harding,Harding,,,South Central
+Colorado Mesa,Colorado Mesa,,,South Central
+Denver,Denver,,Division I,South Central
+Colorado State B,Colorado State B,,Division I,South Central
+Colorado-Colorado Springs,Colorado-Colorado Springs,,Division I,South Central
+Colorado-Denver,Colorado-Denver,,Division I,South Central
+Colorado School of Mines - B,Colorado School of Mines - B,,,South Central
+Air Force B,Air Force B,,,South Central
+California-Irvine,California-Irvine,,Division I,Southwest
+Cal State-Long Beach,Cal State-Long Beach,,Division I,Southwest
+Cal Poly-Pomona,Cal Poly-Pomona,,Division I,Southwest
+San Diego State,San Diego State,,Division I,Southwest
+Loyola Marymount,Loyola Marymount,,Division I,Southwest
+Georgia Tech B,Georgia Tech B,,,Southeast
+Central Florida B,Central Florida B,,,Southeast
+Georgia B,Georgia B,,,Southeast
+South Florida B,South Florida B,,,Southeast
+LSU B,LSU B,,,Southeast
+Florida B,Florida B,,,Southeast
+Alabama B,Alabama B,,,Southeast
+Florida Tech B,Florida Tech B,,,Southeast
+Georgia State,Georgia State,,Division I,Southeast
+Georgia Southern,Georgia Southern,,Division I,Southeast
+Tennessee Tech,Tennessee Tech,,,Southeast
+North Carolina State B,North Carolina State B,,,Southeast
+William & Mary B,William & Mary B,,,Atlantic Coast
+Amherst College,Amherst College,,Division III,New England
+Clark,Clark,,,New England
+Providence College,Providence College,,,New England
+Worcester Polytech,Worcester Polytech,,,New England
+Texas State B,Texas State B,,Division I,South Central
+Texas A&M B,Texas A&M B,,,South Central
+Texas-Rio Grande Valley,Texas-Rio Grande Valley,,,South Central
+Sam Houston State,Sam Houston State,,Division I,South Central
+Texas B,Texas B,,Division I,South Central
+Lamar,Lamar,,,South Central
+Texas-San Antonio,Texas-San Antonio,,Division I,South Central
+Houston,Houston,,,South Central
+Texas-El Paso,Texas-El Paso,,,South Central
+Caltech,Caltech,,Division III,Southwest
+Occidental,Occidental,,Division III,Southwest
+Claremont,Claremont,,Division III,Southwest
+Biola Univeristy,Biola Univeristy,,,Southwest
+Cal Poly-SLO B,Cal Poly-SLO B,,,Southwest
+California B,California B,,,Southwest
+California-San Diego C,California-San Diego C,,,Southwest
+Southern California B,Southern California B,,,Southwest
+California-Santa Barbara B,California-Santa Barbara B,,,Southwest
+Arizona State B,Arizona State B,,,Southwest
+Arizona B,Arizona B,,,Southwest
+California-San Diego B,California-San Diego B,,,Southwest
+Cal Poly-SLO C,Cal Poly-SLO C,,,Southwest
+UCLA B,UCLA B,,,Southwest
+California-Irvine B,California-Irvine B,,,Southwest
+Sul Ross State,Sul Ross State,,,South Central
+Dallas Baptist,Dallas Baptist,,,South Central
+Abilene Christian,Abilene Christian,,,South Central
+Dallas,Dallas,,,South Central
+Virginia Commonwealth,Virginia Commonwealth,,,South Central
+Radford,Radford,,Division I,Atlantic Coast
+George Mason,George Mason,,Division I,Atlantic Coast
+SUNY-Cortland,SUNY-Cortland,,Division III,Metro East
+St Lawrence University,St Lawrence University,,,Metro East
+Slippery Rock,Slippery Rock,,Division I,Ohio Valley
+Edinboro,Edinboro,,Division I,Ohio Valley
+Indiana Pennsylvania,Indiana Pennsylvania,,,Ohio Valley
+West Virginia,West Virginia,,Division I,Ohio Valley
+Bucknell,Bucknell,,,Ohio Valley
+Allegheny,Allegheny,,Division III,Ohio Valley
+Susquehanna,Susquehanna,,,Ohio Valley
+California-Pennsylvania,California-Pennsylvania,,,Ohio Valley
+Dickinson,Dickinson,,Division III,Ohio Valley
+Iowa State,Iowa State,,Division I,North Central
+Nebraska,Nebraska,,Division I,North Central
+Iowa,Iowa,,Division I,North Central
+Creighton,Creighton,,Division I,North Central
+Northern Iowa,Northern Iowa,,Division I,North Central
+Nebraska-Omaha,Nebraska-Omaha,,Division I,North Central
+Cornell College,Cornell College,,,North Central
+Grinnell,Grinnell,,Division III,North Central
+Coe,Coe,,Division III,North Central
+Drake,Drake,,,North Central
+Johnson,Johnson,,,North Central
+Lewis & Clark College,Lewis & Clark College,,,Northwest
+Portland State,Portland State,,Division I,Northwest
+Lewis & Clark B,Lewis & Clark B,,,Northwest
+Illinois State B,Illinois State B,,,North Central
+Alabama-Huntsville B,Alabama-Huntsville B,,,Southeast
+Lewis,Lewis,,,Great Lakes
+University of New Mexico,University of New Mexico,,,"Southwest "
+Arizona State C,Arizona State C,,,"Southwest "
+The University of Texas at El Paso,The University of Texas at El Paso,,,South Central
+Western Washington University,Western Washington University,,,Northwest
+Colorado State University,Colorado State University,,,Northwest
+Stephen F Austin,Stephen F Austin,,,South Central
+Drexel University,Drexel University,,,Ohio Valley
+Columbus State,Columbus State,,,Ohio Valley
+Boston College B,Boston College B,,,New England
+Florida State B,Florida State B,,,Southeast
+Stanford B,Stanford B,,,Southwest
+Oregon B,Oregon B,,,Northwest
+Vanderbilt University B,Vanderbilt University B,,,Southeast
+Colorado School of Mines-B,Colorado School of Mines-B,,,South Central
+Arkansas State,Arkansas State,,Division I,South Central
+Hendrix,Hendrix,,,South Central
+Wingate,Wingate,,,Atlantic Coast
+Carnegie Mellon B,Carnegie Mellon B,,,Ohio Valley
+Saint Louis University,Saint Louis University,,,South Central
+Southern Illinois-Edwardsville,Southern Illinois-Edwardsville,,,Great Lakes
+Pacific Lutheran B,Pacific Lutheran B,,Division III,Northwest
+Seattle B,Seattle B,,,Northwest
+Western Washington University B,Western Washington University B,,,Northwest
+SUNY-New Paltz,SUNY-New Paltz,,,Metro East
+Miami Upper,Miami Upper,,,Southeast
+University of Louisville,University of Louisville,,,Great Lakes
+UW Stevens Point,UW Stevens Point,,,North Central
+Bradley,Bradley,,,North Central
+University of Pittsburgh B,University of Pittsburgh B,,,Ohio Valley
+Central Washington,Central Washington,,Division I,Northwest
+Colorado Cutthroat,Colorado Cutthroat,,,South Central
+Siena,Siena,,,Metro East
+Bates College B,Bates College B,,,New England
+Brandeis B,Brandeis B,,,New England
+Emerson,Emerson,,,New England
+Trine,Trine,,,Great Lakes
+Ohio State-B,Ohio State-B,,,Ohio Valley
+Wisconsin-Stout,Wisconsin-Stout,,,North Central
+Rhode Island B,Rhode Island B,,,New England
+Rensselaer Polytech B,Rensselaer Polytech B,,,Metro East
+Cal State-Fullerton,Cal State-Fullerton,,Division I,Southwest
+Ottawa Arizona,Ottawa Arizona,,,Southwest
+University of Massachusetts Amherst B,University of Massachusetts Amherst B,,,New England
+Franklin & Marshall,Franklin & Marshall,,,Ohio Valley
+Villanova B,Villanova B,,,Ohio Valley
+Washington University B,Washington University B,,Division I,South Central
+Fairfield,Fairfield,,,New England
+Northwestern-St. Paul,Northwestern-St. Paul,,,North Central
+Dayton B,Dayton B,,,Ohio Valley
+West Chester B,West Chester B,,,Ohio Valley
+SUNY-Stony Brook B,SUNY-Stony Brook B,,,Metro East
+Amherst Regional,Amherst Regional,,,New England

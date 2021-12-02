@@ -1037,7 +1037,7 @@ Colby,College of,13
 Colby,Yale,13
 Colby,SUNY,13
 Colby,MIT,11
-Colby,SUNY New,12
+Colby,SUNY-New,12
 Colby,Emerson,13
 Berry,Colby,9
 Berry,Carleton Colleg,6
@@ -3901,7 +3901,7 @@ SUNY,Colgate,8
 SUNY,St Lawrence,15
 SUNY,Bates College,0
 SUNY,Salisbury,7
-SUNY,SUNY New,13
+SUNY,SUNY-New,13
 SUNY,MIT,10
 SUNY,College of,12
 SUNY,Colby,7
@@ -4360,7 +4360,7 @@ Stevens Tech,Army,1
 Stevens Tech,New York,13
 Stevens Tech,College of,11
 Stevens Tech,Salisbury,11
-Stevens Tech,SUNY New,7
+Stevens Tech,SUNY-New,7
 Stevens Tech,Bates College,2
 Stevens Tech,Brown,5
 Stevens Tech,Rutgers,8
@@ -4537,7 +4537,7 @@ College of,Yale,6
 College of,Colby,6
 College of,SUNY,11
 College of,MIT,3
-College of,SUNY New,8
+College of,SUNY-New,8
 College of,Rutgers,0
 College of,Dickinson,12
 College of,West Virginia,11
@@ -4628,7 +4628,7 @@ Bates College,Bentley,13
 Bates College,Middlebury,8
 Bates College,Dartmouth,5
 Bates College,SUNY,13
-Bates College,SUNY New,13
+Bates College,SUNY-New,13
 Bates College,Salisbury,13
 Bates College,Stevens Tech,13
 Bates College,Yale,11
@@ -6699,11 +6699,11 @@ Colorado Cutthroat,Colorado Mesa,10
 Colorado Cutthroat,Colorado,9
 Colorado Cutthroat,New Mexico,5
 Colorado Cutthroat,Air Force,6
-SUNY New,Bates College,3
-SUNY New,Stevens Tech,10
-SUNY New,SUNY,6
-SUNY New,Colby,6
-SUNY New,College of,12
+SUNY-New,Bates College,3
+SUNY-New,Stevens Tech,10
+SUNY-New,SUNY,6
+SUNY-New,Colby,6
+SUNY-New,College of,12
 Marcus,Oklahoma,3
 Marcus,Rice,10
 Marcus,Southern Methodist,11
