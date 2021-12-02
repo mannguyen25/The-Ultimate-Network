@@ -37,11 +37,11 @@ Michigan,Michigan,,Division I,Great Lakes
 Grand Valley State,Grand Valley State,,,Great Lakes
 Kentucky,Kentucky,,Division I,Great Lakes
 Notre Dame,Notre Dame,,Division I,Great Lakes
-Michigan B,Michigan B,,,
+Michigan B,Michigan B,,,Great Lakes
 Purdue,Purdue,,Division I,Great Lakes
 Northwestern,Northwestern,,Division I,Great Lakes
 Indiana,Indiana,,Division I,Great Lakes
-Loyola-Chicago,Loyola-Chicago,,,
+Loyola-Chicago,Loyola-Chicago,,,Great Lakes
 Illinois,Illinois,,Division I,Great Lakes
 Knox,Knox,,Division III,Great Lakes
 North Park,North Park,,,Great Lakes
@@ -278,6 +278,7 @@ Jacksonville State,Jacksonville State,,Division I,Southeast
 Middle Tennessee State,Middle Tennessee State,,Division I,Southeast
 Mississippi,Mississippi,,Division I,Southeast
 Sacred Heart,Sacred Heart,,Division I,Metro East
+SUNY-New Paltz,SUNY-New Paltz,,,Metro East
 Southern Connecticut State,Southern Connecticut State,,,New England
 New Haven,New Haven,,,New England
 Union,Union,,,Metro East
@@ -476,8 +477,8 @@ Lewis & Clark B,Lewis & Clark B,,,Northwest
 Illinois State B,Illinois State B,,,North Central
 Alabama-Huntsville B,Alabama-Huntsville B,,,Southeast
 Lewis,Lewis,,,Great Lakes
-University of New Mexico,University of New Mexico,,,"Southwest "
-Arizona State C,Arizona State C,,,"Southwest "
+University of New Mexico,University of New Mexico,,,Southwest
+Arizona State C,Arizona State C,,,Southwest
 The University of Texas at El Paso,The University of Texas at El Paso,,,South Central
 Western Washington University,Western Washington University,,,Northwest
 Colorado State University,Colorado State University,,,Northwest
@@ -499,7 +500,6 @@ Southern Illinois-Edwardsville,Southern Illinois-Edwardsville,,,Great Lakes
 Pacific Lutheran B,Pacific Lutheran B,,Division III,Northwest
 Seattle B,Seattle B,,,Northwest
 Western Washington University B,Western Washington University B,,,Northwest
-SUNY-New Paltz,SUNY-New Paltz,,,Metro East
 Miami Upper,Miami Upper,,,Southeast
 University of Louisville,University of Louisville,,,Great Lakes
 UW Stevens Point,UW Stevens Point,,,North Central
