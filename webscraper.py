@@ -52,6 +52,8 @@ def scrape_page(page):
             if abs(h_score-a_score) == 0:
                 continue
             else:
+                if "Alum" in winner or "Alum" in loser:
+                    continue
                 game = [winner, loser, abs(h_score-a_score)]
                 games.append(game)
     teams = soup.findAll("span", {"class":"team adjust-data"})
@@ -82,21 +84,22 @@ def scrape_page(page):
         if abs(h_score-a_score) == 0:
             continue
         else:
+            if "Alum" in winner or "Alum" in loser:
+                continue
             game = [winner, loser, abs(h_score-a_score)]
-            print(game)        
             games.append(game)
     return games
 def main():
     # TODO: implement selenium driver to select multiple pages :(
     # starting url
-    url = "https://play.usaultimate.org/events/Towson-Cup-2019/schedule/Men/CollegeMen/"
+    url = "https://play.usaultimate.org/events/Layout-Pigout-2019/schedule/Men/CollegeMen/"
     page = requests.get(url)
     data = scrape_page(page)
     name = re.sub("[-]+"," ",re.search("events\/([a-zA-Z-\s\d]+)", url).group(1)).rstrip()
     # # header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
-    # write_to_csv(data, "C:/Users/Man/Documents\GitHub/The-Ultimate-Network/nonsanctioned_games.csv",'a')
-    # print(name)
-    # write_to_csv(data, "C:/Users/Man/Documents\GitHub/The-Ultimate-Network/Non-Sanctioned 2019/"+name+".csv",'w')
+    print(data)
+    write_to_csv(data, "C:/Users/Man/Documents\GitHub/The-Ultimate-Network/nonsanctioned_games.csv",'a')
+    write_to_csv(data, "C:/Users/Man/Documents\GitHub/The-Ultimate-Network/Non-Sanctioned 2019/"+name+".csv",'w')
     # url = "https://archive.usaultimate.org/archives/2019_college.aspx#regionals"
     # # initialize latest driver
     # page = requests.get(url)

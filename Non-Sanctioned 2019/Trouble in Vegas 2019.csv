@@ -1,0 +1,105 @@
+Florida,Nevada-Reno,2
+Southern California,Florida,6
+Southern California,Nevada-Reno,12
+Chico State,Montana State,3
+Northern Arizona,California-Irvine,7
+Northern Arizona,Chico State,3
+Montana State,California-Irvine,9
+Chico State,California-Irvine,9
+Northern Arizona,Montana State,5
+Cal Poly-Pomona,Wisconsin-Oshkosh,5
+San Diego State,Colorado Mesa,3
+Cal Poly-Pomona,San Diego State,4
+Colorado Mesa,Wisconsin-Oshkosh,10
+Cal Poly-Pomona,Colorado Mesa,3
+San Diego State,Wisconsin-Oshkosh,3
+New Mexico,Occidental,7
+Utah State,Colorado-Denver,4
+Occidental,Utah State,2
+New Mexico,Colorado-Denver,11
+Colorado-Denver,Occidental,6
+Utah State,New Mexico,2
+Miami,Cal State-Fullerton,6
+Cal State-Long Beach,Boise State,2
+Boise State,Cal State-Fullerton,5
+Cal State-Long Beach,Miami,5
+Cal State-Long Beach,Cal State-Fullerton,9
+Miami,Boise State,1
+Cal Poly-SLO B,Arizona B,4
+California B,California-San Diego B,10
+California-San Diego B,Arizona B,2
+California B,Cal Poly-SLO B,2
+California B,Arizona B,9
+Cal Poly-SLO B,California-San Diego B,6
+Arizona State B,Colorado School of Mines - B,8
+Southern California B,Ottawa Arizona,6
+Arizona State B,Ottawa Arizona,9
+Colorado School of Mines - B,Southern California B,6
+Arizona State B,Southern California B,6
+Colorado School of Mines - B,Ottawa Arizona,11
+UCLA,Colorado School of Mines,9
+Arizona,Utah,6
+Colorado School of Mines,Utah,1
+UCLA,Arizona,1
+Arizona,Colorado School of Mines,4
+UCLA,Utah,3
+Arizona B,Southern California B,5
+Wisconsin-Oshkosh,Cal State-Fullerton,1
+Cal State-Fullerton,Southern California B,2
+Wisconsin-Oshkosh,Arizona B,3
+Wisconsin-Oshkosh,Southern California B,11
+Arizona B,Cal State-Fullerton,4
+Occidental,California-Irvine,6
+California-San Diego B,Colorado School of Mines - B,3
+Occidental,California-San Diego B,7
+California-Irvine,Colorado School of Mines - B,11
+California-San Diego B,California-Irvine,1
+Occidental,Colorado School of Mines - B,8
+Occidental,Wisconsin-Oshkosh,6
+California-San Diego B,Arizona B,15
+California-Irvine,Cal State-Fullerton,6
+Colorado School of Mines - B,Southern California B,7
+Southern California,Florida,5
+Southern California,Arizona,6
+Florida,UCLA,2
+Southern California,Utah,6
+Arizona,Nevada-Reno,9
+Florida,Colorado School of Mines,3
+UCLA,Utah State,7
+Utah,California B,4
+Nevada-Reno,Colorado-Denver,2
+Arizona,Cal State-Long Beach,7
+Florida,Chico State,9
+Colorado School of Mines,Cal Poly-Pomona,9
+Utah State,New Mexico,4
+California B,San Diego State,2
+Colorado-Denver,Northern Arizona,1
+Cal State-Long Beach,Colorado Mesa,1
+Chico State,Miami,5
+Cal Poly-Pomona,Boise State,4
+New Mexico,Arizona State B,2
+Utah State,Montana State,2
+Utah State,Nevada-Reno,2
+Nevada-Reno,Utah,3
+Utah State,Colorado School of Mines,2
+Colorado School of Mines,Utah,15
+Chico State,California B,2
+California B,Colorado-Denver,4
+Chico State,New Mexico,15
+Colorado-Denver,Cal State-Long Beach,8
+Chico State,Cal Poly-Pomona,9
+Colorado-Denver,New Mexico,15
+Cal State-Long Beach,Cal Poly-Pomona,2
+Montana State,Cal Poly-SLO B,4
+Montana State,Northern Arizona,10
+Cal Poly-SLO B,Boise State,2
+Montana State,San Diego State,4
+Northern Arizona,Colorado Mesa,5
+Boise State,Miami,7
+Cal Poly-SLO B,Arizona State B,3
+Cal Poly-SLO B,Colorado School of Mines - B,3
+Northern Arizona,Boise State,15
+San Diego State,Arizona State B,3
+San Diego State,Colorado Mesa,1
+Arizona State B,Miami,5
+Colorado Mesa,Miami,1

@@ -1,0 +1,94 @@
+Connecticut,Johns Hopkins,1
+James Madison,Rutgers,2
+Johns Hopkins,James Madison,6
+Rutgers,Connecticut,6
+Johns Hopkins,Rutgers,5
+Connecticut,James Madison,4
+Penn State,Georgetown,5
+Duke,Middlebury,1
+Penn State,Duke,1
+Middlebury,Georgetown,7
+Middlebury,Penn State,2
+Duke,Georgetown,4
+Mary Washington,SUNY-Binghamton,1
+MIT,American,6
+Mary Washington,American,4
+MIT,SUNY-Binghamton,3
+Mary Washington,MIT,2
+SUNY-Binghamton,American,10
+Lehigh,Pennsylvania,3
+North Carolina B,Towson,5
+Pennsylvania,Towson,1
+North Carolina B,Lehigh,4
+North Carolina B,Pennsylvania,4
+Lehigh,Towson,8
+Virginia Commonwealth,NYU,2
+Liberty,George Washington,8
+George Washington,NYU,1
+Liberty,Virginia Commonwealth,3
+Liberty,NYU,2
+George Washington,Virginia Commonwealth,2
+Villanova,George Mason,2
+RIT,Rowan,3
+Villanova,Rowan,1
+George Mason,RIT,2
+Villanova,RIT,3
+Rowan,George Mason,4
+Georgetown,Connecticut,5
+James Madison,George Washington,2
+Liberty,RIT,8
+Rutgers,Lehigh,6
+Connecticut,George Washington,2
+James Madison,Georgetown,1
+Rutgers,RIT,2
+Liberty,Lehigh,13
+Pennsylvania,SUNY-Binghamton,7
+Virginia Commonwealth,Rowan,7
+SUNY-Binghamton,Virginia Commonwealth,2
+Pennsylvania,Rowan,8
+SUNY-Binghamton,Rowan,9
+Virginia Commonwealth,Pennsylvania,1
+George Mason,American,11
+Towson,NYU,1
+NYU,George Mason,3
+NYU,American,6
+George Mason,Towson,9
+Towson,American,10
+Christopher Newport,Georgetown B,3
+Shenandoah,George Washington B,1
+Pennsylvania B,American B,8
+Christopher Newport,Shenandoah,11
+Pennsylvania B,Georgetown B,4
+George Washington B,American B,5
+Christopher Newport,Pennsylvania B,5
+Shenandoah,American B,7
+George Washington B,Georgetown B,5
+Christopher Newport,American B,3
+Shenandoah,Georgetown B,13
+Pennsylvania B,George Washington B,2
+Christopher Newport,George Washington B,9
+Pennsylvania B,Shenandoah,3
+Georgetown B,American B,4
+Middlebury,Duke,4
+Duke,MIT,3
+Middlebury,Johns Hopkins,2
+MIT,North Carolina B,2
+Duke,Villanova,3
+Johns Hopkins,Penn State,11
+Middlebury,Mary Washington,4
+MIT,Connecticut,2
+North Carolina B,Georgetown,3
+Villanova,James Madison,2
+Duke,George Washington,7
+Johns Hopkins,RIT,7
+Penn State,Liberty,6
+Mary Washington,Rutgers,3
+Middlebury,Lehigh,4
+Johns Hopkins,MIT,8
+Mary Washington,Villanova,3
+Villanova,North Carolina B,1
+Mary Washington,Penn State,1
+Penn State,North Carolina B,3
+Christopher Newport,Pennsylvania B,8
+George Washington B,Shenandoah,1
+Georgetown B,American B,1

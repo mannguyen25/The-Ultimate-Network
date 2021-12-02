@@ -1,56 +1,56 @@
-Sat 3/30,Indiana,Drake,12,3
-Sat 3/30,Carleton Hot,Northwestern,11,4
-Sat 3/30,Indiana,Northwestern,13,2
-Sat 3/30,Carleton Hot,Drake,7,11
-Sat 3/30,Indiana,Carleton Hot,13,2
-Sat 3/30,Drake,Northwestern,13,4
-Sat 3/30,Luther,St John,9,8
-Sat 3/30,Bethel,Cornell College,12,7
-Sat 3/30,Luther,Cornell College,13,4
-Sat 3/30,Bethel,St John,11,8
-Sat 3/30,Luther,Bethel,13,2
-Sat 3/30,St John,Cornell College,13,8
-Sat 3/30,Iowa,Nebraska,13,5
-Sat 3/30,Wisconsin,Creighton,13,4
-Sat 3/30,Iowa,Creighton,13,2
-Sat 3/30,Wisconsin,Nebraska,11,6
-Sat 3/30,Iowa,Wisconsin,13,8
-Sat 3/30,Nebraska,Creighton,10,5
-Sat 3/30,Minnesota,Coe,13,0
-Sat 3/30,Kansas State,Chicago,13,1
-Sat 3/30,Minnesota,Chicago,13,0
-Sat 3/30,Kansas State,Coe,13,6
-Sat 3/30,Minnesota,Kansas State,11,12
-Sat 3/30,Coe,Chicago,10,9
-3/31/2019,Indiana,Iowa,13,12
-3/31/2019,Indiana,Kansas State,14,12
-3/31/2019,Iowa,Minnesota,15,13
-3/31/2019,Indiana,St John,15,7
-3/31/2019,Nebraska,Kansas State,10,12
-3/31/2019,Iowa,Drake,15,6
-3/31/2019,Minnesota,Luther,14,13
-3/30/2019,Indiana,Chicago,15,1
-3/30/2019,Wisconsin,St John,10,11
-3/30/2019,Bethel,Nebraska,7,10
-3/30/2019,Kansas State,Northwestern,12,7
-3/30/2019,Iowa,Cornell College,15,4
-3/30/2019,Drake,Coe,15,5
-3/30/2019,Minnesota,Carleton Hot,15,5
-3/30/2019,Luther,Creighton,13,2
-3/31/2019,Kansas State,Minnesota,14,13
-3/31/2019,St John,Luther,4,15
-3/31/2019,St John,Nebraska,15,6
-3/31/2019,Drake,Luther,6,15
-3/31/2019,Nebraska,Drake,10,15
-3/31/2019,Wisconsin,Carleton Hot,12,13
-3/31/2019,Wisconsin,Bethel,15,8
-3/31/2019,Coe,Carleton Hot,1,15
-3/31/2019,Chicago,Wisconsin,2,15
-3/31/2019,Bethel,Northwestern,13,7
-3/31/2019,Cornell College,Coe,10,11
-3/31/2019,Carleton Hot,Creighton,12,7
-3/31/2019,Bethel,Coe,13,3
-3/31/2019,Northwestern,Creighton,7,13
-3/31/2019,Chicago,Northwestern,9,12
-3/31/2019,Cornell College,Creighton,9,13
-3/31/2019,Chicago,Cornell College,W,F
+Indiana,Drake,9
+Carleton Hot Karls,Northwestern-St. Paul,7
+Indiana,Northwestern-St. Paul,11
+Drake,Carleton Hot Karls,4
+Indiana,Carleton Hot Karls,11
+Drake,Northwestern-St. Paul,9
+Luther,St John's,1
+Bethel,Cornell College,5
+Luther,Cornell College,9
+Bethel,St John's,3
+Luther,Bethel,11
+St John's,Cornell College,5
+Iowa,Nebraska-Omaha,8
+Wisconsin- La Crosse,Creighton,9
+Iowa,Creighton,11
+Wisconsin- La Crosse,Nebraska-Omaha,5
+Iowa,Wisconsin- La Crosse,5
+Nebraska-Omaha,Creighton,5
+Minnesota B,Coe,13
+Kansas State,Chicago B,12
+Minnesota B,Chicago B,13
+Kansas State,Coe,7
+Kansas State,Minnesota B,1
+Coe,Chicago B,1
+Indiana,Iowa,1
+Indiana,Kansas State,2
+Iowa,Minnesota B,2
+Indiana,St John's,8
+Kansas State,Nebraska-Omaha,2
+Iowa,Drake,9
+Minnesota B,Luther,1
+Indiana,Chicago B,14
+St John's,Wisconsin- La Crosse,1
+Nebraska-Omaha,Bethel,3
+Kansas State,Northwestern-St. Paul,5
+Iowa,Cornell College,11
+Drake,Coe,10
+Minnesota B,Carleton Hot Karls,10
+Luther,Creighton,11
+Kansas State,Minnesota B,1
+Luther,St John's,11
+St John's,Nebraska-Omaha,9
+Luther,Drake,9
+Drake,Nebraska-Omaha,5
+Carleton Hot Karls,Wisconsin- La Crosse,1
+Wisconsin- La Crosse,Bethel,7
+Carleton Hot Karls,Coe,14
+Wisconsin- La Crosse,Chicago B,13
+Bethel,Northwestern-St. Paul,6
+Coe,Cornell College,1
+Carleton Hot Karls,Creighton,5
+Bethel,Coe,10
+Creighton,Northwestern-St. Paul,6
+Northwestern-St. Paul,Chicago B,3
+Creighton,Cornell College,4
+Chicago B,Cornell College,15

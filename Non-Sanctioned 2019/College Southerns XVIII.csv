@@ -1,70 +1,70 @@
-Sat 3/23,South Carolina,Georgia,13,2
-Sat 3/23,South Florida,Charleston,13,7
-Sat 3/23,South Carolina,South Florida,13,6
-Sat 3/23,North Carolina,Charleston,13,7
-Sat 3/23,Charleston,Georgia,7,13
-Sat 3/23,North Carolina,South Florida,9,12
-Sat 3/23,South Carolina,Charleston,13,4
-Sat 3/23,North Carolina,Georgia,13,6
-Sat 3/23,South Carolina,North Carolina,13,5
-Sat 3/23,South Florida,Georgia,13,5
-Sat 3/23,Emory,Florida Atlantic,13,6
-Sat 3/23,Luther,North Florida,12,7
-Sat 3/23,Emory,Luther,10,12
-Sat 3/23,Chicago,North Florida,13,9
-Sat 3/23,North Florida,Florida Atlantic,10,13
-Sat 3/23,Chicago,Luther,10,12
-Sat 3/23,Emory,North Florida,13,3
-Sat 3/23,Chicago,Florida Atlantic,13,11
-Sat 3/23,Emory,Chicago,13,8
-Sat 3/23,Luther,Florida Atlantic,13,5
-Sat 3/23,Middlebury,Florida,13,3
-Sat 3/23,Wisconsin,Florida Tech,7,13
-Sat 3/23,Middlebury,Wisconsin,13,5
-Sat 3/23,Carleton College,Florida Tech,13,4
-Sat 3/23,Florida Tech,Florida,11,9
-Sat 3/23,Carleton College,Wisconsin,13,8
-Sat 3/23,Middlebury,Florida Tech,13,5
-Sat 3/23,Carleton College,Florida,13,6
-Sat 3/23,Middlebury,Carleton College,13,8
-Sat 3/23,Wisconsin,Florida,11,10
-Sat 3/23,California,Carleton Hot,13,5
-Sat 3/23,Georgia Southern,Georgia College,9,8
-Sat 3/23,California,Georgia Southern,13,7
-Sat 3/23,Appalachian State,Georgia College,12,6
-Sat 3/23,Georgia College,Carleton Hot,13,7
-Sat 3/23,Appalachian State,Georgia Southern,13,10
-Sat 3/23,California,Georgia College,13,6
-Sat 3/23,Appalachian State,Carleton Hot,13,4
-Sat 3/23,California,Appalachian State,13,9
-Sat 3/23,Georgia Southern,Carleton Hot,13,6
-Sun 3/24,Charleston,Florida,15,8
-Sun 3/24,North Florida,Carleton Hot,11,9
-Sun 3/24,Florida,Carleton Hot,9,6
-Sun 3/24,Charleston,Carleton Hot,15,9
-Sun 3/24,North Florida,Florida,13,15
-Sun 3/24,Charleston,North Florida,15,13
-3/24/2019,South Carolina,Middlebury,15,11
-3/24/2019,South Carolina,Carleton College,15,7
-3/24/2019,South Florida,Middlebury,5,15
-3/24/2019,South Carolina,Emory,15,8
-3/24/2019,California,Carleton College,12,13
-3/24/2019,Luther,South Florida,9,10
-3/24/2019,Middlebury,Appalachian State,15,8
-3/24/2019,Carleton College,South Florida,W,F
-3/24/2019,California,Appalachian State,14,13
-3/24/2019,Emory,California,10,12
-3/24/2019,Luther,Appalachian State,13,14
-3/24/2019,Emory,Luther,4,13
-3/24/2019,North Carolina,Chicago,11,13
-3/24/2019,North Carolina,Georgia Southern,12,10
-3/24/2019,Georgia College,Chicago,9,15
-3/24/2019,North Carolina,Florida Atlantic,14,10
-3/24/2019,Georgia Southern,Wisconsin,15,9
-3/24/2019,Florida Tech,Georgia College,8,15
-3/24/2019,Chicago,Georgia,15,7
-3/24/2019,Georgia Southern,Georgia College,12,15
-3/24/2019,Wisconsin,Florida Tech,13,15
-3/24/2019,Florida Atlantic,Wisconsin,12,14
-3/24/2019,Florida Tech,Georgia,12,11
-3/24/2019,Florida Atlantic,Georgia,9,15
+South Carolina,Georgia B,11
+South Florida,Charleston,6
+South Carolina,South Florida,7
+North Carolina-Asheville,Charleston,6
+Georgia B,Charleston,6
+South Florida,North Carolina-Asheville,3
+South Carolina,Charleston,9
+North Carolina-Asheville,Georgia B,7
+South Carolina,North Carolina-Asheville,8
+South Florida,Georgia B,8
+Emory,Florida Atlantic,7
+Luther,North Florida,5
+Luther,Emory,2
+Chicago,North Florida,4
+Florida Atlantic,North Florida,3
+Luther,Chicago,2
+Emory,North Florida,10
+Chicago,Florida Atlantic,2
+Emory,Chicago,5
+Luther,Florida Atlantic,8
+Middlebury,Florida B,10
+Florida Tech,Wisconsin-Eau Claire,6
+Middlebury,Wisconsin-Eau Claire,8
+Carleton College-GoP,Florida Tech,9
+Florida Tech,Florida B,2
+Carleton College-GoP,Wisconsin-Eau Claire,5
+Middlebury,Florida Tech,8
+Carleton College-GoP,Florida B,7
+Middlebury,Carleton College-GoP,5
+Wisconsin-Eau Claire,Florida B,1
+California-San Diego,Carleton Hot Karls,8
+Georgia Southern,Georgia College,1
+California-San Diego,Georgia Southern,6
+Appalachian State,Georgia College,6
+Georgia College,Carleton Hot Karls,6
+Appalachian State,Georgia Southern,3
+California-San Diego,Georgia College,7
+Appalachian State,Carleton Hot Karls,9
+California-San Diego,Appalachian State,4
+Georgia Southern,Carleton Hot Karls,7
+Charleston,Florida B,7
+North Florida,Carleton Hot Karls,2
+Florida B,Carleton Hot Karls,3
+Charleston,Carleton Hot Karls,6
+Florida B,North Florida,2
+Charleston,North Florida,2
+South Carolina,Middlebury,4
+South Carolina,Carleton College-GoP,8
+Middlebury,South Florida,10
+South Carolina,Emory,7
+Carleton College-GoP,California-San Diego,1
+South Florida,Luther,1
+Middlebury,Appalachian State,7
+Carleton College-GoP,South Florida,15
+California-San Diego,Appalachian State,1
+California-San Diego,Emory,2
+Appalachian State,Luther,1
+Luther,Emory,9
+Chicago,North Carolina-Asheville,2
+North Carolina-Asheville,Georgia Southern,2
+Chicago,Georgia College,6
+North Carolina-Asheville,Florida Atlantic,4
+Georgia Southern,Wisconsin-Eau Claire,6
+Georgia College,Florida Tech,7
+Chicago,Georgia B,8
+Georgia College,Georgia Southern,3
+Florida Tech,Wisconsin-Eau Claire,2
+Wisconsin-Eau Claire,Florida Atlantic,2
+Florida Tech,Georgia B,1
+Georgia B,Florida Atlantic,6

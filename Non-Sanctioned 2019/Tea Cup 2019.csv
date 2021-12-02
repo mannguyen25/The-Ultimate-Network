@@ -1,0 +1,62 @@
+Yale,SUNY-Oneonta,2
+Tufts B,Amherst College,3
+Yale,Tufts B,2
+Amherst College,SUNY-Oneonta,2
+Yale,Amherst College,7
+Tufts B,SUNY-Oneonta,1
+Columbia,Hartford,2
+Boston College,Worcester Polytech,12
+Worcester Polytech,Columbia,2
+Boston College,Hartford,7
+Boston College,Columbia,11
+Hartford,Worcester Polytech,1
+Northeastern B,Wentworth,3
+Boston College B,Yale B,12
+Northeastern B,Boston College B,2
+Connecticut B,Yale B,11
+Wentworth,Yale B,13
+Boston College B,Connecticut B,6
+Northeastern B,Yale B,13
+Connecticut B,Wentworth,4
+Northeastern B,Connecticut B,5
+Boston College B,Wentworth,5
+University of Massachusetts Amherst B,Rutgers B,10
+SUNY Oneonta B,Amherst College B,9
+University of Massachusetts Amherst B,Amherst College B,13
+Southern Connecticut State,SUNY Oneonta B,12
+Rutgers B,SUNY Oneonta B,12
+Southern Connecticut State,Amherst College B,12
+University of Massachusetts Amherst B,SUNY Oneonta B,13
+Southern Connecticut State,Rutgers B,10
+University of Massachusetts Amherst B,Southern Connecticut State,7
+Rutgers B,Amherst College B,10
+Yale,Boston College,4
+Tufts B,Worcester Polytech,1
+Amherst College,Columbia,5
+Hartford,SUNY-Oneonta,3
+Boston College,Yale,3
+Yale,Amherst College,5
+Boston College,Tufts B,1
+Yale,University of Massachusetts Amherst B,2
+Amherst College,Worcester Polytech,7
+Tufts B,Columbia,3
+Boston College,Northeastern B,7
+Tufts B,Amherst College,4
+University of Massachusetts Amherst B,Columbia,8
+University of Massachusetts Amherst B,Worcester Polytech,2
+Columbia,Northeastern B,4
+Northeastern B,Worcester Polytech,3
+Hartford,Connecticut B,6
+SUNY-Oneonta,Boston College B,3
+Hartford,Yale B,11
+Connecticut B,Southern Connecticut State,1
+Boston College B,Rutgers B,7
+SUNY-Oneonta,Amherst College B,13
+Yale B,SUNY Oneonta B,5
+Amherst College B,Wentworth,15
+Boston College B,Connecticut B,7
+Rutgers B,Southern Connecticut State,1
+Southern Connecticut State,Yale B,7
+Rutgers B,Amherst College B,10
+Yale B,Amherst College B,2
+SUNY Oneonta B,Wentworth,15
