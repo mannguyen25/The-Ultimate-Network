@@ -1,0 +1,54 @@
+North Carolina,Stanford,13,2
+Victoria,Wisconsin,5,13
+North Carolina,Wisconsin,12,8
+Victoria,Stanford,13,11
+North Carolina,Victoria,13,10
+Wisconsin,Stanford,11,10
+Brown,Colorado State,13,9
+Carleton College-CUT,Washington,13,11
+Washington,Colorado State,9,10
+Brown,Carleton College-CUT,11,8
+Brown,Washington,11,12
+Carleton College-CUT,Colorado State,11,10
+Brigham Young,Northwestern,11,9
+Ohio State,California,8,7
+Brigham Young,Ohio State,10,11
+Oregon,California,13,7
+Brigham Young,California,10,11
+Oregon,Northwestern,13,8
+Brigham Young,Oregon,15,14
+Ohio State,Northwestern,12,9
+California,Northwestern,13,6
+Oregon,Ohio State,13,11
+Cal Poly-SLO,Colorado,11,10
+Cal Poly-SLO,Minnesota,10,7
+Texas,Colorado,10,7
+Cal Poly-SLO,Texas,10,13
+Minnesota,Colorado,9,10
+Texas,Minnesota,13,12
+Brigham Young,Stanford,13,10
+Stanford,Northwestern,11,12
+Washington,Minnesota,10,9
+Stanford,Washington,6,9
+Northwestern,Minnesota,6,10
+Washington,Northwestern,13,5
+Stanford,Minnesota,6,13
+North Carolina,Brown,13,8
+North Carolina,Texas,13,6
+Cal Poly-SLO,Brown,10,12
+North Carolina,Carleton College-CUT,12,11
+Texas,Ohio State,12,10
+Oregon,Cal Poly-SLO,12,13
+Brown,Colorado,11,9
+Carleton College-CUT,California,12,6
+Ohio State,Colorado State,12,10
+Cal Poly-SLO,Victoria,13,7
+Wisconsin,Colorado,7,10
+Carleton College-CUT,Colorado,8,11
+Carleton College-CUT,Ohio State,9,8
+Oregon,Colorado,10,11
+Ohio State,Oregon,6,13
+California,Colorado State,3,7
+California,Wisconsin,11,10
+Colorado State,Victoria,13,7
+Wisconsin,Victoria,13,4

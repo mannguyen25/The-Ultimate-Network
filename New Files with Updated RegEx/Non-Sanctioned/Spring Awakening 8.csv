@@ -1,0 +1,58 @@
+Bowdoin,Wentworth,6,5
+Ithaca,Colgate,8,9
+Bowdoin,Ithaca,5,6
+Rensselaer Polytech,Colgate,9,10
+Colgate,Wentworth,8,7
+Rensselaer Polytech,Ithaca,10,5
+Bowdoin,Colgate,11,12
+Rensselaer Polytech,Wentworth,9,7
+Bowdoin,Rensselaer Polytech,9,8
+Ithaca,Wentworth,10,11
+Boston University,Rhode Island,9,7
+Dickinson,Skidmore,4,8
+Boston University,Dickinson,9,4
+Army,Skidmore,8,1
+Skidmore,Rhode Island,6,7
+Army,Dickinson,13,1
+Boston University,Skidmore,12,6
+Army,Rhode Island,5,2
+Boston University,Army,12,11
+Dickinson,Rhode Island,6,8
+Ursinus,Rhode Island B,4,5
+Vermont B,Rensselaer Polytech B,13,1
+Ursinus,Vermont B,0,13
+Rensselaer Polytech B,Rhode Island B,6,7
+Ursinus,Rensselaer Polytech B,5,4
+Vermont B,Rhode Island B,13,0
+Susquehanna,Cornell B,9,4
+Susquehanna,Saint Joseph's,11,5
+Saint Joseph's,Cornell B,4,10
+Susquehanna,Vermont B,2,9
+Rhode Island B,Cornell B,5,8
+Ursinus,Saint Joseph's,0,13
+Army,Bowdoin,10,12
+Colgate,Army,11,12
+Bowdoin,Boston University,14,13
+Ithaca,Colgate,4,13
+Rensselaer Polytech,Army,9,11
+Bowdoin,Rhode Island,13,5
+Boston University,Wentworth,15,5
+Skidmore,Ithaca,8,12
+Rensselaer Polytech,Susquehanna,13,4
+Vermont B,Rhode Island,7,11
+Wentworth,Dickinson,12,9
+Skidmore,Dickinson,13,10
+Skidmore,Susquehanna,12,6
+Vermont B,Dickinson,11,13
+Rensselaer Polytech,Wentworth,0,15
+Ithaca,Rensselaer Polytech,0,15
+Rhode Island,Wentworth,8,10
+Ithaca,Rhode Island,0,15
+Colgate,Boston University,7,13
+Cornell B,Saint Joseph's,8,9
+Rensselaer Polytech B,Cornell B,6,13
+Rhode Island B,Saint Joseph's,5,13
+Rensselaer Polytech B,Ursinus,15,0
+Rhode Island B,Cornell B,0,15
+Rhode Island B,Rensselaer Polytech B,10,8
+Ursinus,Rhode Island B,0,15

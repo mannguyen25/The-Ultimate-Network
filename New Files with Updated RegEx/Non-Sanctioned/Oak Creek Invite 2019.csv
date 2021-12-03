@@ -1,0 +1,64 @@
+Michigan,SUNY-Geneseo,13,4
+James Madison,Delaware,10,7
+Michigan,James Madison,13,6
+Princeton,Delaware,12,13
+Delaware,SUNY-Geneseo,10,13
+Princeton,James Madison,10,11
+Michigan,Delaware,13,1
+Princeton,SUNY-Geneseo,10,13
+Michigan,Princeton,13,6
+James Madison,SUNY-Geneseo,7,10
+Maryland,George Mason,13,1
+Cornell,Drexel,10,13
+Maryland,Cornell,13,9
+Temple,Drexel,13,7
+Drexel,George Mason,13,11
+Temple,Cornell,11,7
+Maryland,Drexel,13,3
+Temple,George Mason,13,6
+Maryland,Temple,12,9
+Cornell,George Mason,13,6
+Johns Hopkins,SUNY-Buffalo,13,8
+Penn State,North Carolina-Charlotte,11,8
+Johns Hopkins,Penn State,13,11
+Virginia Tech,North Carolina-Charlotte,13,3
+North Carolina-Charlotte,SUNY-Buffalo,11,10
+Virginia Tech,Penn State,11,13
+Johns Hopkins,North Carolina-Charlotte,13,8
+Virginia Tech,SUNY-Buffalo,13,4
+Johns Hopkins,Virginia Tech,13,8
+Penn State,SUNY-Buffalo,13,5
+William & Mary,East Carolina,13,8
+Connecticut,Williams,13,6
+William & Mary,Connecticut,11,9
+Georgetown,Williams,14,12
+Williams,East Carolina,13,10
+Georgetown,Connecticut,10,13
+William & Mary,Williams,13,6
+Georgetown,East Carolina,12,13
+William & Mary,Georgetown,13,6
+Connecticut,East Carolina,13,8
+James Madison,North Carolina-Charlotte,5,15
+Drexel,Williams,6,15
+James Madison,Drexel,13,12
+North Carolina-Charlotte,Williams,12,11
+Virginia Tech,Delaware,15,8
+Georgetown,Cornell,15,10
+Virginia Tech,Georgetown,15,11
+Delaware,Cornell,15,9
+Michigan,Johns Hopkins,15,12
+Michigan,William & Mary,14,13
+Johns Hopkins,Maryland,15,12
+Michigan,Temple,13,9
+William & Mary,Penn State,15,12
+Johns Hopkins,Connecticut,15,13
+Maryland,SUNY-Geneseo,15,7
+William & Mary,Maryland,12,11
+Penn State,Connecticut,15,11
+Temple,Penn State,10,15
+Connecticut,SUNY-Geneseo,15,12
+Temple,SUNY-Geneseo,15,7
+East Carolina,George Mason,14,11
+Princeton,East Carolina,13,15
+George Mason,SUNY-Buffalo,15,3
+Princeton,SUNY-Buffalo,14,11

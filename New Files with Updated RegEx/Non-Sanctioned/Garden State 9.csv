@@ -1,0 +1,50 @@
+Stevens Tech,Penn State B,12,11
+Bryant University,Fairfield,13,3
+Stevens Tech,Fairfield,13,5
+Bryant University,Penn State B,13,5
+Stevens Tech,Bryant University,3,13
+Penn State B,Fairfield,13,5
+Navy,West Virginia,9,11
+College of New Jersey,Dickinson,12,13
+Navy,Dickinson,10,12
+College of New Jersey,West Virginia,11,7
+Navy,College of New Jersey,12,8
+West Virginia,Dickinson,9,10
+Salisbury,Sacred Heart,13,4
+Lancaster Bible,Princeton B,5,13
+Salisbury,Lancaster Bible,13,2
+Sacred Heart,Princeton B,4,11
+Salisbury,Princeton B,13,7
+Lancaster Bible,Sacred Heart,3,11
+Susquehanna,Temple B,9,11
+Slippery Rock,Lehigh B,13,1
+Susquehanna,Slippery Rock,5,13
+Lehigh B,Temple B,4,11
+Susquehanna,Lehigh B,13,6
+Slippery Rock,Temple B,13,4
+Bryant University,Salisbury,13,1
+Bryant University,Slippery Rock,13,2
+Salisbury,Dickinson,12,7
+West Virginia,Bryant University,2,13
+Slippery Rock,Navy,14,11
+Stevens Tech,Salisbury,11,12
+Dickinson,Fairfield,12,5
+West Virginia,Princeton B,10,9
+Penn State B,Slippery Rock,6,7
+Salisbury,College of New Jersey,13,6
+Temple B,Fairfield,8,10
+Penn State B,College of New Jersey,7,2
+Princeton B,Penn State B,5,13
+College of New Jersey,Temple B,12,8
+Princeton B,Lehigh B,13,9
+Penn State B,Susquehanna,13,10
+College of New Jersey,Sacred Heart,13,6
+Temple B,Lancaster Bible,13,3
+Susquehanna,Lancaster Bible,15,0
+Lehigh B,Susquehanna,6,7
+Sacred Heart,Lancaster Bible,8,9
+Lehigh B,Sacred Heart,0,15
+Navy,Stevens Tech,0,15
+West Virginia,Navy,0,15
+Stevens Tech,Fairfield,13,5
+Slippery Rock,Dickinson,0,15

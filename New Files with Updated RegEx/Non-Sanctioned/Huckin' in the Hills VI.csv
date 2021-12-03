@@ -1,0 +1,20 @@
+Akron,Carnegie Mellon B,11,7
+Kent State,Indiana Pennsylvania,13,6
+Akron,Kent State,10,9
+Pittsburgh B,Indiana Pennsylvania,13,1
+Akron,Indiana Pennsylvania,13,6
+Pittsburgh B,Carnegie Mellon B,13,1
+Pittsburgh B,Kent State,13,4
+Indiana Pennsylvania,Carnegie Mellon B,7,12
+Akron,Pittsburgh B,4,13
+Kent State,Carnegie Mellon B,10,8
+Dayton,SUNY-Buffalo B,13,0
+West Virginia,Case Western Reserve B,11,6
+Dayton,West Virginia,13,5
+American,Case Western Reserve B,12,6
+Dayton,Case Western Reserve B,13,3
+American,SUNY-Buffalo B,13,10
+American,West Virginia,11,5
+Case Western Reserve B,SUNY-Buffalo B,13,10
+Dayton,American,13,4
+West Virginia,SUNY-Buffalo B,12,1

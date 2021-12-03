@@ -1,0 +1,27 @@
+Marist,New Haven,11,2
+Rensselaer Polytech,Union,11,5
+Marist,Rensselaer Polytech,11,5
+Skidmore,Union,11,6
+Union,New Haven,3,11
+Skidmore,Rensselaer Polytech,5,10
+Marist,Union,11,5
+Skidmore,New Haven,11,4
+Marist,Skidmore,11,7
+Rensselaer Polytech,New Haven,9,10
+Army,Vassar,11,5
+Hartford,Saint Rose,10,6
+Army,Hartford,10,9
+Wesleyan,Saint Rose,11,1
+Saint Rose,Vassar,3,11
+Wesleyan,Hartford,11,5
+Army,Saint Rose,11,3
+Wesleyan,Vassar,11,1
+Army,Wesleyan,9,11
+Hartford,Vassar,11,8
+Marist,Wesleyan,15,12
+Wesleyan,Army,15,14
+Rensselaer Polytech,Army,9,13
+Rensselaer Polytech,Skidmore,15,9
+Skidmore,New Haven,15,13
+Skidmore,Vassar,13,11
+New Haven,Hartford,10,15

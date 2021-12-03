@@ -1,0 +1,70 @@
+Connecticut,Dayton,12,9
+Tennessee-Chattanooga,Johns Hopkins,7,13
+Connecticut,Tennessee-Chattanooga,12,9
+Virginia,Johns Hopkins,11,12
+Johns Hopkins,Dayton,13,11
+Virginia,Tennessee-Chattanooga,12,11
+Connecticut,Johns Hopkins,8,11
+Virginia,Dayton,13,6
+Connecticut,Virginia,2,13
+Tennessee-Chattanooga,Dayton,12,4
+Georgia Tech,Indiana,9,12
+Clemson,George Mason,12,10
+Georgia Tech,Clemson,13,9
+Ohio,George Mason,13,5
+George Mason,Indiana,5,13
+Ohio,Clemson,13,7
+Georgia Tech,George Mason,13,10
+Ohio,Indiana,7,13
+Georgia Tech,Ohio,12,8
+Clemson,Indiana,5,9
+Vermont,Georgia Southern,13,4
+Purdue,Pennsylvania,13,11
+Vermont,Purdue,13,7
+James Madison,Pennsylvania,10,8
+Pennsylvania,Georgia Southern,12,9
+James Madison,Purdue,7,13
+Vermont,Pennsylvania,13,12
+James Madison,Georgia Southern,13,8
+Vermont,James Madison,11,9
+Purdue,Georgia Southern,13,3
+Georgetown,New Hampshire,15,0
+Tennessee,Elon,11,9
+Georgetown,Tennessee,8,13
+Case Western Reserve,Elon,10,5
+Elon,New Hampshire,8,11
+Case Western Reserve,Tennessee,8,13
+Georgetown,Elon,13,8
+Case Western Reserve,New Hampshire,13,11
+Georgetown,Case Western Reserve,8,7
+Tennessee,New Hampshire,13,8
+Dayton,Georgia Southern,14,12
+George Mason,Elon,12,13
+Dayton,Elon,14,15
+George Mason,Georgia Southern,10,15
+Dayton,George Mason,15,11
+Georgia Southern,Elon,14,15
+Johns Hopkins,Virginia,9,15
+Johns Hopkins,Purdue,15,13
+Vermont,Virginia,10,15
+Johns Hopkins,Georgia Tech,15,12
+Purdue,Tennessee,13,10
+Vermont,Georgetown,15,7
+Virginia,Indiana,14,13
+Purdue,Vermont,14,15
+Tennessee,Georgetown,13,15
+Georgia Tech,Tennessee,6,15
+Georgetown,Indiana,15,11
+Georgia Tech,Indiana,10,11
+Clemson,New Hampshire,12,10
+Clemson,Pennsylvania,15,12
+New Hampshire,Ohio,14,13
+Connecticut,Clemson,12,13
+Pennsylvania,Case Western Reserve,11,8
+James Madison,New Hampshire,11,12
+Tennessee-Chattanooga,Ohio,13,15
+Pennsylvania,Ohio,10,13
+Case Western Reserve,Tennessee-Chattanooga,8,11
+Connecticut,Case Western Reserve,10,15
+James Madison,Tennessee-Chattanooga,9,14
+Connecticut,James Madison,9,14

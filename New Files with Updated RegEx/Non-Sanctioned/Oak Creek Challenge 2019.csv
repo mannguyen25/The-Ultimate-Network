@@ -1,0 +1,66 @@
+Rutgers,Wake Forest,13,0
+Liberty,American,13,2
+Rutgers,Liberty,9,10
+North Carolina B,American,10,3
+American,Wake Forest,5,11
+North Carolina B,Liberty,10,11
+Rutgers,American,13,2
+North Carolina B,Wake Forest,13,0
+Rutgers,North Carolina B,12,8
+Liberty,Wake Forest,13,1
+Princeton,Towson,11,4
+Shippensburg,Maryland-Baltimore County,10,9
+Princeton,Shippensburg,11,6
+Drexel University,Maryland-Baltimore County,13,6
+Maryland-Baltimore County,Towson,10,6
+Drexel University,Shippensburg,13,6
+Princeton,Maryland-Baltimore County,13,2
+Drexel University,Towson,11,5
+Princeton,Drexel University,10,9
+Shippensburg,Towson,11,2
+Brandeis,Salisbury,13,4
+Cedarville,Navy,12,10
+Brandeis,Cedarville,13,6
+Lehigh,Navy,13,6
+Navy,Salisbury,8,13
+Lehigh,Cedarville,8,13
+Brandeis,Navy,13,5
+Lehigh,Salisbury,13,3
+Brandeis,Lehigh,10,3
+Cedarville,Salisbury,13,1
+RIT,Christopher Newport,13,8
+West Chester,East Carolina,9,7
+RIT,West Chester,11,10
+Virginia Commonwealth,East Carolina,8,7
+East Carolina,Christopher Newport,8,11
+Virginia Commonwealth,West Chester,9,10
+RIT,East Carolina,13,9
+Virginia Commonwealth,Christopher Newport,8,4
+RIT,Virginia Commonwealth,12,6
+West Chester,Christopher Newport,11,3
+Liberty,Brandeis,9,8
+Liberty,RIT,11,10
+Brandeis,Princeton,11,9
+Liberty,Drexel University,15,10
+RIT,Cedarville,12,8
+Brandeis,West Chester,12,8
+Princeton,Rutgers,10,9
+RIT,Princeton,7,9
+Cedarville,Rutgers,11,15
+Drexel University,Cedarville,12,13
+West Chester,Rutgers,6,13
+Drexel University,West Chester,11,6
+North Carolina B,Lehigh,9,15
+North Carolina B,Virginia Commonwealth,10,9
+Lehigh,Shippensburg,15,6
+North Carolina B,Maryland-Baltimore County,15,9
+Virginia Commonwealth,Salisbury,15,5
+Lehigh,Christopher Newport,15,11
+Shippensburg,Wake Forest,15,7
+Virginia Commonwealth,Shippensburg,12,14
+Maryland-Baltimore County,Salisbury,15,10
+Christopher Newport,Wake Forest,15,7
+East Carolina,Navy,12,9
+American,East Carolina,8,14
+Towson,Navy,3,15
+American,Towson,7,11

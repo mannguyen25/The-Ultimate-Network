@@ -8,6 +8,8 @@ import bs4 as bs
 import requests
 import csv
 import re
+import os.path
+from os import path as pa
 
 def write_to_csv(data, csv_name,mode='a'):
     """ Writes game results to a csv"""
@@ -100,20 +102,31 @@ def scrape_page(page):
 def main():
     # TODO: implement selenium driver to select multiple pages :(
     # starting url
-    url = "https://play.usaultimate.org/events/Layout-Pigout-2019/schedule/Men/CollegeMen/"
-    page = requests.get(url)
-    data = scrape_page(page)
-    name = re.sub("[-]+"," ",re.search("events\/([a-zA-Z-\s\d]+)", url).group(1)).rstrip()
-    # # header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
-    print(data)
-    write_to_csv(data, "C:/Users/Man/Documents\GitHub/The-Ultimate-Network/nonsanctioned_games.csv",'a')
-    write_to_csv(data, "C:/Users/Man/Documents\GitHub/The-Ultimate-Network/Non-Sanctioned 2019/"+name+".csv",'w')
-    # url = "https://archive.usaultimate.org/archives/2019_college.aspx#regionals"
-    # # initialize latest driver
+    # url = "https://play.usaultimate.org/events/Layout-Pigout-2019/schedule/Men/CollegeMen/"
     # page = requests.get(url)
-    # soup = bs.BeautifulSoup(page.text,'html.parser')
-    # for a in soup.find_all('a', href=re.compile('(https:\/\/play.usaultimate.org\/events\/).+(Mens).+')):
-    #     data = scrape_page(requests.get(a['href']+"/schedule/Men/CollegeMen/"))
+    # data = scrape_page(page)
+    # name = re.sub("[-]+"," ",re.search("events\/([a-zA-Z-\s\d]+)", url).group(1)).rstrip()
+    # # # header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
+    # print(data)
+    # write_to_csv(data, "C:/Users/Man/Documents\GitHub/The-Ultimate-Network/nonsanctioned_games.csv",'a')
+    # write_to_csv(data, "C:/Users/Man/Documents\GitHub/The-Ultimate-Network/Non-Sanctioned 2019/"+name+".csv",'w')
+    url = "https://archive.usaultimate.org/archives/2019_college.aspx#regionals"
+    # # initialize latest driver
+    page = requests.get(url)
+    soup = bs.BeautifulSoup(page.text,'html.parser')
+    path = "C:/Users/Man/Documents/GitHub/The-Ultimate-Network/New Files with Updated RegEx/"
+    file1 = open("C:/Users/Man/Documents/GitHub/The-Ultimate-Network/Non-Sanctioned 2019/links.csv","r")
+    links = file1.readlines()
+    for entry in links:
+        tournament, link = entry.split(",")
+        if pa.exists(path+tournament+".csv"):
+            continue
+        print(tournament)
+        data = scrape_page(requests.get(link.strip("\n")))
+        write_to_csv(data, path+tournament+".csv","w")
+    file1.close()
+    # for a in soup.find_all('a', href=re.compile('(https:\/\/play.usaultimate.org\/events\/).+')):
+        # data = scrape_page(requests.get(a['href']+"/schedule/Men/CollegeMen/"))
     #     # header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
     #     print(data)
     #     write_to_csv(data, "C:/Users/Man/Documents/GitHub/The-Ultimate-Network/sanctioned_update.csv")

@@ -1,0 +1,89 @@
+Cal Poly-SLO B,Seven Hills Red Boys High School,5,13
+Duke,Portland,13,9
+California,Seven Hills Red Boys High School,13,9
+Portland,Cal Poly-SLO B,13,5
+California,Cal Poly-SLO B,13,2
+Duke,Seven Hills Red Boys High School,10,8
+California,Duke,13,6
+Portland,Seven Hills Red Boys High School,9,10
+California,Portland,9,10
+Duke,Cal Poly-SLO B,11,2
+Cal Poly-Pomona,Colorado School of Mines,9,11
+Stanford,Washington University,10,9
+Stanford,Cal Poly-Pomona,13,11
+Washington University,Colorado School of Mines,11,7
+Washington University,Cal Poly-Pomona,10,8
+Stanford,Colorado School of Mines,11,10
+Santa Clara,California B,13,7
+San Jose State,Texas B,10,11
+Santa Clara,San Jose State,13,5
+Whitman,Texas B,13,5
+Texas B,California B,5,10
+Whitman,San Jose State,13,0
+Santa Clara,Whitman,8,10
+San Jose State,California B,7,10
+Santa Clara,Texas B,13,1
+Whitman,California B,13,2
+UCLA,Coup Red High School,13,2
+Utah State,Humboldt State,5,13
+UCLA,Whitworth,13,7
+Humboldt State,Coup Red High School,12,10
+Whitworth,Humboldt State,9,8
+Utah State,Coup Red High School,10,9
+Utah State,Whitworth,9,8
+UCLA,Humboldt State,13,4
+UCLA,Utah State,11,8
+Whitworth,Coup Red High School,9,11
+California-Davis,Seven Hills Blue Boys High School,12,9
+Chico State,Stanford B,13,2
+California-Davis,Chico State,10,7
+North Texas,Stanford B,13,2
+Stanford B,Seven Hills Blue Boys High School,2,13
+North Texas,Chico State,11,9
+California-Davis,Stanford B,13,2
+North Texas,Seven Hills Blue Boys High School,11,10
+California-Davis,North Texas,13,8
+Chico State,Seven Hills Blue Boys High School,9,5
+Arizona,Lewis & Clark,7,9
+Las Positas,California-Santa Cruz,13,11
+California-Santa Cruz,Washington B,11,5
+Las Positas,Lewis & Clark,12,8
+Arizona,California-Santa Cruz,10,13
+Las Positas,Washington B,13,3
+Arizona,Las Positas,5,13
+Lewis & Clark,Washington B,11,5
+Arizona,Washington B,8,10
+Lewis & Clark,California-Santa Cruz,9,11
+Occidental,Sonoma State,13,6
+Air Force,Nevada-Reno,13,6
+Nevada-Reno,Occidental,11,5
+Air Force,Sonoma State,13,5
+Air Force,Occidental,13,4
+Nevada-Reno,Sonoma State,13,6
+Carleton College-GoP,Control High School,13,3
+Sacramento State,Oregon B,10,12
+Carleton College-GoP,Sacramento State,13,2
+Claremont,Oregon B,10,8
+Carleton College-GoP,Claremont,12,6
+Sacramento State,Control High School,5,12
+Carleton College-GoP,Oregon B,13,5
+Claremont,Control High School,11,7
+Oregon B,Control High School,11,8
+Claremont,Sacramento State,13,9
+California,Whitman,6,5
+California,Santa Clara,10,2
+Whitman,Nevada-Reno,8,3
+California,Air Force,9,8
+California-Davis,Santa Clara,4,9
+Whitman,Las Positas,7,6
+Nevada-Reno,Stanford,6,5
+California,Washington University,7,3
+Air Force,Claremont,7,1
+California-Davis,California-Santa Cruz,5,4
+UCLA,Santa Clara,6,7
+Whitman,Humboldt State,9,5
+Las Positas,North Texas,11,8
+Carleton College-GoP,Nevada-Reno,7,8
+Stanford,Duke,8,6
+Humboldt State,Carleton College-GoP,3,8
+Claremont,Duke,4,8

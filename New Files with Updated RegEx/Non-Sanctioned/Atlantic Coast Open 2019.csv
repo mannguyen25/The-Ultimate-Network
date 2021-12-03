@@ -1,0 +1,94 @@
+Johns Hopkins,Connecticut,8,9
+Rutgers,James Madison,9,11
+Johns Hopkins,James Madison,13,7
+Rutgers,Connecticut,12,6
+Johns Hopkins,Rutgers,13,8
+Connecticut,James Madison,10,6
+Penn State,Georgetown,13,8
+Middlebury,Duke,11,12
+Penn State,Duke,12,11
+Middlebury,Georgetown,13,6
+Penn State,Middlebury,10,12
+Georgetown,Duke,9,13
+Mary Washington,SUNY-Binghamton,10,9
+MIT,American,13,7
+Mary Washington,American,13,9
+MIT,SUNY-Binghamton,13,10
+Mary Washington,MIT,9,7
+SUNY-Binghamton,American,13,3
+Pennsylvania,Lehigh,9,12
+North Carolina B,Towson,12,7
+Pennsylvania,Towson,11,10
+North Carolina B,Lehigh,13,9
+Pennsylvania,North Carolina B,9,13
+Lehigh,Towson,12,4
+NYU,Virginia Commonwealth,8,10
+Liberty,George Washington,13,5
+NYU,George Washington,8,9
+Liberty,Virginia Commonwealth,12,9
+NYU,Liberty,7,9
+Virginia Commonwealth,George Washington,8,10
+Villanova,George Mason,13,11
+RIT,Rowan,13,10
+Villanova,Rowan,13,12
+RIT,George Mason,9,11
+Villanova,RIT,13,10
+George Mason,Rowan,9,13
+Connecticut,Georgetown,9,14
+James Madison,George Washington,10,8
+RIT,Liberty,5,13
+Rutgers,Lehigh,13,7
+Connecticut,George Washington,10,8
+Georgetown,James Madison,11,12
+RIT,Rutgers,12,14
+Liberty,Lehigh,15,2
+SUNY-Binghamton,Pennsylvania,6,13
+Virginia Commonwealth,Rowan,13,6
+SUNY-Binghamton,Virginia Commonwealth,12,10
+Pennsylvania,Rowan,15,7
+SUNY-Binghamton,Rowan,15,6
+Pennsylvania,Virginia Commonwealth,11,12
+American,George Mason,3,14
+Towson,NYU,9,8
+NYU,George Mason,12,9
+American,NYU,5,11
+Towson,George Mason,5,14
+American,Towson,5,15
+Christopher Newport,Georgetown B,13,10
+Shenandoah,George Washington B,12,11
+Pennsylvania B,American B,13,5
+Christopher Newport,Shenandoah,13,2
+Georgetown B,Pennsylvania B,7,11
+George Washington B,American B,13,8
+Christopher Newport,Pennsylvania B,12,7
+Shenandoah,American B,12,5
+Georgetown B,George Washington B,6,11
+Christopher Newport,American B,11,8
+Shenandoah,Georgetown B,13,0
+Pennsylvania B,George Washington B,12,10
+Christopher Newport,George Washington B,13,4
+Shenandoah,Pennsylvania B,8,11
+Georgetown B,American B,11,7
+Duke,Middlebury,11,15
+MIT,Duke,11,14
+Johns Hopkins,Middlebury,10,12
+MIT,North Carolina B,13,11
+Villanova,Duke,11,14
+Johns Hopkins,Penn State,15,4
+Mary Washington,Middlebury,9,13
+Connecticut,MIT,11,13
+Georgetown,North Carolina B,8,11
+James Madison,Villanova,10,12
+Duke,George Washington,13,6
+Johns Hopkins,RIT,13,6
+Penn State,Liberty,13,7
+Rutgers,Mary Washington,8,11
+Middlebury,Lehigh,13,9
+MIT,Johns Hopkins,7,15
+Villanova,Mary Washington,9,12
+North Carolina B,Villanova,13,14
+Penn State,Mary Washington,10,11
+North Carolina B,Penn State,12,15
+Christopher Newport,Pennsylvania B,15,7
+Shenandoah,George Washington B,14,15
+Georgetown B,American B,15,14
