@@ -178,11 +178,15 @@ def analyze(graph, label, file_object=None):
 
     # Degree assortativity
     assor = nx.algorithms.assortativity.degree_assortativity_coefficient(graph)
-    print(f'\tThe degree assortativity is {assor}', file=file_object)
+    print(f'\tThe degree assortativity is {assor}\n', file=file_object)
 
     centrality = nx.algorithms.eigenvector_centrality(graph, max_iter=500)
     centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
-    print(f'\tThe eigevector centralities are {centrality}', file=file_object)
+    print(f'\tThe eigevector centralities are {centrality}\n', file=file_object)
+
+    centrality = nx.algorithms.closeness_centrality(graph)
+    centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
+    print(f'\tThe closeness centralities are {centrality}\n', file=file_object)
 
     # centrality = nx.algorithms.betweenness_centrality(graph)
     # centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
