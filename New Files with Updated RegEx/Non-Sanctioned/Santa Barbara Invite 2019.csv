@@ -29,15 +29,15 @@ Stanford,Connecticut,12,9
 Victoria,California-San Diego,13,8
 Stanford,California-Santa Barbara,11,13
 Brigham Young,British Columbia,13,10
-Brigham Young,UCLA,13,9
+Brigham Young,UCL,13,9
 Colorado State University,Santa Clara,13,5
 Santa Clara,British Columbia,6,13
-Colorado State University,UCLA,13,6
+Colorado State University,UCL,13,6
 Brigham Young,Santa Clara,13,2
 Colorado State University,British Columbia,10,13
-UCLA,Santa Clara,13,11
+UCL,Santa Clara,13,11
 Brigham Young,Colorado State University,13,7
-UCLA,British Columbia,12,13
+UCL,British Columbia,12,13
 California-Santa Cruz,Connecticut,13,12
 Michigan State,California-Santa Cruz,11,13
 Michigan State,Connecticut,11,13
@@ -49,13 +49,13 @@ Cal Poly-SLO,Washington,13,11
 Victoria,California,11,9
 British Columbia,California-Santa Barbara,13,9
 Texas-Dallas,Stanford,11,13
-Washington,UCLA,13,8
+Washington,UCL,13,8
 Colorado State University,California,13,14
 California-Santa Barbara,Western Washington University,14,13
 Colorado State University,Texas-Dallas,10,9
-Colorado State University,UCLA,12,10
+Colorado State University,UCL,12,10
 Western Washington University,Texas-Dallas,10,11
-Western Washington University,UCLA,5,13
+Western Washington University,UCL,5,13
 Southern California,Victoria,11,13
 Dartmouth,California-San Diego,13,10
 Arizona,Dartmouth,7,13

@@ -1,9 +1,9 @@
 Illinois,Belmont,7,13
-Georgia Tech,Union,4,13
-Illinois,Union,4,13
+Georgia Tech,Union Tennessee,4,13
+Illinois,Union Tennessee,4,13
 Georgia Tech,Belmont,7,10
 Illinois,Georgia Tech,6,8
-Belmont,Union,12,11
+Belmont,Union Tennessee,12,11
 Alabama,Indiana,8,10
 Truman State,Alabama-Huntsville,13,5
 Alabama,Alabama-Huntsville,10,9
@@ -13,12 +13,12 @@ Indiana,Alabama-Huntsville,10,8
 Illinois,Truman State,4,13
 Alabama,Georgia Tech,5,8
 Belmont,Alabama-Huntsville,12,11
-Union,Indiana,10,6
-Illinois,Union,15,0
+Union Tennessee,Indiana,10,6
+Illinois,Union Tennessee,15,0
 Indiana,Alabama-Huntsville,12,6
-Union,Alabama-Huntsville,15,0
+Union Tennessee,Alabama-Huntsville,15,0
 Truman State,Belmont,14,4
 Truman State,Alabama,15,0
 Georgia Tech,Belmont,2,14
-Union,Alabama,10,13
+Union Tennessee,Alabama,10,13
 Indiana,Georgia Tech,6,12

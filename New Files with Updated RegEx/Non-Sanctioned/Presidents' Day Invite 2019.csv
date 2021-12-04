@@ -1,8 +1,8 @@
 Oregon,California-Santa Cruz,13,3
-Western Washington,UCLA,8,10
-Oregon,UCLA,13,9
+Western Washington,UCL,8,10
+Oregon,UCL,13,9
 Western Washington,California-Santa Cruz,8,6
-UCLA,California-Santa Cruz,12,1
+UCL,California-Santa Cruz,12,1
 Oregon,Western Washington,13,4
 Cal Poly-SLO,California-San Diego,10,9
 Utah,California-Santa Barbara,9,6
@@ -28,11 +28,11 @@ California,Cal Poly-SLO,4,10
 Oregon,California-San Diego,12,4
 Colorado,Southern California,6,8
 British Columbia,California,4,7
-UCLA,Cal Poly-SLO,4,10
+UCL,Cal Poly-SLO,4,10
 Southern California,California,10,4
-Colorado,UCLA,8,9
+Colorado,UCL,8,9
 California-San Diego,Colorado,4,11
-British Columbia,UCLA,5,12
+British Columbia,UCL,5,12
 California-San Diego,British Columbia,11,10
 Illinois,Utah,9,10
 California-Santa Barbara,Illinois,6,12

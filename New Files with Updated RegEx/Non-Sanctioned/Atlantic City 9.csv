@@ -1,106 +1,53 @@
-Salisbury,SUNY-New Paltz,4,13
-
-Stevens Tech,SUNY-Albany,9,8
-
-Bates College,SUNY-Albany,13,10
-
-Stevens Tech,Salisbury,13,2
-
-Bates College,SUNY-New Paltz,13,3
-
-SUNY-Albany,Salisbury,13,1
-
-Bates College,Salisbury,13,3
-
-Stevens Tech,SUNY-New Paltz,7,10
-
-Bates College,Stevens Tech,13,2
-
-SUNY-Albany,SUNY-New Paltz,12,5
-
-MIT,SUNY-Cortland,13,2
-
-Yale,College of New Jersey,13,6
-
-MIT,Yale,10,13
-
-Colby,College of New Jersey,13,6
-
-College of New Jersey,SUNY-Cortland,11,12
-
-Colby,Yale,13,7
-
-MIT,College of New Jersey,13,3
-
-Colby,SUNY-Cortland,13,7
-
-MIT,Colby,9,12
-
-Yale,SUNY-Cortland,13,6
-
-Brown,SUNY-Binghamton,13,4
-
-SUNY-Albany,Yale,11,3
-
-Brown,SUNY-Albany,12,2
-
-Rutgers,Yale,12,4
-
-Yale,SUNY-Binghamton,5,11
-
-Rutgers,SUNY-Albany,13,2
-
-Brown,Yale,13,1
-
-Rutgers,SUNY-Binghamton,13,2
-
-Brown,Rutgers,13,3
-
-SUNY-Albany,SUNY-Binghamton,13,6
-
-Bates College,Colby,8,11
-
-Bates College,Yale,11,9
-
-MIT,Colby,7,11
-
-SUNY-Cortland,Bates College,0,13
-
-Brown,Yale,7,12
-
-SUNY-Albany,MIT,9,13
-
-SUNY-New Paltz,Colby,6,12
-
-SUNY-Cortland,Salisbury,13,2
-
-Brown,Stevens Tech,10,5
-
-MIT,Rutgers,13,3
-
-College of New Jersey,SUNY-New Paltz,8,12
-
-Brown,SUNY-Albany,10,13
-
-SUNY-Cortland,Brown,7,8
-
-SUNY-Albany,SUNY-New Paltz,13,6
-
-Yale,MIT,7,9
-
-Stevens Tech,Rutgers,8,7
-
-Salisbury,Stevens Tech,5,13
-
-Rutgers,College of New Jersey,15,0
-
-SUNY-Albany,Salisbury,7,9
-
-SUNY-Binghamton,Stevens Tech,4,12
-
-Yale,Rutgers,6,8
-
-SUNY-Albany,SUNY-Binghamton,3,6
-
-SUNY-Binghamton,Yale,11,5
-
+Salisbury,SUNY-New Paltz,4,13
+Stevens Tech,SUNY-Albany,9,8
+Bates College,SUNY-Albany,13,10
+Stevens Tech,Salisbury,13,2
+Bates College,SUNY-New Paltz,13,3
+SUNY-Albany,Salisbury,13,1
+Bates College,Salisbury,13,3
+Stevens Tech,SUNY-New Paltz,7,10
+Bates College,Stevens Tech,13,2
+SUNY-Albany,SUNY-New Paltz,12,5
+MIT,SUNY-Cortland,13,2
+Yale,College of New Jersey,13,6
+MIT,Yale,10,13
+Colby,College of New Jersey,13,6
+College of New Jersey,SUNY-Cortland,11,12
+Colby,Yale,13,7
+MIT,College of New Jersey,13,3
+Colby,SUNY-Cortland,13,7
+MIT,Colby,9,12
+Yale,SUNY-Cortland,13,6
+Brown,SUNY-Binghamton,13,4
+SUNY-Albany,Yale,11,3
+Brown,SUNY-Albany,12,2
+Rutgers,Yale,12,4
+Yale,SUNY-Binghamton,5,11
+Rutgers,SUNY-Albany,13,2
+Brown,Yale,13,1
+Rutgers,SUNY-Binghamton,13,2
+Brown,Rutgers,13,3
+SUNY-Albany,SUNY-Binghamton,13,6
+Bates College,Colby,8,11
+Bates College,Yale,11,9
+MIT,Colby,7,11
+SUNY-Cortland,Bates College,0,13
+Brown,Yale,7,12
+SUNY-Albany,MIT,9,13
+SUNY-New Paltz,Colby,6,12
+SUNY-Cortland,Salisbury,13,2
+Brown,Stevens Tech,10,5
+MIT,Rutgers,13,3
+College of New Jersey,SUNY-New Paltz,8,12
+Brown,SUNY-Albany,10,13
+SUNY-Cortland,Brown,7,8
+SUNY-Albany,SUNY-New Paltz,13,6
+Yale,MIT,7,9
+Stevens Tech,Rutgers,8,7
+Salisbury,Stevens Tech,5,13
+Rutgers,College of New Jersey,15,0
+SUNY-Albany,Salisbury,7,9
+SUNY-Binghamton,Stevens Tech,4,12
+Yale,Rutgers,6,8
+SUNY-Albany,SUNY-Binghamton,3,6
+SUNY-Binghamton,Yale,11,5

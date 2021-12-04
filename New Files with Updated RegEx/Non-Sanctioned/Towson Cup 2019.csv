@@ -1,8 +1,8 @@
 SUNY-Oneonta,Towson,13,3
-St Mary's,Maryland-Baltimore County,7,10
+St Mary's Maryland,Maryland-Baltimore County,7,10
 SUNY-Oneonta,Maryland-Baltimore County,15,2
-St Mary's,Towson,8,9
-SUNY-Oneonta,St Mary's,15,3
+St Mary's Maryland,Towson,8,9
+SUNY-Oneonta,St Mary's Maryland,15,3
 Towson,Maryland-Baltimore County,5,6
 Lancaster Bible,American,3,6
 Delaware,SUNY Oneonta,13,2
@@ -16,9 +16,9 @@ Maryland-Baltimore County,Delaware,5,13
 SUNY-Oneonta,SUNY Oneonta,15,1
 American,Towson,15,4
 Maryland-Baltimore County,Lancaster Bible,14,4
-Delaware,St Mary's,15,3
-SUNY Oneonta,St Mary's,5,7
+Delaware,St Mary's Maryland,15,3
+SUNY Oneonta,St Mary's Maryland,5,7
 SUNY Oneonta,Towson,11,6
-St Mary's,Lancaster Bible,9,8
+St Mary's Maryland,Lancaster Bible,9,8
 Towson,Lancaster Bible,9,6
 American,Maryland-Baltimore County,6,8

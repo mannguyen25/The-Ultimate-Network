@@ -1,16 +1,16 @@
-Michigan,Miami,13,7
-Miami,Miami,13,8
-Miami,Michigan,13,11
+Michigan,Miami Ohio,13,7
+Miami Upper,Miami Ohio,13,8
+Miami Upper,Michigan,13,11
 Cincinnati,SUNY-Buffalo,13,8
 Cincinnati,Cleveland State,13,2
 SUNY-Buffalo,Cleveland State,13,4
-Miami,Cleveland State,13,2
+Miami Upper,Cleveland State,13,2
 SUNY-Buffalo,Michigan,8,13
-Cincinnati,Miami,13,4
+Cincinnati,Miami Ohio,13,4
 SUNY-Buffalo,Cincinnati,9,15
-Miami,SUNY-Buffalo,10,13
+Miami Upper,SUNY-Buffalo,10,13
 Michigan,Cincinnati,9,15
-Miami,SUNY-Buffalo,9,15
+Miami Ohio,SUNY-Buffalo,9,15
 Michigan,Cleveland State,15,5
-Michigan,Miami,9,7
-Miami,Cleveland State,15,7
+Michigan,Miami Upper,9,7
+Miami Ohio,Cleveland State,15,7

@@ -1,90 +1,45 @@
-Middlebury,Franciscan,11,10
-
-Michigan Tech,Hamilton,11,9
-
-Middlebury,Hamilton,12,10
-
-Michigan Tech,Franciscan,15,8
-
-Middlebury,Michigan Tech,14,9
-
-Franciscan,Hamilton,12,13
-
-Air Force,Portland,12,5
-
-Bryant University,Claremont,15,2
-
-Air Force,Claremont,14,3
-
-Bryant University,Portland,13,4
-
-Air Force,Bryant University,11,7
-
-Portland,Claremont,11,12
-
-Carleton College-GoP,Missouri S&T,11,10
-
-Colby,Berry,11,9
-
-Carleton College-GoP,Berry,15,6
-
-Colby,Missouri S&T,8,11
-
-Carleton College-GoP,Colby,14,5
-
-Missouri S&T,Berry,12,10
-
-Richmond,Luther,10,8
-
-Bowdoin,Valparaiso,10,6
-
-Richmond,Valparaiso,11,6
-
-Bowdoin,Luther,9,11
-
-Richmond,Bowdoin,9,11
-
-Luther,Valparaiso,14,9
-
-Middlebury,Air Force,15,12
-
-Middlebury,Richmond,12,11
-
-Carleton College-GoP,Air Force,13,15
-
-Middlebury,Bryant University,15,9
-
-Richmond,Missouri S&T,15,11
-
-Carleton College-GoP,Luther,15,10
-
-Air Force,Bowdoin,15,10
-
-Bryant University,Colby,12,5
-
-Missouri S&T,Claremont,14,6
-
-Luther,Hamilton,14,5
-
-Michigan Tech,Bowdoin,10,13
-
-Bryant University,Missouri S&T,8,15
-
-Luther,Bowdoin,13,14
-
-Colby,Claremont,11,8
-
-Hamilton,Michigan Tech,11,13
-
-Franciscan,Valparaiso,15,11
-
-Colby,Franciscan,12,15
-
-Claremont,Valparaiso,9,15
-
-Berry,Portland,5,15
-
-Hamilton,Berry,7,14
-
-Michigan Tech,Portland,4,15
-
+Middlebury,Franciscan,11,10
+Michigan Tech,Hamilton,11,9
+Middlebury,Hamilton,12,10
+Michigan Tech,Franciscan,15,8
+Middlebury,Michigan Tech,14,9
+Franciscan,Hamilton,12,13
+Air Force,Portland,12,5
+Bryant University,Claremont,15,2
+Air Force,Claremont,14,3
+Bryant University,Portland,13,4
+Air Force,Bryant University,11,7
+Portland,Claremont,11,12
+Carleton College-GoP,Missouri S&T,11,10
+Colby,Berry,11,9
+Carleton College-GoP,Berry,15,6
+Colby,Missouri S&T,8,11
+Carleton College-GoP,Colby,14,5
+Missouri S&T,Berry,12,10
+Richmond,Luther,10,8
+Bowdoin,Valparaiso,10,6
+Richmond,Valparaiso,11,6
+Bowdoin,Luther,9,11
+Richmond,Bowdoin,9,11
+Luther,Valparaiso,14,9
+Middlebury,Air Force,15,12
+Middlebury,Richmond,12,11
+Carleton College-GoP,Air Force,13,15
+Middlebury,Bryant University,15,9
+Richmond,Missouri S&T,15,11
+Carleton College-GoP,Luther,15,10
+Air Force,Bowdoin,15,10
+Bryant University,Colby,12,5
+Missouri S&T,Claremont,14,6
+Luther,Hamilton,14,5
+Michigan Tech,Bowdoin,10,13
+Bryant University,Missouri S&T,8,15
+Luther,Bowdoin,13,14
+Colby,Claremont,11,8
+Hamilton,Michigan Tech,11,13
+Franciscan,Valparaiso,15,11
+Colby,Franciscan,12,15
+Claremont,Valparaiso,9,15
+Berry,Portland,5,15
+Hamilton,Berry,7,14
+Michigan Tech,Portland,4,15

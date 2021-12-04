@@ -41,15 +41,15 @@ Rochester,John Carroll,13,2
 Lehigh,Rochester,9,8
 Northwestern,John Carroll,13,8
 Michigan,Case Western Reserve,13,6
-Ohio State-B,Western Michigan,12,13
-Michigan,Ohio State-B,12,7
+Ohio State,Western Michigan,12,13
+Michigan,Ohio State,12,7
 Cedarville,Western Michigan,11,8
 Western Michigan,Case Western Reserve,10,12
-Cedarville,Ohio State-B,13,3
+Cedarville,Ohio State,13,3
 Michigan,Western Michigan,13,0
 Cedarville,Case Western Reserve,13,1
 Michigan,Cedarville,13,10
-Ohio State-B,Case Western Reserve,12,11
+Ohio State,Case Western Reserve,12,11
 Indiana,Ohio,15,8
 Indiana,Case Western Reserve,15,9
 Ohio,Purdue,13,10
@@ -90,7 +90,7 @@ Case Western Reserve,Wright State,11,12
 Knox,Trine,15,11
 Toledo,Ohio Northern,15,10
 Trine,Western Michigan,15,0
-Ohio State-B,Ohio Northern,5,15
+Ohio State,Ohio Northern,5,15
 Wright State,Northwestern,15,9
 Kenyon,John Carroll,13,14
 Wright State,Toledo,0,15
@@ -98,7 +98,7 @@ Case Western Reserve,Ohio Northern,11,15
 John Carroll,Case Western Reserve,0,15
 Trine,Ohio Northern,9,15
 John Carroll,Trine,0,15
-Kenyon,Ohio State-B,15,0
+Kenyon,Ohio State,15,0
 Kenyon,Northwestern,12,10
-Western Michigan,Ohio State-B,9,11
+Western Michigan,Ohio State,9,11
 Northwestern,Western Michigan,15,0

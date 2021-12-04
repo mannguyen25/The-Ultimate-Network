@@ -1,10 +1,10 @@
-Yale,SUNY-Stony Brook-B,11,6
+Yale,SUNY-Stony Brook,11,6
 Connecticut,Rutgers,13,7
-Connecticut,SUNY-Stony Brook-B,13,1
+Connecticut,SUNY-Stony Brook,13,1
 Rutgers,Princeton,12,10
 Connecticut,Yale,11,4
-SUNY-Stony Brook-B,Princeton,1,13
-Rutgers,SUNY-Stony Brook-B,12,6
+SUNY-Stony Brook,Princeton,1,13
+Rutgers,SUNY-Stony Brook,12,6
 Yale,Princeton,7,12
 Connecticut,Princeton,12,9
 Rutgers,Yale,13,7
@@ -28,4 +28,4 @@ Rutgers,SUNY-Buffalo,12,7
 Princeton,SUNY-Buffalo,13,5
 SUNY-Binghamton,Princeton,13,15
 Yale,SUNY-Buffalo,6,11
-SUNY-Stony Brook-B,SUNY Oneonta,5,10
+SUNY-Stony Brook,SUNY Oneonta,5,10

@@ -9,12 +9,8 @@ Texas-San Antonio,Oklahoma,13,4
 Texas State,Texas-San Antonio,13,4
 Colorado College,Oklahoma,13,2
 Texas Tech,Southern Methodist,13,2
-Oklahoma,Marcus,13,3
 Texas Tech,Oklahoma,13,9
-Rice,Marcus,13,10
-Marcus,Southern Methodist,11,5
 Rice,Oklahoma,11,10
-Texas Tech,Marcus,13,3
 Rice,Southern Methodist,13,2
 Texas Tech,Rice,13,8
 Oklahoma,Southern Methodist,13,0
@@ -51,7 +47,6 @@ Texas State,John Brown,9,11
 Oklahoma,Baylor,15,10
 Texas Tech,Kansas State,15,6
 Rice,Oklahoma State,12,11
-Texas State,Marcus,15,3
 John Brown,Texas State,15,2
 Colorado College,Oklahoma,4,12
 Nebraska,Baylor,10,13
@@ -65,13 +60,10 @@ Texas State,Baylor,0,15
 Kansas State,Oklahoma State,1,11
 Texas State,Kansas State,0,15
 Colorado College,North Texas,0,15
-Marcus,Colorado College,3,11
 North Texas,Texas-San Antonio,11,6
-Marcus,Texas State,11,7
 Colorado College,Nebraska,13,5
 Oklahoma,North Texas,6,15
 Texas-San Antonio,Sam Houston State,12,5
-Marcus,Texas-San Antonio,15,0
 Texas State,Sam Houston State,0,15
 Texas State,Nebraska,15,0
 Oklahoma,Sam Houston State,3,6
