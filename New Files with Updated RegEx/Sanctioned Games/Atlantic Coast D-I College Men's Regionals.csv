@@ -17,11 +17,11 @@ William & Mary,Liberty,10,6
 North Carolina-Wilmington,William & Mary,8,10
 Liberty,James Madison,10,13
 South Carolina,Georgetown,13,6
-Virginia Tech,North Carolina B,13,8
-South Carolina,North Carolina B,12,9
+Virginia Tech,North Carolina,13,8
+South Carolina,North Carolina,12,9
 Virginia Tech,Georgetown,13,7
 South Carolina,Virginia Tech,8,12
-Georgetown,North Carolina B,12,7
+Georgetown,North Carolina,12,7
 North Carolina,North Carolina State,15,2
 North Carolina,Virginia Tech,15,7
 North Carolina-Wilmington,North Carolina State,8,15
@@ -40,7 +40,7 @@ Virginia,James Madison,13,4
 Georgetown,Virginia,12,14
 Duke,James Madison,11,13
 Georgetown,Duke,1,0
-North Carolina B,Appalachian State,13,11
-East Carolina,North Carolina B,13,15
+North Carolina,Appalachian State,13,11
+East Carolina,North Carolina,13,15
 Liberty,Appalachian State,11,13
 East Carolina,Liberty,9,13

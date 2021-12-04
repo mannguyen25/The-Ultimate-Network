@@ -114,12 +114,12 @@ def main():
     # # initialize latest driver
     page = requests.get(url)
     soup = bs.BeautifulSoup(page.text,'html.parser')
-    path = "C:/Users/Man\Documents/GitHub/The-Ultimate-Network/New Files with Updated RegEx/Non-Sanctioned/"
+    path = "C:/Users/Man/Documents/GitHub/The-Ultimate-Network/New Files with Updated RegEx/Sanctioned Games/"
     file1 = open("C:/Users/Man/Documents/GitHub/The-Ultimate-Network/Non-Sanctioned 2019/links.csv","r")
     links = file1.readlines()
     for entry in links:
         tournament, link = entry.split(",")
-        if pa.exists("C:/Users/Man/Documents/GitHub/The-Ultimate-Network/New Files with Updated RegEx/Sanctioned Games/"+tournament+".csv"):
+        if pa.exists("C:/Users/Man/Documents/GitHub/The-Ultimate-Network/New Files with Updated RegEx/Non-Sanctioned/"+tournament+".csv"):
             continue
         print(tournament)
         data = scrape_page(requests.get(link.strip("\n")))

@@ -1,5 +1,5 @@
-Muhlenberg,Lehigh B,11,2
-Messiah,Lehigh B,12,2
+Muhlenberg,Lehigh,11,2
+Messiah,Lehigh,12,2
 Messiah,Muhlenberg,10,8
 Xavier,Wooster,10,5
 Oberlin,Wooster,10,5
@@ -13,7 +13,7 @@ Cedarville,Shippensburg,10,9
 Cedarville,Franciscan,12,15
 Xavier,Grove City,15,10
 Swarthmore,Wooster,15,12
-Lehigh B,Haverford,3,15
+Lehigh,Haverford,3,15
 Shippensburg,Muhlenberg,15,13
 Messiah,Xavier,14,10
 Swarthmore,Cedarville,6,15

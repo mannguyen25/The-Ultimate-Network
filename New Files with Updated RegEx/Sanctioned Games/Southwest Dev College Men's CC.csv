@@ -1,39 +1,39 @@
-California B,Cal Poly-SLO B,6,10
-California-San Diego C,Southern California B,9,4
-California B,Southern California B,13,0
-Cal Poly-SLO B,California-Santa Barbara B,12,3
-California B,California-San Diego C,13,5
-Southern California B,California-Santa Barbara B,0,11
-Cal Poly-SLO B,Southern California B,9,0
-California-San Diego C,California-Santa Barbara B,5,11
-Cal Poly-SLO B,California-San Diego C,13,4
-California B,California-Santa Barbara B,13,5
-Arizona State B,Arizona B,11,5
-California-San Diego B,Cal Poly-SLO C,11,2
-UCLA B,California-Irvine B,11,0
-Arizona State B,Cal Poly-SLO C,11,4
-California-San Diego B,UCLA B,6,7
-Arizona B,California-Irvine B,11,2
-Arizona State B,California-San Diego B,9,6
-Arizona State B,UCLA B,9,4
-California-San Diego B,California-Irvine B,11,4
-Arizona B,Cal Poly-SLO C,11,2
-Arizona B,UCLA B,7,11
-Arizona State B,California-Irvine B,8,2
-California-San Diego B,Arizona B,11,6
-UCLA B,Cal Poly-SLO C,9,1
-Cal Poly-SLO C,California-Irvine B,8,3
-Cal Poly-SLO C,California-Irvine B,6,5
-Southern California B,Cal Poly-SLO C,15,0
-Cal Poly-SLO B,Arizona State B,5,12
-Cal Poly-SLO B,UCLA B,12,5
-California B,Arizona State B,5,8
-Cal Poly-SLO B,Arizona B,13,2
-UCLA B,California-Santa Barbara B,8,6
-California B,California-San Diego B,10,9
-Arizona State B,California-San Diego C,9,4
-UCLA B,California B,9,8
-Arizona B,California-San Diego B,10,12
-Arizona B,California-Santa Barbara B,9,6
-California-San Diego B,California-San Diego C,13,4
-California-Santa Barbara B,California-San Diego C,8,7
+California,Cal Poly-SLO,6,10
+California-San Diego,Southern California,9,4
+California,Southern California,13,0
+Cal Poly-SLO,California-Santa Barbara,12,3
+California,California-San Diego,13,5
+Southern California,California-Santa Barbara,0,11
+Cal Poly-SLO,Southern California,9,0
+California-San Diego,California-Santa Barbara,5,11
+Cal Poly-SLO,California-San Diego,13,4
+California,California-Santa Barbara,13,5
+Arizona State,Arizona,11,5
+California-San Diego,Cal Poly-SLO,11,2
+UCLA,California-Irvine,11,0
+Arizona State,Cal Poly-SLO,11,4
+California-San Diego,UCLA,6,7
+Arizona,California-Irvine,11,2
+Arizona State,California-San Diego,9,6
+Arizona State,UCLA,9,4
+California-San Diego,California-Irvine,11,4
+Arizona,Cal Poly-SLO,11,2
+Arizona,UCLA,7,11
+Arizona State,California-Irvine,8,2
+California-San Diego,Arizona,11,6
+UCLA,Cal Poly-SLO,9,1
+Cal Poly-SLO,California-Irvine,8,3
+Cal Poly-SLO,California-Irvine,6,5
+Southern California,Cal Poly-SLO,15,0
+Cal Poly-SLO,Arizona State,5,12
+Cal Poly-SLO,UCLA,12,5
+California,Arizona State,5,8
+Cal Poly-SLO,Arizona,13,2
+UCLA,California-Santa Barbara,8,6
+California,California-San Diego,10,9
+Arizona State,California-San Diego,9,4
+UCLA,California,9,8
+Arizona,California-San Diego,10,12
+Arizona,California-Santa Barbara,9,6
+California-San Diego,California-San Diego,13,4
+California-Santa Barbara,California-San Diego,8,7

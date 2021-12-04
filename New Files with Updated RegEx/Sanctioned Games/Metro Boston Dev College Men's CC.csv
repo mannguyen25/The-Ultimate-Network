@@ -1,21 +1,21 @@
-Tufts B,Northeastern B,11,7
-Harvard B,Tufts C,11,10
-Northeastern C,MIT B,12,4
-Tufts B,Harvard B,13,1
-Northeastern B,Northeastern C,10,0
-Tufts C,MIT B,5,12
-Tufts B,Northeastern C,13,4
-Harvard B,MIT B,5,10
-Northeastern B,Tufts C,13,0
-Tufts B,MIT B,13,0
-Harvard B,Northeastern B,0,15
-Northeastern C,Tufts C,13,2
-Tufts B,Tufts C,15,0
-Harvard B,Northeastern C,6,13
-Northeastern B,MIT B,13,4
-Tufts B,Northeastern B,10,8
-Tufts B,MIT B,9,6
-Northeastern B,Northeastern C,15,0
-MIT B,Harvard B,12,6
-Northeastern C,Tufts C,15,0
-Harvard B,Tufts C,15,0
+Tufts,Northeastern,11,7
+Harvard,Tufts,11,10
+Northeastern,MIT,12,4
+Tufts,Harvard,13,1
+Northeastern,Northeastern,10,0
+Tufts,MIT,5,12
+Tufts,Northeastern,13,4
+Harvard,MIT,5,10
+Northeastern,Tufts,13,0
+Tufts,MIT,13,0
+Harvard,Northeastern,0,15
+Northeastern,Tufts,13,2
+Tufts,Tufts,15,0
+Harvard,Northeastern,6,13
+Northeastern,MIT,13,4
+Tufts,Northeastern,10,8
+Tufts,MIT,9,6
+Northeastern,Northeastern,15,0
+MIT,Harvard,12,6
+Northeastern,Tufts,15,0
+Harvard,Tufts,15,0

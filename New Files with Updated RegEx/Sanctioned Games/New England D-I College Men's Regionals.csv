@@ -1,33 +1,33 @@
 Brown,Vermont,13,7
 Northeastern,MIT,13,4
-Boston College,Massachusetts C,13,10
+Boston College,Massachusetts,13,10
 Brown,Northeastern,13,6
 Vermont,Boston College,12,11
-MIT,Massachusetts C,13,9
+MIT,Massachusetts,13,9
 Brown,Boston College,13,2
-Northeastern,Massachusetts C,13,3
+Northeastern,Massachusetts,13,3
 Vermont,MIT,11,9
-Brown,Massachusetts C,13,4
+Brown,Massachusetts,13,4
 Northeastern,Vermont,13,10
 Boston College,MIT,10,12
 Northeastern,Boston College,13,4
-Vermont,Massachusetts C,13,5
+Vermont,Massachusetts,13,5
 Brown,MIT,13,6
 Massachusetts,Tufts,10,9
 Harvard,New Hampshire,13,11
-Dartmouth,Tufts B,13,4
+Dartmouth,Tufts,13,4
 Massachusetts,Harvard,13,5
 Tufts,Dartmouth,13,7
-New Hampshire,Tufts B,13,11
+New Hampshire,Tufts,13,11
 Massachusetts,Dartmouth,13,5
-Harvard,Tufts B,13,4
+Harvard,Tufts,13,4
 Tufts,New Hampshire,13,1
-Massachusetts,Tufts B,13,4
+Massachusetts,Tufts,13,4
 Harvard,Tufts,5,13
 Dartmouth,New Hampshire,13,1
 Massachusetts,New Hampshire,13,10
 Harvard,Dartmouth,11,13
-Tufts,Tufts B,13,5
+Tufts,Tufts,13,5
 Brown,Northeastern,15,9
 Brown,Tufts,15,7
 Northeastern,Massachusetts,14,13
@@ -37,7 +37,7 @@ Dartmouth,Massachusetts,12,15
 Vermont,Harvard,15,12
 MIT,Dartmouth,10,15
 Harvard,MIT,0,15
-MIT,Massachusetts C,0,15
-Boston College,Massachusetts C,0,15
-Boston College,Tufts B,15,7
-Massachusetts C,New Hampshire,15,11
+MIT,Massachusetts,0,15
+Boston College,Massachusetts,0,15
+Boston College,Tufts,15,7
+Massachusetts,New Hampshire,15,11

@@ -4,8 +4,8 @@ Michigan,Illinois State,11,10
 Grand Valley State,Kentucky,12,10
 Notre Dame,Kentucky,15,1
 Notre Dame,Grand Valley State,10,12
-Purdue,Michigan B,10,11
-Northwestern,Michigan B,15,1
+Purdue,Michigan,10,11
+Northwestern,Michigan,15,1
 Northwestern,Purdue,6,11
 Indiana,Loyola-Chicago,15,4
 Illinois,Loyola-Chicago,15,6
@@ -17,7 +17,7 @@ Michigan,Notre Dame,11,7
 Illinois,Purdue,10,8
 Northwestern,Indiana,7,10
 Grand Valley State,Chicago,7,11
-Notre Dame,Michigan B,13,6
+Notre Dame,Michigan,13,6
 Purdue,Kentucky,11,10
 Indiana,Illinois State,13,7
 Chicago,Loyola-Chicago,13,5
@@ -26,7 +26,7 @@ Purdue,Northwestern,8,9
 Notre Dame,Purdue,6,10
 Northwestern,Grand Valley State,13,12
 Notre Dame,Grand Valley State,5,11
-Michigan B,Illinois State,9,10
-Michigan B,Kentucky,14,5
+Michigan,Illinois State,9,10
+Michigan,Kentucky,14,5
 Illinois State,Loyola-Chicago,12,6
 Kentucky,Loyola-Chicago,11,7

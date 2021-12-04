@@ -1,13 +1,13 @@
 Ohio State,Cincinnati,13,6
 Toledo,Kent State,11,9
 Ohio State,Toledo,13,3
-Miami Ohio,Kent State,13,8
+Miami,Kent State,13,8
 Cincinnati,Kent State,13,3
-Miami Ohio,Toledo,13,8
-Ohio State,Miami Ohio,13,3
+Miami,Toledo,13,8
+Ohio State,Miami,13,3
 Cincinnati,Toledo,13,4
 Ohio State,Kent State,13,1
-Cincinnati,Miami Ohio,13,5
+Cincinnati,Miami,13,5
 Ohio,Dayton,11,7
 Case Western Reserve,Wright State,11,3
 Akron,Cleveland State,11,4
@@ -23,8 +23,8 @@ Dayton,Wright State,11,5
 Ohio,Case Western Reserve,11,8
 Dayton,Akron,11,3
 Wright State,Cleveland State,11,6
-Miami Ohio,Dayton,9,12
-Toledo,Miami Ohio,11,13
+Miami,Dayton,9,12
+Toledo,Miami,11,13
 Toledo,Wright State,13,12
 Toledo,Akron,1,0
 Kent State,Wright State,0,1
