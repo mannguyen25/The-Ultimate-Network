@@ -22,7 +22,7 @@ def write_to_csv(data, csv_name,mode='a'):
         # write the data
         for row in data:
             writer.writerow(row)
-            
+
 def parse_table(game_data, soup, key):
     """"parses table info """
     home,away,h_score,a_score = game_data
@@ -32,14 +32,14 @@ def parse_table(game_data, soup, key):
     home = re.search("[a-zA-Z]+(([',. \-\&]+[a-zA-Z ])?[a-zA-Z]*)*", home)
     if home is not None:
         home = " ".join(home.group().split())
-        home = key[home] if home in key else re.sub("([- ])*?[A-C]$","",home)
+        home = key[home] if home in key else re.sub("(([- ])*?[A-C])*$","",home)
     else:
         return                        
     away = re.sub("[\(\)]", "",away.a.string)
     away = re.search("[a-zA-Z]+(([',. \-\&]+[a-zA-Z ])?[a-zA-Z]*)*", away)
     if away is not None:
         away = " ".join(away.group().split())
-        away = key[away] if away in key else re.sub("([- ])*?[A-C]$","",away)
+        away = key[away] if away in key else re.sub("(([- ])*?[A-C])*$","",away)
     else:
         return
     h_score = key[h_score.string] if h_score.string in key else int(h_score.string)
@@ -86,6 +86,9 @@ def find_all_links(filename, soup):
         link = a['href'] if re.search("schedule/Men/CollegeMen/",a['href']) else a['href']+"schedule/Men/CollegeMen/"
         f.write(link + "\n")
     f.close()
+def test(url):
+    data = scrape_page(requests.get(url))
+    print(data)
 
 def main():
     url = "https://archive.usaultimate.org/archives/2019_college.aspx#regionals"
@@ -93,6 +96,7 @@ def main():
     page = requests.get(url)
     soup = bs.BeautifulSoup(page.text,'html.parser')
     path = "C:/Users/Man/Documents/GitHub/The-Ultimate-Network/New Files with Updated RegEx/"
+    # test("https://play.usaultimate.org/events/Ohio-Valley-Dev-College-Mens-CC-2019/schedule/Men/CollegeMen/")
     file1 = open("C:/Users/Man/Documents/GitHub/The-Ultimate-Network/links.csv","r")
     links = file1.readlines()
     for entry in links:
