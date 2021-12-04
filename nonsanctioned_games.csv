@@ -4584,17 +4584,17 @@ California B,Arizona B,9
 
 Cal Poly-SLO B,California-San Diego B,6
 
-Arizona State B,Colorado School of Mines - B,8
+Arizona State B,Colorado School of Mines,8
 
 Southern California B,Ottawa Arizona,6
 
 Arizona State B,Ottawa Arizona,9
 
-Colorado School of Mines - B,Southern California B,6
+Colorado School of Mines,Southern California B,6
 
 Arizona State B,Southern California B,6
 
-Colorado School of Mines - B,Ottawa Arizona,11
+Colorado School of Mines,Ottawa Arizona,11
 
 UCLA,Colorado School of Mines,9
 
@@ -4622,15 +4622,15 @@ Arizona B,Cal State-Fullerton,4
 
 Occidental,California-Irvine,6
 
-California-San Diego B,Colorado School of Mines - B,3
+California-San Diego B,Colorado School of Mines,3
 
 Occidental,California-San Diego B,7
 
-California-Irvine,Colorado School of Mines - B,11
+California-Irvine,Colorado School of Mines,11
 
 California-San Diego B,California-Irvine,1
 
-Occidental,Colorado School of Mines - B,8
+Occidental,Colorado School of Mines,8
 
 Occidental,Wisconsin-Oshkosh,6
 
@@ -4638,7 +4638,7 @@ California-San Diego B,Arizona B,15
 
 California-Irvine,Cal State-Fullerton,6
 
-Colorado School of Mines - B,Southern California B,7
+Colorado School of Mines,Southern California B,7
 
 Southern California,Florida,5
 
@@ -4716,7 +4716,7 @@ Boise State,Miami,7
 
 Cal Poly-SLO B,Arizona State B,3
 
-Cal Poly-SLO B,Colorado School of Mines - B,3
+Cal Poly-SLO B,Colorado School of Mines,3
 
 Northern Arizona,Boise State,15
 

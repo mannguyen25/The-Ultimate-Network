@@ -1,105 +1,210 @@
-Florida,Nevada-Reno,13,11
-Southern California,Florida,13,7
-Southern California,Nevada-Reno,13,1
-Chico State,Montana State,10,7
-California-Irvine,Northern Arizona,6,13
-Chico State,Northern Arizona,10,13
-California-Irvine,Montana State,4,13
-Chico State,California-Irvine,13,4
-Montana State,Northern Arizona,5,10
-Cal Poly-Pomona,Wisconsin-Oshkosh,13,8
-Colorado Mesa,San Diego State,10,13
-Cal Poly-Pomona,San Diego State,13,9
-Colorado Mesa,Wisconsin-Oshkosh,13,3
-Cal Poly-Pomona,Colorado Mesa,10,7
-Wisconsin-Oshkosh,San Diego State,7,10
-Occidental,New Mexico,6,13
-Colorado-Denver,Utah State,9,13
-Occidental,Utah State,11,9
-Colorado-Denver,New Mexico,2,13
-Occidental,Colorado-Denver,7,13
-New Mexico,Utah State,11,13
-Cal State-Fullerton,Miami,7,13
-Cal State-Long Beach,Boise State,13,11
-Cal State-Fullerton,Boise State,8,13
-Cal State-Long Beach,Miami,13,8
-Cal State-Fullerton,Cal State-Long Beach,4,13
-Miami,Boise State,11,10
-Arizona,Cal Poly-SLO,9,13
-California,California-San Diego,13,3
-Arizona,California-San Diego,8,10
-California,Cal Poly-SLO,13,11
-Arizona,California,4,13
-Cal Poly-SLO,California-San Diego,12,6
-Arizona State,Colorado School of Mines - B,13,5
-Southern California,Ottawa,13,7
-Arizona State,Ottawa,13,4
-Southern California,Colorado School of Mines - B,6,12
-Arizona State,Southern California,13,7
-Colorado School of Mines - B,Ottawa,13,2
-UCLA,Colorado School of Mines,13,4
-Utah,Arizona,7,13
-Utah,Colorado School of Mines,9,10
-UCLA,Arizona,12,11
-Colorado School of Mines,Arizona,6,10
-UCLA,Utah,13,10
-Southern California,Arizona,6,11
-Wisconsin-Oshkosh,Cal State-Fullerton,8,7
-Southern California,Cal State-Fullerton,8,10
-Arizona,Wisconsin-Oshkosh,10,13
-Southern California,Wisconsin-Oshkosh,2,13
-Arizona,Cal State-Fullerton,13,9
-California-Irvine,Occidental,4,10
-California-San Diego,Colorado School of Mines - B,8,5
-California-San Diego,Occidental,6,13
-California-Irvine,Colorado School of Mines - B,13,2
-California-San Diego,California-Irvine,12,11
-Colorado School of Mines - B,Occidental,5,13
-Wisconsin-Oshkosh,Occidental,3,9
-Arizona,California-San Diego,0,15
-Cal State-Fullerton,California-Irvine,1,7
-Southern California,Colorado School of Mines - B,2,9
-Southern California,Florida,13,8
-Southern California,Arizona,13,7
-Florida,UCLA,12,10
-Southern California,Utah,13,7
-Nevada-Reno,Arizona,4,13
-Florida,Colorado School of Mines,13,10
-Utah State,UCLA,6,13
-California,Utah,9,13
-Nevada-Reno,Colorado-Denver,13,11
-Cal State-Long Beach,Arizona,6,13
-Florida,Chico State,13,4
-Cal Poly-Pomona,Colorado School of Mines,6,15
-Utah State,New Mexico,13,9
-San Diego State,California,9,11
-Colorado-Denver,Northern Arizona,12,11
-Cal State-Long Beach,Colorado Mesa,10,9
-Chico State,Miami,10,5
-Cal Poly-Pomona,Boise State,10,6
-Arizona State,New Mexico,6,8
-Utah State,Montana State,10,8
-Nevada-Reno,Utah State,5,7
-Utah,Nevada-Reno,9,12
-Colorado School of Mines,Utah State,11,13
-Utah,Colorado School of Mines,0,15
-California,Chico State,9,11
-California,Colorado-Denver,13,9
-Chico State,New Mexico,15,0
-Colorado-Denver,Cal State-Long Beach,13,5
-Chico State,Cal Poly-Pomona,13,4
-Colorado-Denver,New Mexico,15,0
-Cal State-Long Beach,Cal Poly-Pomona,11,9
-Montana State,Cal Poly-SLO,13,9
-Montana State,Northern Arizona,13,3
-Boise State,Cal Poly-SLO,5,7
-San Diego State,Montana State,8,12
-Northern Arizona,Colorado Mesa,13,8
-Miami,Boise State,6,13
-Cal Poly-SLO,Arizona State,13,10
-Cal Poly-SLO,Colorado School of Mines - B,9,6
-Northern Arizona,Boise State,15,0
-San Diego State,Arizona State,7,4
-San Diego State,Colorado Mesa,11,10
-Miami,Arizona State,8,13
-Colorado Mesa,Miami,11,10
+Florida,Nevada-Reno,13,11
+
+Southern California,Florida,13,7
+
+Southern California,Nevada-Reno,13,1
+
+Chico State,Montana State,10,7
+
+California-Irvine,Northern Arizona,6,13
+
+Chico State,Northern Arizona,10,13
+
+California-Irvine,Montana State,4,13
+
+Chico State,California-Irvine,13,4
+
+Montana State,Northern Arizona,5,10
+
+Cal Poly-Pomona,Wisconsin-Oshkosh,13,8
+
+Colorado Mesa,San Diego State,10,13
+
+Cal Poly-Pomona,San Diego State,13,9
+
+Colorado Mesa,Wisconsin-Oshkosh,13,3
+
+Cal Poly-Pomona,Colorado Mesa,10,7
+
+Wisconsin-Oshkosh,San Diego State,7,10
+
+Occidental,New Mexico,6,13
+
+Colorado-Denver,Utah State,9,13
+
+Occidental,Utah State,11,9
+
+Colorado-Denver,New Mexico,2,13
+
+Occidental,Colorado-Denver,7,13
+
+New Mexico,Utah State,11,13
+
+Cal State-Fullerton,Miami,7,13
+
+Cal State-Long Beach,Boise State,13,11
+
+Cal State-Fullerton,Boise State,8,13
+
+Cal State-Long Beach,Miami,13,8
+
+Cal State-Fullerton,Cal State-Long Beach,4,13
+
+Miami,Boise State,11,10
+
+Arizona,Cal Poly-SLO,9,13
+
+California,California-San Diego,13,3
+
+Arizona,California-San Diego,8,10
+
+California,Cal Poly-SLO,13,11
+
+Arizona,California,4,13
+
+Cal Poly-SLO,California-San Diego,12,6
+
+Arizona State,Colorado School of Mines,13,5
+
+Southern California,Ottawa,13,7
+
+Arizona State,Ottawa,13,4
+
+Southern California,Colorado School of Mines,6,12
+
+Arizona State,Southern California,13,7
+
+Colorado School of Mines,Ottawa,13,2
+
+UCLA,Colorado School of Mines,13,4
+
+Utah,Arizona,7,13
+
+Utah,Colorado School of Mines,9,10
+
+UCLA,Arizona,12,11
+
+Colorado School of Mines,Arizona,6,10
+
+UCLA,Utah,13,10
+
+Southern California,Arizona,6,11
+
+Wisconsin-Oshkosh,Cal State-Fullerton,8,7
+
+Southern California,Cal State-Fullerton,8,10
+
+Arizona,Wisconsin-Oshkosh,10,13
+
+Southern California,Wisconsin-Oshkosh,2,13
+
+Arizona,Cal State-Fullerton,13,9
+
+California-Irvine,Occidental,4,10
+
+California-San Diego,Colorado School of Mines,8,5
+
+California-San Diego,Occidental,6,13
+
+California-Irvine,Colorado School of Mines,13,2
+
+California-San Diego,California-Irvine,12,11
+
+Colorado School of Mines,Occidental,5,13
+
+Wisconsin-Oshkosh,Occidental,3,9
+
+Arizona,California-San Diego,0,15
+
+Cal State-Fullerton,California-Irvine,1,7
+
+Southern California,Colorado School of Mines,2,9
+
+Southern California,Florida,13,8
+
+Southern California,Arizona,13,7
+
+Florida,UCLA,12,10
+
+Southern California,Utah,13,7
+
+Nevada-Reno,Arizona,4,13
+
+Florida,Colorado School of Mines,13,10
+
+Utah State,UCLA,6,13
+
+California,Utah,9,13
+
+Nevada-Reno,Colorado-Denver,13,11
+
+Cal State-Long Beach,Arizona,6,13
+
+Florida,Chico State,13,4
+
+Cal Poly-Pomona,Colorado School of Mines,6,15
+
+Utah State,New Mexico,13,9
+
+San Diego State,California,9,11
+
+Colorado-Denver,Northern Arizona,12,11
+
+Cal State-Long Beach,Colorado Mesa,10,9
+
+Chico State,Miami,10,5
+
+Cal Poly-Pomona,Boise State,10,6
+
+Arizona State,New Mexico,6,8
+
+Utah State,Montana State,10,8
+
+Nevada-Reno,Utah State,5,7
+
+Utah,Nevada-Reno,9,12
+
+Colorado School of Mines,Utah State,11,13
+
+Utah,Colorado School of Mines,0,15
+
+California,Chico State,9,11
+
+California,Colorado-Denver,13,9
+
+Chico State,New Mexico,15,0
+
+Colorado-Denver,Cal State-Long Beach,13,5
+
+Chico State,Cal Poly-Pomona,13,4
+
+Colorado-Denver,New Mexico,15,0
+
+Cal State-Long Beach,Cal Poly-Pomona,11,9
+
+Montana State,Cal Poly-SLO,13,9
+
+Montana State,Northern Arizona,13,3
+
+Boise State,Cal Poly-SLO,5,7
+
+San Diego State,Montana State,8,12
+
+Northern Arizona,Colorado Mesa,13,8
+
+Miami,Boise State,6,13
+
+Cal Poly-SLO,Arizona State,13,10
+
+Cal Poly-SLO,Colorado School of Mines,9,6
+
+Northern Arizona,Boise State,15,0
+
+San Diego State,Arizona State,7,4
+
+San Diego State,Colorado Mesa,11,10
+
+Miami,Arizona State,8,13
+
+Colorado Mesa,Miami,11,10
+
