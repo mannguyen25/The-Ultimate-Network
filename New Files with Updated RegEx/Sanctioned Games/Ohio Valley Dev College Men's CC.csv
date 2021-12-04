@@ -1,42 +1,21 @@
-Case Western Reserve,Temple,9,8
-
-Penn State,Oberlin,15,1
-
-Ohio State,Pennsylvania,13,4
-
-Pittsburgh,Pennsylvania,13,4
-
-Penn State,Temple,12,10
-
-Ohio State,Oberlin,13,2
-
-Pittsburgh,Penn State,14,10
-
-Case Western Reserve,Oberlin,13,0
-
-Ohio State,Temple,11,10
-
-Pittsburgh,Case Western Reserve,14,2
-
-Pennsylvania,Temple,10,11
-
-Penn State,Ohio State,12,9
-
-Pittsburgh,Oberlin,15,0
-
-Pennsylvania,Case Western Reserve,8,9
-
-Temple,Oberlin,15,0
-
-Pennsylvania,Oberlin,15,0
-
-Penn State,Case Western Reserve,0,15
-
-Pittsburgh,Ohio State,12,10
-
-Ohio State,Case Western Reserve,10,13
-
-Penn State,Pennsylvania,0,15
-
-Pittsburgh,Temple,15,0
-
+Case Western Reserve,Temple,9,8
+Penn State,Oberlin,15,1
+Ohio State,Pennsylvania,13,4
+Pittsburgh,Pennsylvania,13,4
+Penn State,Temple,12,10
+Ohio State,Oberlin,13,2
+Pittsburgh,Penn State,14,10
+Case Western Reserve,Oberlin,13,0
+Ohio State,Temple,11,10
+Pittsburgh,Case Western Reserve,14,2
+Pennsylvania,Temple,10,11
+Penn State,Ohio State,12,9
+Pittsburgh,Oberlin,15,0
+Pennsylvania,Case Western Reserve,8,9
+Temple,Oberlin,15,0
+Pennsylvania,Oberlin,15,0
+Penn State,Case Western Reserve,0,15
+Pittsburgh,Ohio State,12,10
+Ohio State,Case Western Reserve,10,13
+Penn State,Pennsylvania,0,15
+Pittsburgh,Temple,15,0

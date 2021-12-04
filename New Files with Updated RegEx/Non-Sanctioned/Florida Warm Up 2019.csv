@@ -15,7 +15,7 @@ Pittsburgh,Northwestern,13,7
 Virginia Tech,Florida State,9,13
 Boston College,Michigan,9,13
 Rutgers,Florida,11,9
-Harvard,Carlton College-CUT,12,14
+Harvard,Carleton College-CUT,12,14
 Kennesaw State,Northwestern,13,8
 Central Florida,Texas,13,7
 Emory,Oklahoma,12,8
@@ -39,11 +39,11 @@ Wisconsin,Brigham Young,15,14
 Temple,Tufts,6,13
 Florida State,Cincinnati,13,8
 Pittsburgh,South Florida,13,3
-Emory,Carlton College-CUT,8,13
+Emory,Carleton College-CUT,8,13
 Boston College,Temple,7,12
 Brigham Young,LSU,13,9
 Tufts,Emory,11,10
-Pittsburgh,Carlton College-CUT,13,11
+Pittsburgh,Carleton College-CUT,13,11
 Cincinnati,South Florida,13,10
 Texas,Minnesota,12,10
 Wisconsin,Florida,13,11
@@ -67,7 +67,7 @@ Cincinnati,Oklahoma,7,13
 Tufts,Texas,9,11
 Brigham Young,Pittsburgh,12,11
 Texas-Dallas,South Florida,12,3
-Kansas,Carlton College-CUT,5,13
+Kansas,Carleton College-CUT,5,13
 LSU,Wisconsin,11,8
 Cornell,Brown,7,13
 Michigan,Texas A&M,12,8
@@ -76,7 +76,7 @@ Harvard,Temple,12,3
 Brown,Northwestern,12,10
 Florida,Kansas,13,5
 Texas-Dallas,Illinois State,9,8
-Carlton College-CUT,Central Florida,8,13
+Carleton College-CUT,Central Florida,8,13
 Brigham Young,Cincinnati,13,5
 Texas A&M,Florida State,13,7
 Oklahoma,Georgia,6,10
@@ -91,7 +91,7 @@ Georgia,LSU,11,8
 Illinois State,Kansas,10,11
 Temple,South Florida,10,5
 Brown,Emory,13,5
-Brigham Young,Carlton College-CUT,13,10
+Brigham Young,Carleton College-CUT,13,10
 Northeastern,Kennesaw State,12,9
 South Carolina,Florida State,13,4
 Tufts,Wisconsin,9,10
@@ -156,11 +156,11 @@ Minnesota,Tufts,8,15
 South Carolina,LSU,10,15
 Kennesaw State,Harvard,11,12
 Northeastern,Minnesota,9,13
-Carlton College-CUT,Tufts,13,15
+Carleton College-CUT,Tufts,13,15
 Harvard,Minnesota,7,11
-Kennesaw State,Carlton College-CUT,4,15
+Kennesaw State,Carleton College-CUT,4,15
 South Carolina,Kennesaw State,12,13
-Northeastern,Carlton College-CUT,10,15
+Northeastern,Carleton College-CUT,10,15
 South Carolina,Northeastern,6,11
 Wisconsin,Emory,15,5
 Wisconsin,Alabama-Huntsville,15,7
