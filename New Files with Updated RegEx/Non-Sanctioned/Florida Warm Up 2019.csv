@@ -15,7 +15,7 @@ Georgia,Texas A&M,13,12
 Illinois State,South Carolina,10,12
 
 Central Florida,Tufts,13,11
-Carleton College-CUT,
+
 LSU,Northeastern,8,9
 
 Brigham Young,Texas,13,12
@@ -32,18 +32,18 @@ Boston College,Michigan,9,13
 
 Rutgers,Florida,11,9
 
-Harvard,Carleton College,12,14
+Harvard,Carleton College-CUT-CUT,12,14
 
 Kennesaw State,Northwestern,13,8
 
 Central Florida,Texas,13,7
 
 Emory,Oklahoma,12,8
-Carleton College-CUT,
+
 Cincinnati,Cornell,10,13
 
 Rutgers,Georgia,6,13
-Carleton College-CUT,
+
 Texas-Dallas,Brown,10,12
 
 Virginia Tech,Wisconsin,13,12
@@ -67,7 +67,7 @@ Kansas,Temple,12,13
 Central Florida,Virginia Tech,13,6
 
 Brown,Minnesota,13,7
-Carleton College-CUT,
+
 Alabama-Huntsville,Cornell,11,7
 
 Oklahoma,Illinois State,10,9
@@ -76,11 +76,11 @@ Wisconsin,Brigham Young,15,14
 
 Temple,Tufts,6,13
 
-Carleton College-CUT,cinnati,13,8
+Florida State,Cincinnati,13,8
 
 Pittsburgh,South Florida,13,3
 
-Emory,Carleton College,8,13
+Emory,Carleton College-CUT,8,13
 
 Boston College,Temple,7,12
 
@@ -88,10 +88,10 @@ Brigham Young,LSU,13,9
 
 Tufts,Emory,11,10
 
-Pittsburgh,Carleton College,13,11
+Pittsburgh,Carleton College-CUT,13,11
 
 Cincinnati,South Florida,13,10
-Carleton College-CUT,
+
 Texas,Minnesota,12,10
 
 Wisconsin,Florida,13,11
@@ -136,7 +136,7 @@ Brigham Young,Pittsburgh,12,11
 
 Texas-Dallas,South Florida,12,3
 
-Kansas,Carleton College,5,13
+Kansas,Carleton College-CUT,5,13
 
 LSU,Wisconsin,11,8
 
@@ -154,13 +154,13 @@ Florida,Kansas,13,5
 
 Texas-Dallas,Illinois State,9,8
 
-Carleton College,Central Florida,8,13
+Carleton College-CUT,Central Florida,8,13
 
-Carleton College-CUT,cinnati,13,5
+Brigham Young,Cincinnati,13,5
 
-Texas A&M,FloriCarleton College-CUT,
+Texas A&M,Florida State,13,7
 
-Oklahoma,GeorCarleton College-CUT,
+Oklahoma,Georgia,6,10
 
 Michigan,Cornell,13,0
 
@@ -184,7 +184,7 @@ Temple,South Florida,10,5
 
 Brown,Emory,13,5
 
-Brigham Young,Carleton College,13,10
+Brigham Young,Carleton College-CUT,13,10
 
 Northeastern,Kennesaw State,12,9
 
@@ -198,77 +198,77 @@ Rutgers,Texas,6,12
 
 Florida,Cornell,12,13
 
-Florida Gulf Coast,Embry-Riddle Florida,13,9
+Florida Gulf Coast,Embry-Riddle,13,9
 
-North Florida,Northwestern B,13,0
+North Florida,Northwestern,13,0
 
-Florida B,Florida Tech B,13,5
+Florida,Florida Tech,13,5
 
-Boston College B,High Point,9,10
+Boston College,High Point,9,10
 
-Florida Tech B,Stetson,13,14
+Florida Tech,Stetson,13,14
 
-Embry-Riddle Florida,South Florida B,13,6
+Embry-Riddle,South Florida,13,6
 
-Florida State B,Florida Gulf Coast,9,11
+Florida State,Florida Gulf Coast,9,11
 
-Boston College B,Florida B,6,13
+Boston College,Florida,6,13
 
-High Point,Central Florida B,8,10
+High Point,Central Florida,8,10
 
-Florida Gulf Coast,Central Florida B,11,9
+Florida Gulf Coast,Central Florida,11,9
 
-Boston College B,Stetson,13,6
+Boston College,Stetson,13,6
 
-Florida B,Embry-Riddle Florida,13,5
+Florida,Embry-Riddle,13,5
 
-North Florida,Florida State B,13,10
+North Florida,Florida State,13,10
 
-Northwestern B,South Florida B,10,7
+Northwestern,South Florida,10,7
 
-High Point,Northwestern B,9,7
+High Point,Northwestern,9,7
 
-Florida State B,Stetson,13,7
+Florida State,Stetson,13,7
 
-North Florida,Florida Tech B,13,5
+North Florida,Florida Tech,13,5
 
-South Florida B,Central Florida B,8,13
+South Florida,Central Florida,8,13
 
-Boston College B,North Florida,8,12
+Boston College,North Florida,8,12
 
-Florida B,Central Florida B,13,7
+Florida,Central Florida,13,7
 
-Florida Tech B,South Florida B,12,4
+Florida Tech,South Florida,12,4
 
-Embry-Riddle Florida,High Point,9,11
+Embry-Riddle,High Point,9,11
 
-Florida B,Northwestern B,11,5
+Florida,Northwestern,11,5
 
-Florida State B,High Point,12,6
+Florida State,High Point,12,6
 
-Florida Tech B,Florida Gulf Coast,4,13
+Florida Tech,Florida Gulf Coast,4,13
 
-Boston College B,South Florida B,12,4
+Boston College,South Florida,12,4
 
-Central Florida B,Stetson,12,11
+Central Florida,Stetson,12,11
 
-Florida Gulf Coast,Northwestern B,10,7
+Florida Gulf Coast,Northwestern,10,7
 
-North Florida,Central Florida B,13,3
+North Florida,Central Florida,13,3
 
-Florida Tech B,High Point,7,13
+Florida Tech,High Point,7,13
 
-Florida State B,Florida B,11,7
+Florida State,Florida,11,7
 
-Embry-Riddle Florida,Stetson,13,1
+Embry-Riddle,Stetson,13,1
 
-Florida State B,South Florida B,13,4
+Florida State,South Florida,13,4
 
-North Florida,Embry-Riddle Florida,13,6
+North Florida,Embry-Riddle,13,6
 
-Boston College B,Florida Gulf Coast,13,4
+Boston College,Florida Gulf Coast,13,4
 
-Northwestern B,Stetson,13,3
+Northwestern,Stetson,13,3
 
 South Florida,Boston College,6,14
 
@@ -314,15 +314,15 @@ Kennesaw State,Harvard,11,12
 
 Northeastern,Minnesota,9,13
 
-Carleton College,Tufts,13,15
+Carleton College-CUT,Tufts,13,15
 
 Harvard,Minnesota,7,11
 
-Kennesaw State,Carleton College,4,15
+Kennesaw State,Carleton College-CUT,4,15
 
 South Carolina,Kennesaw State,12,13
 
-Northeastern,Carleton College,10,15
+Northeastern,Carleton College-CUT,10,15
 
 South Carolina,Northeastern,6,11
 
@@ -366,27 +366,27 @@ Cornell,Boston College,12,11
 
 Kansas,Cornell,15,6
 
-North Florida,Florida B,11,8
+North Florida,Florida,11,8
 
 North Florida,Florida Gulf Coast,15,9
 
-Florida B,Florida State B,15,7
+Florida,Florida State,15,7
 
-Florida Gulf Coast,Florida State B,3,8
+Florida Gulf Coast,Florida State,3,8
 
-Embry-Riddle Florida,High Point,12,10
+Embry-Riddle,High Point,12,10
 
-Boston College B,Embry-Riddle Florida,6,15
+Boston College,Embry-Riddle,6,15
 
-High Point,Central Florida B,14,8
+High Point,Central Florida,14,8
 
-Boston College B,Central Florida B,11,4
+Boston College,Central Florida,11,4
 
-Northwestern B,Stetson,15,4
+Northwestern,Stetson,15,4
 
-Northwestern B,Florida Tech B,15,6
+Northwestern,Florida Tech,15,6
 
-Stetson,South Florida B,12,10
+Stetson,South Florida,12,10
 
-Florida Tech B,South Florida B,10,8
+Florida Tech,South Florida,10,8
 

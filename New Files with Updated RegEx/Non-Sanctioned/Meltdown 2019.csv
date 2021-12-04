@@ -8,69 +8,69 @@ Marquette,Winona State,13,4
 Loyola-Chicago,Milwaukee School of Engineering,13,5
 Winona State,Loyola-Chicago,11,8
 Milwaukee School of Engineering,Coe,11,2
-Wisconsin-Whitewater,Marquette B,13,4
-Northern Illinois,Illinois State B,7,6
-Valparaiso,Marquette B,13,4
-Wisconsin-Whitewater,Illinois State B,10,6
+Wisconsin-Whitewater,Marquette,13,4
+Northern Illinois,Illinois State,7,6
+Valparaiso,Marquette,13,4
+Wisconsin-Whitewater,Illinois State,10,6
 Wisconsin-Whitewater,Valparaiso,11,9
-Northern Illinois,Marquette B,8,7
+Northern Illinois,Marquette,8,7
 Wisconsin-Whitewater,Northern Illinois,11,7
-Valparaiso,Illinois State B,13,7
-Illinois State B,Marquette B,9,6
+Valparaiso,Illinois State,13,7
+Illinois State,Marquette,9,6
 Northern Illinois,Valparaiso,8,9
 Truman State,Olivet Nazarene,13,7
 North Park,Carthage College,13,1
-Purdue B,Carthage College,13,5
+Purdue,Carthage College,13,5
 North Park,Olivet Nazarene,11,12
-North Park,Purdue B,13,3
+North Park,Purdue,13,3
 Truman State,Carthage College,13,1
 North Park,Truman State,10,13
-Purdue B,Olivet Nazarene,8,13
+Purdue,Olivet Nazarene,8,13
 Olivet Nazarene,Carthage College,13,7
-Truman State,Purdue B,13,2
-Wheaton Illinois,Illinois-Chicago,11,6
+Truman State,Purdue,13,2
+Wheaton,Illinois-Chicago,11,6
 Grand Valley State,Wisconsin-Stout,13,2
 Southern Illinois-Edwardsville,Wisconsin-Stout,12,2
 Grand Valley State,Illinois-Chicago,12,5
 Grand Valley State,Southern Illinois-Edwardsville,13,7
-Wheaton Illinois,Wisconsin-Stout,13,3
+Wheaton,Wisconsin-Stout,13,3
 Southern Illinois-Edwardsville,Illinois-Chicago,8,10
-Grand Valley State,Wheaton Illinois,13,6
+Grand Valley State,Wheaton,13,6
 Illinois-Chicago,Wisconsin-Stout,11,5
-Wheaton Illinois,Southern Illinois-Edwardsville,13,7
+Wheaton,Southern Illinois-Edwardsville,13,7
 Marquette,Truman State,13,9
 Marquette,Grand Valley State,13,11
 Truman State,Winona State,13,9
 Valparaiso,Marquette,4,13
 Olivet Nazarene,Grand Valley State,9,13
-Wheaton Illinois,Truman State,3,13
+Wheaton,Truman State,3,13
 Winona State,Wisconsin-Whitewater,12,11
 Valparaiso,North Park,13,9
 Olivet Nazarene,Northern Illinois,11,10
-Wheaton Illinois,Loyola-Chicago,10,9
+Wheaton,Loyola-Chicago,10,9
 Winona State,Illinois-Chicago,13,3
 Grand Valley State,Winona State,13,3
 Olivet Nazarene,Wisconsin-Whitewater,5,13
 Valparaiso,Olivet Nazarene,8,12
-Wheaton Illinois,Wisconsin-Whitewater,8,10
-Valparaiso,Wheaton Illinois,3,7
-Illinois State B,Northern Illinois,10,4
-Illinois State B,Loyola-Chicago,10,8
+Wheaton,Wisconsin-Whitewater,8,10
+Valparaiso,Wheaton,3,7
+Illinois State,Northern Illinois,10,4
+Illinois State,Loyola-Chicago,10,8
 Northern Illinois,North Park,13,5
-Illinois State B,Illinois-Chicago,11,6
-Marquette B,Loyola-Chicago,4,9
+Illinois State,Illinois-Chicago,11,6
+Marquette,Loyola-Chicago,4,9
 Southern Illinois-Edwardsville,Northern Illinois,7,11
 Milwaukee School of Engineering,North Park,10,11
-Illinois State B,Carthage College,13,3
-Purdue B,Marquette B,5,11
+Illinois State,Carthage College,13,3
+Purdue,Marquette,5,11
 Southern Illinois-Edwardsville,Coe,13,6
 Milwaukee School of Engineering,Wisconsin-Stout,13,9
 Loyola-Chicago,North Park,9,12
-Marquette B,Southern Illinois-Edwardsville,6,7
-Illinois-Chicago,Marquette B,4,8
+Marquette,Southern Illinois-Edwardsville,6,7
+Illinois-Chicago,Marquette,4,8
 Southern Illinois-Edwardsville,Milwaukee School of Engineering,9,8
 Illinois-Chicago,Milwaukee School of Engineering,0,15
-Purdue B,Wisconsin-Stout,13,2
-Carthage College,Purdue B,4,13
+Purdue,Wisconsin-Stout,13,2
+Carthage College,Purdue,4,13
 Coe,Wisconsin-Stout,8,9
 Carthage College,Coe,0,15

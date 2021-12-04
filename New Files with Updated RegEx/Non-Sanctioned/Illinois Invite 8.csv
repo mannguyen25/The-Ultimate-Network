@@ -1,68 +1,68 @@
-Wisconsin-Milwaukee,Wisconsin B,11,9
+Wisconsin-Milwaukee,Wisconsin,11,9
 Wisconsin-Whitewater,Toledo,13,1
 Wisconsin-Milwaukee,Wisconsin-Whitewater,8,11
 Michigan State,Toledo,10,8
-Toledo,Wisconsin B,8,9
+Toledo,Wisconsin,8,9
 Michigan State,Wisconsin-Whitewater,6,13
 Wisconsin-Milwaukee,Toledo,5,2
-Michigan State,Wisconsin B,5,7
+Michigan State,Wisconsin,5,7
 Wisconsin-Milwaukee,Michigan State,8,4
-Wisconsin-Whitewater,Wisconsin B,8,4
-Michigan B,Loyola-Chicago,12,11
+Wisconsin-Whitewater,Wisconsin,8,4
+Michigan,Loyola-Chicago,12,11
 DePaul,Northern Iowa,9,11
-Michigan B,DePaul,10,9
+Michigan,DePaul,10,9
 Grand Valley State,Northern Iowa,13,8
 Northern Iowa,Loyola-Chicago,4,13
 Grand Valley State,DePaul,13,10
-Michigan B,Grand Valley State,6,8
+Michigan,Grand Valley State,6,8
 DePaul,Loyola-Chicago,4,6
-Michigan B,Northern Iowa,8,6
+Michigan,Northern Iowa,8,6
 Grand Valley State,Loyola-Chicago,9,7
-Wisconsin-Platteville,Michigan State B,13,2
-Purdue B,Illinois State B,9,3
-Wisconsin-Platteville,Purdue B,11,10
-Indiana B,Illinois State B,12,5
-Illinois State B,Michigan State B,9,10
-Indiana B,Purdue B,6,8
-Wisconsin-Platteville,Indiana B,12,2
-Purdue B,Michigan State B,9,6
-Wisconsin-Platteville,Illinois State B,9,5
-Indiana B,Michigan State B,8,6
-Missouri State,Wisconsin C,13,2
-Washington University B,Wisconsin-Milwaukee B,13,6
-Missouri State,Washington University B,13,7
-Illinois B,Wisconsin-Milwaukee B,11,7
-Wisconsin-Milwaukee B,Wisconsin C,3,11
-Illinois B,Washington University B,8,5
-Missouri State,Wisconsin-Milwaukee B,7,0
-Missouri State,Illinois B,9,7
-Washington University B,Wisconsin C,6,4
+Wisconsin-Platteville,Michigan State,13,2
+Purdue,Illinois State,9,3
+Wisconsin-Platteville,Purdue,11,10
+Indiana,Illinois State,12,5
+Illinois State,Michigan State,9,10
+Indiana,Purdue,6,8
+Wisconsin-Platteville,Indiana,12,2
+Purdue,Michigan State,9,6
+Wisconsin-Platteville,Illinois State,9,5
+Indiana,Michigan State,8,6
+Missouri State,Wisconsin,13,2
+Washington University,Wisconsin-Milwaukee,13,6
+Missouri State,Washington University,13,7
+Illinois,Wisconsin-Milwaukee,11,7
+Wisconsin-Milwaukee,Wisconsin,3,11
+Illinois,Washington University,8,5
+Missouri State,Wisconsin-Milwaukee,7,0
+Missouri State,Illinois,9,7
+Washington University,Wisconsin,6,4
 Wisconsin-Whitewater,Grand Valley State,13,12
-Wisconsin-Whitewater,Michigan B,11,3
+Wisconsin-Whitewater,Michigan,11,3
 Wisconsin-Milwaukee,Grand Valley State,7,10
 Michigan State,Wisconsin-Whitewater,8,11
-Wisconsin B,Michigan B,4,11
+Wisconsin,Michigan,4,11
 Wisconsin-Milwaukee,Wisconsin-Platteville,8,3
 Grand Valley State,Northern Iowa,13,4
 Michigan State,DePaul,7,6
-Wisconsin B,Missouri State,8,7
+Wisconsin,Missouri State,8,7
 Wisconsin-Platteville,Loyola-Chicago,9,6
 Northern Iowa,Toledo,8,4
 Missouri State,Loyola-Chicago,0,15
 DePaul,Missouri State,5,9
 Loyola-Chicago,Toledo,15,0
-Wisconsin B,Wisconsin-Platteville,10,6
-Michigan State,Wisconsin B,0,15
+Wisconsin,Wisconsin-Platteville,10,6
+Michigan State,Wisconsin,0,15
 Wisconsin-Platteville,Northern Iowa,11,9
-Michigan B,Wisconsin-Milwaukee,3,7
-Purdue B,Illinois B,5,9
-Purdue B,Washington University B,10,7
-Indiana B,Illinois B,4,7
-Purdue B,Wisconsin-Milwaukee B,7,4
-Washington University B,Michigan State B,7,6
-Indiana B,Wisconsin C,8,7
-Illinois State B,Illinois B,6,7
-Wisconsin-Milwaukee B,Illinois State B,4,5
-Wisconsin-Milwaukee B,Michigan State B,9,6
-Wisconsin C,Illinois State B,3,8
+Michigan,Wisconsin-Milwaukee,3,7
+Purdue,Illinois,5,9
+Purdue,Washington University,10,7
+Indiana,Illinois,4,7
+Purdue,Wisconsin-Milwaukee,7,4
+Washington University,Michigan State,7,6
+Indiana,Wisconsin,8,7
+Illinois State,Illinois,6,7
+Wisconsin-Milwaukee,Illinois State,4,5
+Wisconsin-Milwaukee,Michigan State,9,6
+Wisconsin,Illinois State,3,8
 DePaul,Toledo,15,0

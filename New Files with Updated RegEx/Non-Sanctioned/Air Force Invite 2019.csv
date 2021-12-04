@@ -1,32 +1,32 @@
-Air Force B,Colorado-Colorado Springs,10,11
-Colorado B,Colorado-Denver,5,13
+Air Force,Colorado-Colorado Springs,10,11
+Colorado,Colorado-Denver,5,13
 Colorado School of Mines,New Mexico,13,11
 Colorado Mesa,Colorado Cutthroat,11,10
 Air Force,Colorado School of Mines,13,10
-Colorado B,Colorado Cutthroat,5,4
-Air Force B,Colorado Mesa,4,12
+Colorado,Colorado Cutthroat,5,4
+Air Force,Colorado Mesa,4,12
 Colorado-Denver,Colorado-Colorado Springs,12,3
 Air Force,Colorado-Denver,13,6
-Colorado School of Mines,Air Force B,13,0
+Colorado School of Mines,Air Force,13,0
 New Mexico,Colorado Cutthroat,13,5
 Colorado-Colorado Springs,Colorado Mesa,11,10
 Air Force,Colorado Cutthroat,13,3
 Colorado School of Mines,Colorado Mesa,13,3
-Colorado B,Colorado-Colorado Springs,13,3
-Air Force B,New Mexico,4,13
-Air Force,Colorado B,13,4
-Air Force B,Colorado Cutthroat,10,6
+Colorado,Colorado-Colorado Springs,13,3
+Air Force,New Mexico,4,13
+Air Force,Colorado,13,4
+Air Force,Colorado Cutthroat,10,6
 Colorado-Denver,Colorado Mesa,11,9
 New Mexico,Colorado-Colorado Springs,13,6
-Air Force,Air Force B,15,0
-Colorado School of Mines,Colorado B,11,3
+Air Force,Air Force,15,0
+Colorado School of Mines,Colorado,11,3
 Colorado-Denver,Colorado Cutthroat,12,5
 New Mexico,Colorado Mesa,13,4
 Air Force,New Mexico,12,9
 Colorado School of Mines,Colorado-Denver,10,11
-Colorado B,Air Force B,13,2
+Colorado,Air Force,13,2
 Colorado-Colorado Springs,Colorado Cutthroat,11,9
 Air Force,Colorado Mesa,13,0
 Colorado School of Mines,Colorado-Colorado Springs,13,2
-Colorado B,New Mexico,3,13
-Air Force B,Colorado-Denver,5,11
+Colorado,New Mexico,3,13
+Air Force,Colorado-Denver,5,11

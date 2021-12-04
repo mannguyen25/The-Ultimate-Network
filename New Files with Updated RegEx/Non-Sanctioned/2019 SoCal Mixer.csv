@@ -6,12 +6,12 @@ Caltech,Grand Canyon,5,10
 Occidental,Grand Canyon,9,10
 Cal Poly-Pomona,Biola Univeristy,15,0
 Cal Poly-Pomona,Claremont,6,13
-Biola Univeristy,California-San Diego B,0,15
-Cal Poly-Pomona,California-San Diego B,8,7
+Biola Univeristy,California-San Diego,0,15
+Cal Poly-Pomona,California-San Diego,8,7
 Claremont,Biola Univeristy,15,0
-Claremont,California-San Diego B,12,10
+Claremont,California-San Diego,12,10
 Grand Canyon,Occidental,9,8
 Grand Canyon,Cal Poly-Pomona,9,8
 Claremont,Occidental,11,13
-California-Irvine,California-San Diego B,11,10
+California-Irvine,California-San Diego,11,10
 Cal Poly-Pomona,Claremont,7,11

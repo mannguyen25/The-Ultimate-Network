@@ -10,12 +10,12 @@ James Madison,Liberty,13,5
 Williams,Davidson,12,13
 James Madison,Williams,10,12
 Davidson,Liberty,9,13
-Vermont,North Carolina B,13,7
+Vermont,North Carolina,13,7
 Mary Washington,Virginia Commonwealth,13,11
 Vermont,Virginia Commonwealth,13,4
-Mary Washington,North Carolina B,13,11
+Mary Washington,North Carolina,13,11
 Vermont,Mary Washington,13,5
-North Carolina B,Virginia Commonwealth,7,13
+North Carolina,Virginia Commonwealth,7,13
 Richmond,George Mason,12,10
 Lehigh,SUNY-Binghamton,9,13
 Richmond,George Washington,13,6
@@ -27,7 +27,7 @@ Lehigh,George Washington,12,11
 SUNY-Binghamton,George Washington,13,4
 Lehigh,George Mason,12,13
 William & Mary,Liberty,13,7
-Davidson,North Carolina B,13,12
+Davidson,North Carolina,13,12
 Vermont,Drexel University,13,4
 Case Western Reserve,James Madison,13,7
 Williams,Virginia Commonwealth,13,11
@@ -45,9 +45,9 @@ Davidson,Williams,15,13
 SUNY-Binghamton,Williams,0,15
 Tennessee-Chattanooga,Richmond,11,9
 Mary Washington,James Madison,12,15
-North Carolina B,Mary Washington,13,15
+North Carolina,Mary Washington,13,15
 James Madison,Drexel University,15,9
-North Carolina B,George Mason,15,11
+North Carolina,George Mason,15,11
 Liberty,Mary Washington,9,15
 Lehigh,James Madison,12,13
 Drexel University,Virginia Commonwealth,15,13
@@ -56,6 +56,6 @@ Virginia Commonwealth,George Mason,12,15
 Virginia Commonwealth,Lehigh,15,10
 George Mason,George Washington,15,12
 Liberty,Lehigh,8,15
-North Carolina B,Drexel University,15,11
+North Carolina,Drexel University,15,11
 Lehigh,George Washington,14,15
 George Washington,Liberty,13,8

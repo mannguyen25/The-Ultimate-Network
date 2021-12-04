@@ -16,28 +16,28 @@ Iowa,Creighton,13,2
 Wisconsin- La Crosse,Nebraska-Omaha,11,6
 Iowa,Wisconsin- La Crosse,13,8
 Nebraska-Omaha,Creighton,10,5
-Minnesota B,Coe,13,0
-Kansas State,Chicago B,13,1
-Minnesota B,Chicago B,13,0
+Minnesota,Coe,13,0
+Kansas State,Chicago,13,1
+Minnesota,Chicago,13,0
 Kansas State,Coe,13,6
-Minnesota B,Kansas State,11,12
-Coe,Chicago B,10,9
+Minnesota,Kansas State,11,12
+Coe,Chicago,10,9
 Indiana,Iowa,13,12
 Indiana,Kansas State,14,12
-Iowa,Minnesota B,15,13
+Iowa,Minnesota,15,13
 Indiana,St John's,15,7
 Nebraska-Omaha,Kansas State,10,12
 Iowa,Drake,15,6
-Minnesota B,Luther,14,13
-Indiana,Chicago B,15,1
+Minnesota,Luther,14,13
+Indiana,Chicago,15,1
 Wisconsin- La Crosse,St John's,10,11
 Bethel,Nebraska-Omaha,7,10
 Kansas State,Northwestern-St. Paul,12,7
 Iowa,Cornell College,15,4
 Drake,Coe,15,5
-Minnesota B,Carleton Hot Karls,15,5
+Minnesota,Carleton Hot Karls,15,5
 Luther,Creighton,13,2
-Kansas State,Minnesota B,14,13
+Kansas State,Minnesota,14,13
 St John's,Luther,4,15
 St John's,Nebraska-Omaha,15,6
 Drake,Luther,6,15
@@ -45,12 +45,12 @@ Nebraska-Omaha,Drake,10,15
 Wisconsin- La Crosse,Carleton Hot Karls,12,13
 Wisconsin- La Crosse,Bethel,15,8
 Coe,Carleton Hot Karls,1,15
-Chicago B,Wisconsin- La Crosse,2,15
+Chicago,Wisconsin- La Crosse,2,15
 Bethel,Northwestern-St. Paul,13,7
 Cornell College,Coe,10,11
 Carleton Hot Karls,Creighton,12,7
 Bethel,Coe,13,3
 Northwestern-St. Paul,Creighton,7,13
-Chicago B,Northwestern-St. Paul,9,12
+Chicago,Northwestern-St. Paul,9,12
 Cornell College,Creighton,9,13
-Chicago B,Cornell College,15,0
+Chicago,Cornell College,15,0

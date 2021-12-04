@@ -9,16 +9,16 @@ Amherst Regional,Rensselaer Polytech,9,6
 Williams,Amherst Regional,10,9
 Colgate,Rensselaer Polytech,13,11
 SUNY-Buffalo,Siena,13,3
-Maine,SUNY-Binghamton B,13,3
-SUNY-Buffalo,SUNY-Binghamton B,13,1
+Maine,SUNY-Binghamton,13,3
+SUNY-Buffalo,SUNY-Binghamton,13,1
 Maine,Siena,13,4
 SUNY-Buffalo,Maine,8,9
-Siena,SUNY-Binghamton B,4,10
+Siena,SUNY-Binghamton,4,10
 Ithaca,Emerson,13,8
-Skidmore,SUNY-Buffalo B,13,2
-Ithaca,SUNY-Buffalo B,13,2
+Skidmore,SUNY-Buffalo,13,2
+Ithaca,SUNY-Buffalo,13,2
 Skidmore,Emerson,13,3
-Emerson,SUNY-Buffalo B,10,8
+Emerson,SUNY-Buffalo,10,8
 Ithaca,Skidmore,10,7
 Maine,Ithaca,9,4
 SUNY-Buffalo,Skidmore,11,12
@@ -31,11 +31,11 @@ Maine,Rochester,12,9
 Amherst Regional,Ithaca,15,5
 Emerson,SUNY-Buffalo,0,15
 Siena,Emerson,10,13
-SUNY-Binghamton B,SUNY-Buffalo,5,15
-Siena,SUNY-Buffalo B,14,6
+SUNY-Binghamton,SUNY-Buffalo,5,15
+Siena,SUNY-Buffalo,14,6
 Skidmore,Rochester,0,15
 Skidmore,Rensselaer Polytech,13,12
 Rochester,Ithaca,13,11
-SUNY-Binghamton B,Siena,0,15
-Siena,SUNY-Binghamton B,8,7
+SUNY-Binghamton,Siena,0,15
+Siena,SUNY-Binghamton,8,7
 Colgate,Maine,0,15

@@ -1,36 +1,36 @@
-Colorado State B,University of New Mexico,4,11
-Brigham Young B,Arizona State C,11,4
+Colorado State,University of New Mexico,4,11
+Brigham Young,Arizona State,11,4
 Grand Canyon,The University of Texas at El Paso,12,8
-Colorado State B,Arizona State C,11,4
-Brigham Young B,Grand Canyon,8,11
+Colorado State,Arizona State,11,4
+Brigham Young,Grand Canyon,8,11
 University of New Mexico,The University of Texas at El Paso,11,1
-Colorado State B,The University of Texas at El Paso,11,5
-Grand Canyon,Arizona State C,11,4
-Brigham Young B,University of New Mexico,3,11
-Colorado State B,Grand Canyon,10,7
-University of New Mexico,Arizona State C,11,2
-Brigham Young B,The University of Texas at El Paso,11,3
-Colorado State B,Brigham Young B,11,2
+Colorado State,The University of Texas at El Paso,11,5
+Grand Canyon,Arizona State,11,4
+Brigham Young,University of New Mexico,3,11
+Colorado State,Grand Canyon,10,7
+University of New Mexico,Arizona State,11,2
+Brigham Young,The University of Texas at El Paso,11,3
+Colorado State,Brigham Young,11,2
 University of New Mexico,Grand Canyon,11,5
-Arizona State C,The University of Texas at El Paso,5,3
-Denver,Arizona State B,13,8
-Air Force B,Arizona B,9,11
-Northern Arizona,Arizona State B,6,11
-Denver,Air Force B,13,4
-Northern Arizona,Arizona B,13,2
-Arizona State B,Air Force B,13,3
-Denver,Arizona B,13,7
-Northern Arizona,Air Force B,13,4
-Arizona State B,Arizona B,13,7
+Arizona State,The University of Texas at El Paso,5,3
+Denver,Arizona State,13,8
+Air Force,Arizona,9,11
+Northern Arizona,Arizona State,6,11
+Denver,Air Force,13,4
+Northern Arizona,Arizona,13,2
+Arizona State,Air Force,13,3
+Denver,Arizona,13,7
+Northern Arizona,Air Force,13,4
+Arizona State,Arizona,13,7
 Northern Arizona,Denver,13,8
 Northern Arizona,University of New Mexico,4,13
 Northern Arizona,Denver,12,11
 Grand Canyon,University of New Mexico,2,13
-Colorado State B,Denver,11,13
-Grand Canyon,Arizona State B,13,10
+Colorado State,Denver,11,13
+Grand Canyon,Arizona State,13,10
 Denver,Grand Canyon,8,12
-Colorado State B,Arizona State B,9,13
-The University of Texas at El Paso,Air Force B,6,11
-Arizona B,The University of Texas at El Paso,8,11
-Air Force B,Arizona State C,12,11
-Arizona State C,Arizona B,11,12
+Colorado State,Arizona State,9,13
+The University of Texas at El Paso,Air Force,6,11
+Arizona,The University of Texas at El Paso,8,11
+Air Force,Arizona State,12,11
+Arizona State,Arizona,11,12

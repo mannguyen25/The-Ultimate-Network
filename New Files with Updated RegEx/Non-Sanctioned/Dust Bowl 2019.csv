@@ -3,27 +3,58 @@ Oklahoma State,Colorado College,15,8
 Oklahoma,John Brown,15,8
 Oklahoma State,Nebraska,15,6
 Colorado College,Arkansas,14,9
-Oklahoma,Colorado B,12,8
+Oklahoma,Colorado,12,8
 Missouri,John Brown,4,15
 Oklahoma State,Colorado School of Mines-B,15,1
 Nebraska,Arkansas State,15,4
 Colorado College,Hendrix,15,1
 Arkansas,Nebraska-Omaha,15,3
 Oklahoma,Dallas Baptist,15,10
-Colorado B,Central Arkansas,15,9
+Colorado,Central Arkansas,15,9
 Missouri,Tulsa,15,3
-John Brown,Oklahoma B,15,4
+John Brown,Oklahoma,15,4
 Arkansas State,Dallas Baptist,0,15
 Arkansas State,Hendrix,15,13
-Dallas Baptist,Oklahoma B,12,10
+Dallas Baptist,Oklahoma,12,10
 Colorado School of Mines-B,Arkansas State,10,15
 Hendrix,Nebraska-Omaha,14,12
 Dallas Baptist,Central Arkansas,10,8
-Tulsa,Oklahoma B,9,15
+Tulsa,Oklahoma,9,15
 Colorado College,John Brown,10,15
-Nebraska,Colorado B,15,0
+Nebraska,Colorado,15,0
 Nebraska,Arkansas,11,10
-Colorado B,Missouri,13,6
+Colorado,Missouri,13,6
+Arkansas,Missouri,9,3
+Nebraska-Omaha,Tulsa,7,15
+Colorado School of Mines-B,Nebraska-Omaha,7,14
+Central Arkansas,Tulsa,8,10
+Colorado School of Mines-B,Central Arkansas,15,13
+Oklahoma State,Oklahoma,10,15
+Oklahoma State,Colorado College,15,8
+Oklahoma,John Brown,15,8
+Oklahoma State,Nebraska,15,6
+Colorado College,Arkansas,14,9
+Oklahoma,Colorado,12,8
+Missouri,John Brown,4,15
+Oklahoma State,Colorado School of Mines-B,15,1
+Nebraska,Arkansas State,15,4
+Colorado College,Hendrix,15,1
+Arkansas,Nebraska-Omaha,15,3
+Oklahoma,Dallas Baptist,15,10
+Colorado,Central Arkansas,15,9
+Missouri,Tulsa,15,3
+John Brown,Oklahoma,15,4
+Arkansas State,Dallas Baptist,0,15
+Arkansas State,Hendrix,15,13
+Dallas Baptist,Oklahoma,12,10
+Colorado School of Mines-B,Arkansas State,10,15
+Hendrix,Nebraska-Omaha,14,12
+Dallas Baptist,Central Arkansas,10,8
+Tulsa,Oklahoma,9,15
+Colorado College,John Brown,10,15
+Nebraska,Colorado,15,0
+Nebraska,Arkansas,11,10
+Colorado,Missouri,13,6
 Arkansas,Missouri,9,3
 Nebraska-Omaha,Tulsa,7,15
 Colorado School of Mines-B,Nebraska-Omaha,7,14

@@ -1,49 +1,49 @@
-Texas State,Oklahoma B,13,3
-Colorado College,Texas-Dallas B,13,1
+Texas State,Oklahoma,13,3
+Colorado College,Texas-Dallas,13,1
 Texas State,Colorado College,13,8
-Texas-San Antonio,Texas-Dallas B,11,7
-Texas-Dallas B,Oklahoma B,5,12
+Texas-San Antonio,Texas-Dallas,11,7
+Texas-Dallas,Oklahoma,5,12
 Texas-San Antonio,Colorado College,1,13
-Texas State,Texas-Dallas B,13,3
-Texas-San Antonio,Oklahoma B,13,4
+Texas State,Texas-Dallas,13,3
+Texas-San Antonio,Oklahoma,13,4
 Texas State,Texas-San Antonio,13,4
-Colorado College,Oklahoma B,13,2
+Colorado College,Oklahoma,13,2
 Texas Tech,Southern Methodist,13,2
-Oklahoma,Marcus High School Boys,13,3
+Oklahoma,Marcus,13,3
 Texas Tech,Oklahoma,13,9
-Rice,Marcus High School Boys,13,10
-Marcus High School Boys,Southern Methodist,11,5
+Rice,Marcus,13,10
+Marcus,Southern Methodist,11,5
 Rice,Oklahoma,11,10
-Texas Tech,Marcus High School Boys,13,3
+Texas Tech,Marcus,13,3
 Rice,Southern Methodist,13,2
 Texas Tech,Rice,13,8
 Oklahoma,Southern Methodist,13,0
-Oklahoma State,North Texas B,13,0
+Oklahoma State,North Texas,13,0
 John Brown,Kansas State,13,8
 Oklahoma State,John Brown,11,10
 Nebraska,Kansas State,11,13
-Kansas State,North Texas B,13,6
+Kansas State,North Texas,13,6
 Nebraska,John Brown,9,10
 Oklahoma State,Kansas State,13,2
-Nebraska,North Texas B,13,4
+Nebraska,North Texas,13,4
 Oklahoma State,Nebraska,13,4
-John Brown,North Texas B,13,2
-North Texas,Texas State B,13,3
+John Brown,North Texas,13,2
+North Texas,Texas State,13,3
 Stephen F Austin,Sam Houston State,10,11
 North Texas,Stephen F Austin,13,0
 Baylor,Sam Houston State,12,4
-Sam Houston State,Texas State B,9,11
+Sam Houston State,Texas State,9,11
 Baylor,Stephen F Austin,13,4
 North Texas,Sam Houston State,13,0
-Baylor,Texas State B,13,8
+Baylor,Texas State,13,8
 North Texas,Baylor,7,8
-Stephen F Austin,Texas State B,8,11
-Texas-Dallas B,Stephen F Austin,5,15
-Southern Methodist,North Texas B,11,10
+Stephen F Austin,Texas State,8,11
+Texas-Dallas,Stephen F Austin,5,15
+Southern Methodist,North Texas,11,10
 Southern Methodist,Stephen F Austin,7,12
-Texas-Dallas B,North Texas B,8,9
-Southern Methodist,Texas-Dallas B,11,7
-North Texas B,Stephen F Austin,5,7
+Texas-Dallas,North Texas,8,9
+Southern Methodist,Texas-Dallas,11,7
+North Texas,Stephen F Austin,5,7
 John Brown,Texas Tech,4,15
 John Brown,Oklahoma,12,9
 Texas Tech,Rice,14,11
@@ -51,11 +51,11 @@ Texas State,John Brown,9,11
 Oklahoma,Baylor,15,10
 Texas Tech,Kansas State,15,6
 Rice,Oklahoma State,12,11
-Texas State,Marcus High School Boys,15,3
-John Brown,Texas State B,15,2
+Texas State,Marcus,15,3
+John Brown,Texas State,15,2
 Colorado College,Oklahoma,4,12
 Nebraska,Baylor,10,13
-Texas Tech,Oklahoma B,15,3
+Texas Tech,Oklahoma,15,3
 North Texas,Kansas State,9,12
 Texas-San Antonio,Rice,6,13
 Oklahoma State,Sam Houston State,15,0
@@ -65,14 +65,14 @@ Texas State,Baylor,0,15
 Kansas State,Oklahoma State,1,11
 Texas State,Kansas State,0,15
 Colorado College,North Texas,0,15
-Marcus High School Boys,Colorado College,3,11
+Marcus,Colorado College,3,11
 North Texas,Texas-San Antonio,11,6
-Marcus High School Boys,Texas State B,11,7
+Marcus,Texas State,11,7
 Colorado College,Nebraska,13,5
-Oklahoma B,North Texas,6,15
+Oklahoma,North Texas,6,15
 Texas-San Antonio,Sam Houston State,12,5
-Marcus High School Boys,Texas-San Antonio,15,0
-Texas State B,Sam Houston State,0,15
-Texas State B,Nebraska,15,0
-Oklahoma B,Sam Houston State,3,6
-Nebraska,Oklahoma B,0,15
+Marcus,Texas-San Antonio,15,0
+Texas State,Sam Houston State,0,15
+Texas State,Nebraska,15,0
+Oklahoma,Sam Houston State,3,6
+Nebraska,Oklahoma,0,15

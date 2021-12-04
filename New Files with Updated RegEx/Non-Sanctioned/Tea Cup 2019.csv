@@ -1,62 +1,62 @@
 Yale,SUNY-Oneonta,10,8
-Amherst College,Tufts B,7,10
-Yale,Tufts B,10,8
+Amherst College,Tufts,7,10
+Yale,Tufts,10,8
 Amherst College,SUNY-Oneonta,8,6
 Yale,Amherst College,10,3
-SUNY-Oneonta,Tufts B,9,10
+SUNY-Oneonta,Tufts,9,10
 Columbia,Hartford,11,9
 Boston College,Worcester Polytech,13,1
 Columbia,Worcester Polytech,6,8
 Boston College,Hartford,11,4
 Columbia,Boston College,2,13
 Hartford,Worcester Polytech,7,6
-Northeastern B,Wentworth,11,8
-Boston College B,Yale B,13,1
-Northeastern B,Boston College B,7,5
-Connecticut B,Yale B,13,2
-Yale B,Wentworth,0,13
-Connecticut B,Boston College B,4,10
-Northeastern B,Yale B,13,0
-Connecticut B,Wentworth,11,7
-Northeastern B,Connecticut B,12,7
-Boston College B,Wentworth,13,8
-University of Massachusetts Amherst B,Rutgers B,13,3
-Amherst College B,SUNY Oneonta B,3,12
-University of Massachusetts Amherst B,Amherst College B,13,0
-Southern Connecticut State,SUNY Oneonta B,13,1
-SUNY Oneonta B,Rutgers B,1,13
-Southern Connecticut State,Amherst College B,13,1
-University of Massachusetts Amherst B,SUNY Oneonta B,13,0
-Southern Connecticut State,Rutgers B,12,2
-University of Massachusetts Amherst B,Southern Connecticut State,13,6
-Amherst College B,Rutgers B,3,13
+Northeastern,Wentworth,11,8
+Boston College,Yale,13,1
+Northeastern,Boston College,7,5
+Connecticut,Yale,13,2
+Yale,Wentworth,0,13
+Connecticut,Boston College,4,10
+Northeastern,Yale,13,0
+Connecticut,Wentworth,11,7
+Northeastern,Connecticut,12,7
+Boston College,Wentworth,13,8
+University of Massachusetts Amherst,Rutgers,13,3
+Amherst College,SUNY Oneonta,3,12
+University of Massachusetts Amherst,Amherst College,13,0
+Southern Connecticut State,SUNY Oneonta,13,1
+SUNY Oneonta,Rutgers,1,13
+Southern Connecticut State,Amherst College,13,1
+University of Massachusetts Amherst,SUNY Oneonta,13,0
+Southern Connecticut State,Rutgers,12,2
+University of Massachusetts Amherst,Southern Connecticut State,13,6
+Amherst College,Rutgers,3,13
 Yale,Boston College,10,6
-Tufts B,Worcester Polytech,7,6
+Tufts,Worcester Polytech,7,6
 Amherst College,Columbia,11,6
 SUNY-Oneonta,Hartford,7,10
 Yale,Boston College,8,11
 Yale,Amherst College,13,8
-Tufts B,Boston College,9,10
-Yale,University of Massachusetts Amherst B,11,9
+Tufts,Boston College,9,10
+Yale,University of Massachusetts Amherst,11,9
 Worcester Polytech,Amherst College,4,11
-Tufts B,Columbia,9,6
-Boston College,Northeastern B,12,5
-Amherst College,Tufts B,5,9
-University of Massachusetts Amherst B,Columbia,13,5
-Worcester Polytech,University of Massachusetts Amherst B,9,11
-Columbia,Northeastern B,10,6
-Northeastern B,Worcester Polytech,11,8
-Hartford,Connecticut B,13,7
-Boston College B,SUNY-Oneonta,8,11
-Hartford,Yale B,13,2
-Southern Connecticut State,Connecticut B,12,13
-Boston College B,Rutgers B,13,6
-SUNY-Oneonta,Amherst College B,13,0
-SUNY Oneonta B,Yale B,4,9
-Wentworth,Amherst College B,0,15
-Boston College B,Connecticut B,7,0
-Southern Connecticut State,Rutgers B,10,11
-Southern Connecticut State,Yale B,12,5
-Rutgers B,Amherst College B,13,3
-Amherst College B,Yale B,5,7
-Wentworth,SUNY Oneonta B,0,15
+Tufts,Columbia,9,6
+Boston College,Northeastern,12,5
+Amherst College,Tufts,5,9
+University of Massachusetts Amherst,Columbia,13,5
+Worcester Polytech,University of Massachusetts Amherst,9,11
+Columbia,Northeastern,10,6
+Northeastern,Worcester Polytech,11,8
+Hartford,Connecticut,13,7
+Boston College,SUNY-Oneonta,8,11
+Hartford,Yale,13,2
+Southern Connecticut State,Connecticut,12,13
+Boston College,Rutgers,13,6
+SUNY-Oneonta,Amherst College,13,0
+SUNY Oneonta,Yale,4,9
+Wentworth,Amherst College,0,15
+Boston College,Connecticut,7,0
+Southern Connecticut State,Rutgers,10,11
+Southern Connecticut State,Yale,12,5
+Rutgers,Amherst College,13,3
+Amherst College,Yale,5,7
+Wentworth,SUNY Oneonta,0,15

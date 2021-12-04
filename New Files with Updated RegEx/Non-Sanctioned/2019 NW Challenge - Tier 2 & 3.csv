@@ -1,27 +1,27 @@
 Gonzaga,Pacific Lutheran,13,4
 Lewis & Clark,Puget Sound,13,11
 Lewis & Clark,Pacific Lutheran,13,5
-Puget Sound,Western Washington B,13,4
-Pacific Lutheran,Western Washington B,13,11
+Puget Sound,Western Washington,13,4
+Pacific Lutheran,Western Washington,13,11
 Lewis & Clark,Gonzaga,12,8
 Puget Sound,Pacific Lutheran,13,8
-Gonzaga,Western Washington B,13,7
+Gonzaga,Western Washington,13,7
 Puget Sound,Gonzaga,13,7
-Lewis & Clark,Western Washington B,13,4
+Lewis & Clark,Western Washington,13,4
 Portland,Washington State,13,9
-Washington B,Idaho,7,11
-Montana,Brigham Young B,13,11
+Washington,Idaho,7,11
+Montana,Brigham Young,13,11
 Portland,Idaho,11,5
-Washington B,Montana,5,11
-Washington State,Brigham Young B,11,6
-Portland,Washington B,11,5
+Washington,Montana,5,11
+Washington State,Brigham Young,11,6
+Portland,Washington,11,5
 Washington State,Montana,11,7
-Idaho,Brigham Young B,8,11
+Idaho,Brigham Young,8,11
 Portland,Montana,11,7
-Washington B,Brigham Young B,11,8
+Washington,Brigham Young,11,8
 Washington State,Idaho,11,7
-Portland,Brigham Young B,11,8
-Washington B,Washington State,10,12
+Portland,Brigham Young,11,8
+Washington,Washington State,10,12
 Montana,Idaho,11,9
 Lewis & Clark,Portland,13,11
 Lewis & Clark,Gonzaga,13,8
@@ -29,12 +29,12 @@ Puget Sound,Portland,11,12
 Lewis & Clark,Idaho,13,7
 Washington State,Gonzaga,8,13
 Puget Sound,Montana,13,11
-Portland,Washington B,13,3
+Portland,Washington,13,3
 Washington State,Montana,13,10
 Idaho,Washington State,6,13
-Montana,Washington B,11,8
+Montana,Washington,11,8
 Gonzaga,Puget Sound,7,10
-Idaho,Washington B,13,8
-Idaho,Western Washington B,13,10
-Pacific Lutheran,Washington B,1,13
-Western Washington B,Pacific Lutheran,10,15
+Idaho,Washington,13,8
+Idaho,Western Washington,13,10
+Pacific Lutheran,Washington,1,13
+Western Washington,Pacific Lutheran,10,15

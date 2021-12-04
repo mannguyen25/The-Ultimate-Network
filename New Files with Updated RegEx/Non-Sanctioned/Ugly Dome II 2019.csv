@@ -1,15 +1,15 @@
-Minnesota B,Wisconsin B,11,10
+Minnesota,Wisconsin,11,10
 Wisconsin- La Crosse,Wisconsin-Eau Claire,10,13
-Minnesota B,Drake,13,3
+Minnesota,Drake,13,3
 Wisconsin-Eau Claire,St. Thomas,13,6
-Wisconsin B,St. Thomas,8,11
+Wisconsin,St. Thomas,8,11
 Wisconsin- La Crosse,Drake,13,6
 Wisconsin- La Crosse,St. Thomas,10,13
 Wisconsin-Eau Claire,Drake,11,7
-Minnesota B,Wisconsin-Eau Claire,13,7
-Wisconsin B,Drake,13,5
-Minnesota B,Wisconsin- La Crosse,9,10
-Wisconsin-Eau Claire,Wisconsin B,10,8
-Wisconsin- La Crosse,Wisconsin B,11,6
+Minnesota,Wisconsin-Eau Claire,13,7
+Wisconsin,Drake,13,5
+Minnesota,Wisconsin- La Crosse,9,10
+Wisconsin-Eau Claire,Wisconsin,10,8
+Wisconsin- La Crosse,Wisconsin,11,6
 Drake,St. Thomas,7,13
-Minnesota B,St. Thomas,13,9
+Minnesota,St. Thomas,13,9

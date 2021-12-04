@@ -34,13 +34,13 @@ def scrape_page(page):
             # date = entries[i].string
             if entries[i+3].a is None or entries[i+4].a is None:
                 continue
-            home = re.sub("[\(\)]", "", entries[i+3].a.string)
+            home = entries[i+3].a.string
             home = re.search("[a-zA-Z]+(([',. \-\&]+[a-zA-Z ])?[a-zA-Z]*)*", home)
             if home is not None:
                 home = " ".join(home.group().split())
             else:
                 continue                        
-            away = re.sub("[\(\)]", "",entries[i+4].a.string)
+            away = entries[i+4].a.string
             away = re.search("[a-zA-Z]+(([',. \-\&]+[a-zA-Z ])?[a-zA-Z]*)*", away)
             if away is not None:
                 away = " ".join(away.group().split())
@@ -70,13 +70,13 @@ def scrape_page(page):
         date = date.split(" ")[0]
         if teams[i].a is None or teams[i+1].a is None:
             continue
-        home = re.sub("[\(\)]", "",teams[i].a.string)
+        home = teams[i].a.string
         home = re.search("[a-zA-Z]+(([',. \-\&]+[a-zA-Z ])?[a-zA-Z]*)*", home)
         if home is not None:
             home = " ".join(home.group().split())
         else:
             continue    
-        away = re.sub("[\(\)]", "",teams[i+1].a.string)
+        away = teams[i+1].a.string
         away = re.search("[a-zA-Z]+(([',. \-\&]+[a-zA-Z ])?[a-zA-Z]*)*", away)
         if away is not None:
             away = " ".join(away.group().split())
@@ -114,16 +114,16 @@ def main():
     # # initialize latest driver
     page = requests.get(url)
     soup = bs.BeautifulSoup(page.text,'html.parser')
-    path = "C:/Users/Man/Documents/GitHub/The-Ultimate-Network/New Files with Updated RegEx/"
+    path = "C:/Users/Man\Documents/GitHub/The-Ultimate-Network/New Files with Updated RegEx/Non-Sanctioned/"
     file1 = open("C:/Users/Man/Documents/GitHub/The-Ultimate-Network/Non-Sanctioned 2019/links.csv","r")
     links = file1.readlines()
     for entry in links:
         tournament, link = entry.split(",")
-        if pa.exists(path+tournament+".csv"):
+        if pa.exists("C:/Users/Man/Documents/GitHub/The-Ultimate-Network/New Files with Updated RegEx/Sanctioned Games/"+tournament+".csv"):
             continue
         print(tournament)
         data = scrape_page(requests.get(link.strip("\n")))
-        write_to_csv(data, path+tournament+".csv","w")
+        write_to_csv(data, path+tournament+".csv","a")
     file1.close()
     # for a in soup.find_all('a', href=re.compile('(https:\/\/play.usaultimate.org\/events\/).+')):
         # data = scrape_page(requests.get(a['href']+"/schedule/Men/CollegeMen/"))

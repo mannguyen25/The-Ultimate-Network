@@ -1,12 +1,12 @@
 Rutgers,Wake Forest,13,0
 Liberty,American,13,2
 Rutgers,Liberty,9,10
-North Carolina B,American,10,3
+North Carolina,American,10,3
 American,Wake Forest,5,11
-North Carolina B,Liberty,10,11
+North Carolina,Liberty,10,11
 Rutgers,American,13,2
-North Carolina B,Wake Forest,13,0
-Rutgers,North Carolina B,12,8
+North Carolina,Wake Forest,13,0
+Rutgers,North Carolina,12,8
 Liberty,Wake Forest,13,1
 Princeton,Towson,11,4
 Shippensburg,Maryland-Baltimore County,10,9
@@ -50,10 +50,10 @@ Cedarville,Rutgers,11,15
 Drexel University,Cedarville,12,13
 West Chester,Rutgers,6,13
 Drexel University,West Chester,11,6
-North Carolina B,Lehigh,9,15
-North Carolina B,Virginia Commonwealth,10,9
+North Carolina,Lehigh,9,15
+North Carolina,Virginia Commonwealth,10,9
 Lehigh,Shippensburg,15,6
-North Carolina B,Maryland-Baltimore County,15,9
+North Carolina,Maryland-Baltimore County,15,9
 Virginia Commonwealth,Salisbury,15,5
 Lehigh,Christopher Newport,15,11
 Shippensburg,Wake Forest,15,7

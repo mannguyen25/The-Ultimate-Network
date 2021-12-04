@@ -1,30 +1,30 @@
-Cedarville,Cornell B,13,2
-William & Mary B,Virginia Tech B,11,13
-Cedarville,William & Mary B,13,0
-Maryland B,Virginia Tech B,10,9
-Virginia Tech B,Cornell B,13,6
-Maryland B,William & Mary B,7,5
-Cedarville,Virginia Tech B,13,4
-Maryland B,Cornell B,12,4
-Cedarville,Maryland B,13,5
-William & Mary B,Cornell B,11,6
-High Point,Virginia B,11,10
-South Carolina B,James Madison B,13,12
-High Point,South Carolina B,6,10
-Wake Forest,James Madison B,10,8
-James Madison B,Virginia B,10,7
-Wake Forest,South Carolina B,6,13
-High Point,James Madison B,9,10
-Wake Forest,Virginia B,8,10
+Cedarville,Cornell,13,2
+William & Mary,Virginia Tech,11,13
+Cedarville,William & Mary,13,0
+Maryland,Virginia Tech,10,9
+Virginia Tech,Cornell,13,6
+Maryland,William & Mary,7,5
+Cedarville,Virginia Tech,13,4
+Maryland,Cornell,12,4
+Cedarville,Maryland,13,5
+William & Mary,Cornell,11,6
+High Point,Virginia,11,10
+South Carolina,James Madison,13,12
+High Point,South Carolina,6,10
+Wake Forest,James Madison,10,8
+James Madison,Virginia,10,7
+Wake Forest,South Carolina,6,13
+High Point,James Madison,9,10
+Wake Forest,Virginia,8,10
 High Point,Wake Forest,12,11
-South Carolina B,Virginia B,11,9
-Cedarville,South Carolina B,15,9
-Cedarville,James Madison B,15,5
-South Carolina B,High Point,12,11
-James Madison B,Virginia Tech B,14,10
-Maryland B,High Point,8,11
-Virginia Tech B,Maryland B,15,0
-Cornell B,Wake Forest,9,12
-Virginia B,Cornell B,9,13
-William & Mary B,Wake Forest,8,12
-Virginia B,William & Mary B,8,11
+South Carolina,Virginia,11,9
+Cedarville,South Carolina,15,9
+Cedarville,James Madison,15,5
+South Carolina,High Point,12,11
+James Madison,Virginia Tech,14,10
+Maryland,High Point,8,11
+Virginia Tech,Maryland,15,0
+Cornell,Wake Forest,9,12
+Virginia,Cornell,9,13
+William & Mary,Wake Forest,8,12
+Virginia,William & Mary,8,11

@@ -23,61 +23,61 @@ Oklahoma,Utah,7,12
 Texas State,Oklahoma,13,6
 Utah,Iowa State,13,9
 Rice,North Texas,12,10
-Wisconsin-Milwaukee,Texas A&M B,13,3
-Rice,Texas A&M B,13,3
+Wisconsin-Milwaukee,Texas A&M,13,3
+Rice,Texas A&M,13,3
 Wisconsin-Milwaukee,North Texas,13,10
 Rice,Wisconsin-Milwaukee,13,8
-North Texas,Texas A&M B,13,7
-Trinity,LSU B,13,9
+North Texas,Texas A&M,13,7
+Trinity,LSU,13,9
 Baylor,Northern Iowa,13,9
 Trinity,Northern Iowa,10,13
-Baylor,LSU B,11,6
+Baylor,LSU,11,6
 Trinity,Baylor,6,13
-LSU B,Northern Iowa,10,11
-Colorado State B,Stephen F. Austin,12,10
-Wisconsin B,Texas-Dallas B,9,7
-Colorado State B,Texas-Dallas B,10,6
-Wisconsin B,Stephen F. Austin,12,6
-Colorado State B,Wisconsin B,9,10
-Stephen F. Austin,Texas-Dallas B,12,8
+LSU,Northern Iowa,10,11
+Colorado State,Stephen F. Austin,12,10
+Wisconsin,Texas-Dallas,9,7
+Colorado State,Texas-Dallas,10,6
+Wisconsin,Stephen F. Austin,12,6
+Colorado State,Wisconsin,9,10
+Stephen F. Austin,Texas-Dallas,12,8
 Texas-San Antonio,Houston,13,6
-Texas State B,Texas B,10,11
-Texas-San Antonio,Texas B,13,3
-Texas State B,Houston,7,8
-Texas-San Antonio,Texas State B,13,7
-Houston,Texas B,11,8
+Texas State,Texas,10,11
+Texas-San Antonio,Texas,13,3
+Texas State,Houston,7,8
+Texas-San Antonio,Texas State,13,7
+Houston,Texas,11,8
 Kansas,Texas State,11,13
 Arkansas,Oklahoma,11,15
 Kansas,Oklahoma,11,13
 Arkansas,Texas State,13,9
 Kansas,Arkansas,13,11
 Texas State,Oklahoma,8,13
-Stephen F. Austin,Texas B,15,11
-Texas-Dallas B,Texas State B,12,13
-Stephen F. Austin,Texas State B,15,8
-Texas-Dallas B,Texas B,8,15
-Stephen F. Austin,Texas-Dallas B,11,8
-Texas B,Texas State B,15,14
+Stephen F. Austin,Texas,15,11
+Texas-Dallas,Texas State,12,13
+Stephen F. Austin,Texas State,15,8
+Texas-Dallas,Texas,8,15
+Stephen F. Austin,Texas-Dallas,11,8
+Texas,Texas State,15,14
 Rice,Wisconsin-Milwaukee,15,0
 Rice,Northern Iowa,15,7
 Wisconsin-Milwaukee,Baylor,14,13
 Rice,Texas-San Antonio,15,5
 Northern Iowa,North Texas,14,13
 Wisconsin-Milwaukee,Trinity,15,9
-Baylor,Wisconsin B,15,7
-Texas-San Antonio,LSU B,15,10
-Colorado State B,North Texas,10,15
+Baylor,Wisconsin,15,7
+Texas-San Antonio,LSU,15,10
+Colorado State,North Texas,10,15
 Houston,Trinity,8,15
-Wisconsin B,Texas A&M B,15,10
+Wisconsin,Texas A&M,15,10
 Northern Iowa,Baylor,9,13
-North Texas,Wisconsin B,10,13
+North Texas,Wisconsin,10,13
 Texas-San Antonio,North Texas,10,12
-Trinity,Wisconsin B,4,15
+Trinity,Wisconsin,4,15
 Texas-San Antonio,Trinity,15,0
-LSU B,Texas A&M B,10,14
-LSU B,Colorado State B,13,12
-Houston,Texas A&M B,7,15
-Colorado State B,Houston,15,4
+LSU,Texas A&M,10,14
+LSU,Colorado State,13,12
+Houston,Texas A&M,7,15
+Colorado State,Houston,15,4
 Wisconsin,Colorado,13,14
 Wisconsin,LSU,15,13
 Texas,Colorado,7,15

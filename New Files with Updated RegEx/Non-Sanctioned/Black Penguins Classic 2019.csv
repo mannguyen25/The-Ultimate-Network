@@ -8,16 +8,16 @@ Black Penguins Alumni,Indiana Wesleyan,13,0
 Olivet Nazarene,Butler,10,12
 Black Penguins Alumni,Olivet Nazarene,13,2
 Southern Indiana,Butler,4,13
-Saint Louis,Notre Dame B,13,2
-Kentucky B,Illinois-Chicago,8,5
-Saint Louis,Kentucky B,11,1
-Iowa State B,Illinois-Chicago,8,9
-Illinois-Chicago,Notre Dame B,6,8
-Iowa State B,Kentucky B,8,2
+Saint Louis,Notre Dame,13,2
+Kentucky,Illinois-Chicago,8,5
+Saint Louis,Kentucky,11,1
+Iowa State,Illinois-Chicago,8,9
+Illinois-Chicago,Notre Dame,6,8
+Iowa State,Kentucky,8,2
 Saint Louis,Illinois-Chicago,13,2
-Iowa State B,Notre Dame B,5,4
-Saint Louis,Iowa State B,13,2
-Kentucky B,Notre Dame B,4,6
+Iowa State,Notre Dame,5,4
+Saint Louis,Iowa State,13,2
+Kentucky,Notre Dame,4,6
 Knox,Eastern Illinois,13,4
 Northern Michigan,Western Michigan,6,10
 Knox,Northern Michigan,13,2
@@ -28,22 +28,22 @@ Knox,Western Michigan,12,3
 North Park,Eastern Illinois,13,2
 Knox,North Park,10,7
 Northern Michigan,Eastern Illinois,9,0
-Wheaton Illinois,Dayton B,13,5
-Marquette B,Rose-Hulman,9,11
-Wheaton Illinois,Marquette B,11,5
+Wheaton,Dayton,13,5
+Marquette,Rose-Hulman,9,11
+Wheaton,Marquette,11,5
 Valparaiso,Rose-Hulman,13,4
-Rose-Hulman,Dayton B,13,4
-Valparaiso,Marquette B,13,2
-Wheaton Illinois,Rose-Hulman,13,6
-Valparaiso,Dayton B,13,2
-Wheaton Illinois,Valparaiso,3,13
-Marquette B,Dayton B,13,5
+Rose-Hulman,Dayton,13,4
+Valparaiso,Marquette,13,2
+Wheaton,Rose-Hulman,13,6
+Valparaiso,Dayton,13,2
+Wheaton,Valparaiso,3,13
+Marquette,Dayton,13,5
 Southern Indiana,Eastern Illinois,11,12
-Illinois-Chicago,Dayton B,10,7
-Southern Indiana,Dayton B,11,7
+Illinois-Chicago,Dayton,10,7
+Southern Indiana,Dayton,11,7
 Illinois-Chicago,Eastern Illinois,11,2
 Southern Indiana,Illinois-Chicago,5,11
-Eastern Illinois,Dayton B,15,0
+Eastern Illinois,Dayton,15,0
 Rose-Hulman,Indiana Wesleyan,11,5
 Saint Louis,Western Michigan,12,9
 Saint Louis,Indiana Wesleyan,9,1

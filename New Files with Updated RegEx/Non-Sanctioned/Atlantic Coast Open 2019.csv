@@ -17,10 +17,10 @@ MIT,SUNY-Binghamton,13,10
 Mary Washington,MIT,9,7
 SUNY-Binghamton,American,13,3
 Pennsylvania,Lehigh,9,12
-North Carolina B,Towson,12,7
+North Carolina,Towson,12,7
 Pennsylvania,Towson,11,10
-North Carolina B,Lehigh,13,9
-Pennsylvania,North Carolina B,9,13
+North Carolina,Lehigh,13,9
+Pennsylvania,North Carolina,9,13
 Lehigh,Towson,12,4
 NYU,Virginia Commonwealth,8,10
 Liberty,George Washington,13,5
@@ -54,30 +54,30 @@ NYU,George Mason,12,9
 American,NYU,5,11
 Towson,George Mason,5,14
 American,Towson,5,15
-Christopher Newport,Georgetown B,13,10
-Shenandoah,George Washington B,12,11
-Pennsylvania B,American B,13,5
+Christopher Newport,Georgetown,13,10
+Shenandoah,George Washington,12,11
+Pennsylvania,American,13,5
 Christopher Newport,Shenandoah,13,2
-Georgetown B,Pennsylvania B,7,11
-George Washington B,American B,13,8
-Christopher Newport,Pennsylvania B,12,7
-Shenandoah,American B,12,5
-Georgetown B,George Washington B,6,11
-Christopher Newport,American B,11,8
-Shenandoah,Georgetown B,13,0
-Pennsylvania B,George Washington B,12,10
-Christopher Newport,George Washington B,13,4
-Shenandoah,Pennsylvania B,8,11
-Georgetown B,American B,11,7
+Georgetown,Pennsylvania,7,11
+George Washington,American,13,8
+Christopher Newport,Pennsylvania,12,7
+Shenandoah,American,12,5
+Georgetown,George Washington,6,11
+Christopher Newport,American,11,8
+Shenandoah,Georgetown,13,0
+Pennsylvania,George Washington,12,10
+Christopher Newport,George Washington,13,4
+Shenandoah,Pennsylvania,8,11
+Georgetown,American,11,7
 Duke,Middlebury,11,15
 MIT,Duke,11,14
 Johns Hopkins,Middlebury,10,12
-MIT,North Carolina B,13,11
+MIT,North Carolina,13,11
 Villanova,Duke,11,14
 Johns Hopkins,Penn State,15,4
 Mary Washington,Middlebury,9,13
 Connecticut,MIT,11,13
-Georgetown,North Carolina B,8,11
+Georgetown,North Carolina,8,11
 James Madison,Villanova,10,12
 Duke,George Washington,13,6
 Johns Hopkins,RIT,13,6
@@ -86,9 +86,9 @@ Rutgers,Mary Washington,8,11
 Middlebury,Lehigh,13,9
 MIT,Johns Hopkins,7,15
 Villanova,Mary Washington,9,12
-North Carolina B,Villanova,13,14
+North Carolina,Villanova,13,14
 Penn State,Mary Washington,10,11
-North Carolina B,Penn State,12,15
-Christopher Newport,Pennsylvania B,15,7
-Shenandoah,George Washington B,14,15
-Georgetown B,American B,15,14
+North Carolina,Penn State,12,15
+Christopher Newport,Pennsylvania,15,7
+Shenandoah,George Washington,14,15
+Georgetown,American,15,14
