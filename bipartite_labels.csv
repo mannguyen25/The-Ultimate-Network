@@ -1,1717 +1,1840 @@
-category,id
-tournament,D-I College Championships
-team,Georgia
-team,Minnesota
-team,Ohio State
-team,California
-team,North Carolina
-team,Brown
-team,Iowa State
-team,Michigan
-team,Texas
-team,Oregon
-team,Tufts
-team,Wisconsin
-team,Victoria
-team,Pittsburgh
-team,Colorado
-team,Northeastern
-team,Washington
-team,Rutgers
-team,Cal Poly
-tournament,nationals
-team,Middlebury
-team,Franciscan
-team,Michigan Tech
-team,Hamilton
-team,Air Force
-team,Portland
-team,Bryant
-team,Claremont
-team,Carleton Colleg
-team,Missouri 
-team,Colby
-team,Berry
-team,Richmond
-team,Luther
-team,Bowdoin
-team,Valparaiso
-tournament,Sanctioned 2019\2019 NW Challenge - Men's Tier 1
-team,Brigham Young
-team,Whitman
-team,Victoria
-team,Western Washington
-team,Oregon State
-team,Stanford
-team,Washington
-team,British Columbia
-team,Cal Poly
-tournament,Sanctioned 2019\Atlantic Coast D-I College Men's Regionals
-team,Johns Hopkins
-team,East Carolina
-team,North Carolina
-team,Duke
-team,Virginia
-team,Maryland
-team,Appalachian State
-team,Liberty
-team,William
-team,James Madison
-team,South Carolina
-team,Georgetown
-team,Virginia Tech
-tournament,Sanctioned 2019\Atlantic Coast D-III College Men's Regionals
-team,Davidson
-team,High Point
-team,Mary Washington
-team,Navy
-team,North Carolina
-team,Christopher Newport
-team,Richmond
-team,Elon
-tournament,Sanctioned 2019\Big Sky D-I College Men's CC
-team,Utah State
-team,Montana State
-team,Brigham Young
-team,Montana
-team,Idaho
-team,Boise State
-team,Washington State
-team,Gonzaga
-team,Utah
-tournament,Sanctioned 2019\Carolina D-I College Men's CC
-team,North Carolina
-team,South Carolina
-team,East Carolina
-team,Appalachian State
-team,Duke
-team,Charleston
-team,Clemson
-team,Wake Forest
-tournament,Sanctioned 2019\Carolina D-III College Men's CC
-team,North Carolina
-team,High Point
-team,Anderson
-team,Campbell
-team,Davidson
-team,Elon
-tournament,Sanctioned 2019\Cascadia D-I College Men's CC
-team,Western Washington
-team,Oregon State
-team,Oregon
-team,Washington
-team,Victoria
-team,British Columbia
-tournament,Sanctioned 2019\Colonial D-I College Men's CC
-team,Maryland
-team,Salisbury
-team,Johns Hopkins
-team,Georgetown
-team,American
-team,George Washington
-team,Delaware
-team,Towson
-tournament,Sanctioned 2019\Colonial Dev College Men's CC
-team,George Washington
-team,Georgetown
-team,Maryland
-team,Towson
-team,Delaware
-team,American
-tournament,Sanctioned 2019\Desert D-I College Men's CC
-team,New Mexico
-team,Northern Arizona
-team,Arizona
-team,Arizona State
-team,Grand Canyon
-tournament,Sanctioned 2019\East Penn D-I College Men's CC
-team,Drexel
-team,Millersville
-team,Temple
-team,West Chester
-team,Villanova
-team,Lehigh
-team,Pennsylvania
-team,Saint Joseph
-tournament,Sanctioned 2019\East Penn D-III College Men's CC
-team,Jefferson
-team,Lehigh
-team,Swarthmore
-team,Ursinus
-team,Haverford
-team,Lancaster Bible
-team,Muhlenberg
-team,Scranton
-tournament,Sanctioned 2019\East Plains D-I College Men's CC
-team,Indiana
-team,Ball State
-team,Notre Dame
-team,Southern Indiana
-team,Purdue
-team,Kentucky
-tournament,Sanctioned 2019\East Plains D-III College Men's CC
-team,Butler
-team,Kalamazoo
-team,Indiana Wesleyan
-team,Kettering
-team,Valparaiso
-team,Rose
-tournament,Sanctioned 2019\Eastern Southeast D-III College Men's CC
-team,North Georgia
-team,Dalton State
-team,Georgia College
-team,Stetson
-team,Berry
-team,Embry
-team,Florida Tech
-team,Ave Maria
-tournament,Sanctioned 2019\Flat Tail Open 2019- Men's
-team,Oregon
-team,Washington State
-team,Western Washington
-team,Oregon State
-team,Humboldt State
-team,Lewis
-team,Washington
-team,Whitman
-team,Nevada
-team,Gonzaga
-team,Portland State
-team,Puget Sound
-tournament,Sanctioned 2019\Florida D-I College Men's CC
-team,South Florida
-team,Miami
-team,Central Florida
-team,Florida Atlantic
-team,Florida State
-team,North Florida
-team,Florida
-team,Florida Gulf
-tournament,Sanctioned 2019\Great Lakes D-I College Men's Regionals
-team,Michigan
-team,Chicago
-team,Illinois State
-team,Grand Valley
-team,Kentucky
-team,Notre Dame
-team,Purdue
-team,Northwestern
-team,Indiana
-team,Loyola
-team,Illinois
-tournament,Sanctioned 2019\Great Lakes D-III College Men's Regionals
-team,Valparaiso
-team,Eastern Illinois
-team,Knox
-team,North Park
-team,Butler
-team,Wheaton
-team,Olivet Nazarene
-team,Rose
-tournament,Sanctioned 2019\Greater New England D-I College Men's CC
-team,Massachusetts
-team,Rhode Island
-team,Vermont
-team,Maine
-team,New Hampshire
-team,Brown
-tournament,Sanctioned 2019\Greater New England Dev College Men's CC
-team,Massachusetts
-team,Amherst College
-team,Massachusetts Amherst
-team,Dartmouth
-team,Brown
-team,Colby
-team,Vermont
-tournament,Sanctioned 2019\Gulf Coast D-I College Men's CC
-team,Alabama
-team,Troy
-team,Tulane
-team,Mississippi State
-team,Auburn
-team,Southern Mississippi
-team,LSU
-team,Jacksonville State
-team,Vanderbilt
-team,Middle Tennessee
-team,Mississippi
-tournament,Sanctioned 2019\Hudson Valley D-I College Men's CC
-team,Yale
-team,Sacred Heart
-team,Southern Connecticut
-team,SUNY
-team,Connecticut
-tournament,Sanctioned 2019\Illinois D-I College Men's CC
-team,Illinois State
-team,Illinois
-team,Loyola
-team,Northwestern
-team,DePaul
-team,Chicago
-team,Northern Illinois
-tournament,Sanctioned 2019\Illinois D-III College Men's CC
-team,Knox
-team,Olivet Nazarene
-team,North Park
-team,Wheaton
-team,Eastern Illinois
-tournament,Sanctioned 2019\Lake Superior D-I College Men's CC
-team,Wisconsin
-team,Marquette
-team,Northern Michigan
-tournament,Sanctioned 2019\Lake Superior D-III College Men's CC
-team,Wisconsin
-team,Carthage College
-team,Michigan Tech
-team,Milwaukee School
-tournament,Sanctioned 2019\Metro Boston D-I College Men's CC
-team,Harvard
-team,Massachusetts
-team,Tufts
-team,Northeastern
-team,Boston University
-team,Boston College
-team,MIT
-tournament,Sanctioned 2019\Metro Boston D-III College Men's CC
-team,Wentworth
-team,Wheaton
-team,Brandeis
-team,Bentley
-team,Stonehill
-tournament,Sanctioned 2019\Metro Boston Dev College Men's CC
-team,Harvard
-team,Tufts
-team,Northeastern
-team,MIT
-tournament,Sanctioned 2019\Metro East D-I College Men's Regionals
-team,Rutgers
-team,SUNY
-team,Syracuse
-team,Connecticut
-team,RIT
-team,Cornell
-team,Princeton
-team,NYU
-team,Yale
-tournament,Sanctioned 2019\Metro East D-III College Men's Regionals
-team,Marist
-team,SUNY
-team,Stevens Tech
-team,Hamilton
-team,Colgate
-team,Rensselaer Polytech
-team,Wesleyan
-team,Ithaca
-team,Rochester
-team,Army
-tournament,Sanctioned 2019\Metro East Dev College Men's CC
-team,Connecticut
-team,Rutgers
-team,SUNY
-team,Princeton
-team,Yale
-team,SUNY Oneonta
-team,Cornell
-tournament,Sanctioned 2019\Metro NY D-I College Men's CC
-team,Rutgers
-team,Columbia
-team,New Jersey
-team,NYU
-team,Princeton
-team,Rowan
-team,SUNY
-team,Hofstra
-tournament,Sanctioned 2019\Metro NY D-III College Men's CC
-team,Stevens Tech
-team,New York
-team,College of
-tournament,Sanctioned 2019\Michigan D-I College Men's CC
-team,Michigan
-team,Western Michigan
-team,Grand Valley
-team,Michigan State
-tournament,Sanctioned 2019\New England D-I College Men's Regionals
-team,Northeastern
-team,MIT
-team,Boston College
-team,Massachusetts
-team,Brown
-team,Vermont
-team,Tufts
-team,Harvard
-team,New Hampshire
-team,Dartmouth
-tournament,Sanctioned 2019\New England D-III College Men's Regionals
-team,Bowdoin
-team,Williams
-team,Middlebury
-team,Bentley
-team,Bryant University
-team,Brandeis
-team,Colby
-team,Bates College
-tournament,Sanctioned 2019\New England Dev College Men's Regionals
-team,Dartmouth
-team,Brown
-team,Massachusetts Amherst
-team,Northeastern
-tournament,Sanctioned 2019\NorCal D-I College Men's CC
-team,California
-team,Humboldt State
-team,Las Positas
-team,Sacramento State
-team,Fresno State
-team,Stanford
-team,Sonoma State
-team,Santa Clara
-team,Nevada
-team,Chico State
-team,San Jose
-tournament,Sanctioned 2019\North Central D-III College Men's Regionals
-team,Winona State
-team,St John
-team,St Olaf
-team,St
-team,Michigan Tech
-team,Macalester
-team,Wisconsin
-team,Carleton College
-team,Luther
-team,Carleton Hot
-tournament,Sanctioned 2019\North Central Dev College Men's CC
-team,Marquette
-team,Wisconsin
-team,Minnesota
-team,Luther
-team,Iowa State
-tournament,Sanctioned 2019\North New England D-III College Men's CC
-team,Dartmouth
-team,Colby
-team,Middlebury
-team,Bowdoin
-team,Bates College
-tournament,Sanctioned 2019\North Texas D-I College Men's CC
-team,Stephen F
-team,North Texas
-team,Baylor
-team,Texas
-team,Texas Tech
-team,Texas Christian
-team,Southern Methodist
-tournament,Sanctioned 2019\Northern Atlantic Coast D-III College Men's CC
-team,Catholic
-team,Roanoke
-team,Richmond
-team,Navy
-team,Mary Washington
-team,Shenandoah
-team,Christopher Newport
-team,St Mary
-tournament,Sanctioned 2019\Northwest D-I College Men's Regionals
-team,Victoria
-team,Utah
-team,Montana
-team,Idaho
-team,Washington
-team,British Columbia
-team,Oregon
-team,Oregon State
-team,Whitman
-team,Montana State
-team,Utah State
-team,Boise State
-tournament,Sanctioned 2019\Northwest D-III College Men's CC
-team,Portland
-team,Willamette University
-team,Whitman
-team,Pacific Lutheran
-team,Lewis
-team,Whitworth
-team,Puget Sound
-team,Seattle
-tournament,Sanctioned 2019\Northwoods D-I College Men's CC
-team,Minnesota
-team,Carleton College
-team,Minnesota State
-team,North Dakota
-tournament,Sanctioned 2019\Northwoods D-III College Men's CC
-team,Macalester
-team,Carleton Hot
-team,St Olaf
-team,St John
-team,Carleton College
-team,Bethel
-team,Winona State
-team,St
-tournament,Sanctioned 2019\Ohio D-I College Men's CC
-team,Toledo
-team,Kent State
-team,Ohio State
-team,Miami
-team,Cincinnati
-team,Ohio
-team,Dayton
-team,Case Western
-team,Wright State
-team,Akron
-team,Cleveland State
-tournament,Sanctioned 2019\Ohio D-III College Men's CC
-team,John Carroll
-team,Ohio Wesleyan
-team,Franciscan
-team,Kenyon
-team,Oberlin
-team,Cedarville
-team,Xavier
-team,Denison
-team,Wooster
-team,Ohio Northern
-tournament,Sanctioned 2019\Ohio Valley D-I College Men's Regionals
-team,Pittsburgh
-team,Carnegie Mellon
-team,Ohio
-team,Ohio State
-team,Villanova
-team,Drexel
-team,Temple
-team,Cincinnati
-team,Miami
-team,Case Western
-team,Dayton
-team,Penn State
-team,Lehigh
-team,Pennsylvania
-team,West Chester
-tournament,Sanctioned 2019\Ohio Valley D-III College Men's Regionals
-team,Messiah
-team,Lehigh
-team,Muhlenberg
-team,Xavier
-team,Wooster
-team,Oberlin
-team,Swarthmore
-team,Grove City
-team,Franciscan
-team,Shippensburg
-team,Haverford
-team,Cedarville
-tournament,Sanctioned 2019\Ohio Valley Dev College Men's CC
-team,Penn State
-team,Oberlin
-team,Ohio State
-team,Pennsylvania
-team,Pittsburgh
-team,Temple
-team,Case Western
-tournament,Sanctioned 2019\Ozarks D-I College Men's CC
-team,Oklahoma
-team,Washington University
-team,Missouri
-team,Missouri State
-team,Arkansas
-team,Oklahoma State
-team,Saint Louis
-team,Kansas
-team,Central Arkansas
-team,Kansas State
-tournament,Sanctioned 2019\Ozarks D-III College Men's CC
-team,Truman State
-team,Missouri S
-team,John Brown
-team,Tulsa
-team,Harding
-tournament,Sanctioned 2019\Rocky Mountain D-I College Men's CC
-team,Denver
-team,Colorado State
-team,Colorado
-team,Colorado Mesa
-tournament,Sanctioned 2019\Rocky Mountain D-III College Men's CC
-team,Colorado College
-team,Air Force
-team,Colorado School
-tournament,Sanctioned 2019\SoCal D-I College Men's CC
-team,California
-team,Cal Poly
-team,Cal State
-team,San Diego
-team,Loyola Marymount
-team,UCLA
-team,Southern California
-tournament,Sanctioned 2019\South Central D-I College Men's Regionals
-team,Colorado
-team,Texas
-team,Colorado State
-team,Texas A
-team,Texas Tech
-team,Oklahoma
-team,Oklahoma State
-team,Texas State
-team,Baylor
-team,Saint Louis
-team,Arkansas
-team,Kansas
-team,Washington University
-team,Kansas State
-tournament,Sanctioned 2019\South Central D-III College Men's Regionals
-team,Colorado School
-team,Trinity
-team,Rice
-team,John Brown
-team,Air Force
-team,Truman State
-team,Missouri S
-team,Colorado College
-tournament,Sanctioned 2019\South New England D-III College Men's CC
-team,Williams
-team,Clark
-team,Worcester Polytech
-team,Providence College
-team,Bryant University
-team,Amherst College
-tournament,Sanctioned 2019\South Texas D-I College Men's CC
-team,Texas State
-team,Texas A
-team,Sam Houston
-team,Texas
-team,Lamar
-team,Houston
-tournament,Sanctioned 2019\Southeast D-I College Men's Regionals
-team,Kennesaw State
-team,Emory
-team,Central Florida
-team,Georgia Tech
-team,Georgia
-team,Tulane
-team,Tennessee
-team,Auburn
-team,Alabama
-team,Florida State
-team,South Florida
-team,Florida
-team,LSU
-tournament,Sanctioned 2019\Southeast D-III College Men's Regionals
-team,Belmont
-team,Stetson
-team,North Georgia
-team,Berry
-team,Samford
-team,Embry
-team,Union
-team,Florida Tech
-tournament,Sanctioned 2019\Southeast Dev College Men's CC
-team,Georgia
-team,South Florida
-team,Georgia Tech
-team,Central Florida
-team,Florida
-team,LSU
-team,Alabama
-team,Florida Tech
-tournament,Sanctioned 2019\Southern Appalachian D-I College Men's CC
-team,Georgia
-team,Tennessee
-team,Georgia State
-team,Georgia Southern
-team,Tennessee Tech
-team,Kennesaw State
-team,Emory
-team,Georgia Tech
-tournament,Sanctioned 2019\Southern Atlantic Coast Dev
-team,Virginia Tech
-team,South Carolina
-team,William
-team,North Carolina
-team,Virginia
-team,James Madison
-tournament,Sanctioned 2019\Southwest D-I College Men's Regionals
-team,California
-team,Las Positas
-team,Cal Poly
-team,Southern California
-team,Stanford
-team,Arizona
-team,Humboldt State
-team,New Mexico
-team,Chico State
-team,Northern Arizona
-team,UCLA
-team,Santa Clara
-tournament,Sanctioned 2019\Southwest D-III College Men's CC
-team,Claremont
-team,Biola Univeristy
-team,Occidental
-team,Caltech
-tournament,Sanctioned 2019\Southwest Dev College Men's CC
-team,California
-team,Southern California
-team,Cal Poly
-team,Arizona State
-team,Arizona
-team,UCLA
-tournament,Sanctioned 2019\Texas D-III College Men's CC
-team,Trinity
-team,Dallas Baptist
-team,Abilene Christian
-team,Dallas
-team,Rice
-team,Sul Ross
-tournament,Sanctioned 2019\Virginia D-I College Men's CC
-team,Virginia Tech
-team,Radford
-team,William
-team,Virginia Commonwealth
-team,Virginia
-team,James Madison
-team,Liberty
-team,George Mason
-tournament,Sanctioned 2019\West Penn D-III College Men's CC
-team,Allegheny
-team,Bucknell
-team,Messiah
-team,Grove City
-team,Susquehanna
-team,California
-team,Shippensburg
-team,Dickinson
-tournament,Sanctioned 2019\West Plains D-I College Men's CC
-team,Iowa
-team,Creighton
-team,Northern Iowa
-team,Nebraska
-team,Iowa State
-tournament,Sanctioned 2019\West Plains D-III College Men's CC
-team,Grinnell
-team,Coe
-team,Luther
-team,Drake
-team,Cornell College
-tournament,Sanctioned 2019\Western NY D-I College Men's CC
-team,Syracuse
-team,SUNY
-team,Cornell
-team,RIT
-tournament,Sanctioned 2019\Western NY D-III College Men's CC
-team,Colgate
-team,Ithaca
-team,SUNY
-team,Rochester
-team,St Lawrence
-team,Hamilton
-tournament,Sanctioned 2019\Western Southeast D-III College Men's CC
-team,Belmont
-team,Johnson
-team,Samford
-team,Union
-tournament,Sanctioned 2019\ Atlantic Coast Dev College Men's Regionals
-team,Virginia Tech
-team,American
-team,Delaware
-team,South Carolina
-team,Maryland
-team,George Washington
-team,Virginia
-team,James Madison
-tournament,Sanctioned 2019\ Great Lakes Dev College Men's CC
-team,Michigan
-team,Indiana
-team,Michigan State
-team,Chicago
-team,Kentucky
-team,Illinois
-team,Notre Dame
-team,Northwestern
-team,Purdue
-tournament,Sanctioned 2019\ Hudson Valley D-III College Men's CC
-team,Rensselaer Polytech
-team,Union
-team,Marist
-team,Skidmore
-team,New Haven
-team,Army
-team,Vassar
-team,Hartford
-team,Saint Rose
-team,Wesleyan
-tournament,Sanctioned 2019\ West Penn D-I College Men's CC
-team,Carnegie Mellon
-team,Indiana
-team,Penn State
-team,West Virginia
-team,Pittsburgh
-team,Slippery Rock
-team,Edinboro
-tournament,Non-Sanctioned 2019\19th Annual PLU BBQ Open
-team,Washington
-team,Pacific Lutheran
-team,Parkland
-team,Oregon State
-team,Washington State
-team,Gonzaga
-team,Willamette University
-team,Whitworth
-team,Lewis
-team,Seattle
-team,Western Washington
-tournament,Non-Sanctioned 2019\2019 NW Challenge - Men's Tier 1
-team,Brigham Young
-team,Whitman
-team,Victoria
-team,Western Washington
-team,Oregon State
-team,Stanford
-team,Washington
-team,British Columbia
-team,Cal Poly
-tournament,Non-Sanctioned 2019\2019 NW Challenge - Tier 2 & 3
-team,Lewis
-team,Puget Sound
-team,Pacific Lutheran
-team,Western Washington
-team,Gonzaga
-team,Portland
-team,Washington State
-team,Washington
-team,Idaho
-team,Montana
-team,Brigham Young
-tournament,Non-Sanctioned 2019\2019 SoCal Mixer
-team,California
-team,Grand Canyon
-team,Caltech
-team,Occidental
-team,Cal Poly
-team,Biola Univeristy
-team,Claremont
-tournament,Non-Sanctioned 2019\5th Annual West Point Classic
-team,Marist
-team,Southern Connecticut
-team,Army
-team,Skidmore
-tournament,Non-Sanctioned 2019\Air Force Invite 2019
-team,Colorado
-team,Colorado School
-team,New Mexico
-team,Colorado Mesa
-team,Colorado Cutthroat
-team,Air Force
-tournament,Non-Sanctioned 2019\Atlantic City 9
-team,Stevens Tech
-team,SUNY
-team,Bates College
-team,Salisbury
-team,SUNY-New
-team,MIT
-team,Yale
-team,College of
-team,Colby
-team,Brown
-team,Rutgers
-tournament,Non-Sanctioned 2019\Atlantic Coast Open 2019
-team,Rutgers
-team,James Madison
-team,Johns Hopkins
-team,Connecticut
-team,Penn State
-team,Georgetown
-team,Middlebury
-team,Duke
-team,Mary Washington
-team,SUNY
-team,MIT
-team,American
-team,Pennsylvania
-team,Lehigh
-team,North Carolina
-team,Towson
-team,NYU
-team,Virginia Commonwealth
-team,Liberty
-team,George Washington
-team,Villanova
-team,George Mason
-team,RIT
-team,Rowan
-team,Christopher Newport
-team,Shenandoah
-tournament,Non-Sanctioned 2019\Big D in Little d (Open) 2019
-team,Colorado College
-team,Texas
-team,Texas State
-team,Oklahoma
-team,Texas Tech
-team,Southern Methodist
-team,Marcus
-team,Rice
-team,Oklahoma State
-team,North Texas
-team,John Brown
-team,Kansas State
-team,Nebraska
-team,Stephen F
-team,Sam Houston
-team,Baylor
-tournament,Non-Sanctioned 2019\Big Sky Brawl 2019
-team,Montana
-team,Utah State
-team,Utah
-team,Boise State
-team,Northern Arizona
-team,Idaho
-team,Brigham Young
-team,Montana State
-team,Denver
-tournament,Non-Sanctioned 2019\Black Penguins Classic 2019
-team,Olivet Nazarene
-team,Southern Indiana
-team,Black Penguins
-team,Indiana Wesleyan
-team,Butler
-team,Saint Louis
-team,Notre Dame
-team,Kentucky
-team,Illinois
-team,Iowa State
-team,Knox
-team,Eastern Illinois
-team,Northern Michigan
-team,Western Michigan
-team,North Park
-team,Wheaton
-team,Dayton
-team,Marquette
-team,Rose
-team,Valparaiso
-tournament,Non-Sanctioned 2019\Boogienights 2019
-team,Miami
-team,Michigan
-team,Cincinnati
-team,SUNY
-team,Cleveland State
-tournament,Non-Sanctioned 2019\Carolina Kickoff 2019
-team,Carleton College
-team,Richmond
-team,North Carolina
-team,Duke
-team,Georgia Tech
-team,Georgetown
-team,Tennessee
-team,Temple
-team,Florida State
-team,Appalachian State
-team,Notre Dame
-team,South Carolina
-team,Emory
-team,Clemson
-tournament,Non-Sanctioned 2019\Centex 2019 (Men)
-team,Wisconsin
-team,Illinois
-team,Texas
-team,Texas A
-team,Colorado
-team,Colorado State
-team,LSU
-team,Dartmouth
-team,Kansas
-team,Oklahoma State
-team,Arkansas
-team,Texas State
-team,Utah
-team,Oklahoma
-team,Iowa State
-team,Rice
-team,North Texas
-team,Trinity
-team,Baylor
-team,Northern Iowa
-team,Stephen F
-team,Houston
-tournament,Non-Sanctioned 2019\Chucktown Throwdown XVI
-team,Georgia
-team,Edinboro
-team,North Carolina
-team,Wingate
-team,Charleston
-team,Anderson
-team,Appalachian State
-tournament,Non-Sanctioned 2019\Classic City Invite 2019
-team,North Carolina
-team,Georgia
-team,Northeastern
-team,Georgia Tech
-team,Carnegie Mellon
-team,South Carolina
-team,Tufts
-team,Tennessee
-team,Massachusetts
-team,Kennesaw State
-team,Florida State
-team,Pittsburgh
-tournament,Non-Sanctioned 2019\College Southerns XVIII
-team,South Florida
-team,Charleston
-team,South Carolina
-team,North Carolina
-team,Georgia
-team,Emory
-team,Florida Atlantic
-team,Luther
-team,North Florida
-team,Chicago
-team,Middlebury
-team,Florida
-team,Wisconsin
-team,Florida Tech
-team,Carleton College
-team,California
-team,Carleton Hot
-team,Georgia Southern
-team,Georgia College
-team,Appalachian State
-tournament,Non-Sanctioned 2019\CWRUL Memorial 2019
-team,Kentucky
-team,RIT
-team,Indiana
-team,Case Western
-team,Purdue
-team,University of
-team,Ohio
-team,Vanderbilt
-team,Dayton
-team,Trine
-team,Ball State
-team,Ohio Northern
-team,Xavier
-team,Syracuse
-team,Kenyon
-team,Knox
-team,Wright State
-team,Oberlin
-team,Lehigh
-team,John Carroll
-team,Northwestern
-team,Toledo
-team,Rochester
-team,Michigan
-team,Ohio State
-team,Western Michigan
-team,Cedarville
-tournament,Non-Sanctioned 2019\D-III Midwestern Invite 2019
-team,Michigan Tech
-team,Pacific Lutheran
-team,Macalester
-team,Milwaukee School
-team,Portland
-team,Ohio Northern
-team,Missouri S
-team,Grinnell
-team,North Park
-team,Indiana Wesleyan
-team,St Olaf
-team,Puget Sound
-team,Oberlin
-team,Rose
-team,Brandeis
-team,Winona State
-tournament,Non-Sanctioned 2019\Denver Round Robin 2019
-team,Denver
-team,Colorado State
-team,Colorado School
-team,Colorado
-tournament,Non-Sanctioned 2019\DiscThrow Inferno
-team,Kettering
-team,University of
-team,Denison
-team,Oberlin
-team,Kent State
-tournament,Non-Sanctioned 2019\Dust Bowl 2019
-team,Oklahoma State
-team,Colorado College
-team,Oklahoma
-team,John Brown
-team,Nebraska
-team,Arkansas
-team,Colorado
-team,Missouri
-team,Colorado School
-team,Arkansas State
-team,Hendrix
-team,Dallas Baptist
-team,Central Arkansas
-team,Tulsa
-tournament,Non-Sanctioned 2019\Easterns 2019 (Men)
-team,Carleton College
-team,Harvard
-team,Virginia Tech
-team,Georgia
-team,North Carolina
-team,Brown
-team,Maryland
-team,Auburn
-team,Northeastern
-team,Pittsburgh
-team,Northwestern
-team,Tufts
-team,William
-team,Massachusetts
-team,California
-team,Minnesota
-team,Virginia
-team,Oregon
-tournament,Non-Sanctioned 2019\Easterns Qualifier 2019
-team,Tennessee
-team,Johns Hopkins
-team,Connecticut
-team,Virginia
-team,Dayton
-team,Georgia Tech
-team,Indiana
-team,Clemson
-team,George Mason
-team,Ohio
-team,Vermont
-team,Georgia Southern
-team,Purdue
-team,Pennsylvania
-team,James Madison
-team,Georgetown
-team,New Hampshire
-team,Elon
-team,Case Western
-tournament,Non-Sanctioned 2019\FCS D-III Tune Up 2019
-team,Elon
-team,Oberlin
-team,Xavier
-team,Navy
-team,North Carolina
-team,Messiah
-team,Mary Washington
-team,Georgia College
-team,Florida Tech
-team,Davidson
-team,Air Force
-team,Campbell
-team,Franciscan
-team,Richmond
-team,Rensselaer Polytech
-team,Samford
-team,Missouri S
-team,Anderson
-team,Berry
-team,High Point
-team,Middlebury
-tournament,Non-Sanctioned 2019\First Annual Jaxx Jamboree
-team,Georgia Tech
-team,Union
-team,Illinois
-team,Belmont
-team,Alabama
-team,Indiana
-team,Truman State
-tournament,Non-Sanctioned 2019\Flat Tail Open 2019- Men's
-team,Oregon
-team,Washington State
-team,Western Washington
-team,Oregon State
-team,Humboldt State
-team,Lewis
-team,Washington
-team,Whitman
-team,Nevada
-team,Gonzaga
-team,Portland State
-team,Puget Sound
-tournament,Non-Sanctioned 2019\Florida Warm Up 2019
-team,Kansas
-team,Kennesaw State
-team,Alabama
-team,Texas
-team,Texas A
-team,South Carolina
-team,Rutgers
-team,Michigan
-team,Northeastern
-team,Northwestern
-team,Georgia
-team,Illinois State
-team,Central Florida
-team,Tufts
-team,LSU
-team,Brigham Young
-team,Cornell
-team,Pittsburgh
-team,Virginia Tech
-team,Florida State
-team,Boston College
-team,Florida
-team,Harvard
-team,Carleton College
-team,Emory
-team,Oklahoma
-team,Cincinnati
-team,Brown
-team,Wisconsin
-team,Minnesota
-team,South Florida
-team,Temple
-team,Florida Gulf
-team,Embry
-team,North Florida
-team,Florida Tech
-team,High Point
-team,Stetson
-tournament,Non-Sanctioned 2019\G-Dub Fyre Fest 2019
-team,Virginia
-team,Maryland
-team,George Washington
-team,Rutgers
-team,Shenandoah
-team,Kentucky
-team,Virginia Tech
-team,American
-tournament,Non-Sanctioned 2019\Garden State 9
-team,Bryant University
-team,Fairfield
-team,Stevens Tech
-team,Penn State
-team,Navy
-team,West Virginia
-team,College of
-team,Dickinson
-team,Salisbury
-team,Sacred Heart
-team,Lancaster Bible
-team,Princeton
-team,Susquehanna
-team,Temple
-team,Slippery Rock
-team,Lehigh
-tournament,Non-Sanctioned 2019\Huck Finn XXIII
-team,Vermont
-team,Texas Tech
-team,Michigan
-team,Texas A
-team,Cincinnati
-team,Illinois State
-team,Iowa State
-team,Illinois
-team,Washington University
-team,Tulane
-team,Marquette
-team,Florida State
-team,Chicago
-team,Kansas
-team,Arizona State
-team,Purdue
-team,John Brown
-team,Carnegie Mellon
-team,Arkansas
-tournament,Non-Sanctioned 2019\Huckin' in the Hills VI
-team,Kent State
-team,Indiana
-team,Akron
-team,Pittsburgh
-team,Carnegie Mellon
-team,Dayton
-team,SUNY
-team,West Virginia
-team,Case Western
-team,American
-tournament,Non-Sanctioned 2019\Hucktastic Spring 2019
-team,Franklin
-team,New Jersey
-team,Villanova
-team,Haverford
-team,Catholic
-team,Pennsylvania
-team,Swarthmore
-team,Millersville
-team,Muhlenberg
-team,West Chester
-team,Jefferson
-team,Delaware
-tournament,Non-Sanctioned 2019\I-85 Rodeo 2019
-team,William
-team,Virginia Tech
-team,Cedarville
-team,Maryland
-team,Cornell
-team,High Point
-team,Virginia
-team,South Carolina
-team,James Madison
-team,Wake Forest
-tournament,Non-Sanctioned 2019\Illinois Invite 8
-team,Wisconsin
-team,Toledo
-team,Michigan State
-team,Michigan
-team,Loyola
-team,DePaul
-team,Northern Iowa
-team,Grand Valley
-team,Purdue
-team,Illinois State
-team,Indiana
-team,Missouri State
-team,Washington University
-team,Illinois
-tournament,Non-Sanctioned 2019\Last Call 10
-team,Reaper Alum
-team,Eastern Illinois
-team,Wisconsin
-team,Illinois
-team,DePaul
-team,Bradley
-team,Minnesota
-tournament,Non-Sanctioned 2019\Layout Pigout 2019
-team,Jefferson
-team,Kenyon
-team,Bowdoin
-team,SUNY
-team,Haverford
-team,Bates College
-team,Swarthmore
-team,Army
-team,Muhlenberg
-team,Franciscan
-team,Catholic
-team,Brandeis
-team,Bentley
-tournament,Non-Sanctioned 2019\LolaPaLweiston
-team,Bates College
-team,Brandeis
-team,Colby
-team,Emerson
-tournament,Non-Sanctioned 2019\Mardi Gras XXXII
-team,Florida
-team,Texas State
-team,LSU
-team,Alabama
-team,Wisconsin
-team,Texas Tech
-team,Minnesota State
-team,Texas
-team,Texas A
-team,North Florida
-team,Mississippi
-team,Texas Christian
-team,Georgia State
-team,Sul Ross
-team,Florida State
-team,Sam Houston
-team,Mississippi State
-team,Trinity
-tournament,Non-Sanctioned 2019\Mash-Up 2019
-team,University of
-team,Campbell
-team,New Hampshire
-team,SUNY
-team,Ohio
-team,Delaware
-team,Rhode Island
-team,North Carolina
-tournament,Non-Sanctioned 2019\Meltdown 2019
-team,Marquette
-team,Coe
-team,Loyola
-team,Milwaukee School
-team,Winona State
-team,Wisconsin
-team,Northern Illinois
-team,Illinois State
-team,Valparaiso
-team,Truman State
-team,Olivet Nazarene
-team,North Park
-team,Carthage College
-team,Purdue
-team,Wheaton
-team,Illinois
-team,Grand Valley
-team,Southern Illinois
-tournament,Non-Sanctioned 2019\Mid-Atlantic Warmup 2019
-team,Tennessee
-team,Drexel University
-team,William
-team,Case Western
-team,James Madison
-team,Davidson
-team,Williams
-team,Liberty
-team,Vermont
-team,North Carolina
-team,Mary Washington
-team,Virginia Commonwealth
-team,Richmond
-team,George Mason
-team,Lehigh
-team,SUNY
-team,George Washington
-tournament,Non-Sanctioned 2019\Midwest Throwdown 2019
-team,Marquette
-team,Saint Louis
-team,Iowa
-team,Wisconsin
-team,St Olaf
-team,St John
-team,Missouri State
-team,Missouri
-team,Northern Iowa
-team,Southern Illinois
-tournament,Non-Sanctioned 2019\Mill City Throwdown 2019
-team,Massachusetts
-team,Amherst College
-team,Worcester Polytech
-team,Bates College
-team,Bentley
-tournament,Non-Sanctioned 2019\Music City Tune-Up 2019
-team,Middle Tennessee
-team,Belmont
-team,Vanderbilt
-team,Union
-team,Vanderbilt University
-tournament,Non-Sanctioned 2019\New Year Fest 2019
-team,Brigham Young
-team,Arizona State
-team,Grand Canyon
-team,The University
-team,Colorado State
-team,University of
-team,Denver
-team,Air Force
-team,Arizona
-team,Northern Arizona
-tournament,Non-Sanctioned 2019\No Sleep 'Till Brooklyn
-team,SUNY
-team,Cornell
-team,NYU
-team,Hofstra
-team,Rowan
-team,Columbia
-team,Marist
-team,Tufts
-tournament,Non-Sanctioned 2019\Oak Creek Challenge 2019
-team,Liberty
-team,American
-team,Rutgers
-team,North Carolina
-team,Wake Forest
-team,Princeton
-team,Towson
-team,Shippensburg
-team,Maryland
-team,Drexel University
-team,Brandeis
-team,Salisbury
-team,Cedarville
-team,Navy
-team,Lehigh
-team,RIT
-team,Christopher Newport
-team,West Chester
-team,East Carolina
-team,Virginia Commonwealth
-tournament,Non-Sanctioned 2019\Oak Creek Invite 2019
-team,James Madison
-team,Delaware
-team,Michigan
-team,Princeton
-team,SUNY
-team,Maryland
-team,George Mason
-team,Cornell
-team,Drexel
-team,Temple
-team,Johns Hopkins
-team,Penn State
-team,North Carolina
-team,Virginia Tech
-team,William
-team,East Carolina
-team,Connecticut
-team,Williams
-team,Georgetown
-tournament,Non-Sanctioned 2019\Old Capitol Open 2019
-team,Carleton Hot
-team,Northwestern
-team,Indiana
-team,Drake
-team,Luther
-team,St John
-team,Bethel
-team,Cornell College
-team,Iowa
-team,Nebraska
-team,Wisconsin
-team,Creighton
-team,Minnesota
-team,Coe
-team,Kansas State
-team,Chicago
-tournament,Non-Sanctioned 2019\Palouse Open 2019
-team,Washington State
-team,Central Washington
-team,Oregon State
-team,Idaho
-team,Whitworth
-team,Portland State
-team,Boise State
-team,Western Washington
-tournament,Non-Sanctioned 2019\Presidents' Day Invite 2019
-team,Western Washington
-team,UCLA
-team,Oregon
-team,California
-team,Cal Poly
-team,Utah
-team,Colorado
-team,San Diego
-team,British Columbia
-team,Santa Clara
-team,Southern California
-team,Illinois
-tournament,Non-Sanctioned 2019\Queen City Tune Up 2019 (Men)
-team,Ohio State
-team,Dartmouth
-team,North Carolina
-team,Appalachian State
-team,Tennessee
-team,Penn State
-team,Clemson
-team,Maryland
-team,Tulane
-team,Massachusetts
-team,Notre Dame
-team,Alabama
-team,Carnegie Mellon
-team,Virginia
-team,Ohio
-team,Auburn
-team,Chicago
-tournament,Non-Sanctioned 2019\Royal Crown Classic 2019
-team,Georgia Southern
-team,Columbus State
-team,Mississippi State
-team,Miami
-team,Florida Tech
-team,Troy
-team,Berry
-team,Central Arkansas
-tournament,Non-Sanctioned 2019\Santa Barbara Invite 2019
-team,California
-team,Michigan State
-team,Washington
-team,Southern California
-team,Arizona
-team,Cal Poly
-team,Texas
-team,Western Washington
-team,Dartmouth
-team,Stanford
-team,Victoria
-team,Connecticut
-team,Brigham Young
-team,British Columbia
-team,UCLA
-team,Colorado State
-team,Santa Clara
-tournament,Non-Sanctioned 2019\Shamrock Showdown 2019
-team,Middle Tennessee
-team,Southern Indiana
-team,Iowa
-team,Ball State
-team,Miami
-team,Vanderbilt
-team,Arkansas State
-team,Missouri
-team,Tennessee Tech
-team,Northern Illinois
-tournament,Non-Sanctioned 2019\Spring Awakening 8
-team,Ithaca
-team,Colgate
-team,Bowdoin
-team,Rensselaer Polytech
-team,Wentworth
-team,Boston University
-team,Rhode Island
-team,Dickinson
-team,Skidmore
-team,Army
-team,Ursinus
-team,Vermont
-team,Susquehanna
-team,Cornell
-team,Saint Joseph
-tournament,Non-Sanctioned 2019\Stanford Invite 2019
-team,Victoria
-team,Wisconsin
-team,North Carolina
-team,Stanford
-team,Brown
-team,Colorado State
-team,Carleton College
-team,Washington
-team,Brigham Young
-team,Northwestern
-team,Ohio State
-team,California
-team,Oregon
-team,Cal Poly
-team,Colorado
-team,Minnesota
-team,Texas
-tournament,Non-Sanctioned 2019\Stanford Open 2019
-team,Duke
-team,Portland
-team,California
-team,Seven Hills
-team,Cal Poly
-team,Colorado School
-team,Stanford
-team,Washington University
-team,Santa Clara
-team,San Jose
-team,Texas
-team,Whitman
-team,UCLA
-team,Coup Red
-team,Utah State
-team,Humboldt State
-team,Whitworth
-team,Chico State
-team,North Texas
-team,Arizona
-team,Lewis
-team,Las Positas
-team,Washington
-team,Occidental
-team,Sonoma State
-team,Air Force
-team,Nevada
-team,Carleton College
-team,Control
-team,Sacramento State
-team,Oregon
-team,Claremont
-tournament,Non-Sanctioned 2019\Strong Island Invitational 2019
-team,SUNY
-team,Massachusetts
-team,Syracuse
-team,Hofstra
-team,Northeastern
-tournament,Non-Sanctioned 2019\T-Town-Throwdown
-team,Kennesaw State
-team,Illinois State
-team,Auburn
-team,Alabama
-team,LSU
-team,Kentucky
-team,Illinois
-team,Mississippi State
-team,Vanderbilt
-team,Georgia State
-team,Mississippi
-team,Southern Mississippi
-tournament,Non-Sanctioned 2019\Tally Classic XIV
-team,Georgia Tech
-team,Embry
-team,Central Florida
-team,Florida Tech
-team,Florida
-team,Florida State
-team,South Florida
-team,Columbus State
-team,Stetson
-team,North Georgia
-team,Notre Dame
-team,Alabama
-team,Georgia Southern
-team,Tennessee
-team,Minnesota
-team,Auburn
-team,Cincinnati
-team,Mississippi State
-team,Georgia State
-team,Clemson
-team,Harvard
-team,Tulane
-tournament,Non-Sanctioned 2019\Tea Cup 2019
-team,Amherst College
-team,Tufts
-team,Yale
-team,SUNY
-team,Columbia
-team,Hartford
-team,Boston College
-team,Worcester Polytech
-team,Northeastern
-team,Wentworth
-team,Connecticut
-team,University of
-team,Rutgers
-team,SUNY Oneonta
-team,Southern Connecticut
-tournament,Non-Sanctioned 2019\The Mightiest Huck 2019
-team,University of
-team,Sacred Heart
-team,Stonehill
-team,Massachusetts
-team,Yale
-team,Southern Connecticut
-tournament,Non-Sanctioned 2019\Towson Cup 2019
-team,St Mary
-team,Maryland
-team,SUNY
-team,Towson
-team,Lancaster Bible
-team,American
-team,Delaware
-team,SUNY Oneonta
-tournament,Non-Sanctioned 2019\Trouble in Vegas 2019
-team,Southern California
-team,Florida
-team,Nevada
-team,Chico State
-team,Montana State
-team,California
-team,Northern Arizona
-team,Cal Poly
-team,Wisconsin
-team,Colorado Mesa
-team,San Diego
-team,Occidental
-team,New Mexico
-team,Colorado
-team,Utah State
-team,Cal State
-team,Miami
-team,Boise State
-team,Arizona
-team,Arizona State
-team,Colorado School
-team,Ottawa
-team,UCLA
-team,Utah
-tournament,Non-Sanctioned 2019\Ugly Dome I 2019
-team,Macalester
-team,Minnesota
-team,Carleton Hot
-team,Winona State
-team,Bethel
-tournament,Non-Sanctioned 2019\Ugly Dome II 2019
-team,Wisconsin
-team,Minnesota
-team,Drake
-team,St
-tournament,Non-Sanctioned 2019\Uprising 8
-team,Colgate
-team,Rochester
-team,Williams
-team,Amherst Regional
-team,Rensselaer Polytech
-team,SUNY
-team,Siena
-team,Maine
-team,Ithaca
-team,Emerson
-team,Skidmore
+id,category
+Sanctioned Games\Atlantic Coast D-I College Men's Regionals,tournament
+Johns Hopkins,team
+East Carolina,team
+North Carolina,team
+Duke,team
+North Carolina State,team
+Virginia,team
+Maryland,team
+Appalachian State,team
+North Carolina-Wilmington,team
+Liberty,team
+William & Mary,team
+James Madison,team
+South Carolina,team
+Georgetown,team
+Virginia Tech,team
+Sanctioned Games\Atlantic Coast D-III College Men's Regionals,tournament
+Davidson,team
+High Point,team
+Mary Washington,team
+Navy,team
+North Carolina-Asheville,team
+Christopher Newport,team
+Richmond,team
+Elon,team
+Sanctioned Games\Atlantic Coast Dev College Men's Regionals,tournament
+Virginia Tech,team
+American,team
+Delaware,team
+South Carolina,team
+Maryland,team
+George Washington,team
+Virginia,team
+James Madison,team
+Sanctioned Games\Big Sky D-I College Men's CC,tournament
+Utah State,team
+Montana State,team
+Brigham Young,team
+Montana,team
+Idaho,team
+Boise State,team
+Washington State,team
+Gonzaga,team
+Utah,team
+Sanctioned Games\Carolina D-I College Men's CC,tournament
+North Carolina,team
+South Carolina,team
+North Carolina-Charlotte,team
+East Carolina,team
+Appalachian State,team
+North Carolina State,team
+Duke,team
+North Carolina-Wilmington,team
+Charleston,team
+Clemson,team
+Wake Forest,team
+Sanctioned Games\Carolina D-III College Men's CC,tournament
+North Carolina-Asheville,team
+High Point,team
+Anderson,team
+Campbell,team
+Davidson,team
+Elon,team
+Sanctioned Games\Cascadia D-I College Men's CC,tournament
+Western Washington,team
+Oregon State,team
+Oregon,team
+Washington,team
+Victoria,team
+British Columbia,team
+Sanctioned Games\Colonial D-I College Men's CC,tournament
+Maryland-Baltimore County,team
+Salisbury,team
+Johns Hopkins,team
+Georgetown,team
+American,team
+Maryland,team
+George Washington,team
+Delaware,team
+Towson,team
+Sanctioned Games\Colonial Dev College Men's CC,tournament
+George Washington,team
+Georgetown,team
+Maryland,team
+Towson,team
+Delaware,team
+American,team
+Maryland-Baltimore County,team
+Sanctioned Games\D-I College Championships,tournament
+Georgia,team
+Minnesota,team
+Ohio State,team
+California,team
+North Carolina,team
+Brown,team
+Iowa State,team
+North Carolina State,team
+Michigan,team
+Texas,team
+Oregon,team
+Tufts,team
+Wisconsin,team
+Victoria,team
+Pittsburgh,team
+Colorado,team
+Northeastern,team
+Washington,team
+Rutgers,team
+Cal Poly-SLO,team
+Sanctioned Games\D-III College Championships,tournament
+Michigan Tech,team
+Hamilton,team
+Middlebury,team
+Franciscan,team
+Air Force,team
+Portland,team
+Bryant University,team
+Claremont,team
+Carleton College-GoP,team
+Missouri S&T,team
+Colby,team
+Berry,team
+Richmond,team
+Luther,team
+Bowdoin,team
+Valparaiso,team
+Sanctioned Games\Desert D-I College Men's CC,tournament
+New Mexico,team
+Northern Arizona,team
+Arizona,team
+Arizona State,team
+Grand Canyon,team
+Sanctioned Games\East Penn D-I College Men's CC,tournament
+Drexel,team
+Millersville,team
+Temple,team
+West Chester,team
+Villanova,team
+Lehigh,team
+Pennsylvania,team
+Saint Joseph's,team
+Sanctioned Games\East Penn D-III College Men's CC,tournament
+Jefferson,team
+Lehigh,team
+Swarthmore,team
+Ursinus,team
+Haverford,team
+Lancaster Bible,team
+Muhlenberg,team
+Scranton,team
+Sanctioned Games\East Plains D-I College Men's CC,tournament
+Indiana,team
+Ball State,team
+Notre Dame,team
+Southern Indiana,team
+Purdue,team
+Kentucky,team
+Sanctioned Games\East Plains D-III College Men's CC,tournament
+Butler,team
+Kalamazoo,team
+Indiana Wesleyan,team
+Kettering,team
+Valparaiso,team
+Rose-Hulman,team
+Sanctioned Games\Eastern Southeast D-III College Men's CC,tournament
+North Georgia,team
+Dalton State,team
+Georgia College,team
+Stetson,team
+Berry,team
+Embry-Riddle Florida,team
+Florida Tech,team
+Ave Maria,team
+Sanctioned Games\Florida D-I College Men's CC,tournament
+South Florida,team
+Miami,team
+Central Florida,team
+Florida Atlantic,team
+Florida State,team
+North Florida,team
+Florida,team
+Florida Gulf Coast,team
+Sanctioned Games\Great Lakes D-I College Men's Regionals,tournament
+Michigan,team
+Chicago,team
+Illinois State,team
+Grand Valley State,team
+Kentucky,team
+Notre Dame,team
+Purdue,team
+Northwestern,team
+Indiana,team
+Loyola-Chicago,team
+Illinois,team
+Sanctioned Games\Great Lakes D-III College Men's Regionals,tournament
+Valparaiso,team
+Eastern Illinois,team
+Knox,team
+North Park,team
+Butler,team
+Wheaton Illinois,team
+Olivet Nazarene,team
+Rose-Hulman,team
+Sanctioned Games\Great Lakes Dev College Men's CC,tournament
+Michigan,team
+Indiana,team
+Michigan State,team
+Chicago,team
+Kentucky,team
+Illinois,team
+Notre Dame,team
+Northwestern,team
+Purdue,team
+Sanctioned Games\Greater New England D-I College Men's CC,tournament
+Massachusetts,team
+Rhode Island,team
+Vermont,team
+Maine,team
+New Hampshire,team
+Brown,team
+Sanctioned Games\Greater New England Dev College Men's CC,tournament
+Massachusetts,team
+Amherst College,team
+Massachusetts Amherst,team
+Dartmouth,team
+Brown,team
+Colby,team
+Vermont,team
+Sanctioned Games\Gulf Coast D-I College Men's CC,tournament
+Alabama-Birmingham,team
+Troy,team
+Tulane,team
+Mississippi State,team
+Auburn,team
+Alabama-Huntsville,team
+Southern Mississippi,team
+Alabama,team
+LSU,team
+Jacksonville State,team
+Vanderbilt,team
+Middle Tennessee State,team
+Mississippi,team
+Sanctioned Games\Hudson Valley D-I College Men's CC,tournament
+Yale,team
+Sacred Heart,team
+Southern Connecticut State,team
+SUNY-New Paltz,team
+Connecticut,team
+SUNY-Albany,team
+Sanctioned Games\Hudson Valley D-III College Men's CC,tournament
+Rensselaer Polytech,team
+Union,team
+Marist,team
+Skidmore,team
+New Haven,team
+Army,team
+Vassar,team
+Hartford,team
+Saint Rose,team
+Wesleyan,team
+Sanctioned Games\Illinois D-I College Men's CC,tournament
+Illinois State,team
+Illinois-Chicago,team
+Illinois,team
+Loyola-Chicago,team
+Northwestern,team
+DePaul,team
+Chicago,team
+Northern Illinois,team
+Sanctioned Games\Illinois D-III College Men's CC,tournament
+Knox,team
+Olivet Nazarene,team
+North Park,team
+Wheaton Illinois,team
+Eastern Illinois,team
+Sanctioned Games\Lake Superior D-I College Men's CC,tournament
+Wisconsin-Milwaukee,team
+Wisconsin-Oshkosh,team
+Wisconsin,team
+Wisconsin-Eau Claire,team
+Marquette,team
+Northern Michigan,team
+Wisconsin- La Crosse,team
+Wisconsin-Stevens Point,team
+Wisconsin-Whitewater,team
+Sanctioned Games\Lake Superior D-III College Men's CC,tournament
+Wisconsin-Platteville,team
+Carthage College,team
+Wisconsin-River Falls,team
+Wisconsin-Green Bay,team
+Michigan Tech,team
+Milwaukee School of Engineering,team
+Sanctioned Games\Metro Boston D-I College Men's CC,tournament
+Harvard,team
+Massachusetts- Dartmouth,team
+Tufts,team
+Massachusetts-Lowell,team
+Northeastern,team
+Boston University,team
+Boston College,team
+MIT,team
+Sanctioned Games\Metro Boston D-III College Men's CC,tournament
+Wentworth,team
+Wheaton MA,team
+Brandeis,team
+Bentley,team
+Stonehill,team
+Sanctioned Games\Metro Boston Dev College Men's CC,tournament
+Harvard,team
+Tufts,team
+Northeastern,team
+MIT,team
+Sanctioned Games\Metro East D-I College Men's Regionals,tournament
+Rutgers,team
+SUNY-Buffalo,team
+Syracuse,team
+SUNY-Binghamton,team
+SUNY-Albany,team
+Connecticut,team
+RIT,team
+SUNY-Stony Brook,team
+Cornell,team
+Princeton,team
+NYU,team
+Yale,team
+Sanctioned Games\Metro East D-III College Men's Regionals,tournament
+Marist,team
+SUNY-Fredonia,team
+SUNY-Geneseo,team
+SUNY-Oneonta,team
+Stevens Tech,team
+Hamilton,team
+Colgate,team
+Rensselaer Polytech,team
+Wesleyan,team
+Ithaca,team
+Rochester,team
+Army,team
+Sanctioned Games\Metro East Dev College Men's CC,tournament
+Connecticut,team
+Rutgers,team
+SUNY-Stony Brook,team
+Princeton,team
+Yale,team
+SUNY-Binghamton,team
+SUNY Oneonta,team
+Cornell,team
+SUNY-Albany,team
+SUNY-Buffalo,team
+Sanctioned Games\Metro NY D-I College Men's CC,tournament
+Rutgers,team
+Columbia,team
+New Jersey Tech,team
+NYU,team
+Princeton,team
+Rowan,team
+SUNY-Stony Brook,team
+Hofstra,team
+Sanctioned Games\Metro NY D-III College Men's CC,tournament
+Stevens Tech,team
+New York Tech,team
+College of New Jersey,team
+Sanctioned Games\Michigan D-I College Men's CC,tournament
+Michigan,team
+Western Michigan,team
+Grand Valley State,team
+Michigan State,team
+Sanctioned Games\New England D-I College Men's Regionals,tournament
+Northeastern,team
+MIT,team
+Boston College,team
+Massachusetts,team
+Brown,team
+Vermont,team
+Tufts,team
+Harvard,team
+New Hampshire,team
+Dartmouth,team
+Sanctioned Games\New England D-III College Men's Regionals,tournament
+Bowdoin,team
+Williams,team
+Middlebury,team
+Bentley,team
+Bryant University,team
+Brandeis,team
+Colby,team
+Bates College,team
+Sanctioned Games\New England Dev College Men's Regionals,tournament
+Dartmouth,team
+Brown,team
+Massachusetts Amherst,team
+Northeastern,team
+Sanctioned Games\NorCal D-I College Men's CC,tournament
+California-Davis,team
+California-Santa Cruz,team
+Humboldt State,team
+Las Positas,team
+California,team
+Sacramento State,team
+Fresno State,team
+Stanford,team
+Sonoma State,team
+Santa Clara,team
+Nevada-Reno,team
+Chico State,team
+San Jose State,team
+Sanctioned Games\North Central D-I College Men's Regionals,tournament
+Minnesota,team
+Minnesota-Duluth,team
+Marquette,team
+Northern Iowa,team
+Carleton College-CUT,team
+Wisconsin-Milwaukee,team
+Wisconsin,team
+Iowa,team
+Iowa State,team
+Wisconsin-Whitewater,team
+Minnesota State-Mankato,team
+Sanctioned Games\North Central D-III College Men's Regionals,tournament
+Winona State,team
+St John's,team
+St Olaf,team
+St. Thomas,team
+Michigan Tech,team
+Macalester,team
+Wisconsin-Platteville,team
+Carleton College-GoP,team
+Luther,team
+Carleton Hot Karls,team
+Sanctioned Games\North Central Dev College Men's CC,tournament
+Marquette,team
+Wisconsin,team
+Minnesota,team
+Luther,team
+Iowa State,team
+Wisconsin-Milwaukee,team
+Sanctioned Games\North New England D-III College Men's CC,tournament
+Dartmouth,team
+Colby,team
+Middlebury,team
+Bowdoin,team
+Bates College,team
+Sanctioned Games\North Texas D-I College Men's CC,tournament
+Stephen F. Austin,team
+North Texas,team
+Baylor,team
+Texas-Arlington,team
+Texas Tech,team
+Texas Christian,team
+Southern Methodist,team
+Texas-Dallas,team
+Sanctioned Games\Northern Atlantic Coast D-III College Men's CC,tournament
+Catholic,team
+Roanoke,team
+Richmond,team
+Navy,team
+Mary Washington,team
+Shenandoah,team
+Christopher Newport,team
+St Mary's Maryland,team
+Sanctioned Games\Northwest D-I College Men's Regionals,tournament
+Victoria,team
+Utah,team
+Montana,team
+Idaho,team
+Washington,team
+British Columbia,team
+Oregon,team
+Oregon State,team
+Whitman,team
+Montana State,team
+Utah State,team
+Boise State,team
+Sanctioned Games\Northwest D-III College Men's CC,tournament
+Portland,team
+Willamette University,team
+Whitman,team
+Pacific Lutheran,team
+Lewis & Clark,team
+Whitworth,team
+Puget Sound,team
+Seattle,team
+Sanctioned Games\Northwoods D-I College Men's CC,tournament
+Minnesota,team
+Minnesota-Duluth,team
+Carleton College-CUT,team
+Minnesota State-Mankato,team
+North Dakota State,team
+Sanctioned Games\Northwoods D-III College Men's CC,tournament
+Macalester,team
+Carleton Hot Karls,team
+St Olaf,team
+St John's,team
+Carleton College-GoP,team
+Bethel,team
+Winona State,team
+St. Thomas,team
+Sanctioned Games\Ohio D-I College Men's CC,tournament
+Toledo,team
+Kent State,team
+Ohio State,team
+Miami Ohio,team
+Cincinnati,team
+Ohio,team
+Dayton,team
+Case Western Reserve,team
+Wright State,team
+Akron,team
+Cleveland State,team
+Sanctioned Games\Ohio D-III College Men's CC,tournament
+John Carroll,team
+Ohio Wesleyan,team
+Franciscan,team
+Kenyon,team
+Oberlin,team
+Cedarville,team
+Xavier,team
+Denison,team
+Wooster,team
+Ohio Northern,team
+Sanctioned Games\Ohio Valley D-I College Men's Regionals,tournament
+Pittsburgh,team
+Carnegie Mellon,team
+Ohio,team
+Ohio State,team
+Villanova,team
+Drexel,team
+Temple,team
+Cincinnati,team
+Miami Ohio,team
+Case Western Reserve,team
+Dayton,team
+Penn State,team
+Lehigh,team
+Pennsylvania,team
+West Chester,team
+Sanctioned Games\Ohio Valley D-III College Men's Regionals,tournament
+Messiah,team
+Lehigh,team
+Muhlenberg,team
+Xavier,team
+Wooster,team
+Oberlin,team
+Swarthmore,team
+Grove City,team
+Franciscan,team
+Shippensburg,team
+Haverford,team
+Cedarville,team
+Sanctioned Games\Ohio Valley Dev College Men's CC,tournament
+Penn State,team
+Oberlin,team
+Ohio State,team
+Pennsylvania,team
+Pittsburgh,team
+Temple,team
+Case Western Reserve,team
+Sanctioned Games\Ozarks D-I College Men's CC,tournament
+Oklahoma,team
+Washington University,team
+Missouri,team
+Missouri State,team
+Arkansas,team
+Oklahoma State,team
+Saint Louis,team
+Kansas,team
+Central Arkansas,team
+Kansas State,team
+Sanctioned Games\Ozarks D-III College Men's CC,tournament
+Truman State,team
+Missouri S&T,team
+John Brown,team
+Tulsa,team
+Harding,team
+Sanctioned Games\Rocky Mountain D-I College Men's CC,tournament
+Denver,team
+Colorado State,team
+Colorado,team
+Colorado Mesa,team
+Colorado-Colorado Springs,team
+Colorado-Denver,team
+Sanctioned Games\Rocky Mountain D-III College Men's CC,tournament
+Colorado College,team
+Air Force,team
+Colorado School of Mines,team
+Sanctioned Games\SoCal D-I College Men's CC,tournament
+California-Santa Barbara,team
+Cal Poly-Pomona,team
+Cal Poly-SLO,team
+California-Irvine,team
+Cal State-Long Beach,team
+San Diego State,team
+Loyola Marymount,team
+UCLA,team
+California-San Diego,team
+Southern California,team
+Sanctioned Games\South Central D-I College Men's Regionals,tournament
+Colorado,team
+Texas-Dallas,team
+Colorado State,team
+Texas,team
+Texas A&M,team
+Texas Tech,team
+Oklahoma,team
+Oklahoma State,team
+Texas State,team
+Baylor,team
+Saint Louis,team
+Arkansas,team
+Kansas,team
+Washington University,team
+Kansas State,team
+Sanctioned Games\South Central D-III College Men's Regionals,tournament
+Colorado School of Mines,team
+Trinity,team
+Rice,team
+John Brown,team
+Air Force,team
+Truman State,team
+Missouri S&T,team
+Colorado College,team
+Sanctioned Games\South New England D-III College Men's CC,tournament
+Williams,team
+Clark,team
+Worcester Polytech,team
+Providence College,team
+Bryant University,team
+Amherst College,team
+Sanctioned Games\South Texas D-I College Men's CC,tournament
+Texas State,team
+Texas A&M,team
+Sam Houston State,team
+Texas-Rio Grande Valley,team
+Texas,team
+Texas-San Antonio,team
+Lamar,team
+Houston,team
+Texas-El Paso,team
+Sanctioned Games\Southeast D-I College Men's Regionals,tournament
+Kennesaw State,team
+Emory,team
+Central Florida,team
+Georgia Tech,team
+Georgia,team
+Tulane,team
+Tennessee,team
+Tennessee-Chattanooga,team
+Auburn,team
+Alabama-Huntsville,team
+Florida State,team
+South Florida,team
+Alabama,team
+Florida,team
+LSU,team
+Alabama-Birmingham,team
+Sanctioned Games\Southeast D-III College Men's Regionals,tournament
+Belmont,team
+Stetson,team
+North Georgia,team
+Berry,team
+Samford,team
+Embry-Riddle Florida,team
+Union Tennessee,team
+Florida Tech,team
+Sanctioned Games\Southeast Dev College Men's CC,tournament
+Georgia,team
+South Florida,team
+Georgia Tech,team
+Central Florida,team
+Florida,team
+LSU,team
+Alabama,team
+Florida Tech,team
+Sanctioned Games\Southern Appalachian D-I College Men's CC,tournament
+Georgia,team
+Tennessee-Chattanooga,team
+Georgia State,team
+Tennessee,team
+Georgia Southern,team
+Tennessee Tech,team
+Kennesaw State,team
+Emory,team
+Georgia Tech,team
+Sanctioned Games\Southern Atlantic Coast Dev,tournament
+Virginia Tech,team
+South Carolina,team
+William & Mary,team
+North Carolina State,team
+North Carolina,team
+Virginia,team
+James Madison,team
+Sanctioned Games\Southwest D-I College Men's Regionals,tournament
+California-Davis,team
+Las Positas,team
+Cal Poly-SLO,team
+California-Santa Cruz,team
+Southern California,team
+Stanford,team
+Arizona,team
+Humboldt State,team
+California,team
+New Mexico,team
+California-Santa Barbara,team
+Chico State,team
+California-San Diego,team
+Northern Arizona,team
+UCLA,team
+Santa Clara,team
+Sanctioned Games\Southwest D-III College Men's CC,tournament
+Claremont,team
+Biola Univeristy,team
+Occidental,team
+Caltech,team
+Sanctioned Games\Southwest Dev College Men's CC,tournament
+California-San Diego,team
+Southern California,team
+California,team
+Cal Poly-SLO,team
+California-Santa Barbara,team
+Arizona State,team
+Arizona,team
+UCLA,team
+California-Irvine,team
+Sanctioned Games\Texas D-III College Men's CC,tournament
+Trinity,team
+Dallas Baptist,team
+Abilene Christian,team
+Dallas,team
+Rice,team
+Sul Ross State,team
+Sanctioned Games\Virginia D-I College Men's CC,tournament
+Virginia Tech,team
+Radford,team
+William & Mary,team
+Virginia Commonwealth,team
+Virginia,team
+James Madison,team
+Liberty,team
+George Mason,team
+Sanctioned Games\West Penn D-I College Men's CC,tournament
+Carnegie Mellon,team
+Indiana Pennsylvania,team
+Penn State,team
+West Virginia,team
+Pittsburgh,team
+Slippery Rock,team
+Edinboro,team
+Sanctioned Games\West Penn D-III College Men's CC,tournament
+Allegheny,team
+Bucknell,team
+Messiah,team
+Grove City,team
+Susquehanna,team
+California-Pennsylvania,team
+Shippensburg,team
+Dickinson,team
+Sanctioned Games\West Plains D-I College Men's CC,tournament
+Iowa,team
+Creighton,team
+Northern Iowa,team
+Nebraska-Omaha,team
+Iowa State,team
+Nebraska,team
+Sanctioned Games\West Plains D-III College Men's CC,tournament
+Grinnell,team
+Coe,team
+Luther,team
+Drake,team
+Cornell College,team
+Sanctioned Games\Western NY D-I College Men's CC,tournament
+Syracuse,team
+SUNY-Binghamton,team
+Cornell,team
+RIT,team
+SUNY-Buffalo,team
+Sanctioned Games\Western NY D-III College Men's CC,tournament
+Colgate,team
+Ithaca,team
+SUNY-Geneseo,team
+SUNY-Cortland,team
+Rochester,team
+St Lawrence University,team
+SUNY-Oneonta,team
+SUNY-Fredonia,team
+Hamilton,team
+Sanctioned Games\Western Southeast D-III College Men's CC,tournament
+Belmont,team
+Johnson,team
+Samford,team
+Union Tennessee,team
+Non-Sanctioned\19th Annual PLU BBQ Open,tournament
+Washington,team
+Pacific Lutheran,team
+Washington State,team
+Oregon State,team
+Gonzaga,team
+Willamette University,team
+Whitworth,team
+Lewis & Clark,team
+Seattle,team
+Western Washington University,team
+Non-Sanctioned\2019 NW Challenge - Men's Tier 1,tournament
+Brigham Young,team
+Whitman,team
+Victoria,team
+Western Washington,team
+Oregon State,team
+Stanford,team
+Washington,team
+British Columbia,team
+Cal Poly-SLO,team
+Non-Sanctioned\2019 NW Challenge - Tier 2 & 3,tournament
+Lewis & Clark,team
+Puget Sound,team
+Pacific Lutheran,team
+Western Washington,team
+Gonzaga,team
+Portland,team
+Washington State,team
+Washington,team
+Idaho,team
+Montana,team
+Brigham Young,team
+Non-Sanctioned\2019 SoCal Mixer,tournament
+California-Irvine,team
+Grand Canyon,team
+Caltech,team
+Occidental,team
+Cal Poly-Pomona,team
+Biola Univeristy,team
+Claremont,team
+California-San Diego,team
+Non-Sanctioned\5th Annual West Point Classic,tournament
+Army,team
+Marist,team
+Non-Sanctioned\Air Force Invite 2019,tournament
+Colorado,team
+Colorado-Denver,team
+Colorado School of Mines,team
+New Mexico,team
+Colorado Mesa,team
+Colorado Cutthroat,team
+Air Force,team
+Colorado-Colorado Springs,team
+Non-Sanctioned\Atlantic City 9,tournament
+Stevens Tech,team
+SUNY-Albany,team
+Bates College,team
+Salisbury,team
+SUNY-New Paltz,team
+MIT,team
+SUNY-Cortland,team
+Yale,team
+College of New Jersey,team
+Colby,team
+Brown,team
+SUNY-Binghamton,team
+Rutgers,team
+Non-Sanctioned\Atlantic Coast Open 2019,tournament
+Rutgers,team
+James Madison,team
+Johns Hopkins,team
+Connecticut,team
+Penn State,team
+Georgetown,team
+Middlebury,team
+Duke,team
+Mary Washington,team
+SUNY-Binghamton,team
+MIT,team
+American,team
+Pennsylvania,team
+Lehigh,team
+North Carolina,team
+Towson,team
+NYU,team
+Virginia Commonwealth,team
+Liberty,team
+George Washington,team
+Villanova,team
+George Mason,team
+RIT,team
+Rowan,team
+Christopher Newport,team
+Shenandoah,team
+Non-Sanctioned\Atlantic Coast Showcase,tournament
+Non-Sanctioned\Big D in Little d (Open) 2019,tournament
+Colorado College,team
+Texas-Dallas,team
+Texas State,team
+Texas-San Antonio,team
+Oklahoma,team
+Texas Tech,team
+Southern Methodist,team
+Rice,team
+Oklahoma State,team
+North Texas,team
+John Brown,team
+Kansas State,team
+Nebraska,team
+Stephen F Austin,team
+Sam Houston State,team
+Baylor,team
+Non-Sanctioned\Big Sky Brawl 2019,tournament
+Montana,team
+Utah State,team
+Utah,team
+Boise State,team
+Northern Arizona,team
+Idaho,team
+Brigham Young,team
+Montana State,team
+Denver,team
+Non-Sanctioned\Black Penguins Classic 2019,tournament
+Olivet Nazarene,team
+Southern Indiana,team
+Indiana Wesleyan,team
+Butler,team
+Saint Louis,team
+Notre Dame,team
+Kentucky,team
+Illinois-Chicago,team
+Iowa State,team
+Knox,team
+Eastern Illinois,team
+Northern Michigan,team
+Western Michigan,team
+North Park,team
+Wheaton Illinois,team
+Dayton,team
+Marquette,team
+Rose-Hulman,team
+Valparaiso,team
+Non-Sanctioned\Boogienights 2019,tournament
+Miami Upper,team
+Miami Ohio,team
+Michigan,team
+Cincinnati,team
+SUNY-Buffalo,team
+Cleveland State,team
+Non-Sanctioned\Carolina Kickoff 2019,tournament
+Carleton College-GoP,team
+Richmond,team
+North Carolina,team
+Duke,team
+North Carolina-Wilmington,team
+Georgia Tech,team
+Georgetown,team
+Tennessee,team
+North Carolina State,team
+Temple,team
+Florida State,team
+Appalachian State,team
+Notre Dame,team
+South Carolina,team
+Emory,team
+Clemson,team
+Non-Sanctioned\Centex 2019 (Men),tournament
+Wisconsin,team
+Illinois,team
+Texas,team
+Texas A&M,team
+Colorado,team
+Texas-Dallas,team
+Colorado State,team
+LSU,team
+Dartmouth,team
+Kansas,team
+Oklahoma State,team
+Arkansas,team
+Texas State,team
+Utah,team
+Oklahoma,team
+Iowa State,team
+Rice,team
+North Texas,team
+Wisconsin-Milwaukee,team
+Trinity,team
+Baylor,team
+Northern Iowa,team
+Stephen F. Austin,team
+Texas-San Antonio,team
+Houston,team
+Non-Sanctioned\Chucktown Throwdown XVI,tournament
+Georgia,team
+Edinboro,team
+North Carolina-Charlotte,team
+Wingate,team
+Charleston,team
+Anderson,team
+Appalachian State,team
+Non-Sanctioned\Classic City Invite 2019,tournament
+North Carolina-Wilmington,team
+Georgia,team
+Northeastern,team
+Georgia Tech,team
+Carnegie Mellon,team
+North Carolina State,team
+South Carolina,team
+Tufts,team
+Tennessee,team
+Massachusetts,team
+Kennesaw State,team
+Florida State,team
+Pittsburgh,team
+Non-Sanctioned\College Southerns XVIII,tournament
+South Florida,team
+Charleston,team
+South Carolina,team
+North Carolina-Asheville,team
+Georgia,team
+Emory,team
+Florida Atlantic,team
+Luther,team
+North Florida,team
+Chicago,team
+Middlebury,team
+Florida,team
+Wisconsin-Eau Claire,team
+Florida Tech,team
+Carleton College-GoP,team
+California-San Diego,team
+Carleton Hot Karls,team
+Georgia Southern,team
+Georgia College,team
+Appalachian State,team
+Non-Sanctioned\CWRUL Memorial 2019,tournament
+Kentucky,team
+RIT,team
+Indiana,team
+Case Western Reserve,team
+Purdue,team
+University of Pittsburgh,team
+Ohio,team
+Vanderbilt,team
+Dayton,team
+Trine,team
+Ball State,team
+Ohio Northern,team
+Xavier,team
+Syracuse,team
+Kenyon,team
+Knox,team
+Wright State,team
+Oberlin,team
+Lehigh,team
+John Carroll,team
+Northwestern,team
+Toledo,team
+Rochester,team
+Michigan,team
+Ohio State,team
+Western Michigan,team
+Cedarville,team
+Non-Sanctioned\D-III Midwestern Invite 2019,tournament
+Minnesota-Duluth,team
+Northwestern,team
+UW Stevens Point,team
+Wisconsin-Oshkosh,team
+Wisconsin-Platteville,team
+Minnesota State-Mankato,team
+Wisconsin-Eau Claire,team
+Macalester,team
+Milwaukee School of Engineering,team
+Michigan Tech,team
+Pacific Lutheran,team
+Portland,team
+Ohio Northern,team
+Missouri S&T,team
+Grinnell,team
+North Park,team
+Indiana Wesleyan,team
+St Olaf,team
+Puget Sound,team
+Oberlin,team
+Rose-Hulman,team
+Brandeis,team
+Winona State,team
+Non-Sanctioned\D3 Eastur 2019,tournament
+Davidson,team
+Ohio State,team
+Shippensburg,team
+Wesleyan,team
+Messiah,team
+Richmond,team
+Non-Sanctioned\Denver Round Robin 2019,tournament
+Denver,team
+Colorado State,team
+Colorado School of Mines,team
+Colorado-Denver,team
+Non-Sanctioned\Desert Duel 2019,tournament
+Arizona,team
+Arizona State,team
+Grand Canyon,team
+Non-Sanctioned\DiscThrow Inferno,tournament
+Kettering,team
+University of Louisville,team
+Denison,team
+Oberlin,team
+Kent State,team
+Non-Sanctioned\Dust Bowl 2019,tournament
+Oklahoma State,team
+Colorado College,team
+Oklahoma,team
+John Brown,team
+Nebraska,team
+Arkansas,team
+Colorado,team
+Missouri,team
+Colorado School of Mines,team
+Arkansas State,team
+Hendrix,team
+Nebraska-Omaha,team
+Dallas Baptist,team
+Central Arkansas,team
+Tulsa,team
+Non-Sanctioned\Easterns 2019 (Men),tournament
+Carleton College-CUT,team
+Harvard,team
+Virginia Tech,team
+Georgia,team
+North Carolina,team
+Brown,team
+Maryland,team
+Auburn,team
+Northeastern,team
+North Carolina State,team
+Pittsburgh,team
+Northwestern,team
+Tufts,team
+William & Mary,team
+North Carolina-Wilmington,team
+Massachusetts,team
+California-Santa Barbara,team
+Minnesota,team
+Virginia,team
+Oregon,team
+Non-Sanctioned\Easterns Qualifier 2019,tournament
+Tennessee-Chattanooga,team
+Johns Hopkins,team
+Connecticut,team
+Virginia,team
+Dayton,team
+Georgia Tech,team
+Indiana,team
+Clemson,team
+George Mason,team
+Ohio,team
+Vermont,team
+Georgia Southern,team
+Purdue,team
+Pennsylvania,team
+James Madison,team
+Georgetown,team
+New Hampshire,team
+Tennessee,team
+Elon,team
+Case Western Reserve,team
+Non-Sanctioned\FCS D-III Tune Up 2019,tournament
+Elon,team
+Oberlin,team
+Xavier,team
+Navy,team
+North Carolina-Asheville,team
+Messiah,team
+Mary Washington,team
+Georgia College,team
+Florida Tech,team
+Davidson,team
+Air Force,team
+Campbell,team
+Franciscan,team
+Richmond,team
+Rensselaer Polytech,team
+Samford,team
+Missouri S&T,team
+Anderson,team
+Berry,team
+High Point,team
+Middlebury,team
+Non-Sanctioned\First Annual Jaxx Jamboree,tournament
+Georgia Tech,team
+Union Tennessee,team
+Illinois,team
+Belmont,team
+Alabama,team
+Indiana,team
+Truman State,team
+Alabama-Huntsville,team
+Non-Sanctioned\Flat Tail Open 2019- Men's,tournament
+Oregon,team
+Washington State,team
+Western Washington,team
+Oregon State,team
+Humboldt State,team
+Lewis & Clark College,team
+Washington,team
+Whitman,team
+Nevada-Reno,team
+Gonzaga,team
+Portland State,team
+Puget Sound,team
+Lewis & Clark,team
+Non-Sanctioned\Florida Warm Up 2019,tournament
+Kansas,team
+Kennesaw State,team
+Alabama-Huntsville,team
+Texas-Dallas,team
+Texas A&M,team
+South Carolina,team
+Rutgers,team
+Michigan,team
+Northeastern,team
+Northwestern,team
+Georgia,team
+Illinois State,team
+Central Florida,team
+Tufts,team
+LSU,team
+Brigham Young,team
+Texas,team
+Cornell,team
+Pittsburgh,team
+Virginia Tech,team
+Florida State,team
+Boston College,team
+Florida,team
+Harvard,team
+Carleton College-CUT,team
+Emory,team
+Oklahoma,team
+Cincinnati,team
+Brown,team
+Wisconsin,team
+Minnesota,team
+South Florida,team
+Temple,team
+Florida Gulf Coast,team
+Embry-Riddle Florida,team
+North Florida,team
+Florida Tech,team
+High Point,team
+Stetson,team
+Non-Sanctioned\Fracas on the Genesse 2019,tournament
+SUNY-Geneseo,team
+Rochester,team
+Non-Sanctioned\G-Dub Fyre Fest 2019,tournament
+Shenandoah,team
+American,team
+Maryland,team
+George Washington,team
+Virginia Tech,team
+Kentucky,team
+Rutgers,team
+Virginia,team
+Non-Sanctioned\Garden State 9,tournament
+Bryant University,team
+Fairfield,team
+Stevens Tech,team
+Penn State,team
+Navy,team
+West Virginia,team
+College of New Jersey,team
+Dickinson,team
+Salisbury,team
+Sacred Heart,team
+Lancaster Bible,team
+Princeton,team
+Susquehanna,team
+Temple,team
+Slippery Rock,team
+Lehigh,team
+Non-Sanctioned\Huck Finn XXIII,tournament
+Vermont,team
+Texas Tech,team
+Michigan,team
+Texas A&M,team
+Cincinnati,team
+Illinois State,team
+Iowa State,team
+Illinois,team
+Washington University,team
+Tulane,team
+Marquette,team
+Florida State,team
+Chicago,team
+Kansas,team
+Arizona State,team
+Purdue,team
+John Brown,team
+Carnegie Mellon,team
+Arkansas,team
+Non-Sanctioned\Huckin' in the Hills VI,tournament
+Kent State,team
+Indiana Pennsylvania,team
+Akron,team
+Pittsburgh,team
+Carnegie Mellon,team
+Dayton,team
+SUNY-Buffalo,team
+West Virginia,team
+Case Western Reserve,team
+American,team
+Non-Sanctioned\Hucktastic Spring 2019,tournament
+Franklin & Marshall,team
+New Jersey Tech,team
+Villanova,team
+Haverford,team
+Catholic,team
+Pennsylvania,team
+Swarthmore,team
+Millersville,team
+Muhlenberg,team
+West Chester,team
+Jefferson,team
+Delaware,team
+Non-Sanctioned\I-85 Rodeo 2019,tournament
+William & Mary,team
+Virginia Tech,team
+Cedarville,team
+Maryland,team
+Cornell,team
+High Point,team
+Virginia,team
+South Carolina,team
+James Madison,team
+Wake Forest,team
+Non-Sanctioned\Illinois Invite 8,tournament
+Wisconsin-Whitewater,team
+Toledo,team
+Wisconsin-Milwaukee,team
+Michigan State,team
+Wisconsin,team
+Michigan,team
+Loyola-Chicago,team
+DePaul,team
+Northern Iowa,team
+Grand Valley State,team
+Wisconsin-Platteville,team
+Purdue,team
+Illinois State,team
+Indiana,team
+Missouri State,team
+Washington University,team
+Illinois,team
+Non-Sanctioned\Indy Invite College 2019,tournament
+Indiana Wesleyan,team
+Eastern Illinois,team
+Butler,team
+Non-Sanctioned\Last Call 10,tournament
+Wisconsin- La Crosse,team
+Illinois,team
+DePaul,team
+Bradley,team
+Eastern Illinois,team
+Minnesota,team
+Non-Sanctioned\Layout Pigout 2019,tournament
+Jefferson,team
+Kenyon,team
+Bowdoin,team
+SUNY-Geneseo,team
+Haverford,team
+Bates College,team
+Swarthmore,team
+Army,team
+Muhlenberg,team
+Franciscan,team
+Catholic,team
+Brandeis,team
+Bentley,team
+Non-Sanctioned\LolaPaLweiston,tournament
+Bates College,team
+Brandeis,team
+Colby,team
+Emerson,team
+Non-Sanctioned\Mardi Gras XXXII,tournament
+Florida,team
+Texas State,team
+LSU,team
+Alabama,team
+Wisconsin-Whitewater,team
+Texas Tech,team
+Minnesota State-Mankato,team
+Texas-San Antonio,team
+Alabama-Birmingham,team
+Texas A&M,team
+North Florida,team
+Mississippi,team
+Texas Christian,team
+Georgia State,team
+Sul Ross State,team
+Florida State,team
+Sam Houston State,team
+Mississippi State,team
+Trinity,team
+Non-Sanctioned\Mash-Up 2019,tournament
+University of Pittsburgh,team
+Campbell,team
+New Hampshire,team
+SUNY-Fredonia,team
+Ohio,team
+Delaware,team
+Rhode Island,team
+North Carolina State,team
+Non-Sanctioned\Meltdown 2019,tournament
+Marquette,team
+Coe,team
+Loyola-Chicago,team
+Milwaukee School of Engineering,team
+Winona State,team
+Wisconsin-Whitewater,team
+Northern Illinois,team
+Illinois State,team
+Valparaiso,team
+Truman State,team
+Olivet Nazarene,team
+North Park,team
+Carthage College,team
+Purdue,team
+Wheaton Illinois,team
+Illinois-Chicago,team
+Grand Valley State,team
+Wisconsin-Stout,team
+Southern Illinois-Edwardsville,team
+Non-Sanctioned\Mid-Atlantic Warmup 2019,tournament
+Tennessee-Chattanooga,team
+Drexel University,team
+William & Mary,team
+Case Western Reserve,team
+James Madison,team
+Davidson,team
+Williams,team
+Liberty,team
+Vermont,team
+North Carolina,team
+Mary Washington,team
+Virginia Commonwealth,team
+Richmond,team
+George Mason,team
+Lehigh,team
+SUNY-Binghamton,team
+George Washington,team
+Non-Sanctioned\Midwest Throwdown 2019,tournament
+Marquette,team
+Saint Louis University,team
+Iowa,team
+Wisconsin-Milwaukee,team
+St Olaf,team
+St John's,team
+Missouri State,team
+Missouri,team
+Northern Iowa,team
+Southern Illinois-Edwardsville,team
+Wisconsin,team
+Non-Sanctioned\Mill City Throwdown 2019,tournament
+Massachusetts-Lowell,team
+Amherst College,team
+Worcester Polytech,team
+Bates College,team
+Bentley,team
+Non-Sanctioned\Millersville Round Robin 2019,tournament
+Maryland-Baltimore County,team
+West Chester,team
+Millersville,team
+Non-Sanctioned\Music City Tune-Up 2019,tournament
+Middle Tennessee State,team
+Belmont,team
+Vanderbilt,team
+Union Tennessee,team
+Vanderbilt University,team
+Non-Sanctioned\New Year Fest 2019,tournament
+Brigham Young,team
+Arizona State,team
+Grand Canyon,team
+The University of Texas at El Paso,team
+Colorado State,team
+University of New Mexico,team
+Denver,team
+Air Force,team
+Arizona,team
+Northern Arizona,team
+Non-Sanctioned\No Sleep 'Till Brooklyn,tournament
+SUNY-Binghamton,team
+Cornell,team
+NYU,team
+Hofstra,team
+Rowan,team
+Columbia,team
+SUNY-Stony Brook,team
+Marist,team
+Tufts,team
+Non-Sanctioned\Oak Creek Challenge 2019,tournament
+Liberty,team
+American,team
+Rutgers,team
+North Carolina,team
+Wake Forest,team
+Princeton,team
+Towson,team
+Shippensburg,team
+Maryland-Baltimore County,team
+Drexel University,team
+Brandeis,team
+Salisbury,team
+Cedarville,team
+Navy,team
+Lehigh,team
+RIT,team
+Christopher Newport,team
+West Chester,team
+East Carolina,team
+Virginia Commonwealth,team
+Non-Sanctioned\Oak Creek Invite 2019,tournament
+James Madison,team
+Delaware,team
+Michigan,team
+Princeton,team
+SUNY-Geneseo,team
+Maryland,team
+George Mason,team
+Cornell,team
+Drexel,team
+Temple,team
+Johns Hopkins,team
+SUNY-Buffalo,team
+Penn State,team
+North Carolina-Charlotte,team
+Virginia Tech,team
+William & Mary,team
+East Carolina,team
+Connecticut,team
+Williams,team
+Georgetown,team
+Non-Sanctioned\Old Capitol Open 2019,tournament
+Carleton Hot Karls,team
+Northwestern-St. Paul,team
+Indiana,team
+Drake,team
+Luther,team
+St John's,team
+Bethel,team
+Cornell College,team
+Iowa,team
+Nebraska-Omaha,team
+Wisconsin- La Crosse,team
+Creighton,team
+Minnesota,team
+Coe,team
+Kansas State,team
+Chicago,team
+Non-Sanctioned\Palouse Open 2019,tournament
+Washington State,team
+Central Washington,team
+Oregon State,team
+Idaho,team
+Whitworth,team
+Portland State,team
+Boise State,team
+Western Washington University,team
+Non-Sanctioned\Presidents' Day Invite 2019,tournament
+Western Washington,team
+UCLA,team
+Oregon,team
+California-Santa Cruz,team
+Cal Poly-SLO,team
+California-San Diego,team
+Utah,team
+California-Santa Barbara,team
+Colorado,team
+San Diego State,team
+California,team
+California-Davis,team
+British Columbia,team
+Santa Clara,team
+Southern California,team
+Illinois,team
+Non-Sanctioned\Queen City Tune Up 2019 (Men),tournament
+Ohio State,team
+Dartmouth,team
+North Carolina,team
+Appalachian State,team
+Tennessee,team
+Penn State,team
+Clemson,team
+Maryland,team
+Tulane,team
+Massachusetts,team
+Notre Dame,team
+Alabama,team
+Carnegie Mellon,team
+North Carolina-Charlotte,team
+North Carolina State,team
+Virginia,team
+Ohio,team
+Auburn,team
+Chicago,team
+North Carolina-Wilmington,team
+Non-Sanctioned\Royal Crown Classic 2019,tournament
+Georgia Southern,team
+Columbus State,team
+Mississippi State,team
+Miami,team
+Florida Tech,team
+Troy,team
+Berry,team
+Central Arkansas,team
+Non-Sanctioned\Santa Barbara Invite 2019,tournament
+California,team
+Michigan State,team
+Washington,team
+Southern California,team
+Arizona,team
+Cal Poly-SLO,team
+California-Santa Cruz,team
+Texas-Dallas,team
+Western Washington University,team
+Dartmouth,team
+Stanford,team
+California-San Diego,team
+Victoria,team
+California-Santa Barbara,team
+Connecticut,team
+Brigham Young,team
+British Columbia,team
+UCLA,team
+Colorado State University,team
+Santa Clara,team
+Non-Sanctioned\Shamrock Showdown 2019,tournament
+Middle Tennessee State,team
+Southern Indiana,team
+Iowa,team
+Ball State,team
+Miami Ohio,team
+Vanderbilt,team
+Arkansas State,team
+Missouri,team
+Tennessee Tech,team
+Northern Illinois,team
+Non-Sanctioned\Spring Awakening 8,tournament
+Ithaca,team
+Colgate,team
+Bowdoin,team
+Rensselaer Polytech,team
+Wentworth,team
+Boston University,team
+Rhode Island,team
+Dickinson,team
+Skidmore,team
+Army,team
+Ursinus,team
+Vermont,team
+Susquehanna,team
+Cornell,team
+Saint Joseph's,team
+Non-Sanctioned\Stanford Invite 2019,tournament
+Victoria,team
+Wisconsin,team
+North Carolina,team
+Stanford,team
+Brown,team
+Colorado State,team
+Carleton College-CUT,team
+Washington,team
+Brigham Young,team
+Northwestern,team
+Ohio State,team
+California,team
+Oregon,team
+Cal Poly-SLO,team
+Colorado,team
+Minnesota,team
+Texas,team
+Non-Sanctioned\Stanford Open 2019,tournament
+Portland,team
+Cal Poly-SLO,team
+California,team
+Duke,team
+Cal Poly-Pomona,team
+Colorado School of Mines,team
+Stanford,team
+Washington University,team
+Santa Clara,team
+San Jose State,team
+Texas,team
+Whitman,team
+Utah State,team
+Humboldt State,team
+UCLA,team
+Whitworth,team
+Chico State,team
+California-Davis,team
+North Texas,team
+Arizona,team
+Lewis & Clark,team
+Las Positas,team
+California-Santa Cruz,team
+Washington,team
+Occidental,team
+Sonoma State,team
+Air Force,team
+Nevada-Reno,team
+Sacramento State,team
+Oregon,team
+Carleton College-GoP,team
+Claremont,team
+Non-Sanctioned\Strong Island Invitational 2019,tournament
+SUNY-Albany,team
+Massachusetts-Lowell,team
+SUNY-Stony Brook,team
+Syracuse,team
+Hofstra,team
+Northeastern,team
+Non-Sanctioned\T-Town Throwdown,tournament
+Kennesaw State,team
+Illinois State,team
+Auburn,team
+Alabama,team
+LSU,team
+Kentucky,team
+Illinois,team
+Alabama-Huntsville,team
+Mississippi State,team
+Vanderbilt,team
+Georgia State,team
+Alabama-Birmingham,team
+Mississippi,team
+Southern Mississippi,team
+Non-Sanctioned\Tally Classic XIV,tournament
+Notre Dame,team
+Georgia Southern,team
+Alabama-Huntsville,team
+Central Florida,team
+Florida State,team
+Tennessee-Chattanooga,team
+Minnesota-Duluth,team
+Auburn,team
+Alabama,team
+Cincinnati,team
+Tennessee,team
+Mississippi State,team
+Georgia State,team
+Clemson,team
+Harvard,team
+Tulane,team
+Non-Sanctioned\Tea Cup 2019,tournament
+Amherst College,team
+Tufts,team
+Yale,team
+SUNY-Oneonta,team
+Columbia,team
+Hartford,team
+Boston College,team
+Worcester Polytech,team
+Northeastern,team
+Wentworth,team
+Connecticut,team
+University of Massachusetts Amherst,team
+Rutgers,team
+SUNY Oneonta,team
+Southern Connecticut State,team
+Non-Sanctioned\Tech Tour 2019,tournament
+Michigan Tech,team
+St. Thomas,team
+Macalester,team
+Non-Sanctioned\The Mightiest Huck 2019,tournament
+University of Massachusetts Amherst,team
+Sacred Heart,team
+Stonehill,team
+Massachusetts,team
+Yale,team
+Southern Connecticut State,team
+Non-Sanctioned\Towson Cup 2019,tournament
+St Mary's Maryland,team
+Maryland-Baltimore County,team
+SUNY-Oneonta,team
+Towson,team
+Lancaster Bible,team
+American,team
+Delaware,team
+SUNY Oneonta,team
+Non-Sanctioned\Trouble in Vegas 2019,tournament
+Southern California,team
+Florida,team
+Nevada-Reno,team
+Chico State,team
+Montana State,team
+California-Irvine,team
+Northern Arizona,team
+Cal Poly-Pomona,team
+Wisconsin-Oshkosh,team
+Colorado Mesa,team
+San Diego State,team
+Occidental,team
+New Mexico,team
+Colorado-Denver,team
+Utah State,team
+Cal State-Fullerton,team
+Miami,team
+Cal State-Long Beach,team
+Boise State,team
+Arizona,team
+Cal Poly-SLO,team
+California,team
+California-San Diego,team
+Arizona State,team
+Colorado School of Mines,team
+Ottawa Arizona,team
+UCLA,team
+Utah,team
+Non-Sanctioned\Ugly Dome I 2019,tournament
+Macalester,team
+Minnesota,team
+Carleton Hot Karls,team
+Winona State,team
+Bethel,team
+Non-Sanctioned\Ugly Dome II 2019,tournament
+Wisconsin- La Crosse,team
+Wisconsin-Eau Claire,team
+Minnesota,team
+Drake,team
+St. Thomas,team
+Wisconsin,team
+Non-Sanctioned\Uprising 8,tournament
+Colgate,team
+Rochester,team
+Williams,team
+Amherst Regional,team
+Rensselaer Polytech,team
+SUNY-Buffalo,team
+Siena,team
+Maine,team
+SUNY-Binghamton,team
+Ithaca,team
+Emerson,team
+Skidmore,team
+Non-Sanctioned\Virginia Showcase Series 2019,tournament
+Non-Sanctioned\Virginia Showcase Series,tournament
+William & Mary,team
+Richmond,team

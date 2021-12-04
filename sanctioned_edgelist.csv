@@ -1,10 +1,506 @@
 source,target,weight
+Johns Hopkins,East Carolina,13
+Johns Hopkins,Duke,9
+Johns Hopkins,North Carolina,5
+Johns Hopkins,Maryland,7
+Johns Hopkins,Virginia Tech,14
+Johns Hopkins,William & Mary,12
+Johns Hopkins,Virginia,15
+Johns Hopkins,Salisbury,11
+Johns Hopkins,Maryland-Baltimore County,11
+Johns Hopkins,American,11
+Johns Hopkins,Towson,15
+Johns Hopkins,Georgetown,12
+East Carolina,Johns Hopkins,8
+East Carolina,North Carolina,5
+East Carolina,Duke,6
+East Carolina,Liberty,9
+East Carolina,South Carolina,4
+East Carolina,North Carolina-Charlotte,11
+East Carolina,Appalachian State,11
+East Carolina,Wake Forest,11
+East Carolina,Charleston,11
+East Carolina,Clemson,10
+North Carolina,East Carolina,11
+North Carolina,Johns Hopkins,13
+North Carolina,Virginia Tech,12
+North Carolina,South Carolina,12
+North Carolina,Georgetown,7
+North Carolina,North Carolina State,13
+North Carolina,Appalachian State,11
+North Carolina,North Carolina-Charlotte,11
+North Carolina,California,15
+North Carolina,Georgia,15
+North Carolina,Minnesota,15
+North Carolina,Brown,8
+North Carolina,Cal Poly-SLO,15
+North Carolina,Wisconsin,15
+North Carolina,William & Mary,13
+North Carolina,James Madison,13
+North Carolina,Virginia,11
+Duke,Johns Hopkins,11
+Duke,East Carolina,11
+Duke,Maryland,11
+Duke,James Madison,11
+Duke,Georgetown,0
+Duke,North Carolina State,7
+Duke,Wake Forest,11
+Duke,Clemson,11
+Duke,Charleston,11
+Duke,North Carolina-Wilmington,7
+Duke,North Carolina-Charlotte,11
+Duke,Appalachian State,11
+North Carolina State,Virginia,5
+North Carolina State,Appalachian State,13
+North Carolina State,Maryland,14
+North Carolina State,North Carolina,7
+North Carolina State,North Carolina-Wilmington,10
+North Carolina State,Duke,11
+North Carolina State,Charleston,11
+North Carolina State,Clemson,11
+North Carolina State,Wake Forest,11
+North Carolina State,Michigan,14
+North Carolina State,Brown,8
+North Carolina State,Iowa State,15
+North Carolina State,Texas,13
+North Carolina State,Tufts,11
+North Carolina State,William & Mary,13
+North Carolina State,Virginia Tech,8
+North Carolina State,James Madison,11
+North Carolina State,South Carolina,4
+Virginia,North Carolina State,10
+Virginia,Maryland,7
+Virginia,Appalachian State,12
+Virginia,Johns Hopkins,8
+Virginia,James Madison,15
+Virginia,Georgetown,14
+Virginia,George Washington,15
+Virginia,Delaware,13
+Virginia,Virginia Tech,12
+Virginia,William & Mary,6
+Virginia,South Carolina,13
+Virginia,North Carolina,5
+Virginia,George Mason,13
+Virginia,Liberty,15
+Virginia,Radford,15
+Maryland,Appalachian State,12
+Maryland,Virginia,10
+Maryland,North Carolina State,9
+Maryland,Johns Hopkins,12
+Maryland,North Carolina-Wilmington,13
+Maryland,South Carolina,10
+Maryland,Duke,14
+Maryland,George Washington,10
+Maryland,James Madison,11
+Maryland,American,13
+Maryland,Towson,13
+Maryland,Delaware,6
+Maryland,Georgetown,11
+Maryland,Maryland-Baltimore County,11
+Appalachian State,Maryland,11
+Appalachian State,North Carolina State,7
+Appalachian State,Virginia,6
+Appalachian State,North Carolina,2
+Appalachian State,Liberty,13
+Appalachian State,East Carolina,10
+Appalachian State,South Carolina,11
+Appalachian State,Clemson,10
+Appalachian State,Charleston,11
+Appalachian State,Wake Forest,11
+Appalachian State,Duke,9
+North Carolina-Wilmington,Liberty,13
+North Carolina-Wilmington,James Madison,13
+North Carolina-Wilmington,William & Mary,8
+North Carolina-Wilmington,North Carolina State,11
+North Carolina-Wilmington,Maryland,12
+North Carolina-Wilmington,Charleston,11
+North Carolina-Wilmington,Clemson,11
+North Carolina-Wilmington,Wake Forest,11
+North Carolina-Wilmington,Duke,11
+Liberty,North Carolina-Wilmington,5
+Liberty,William & Mary,4
+Liberty,James Madison,11
+Liberty,Appalachian State,11
+Liberty,East Carolina,13
+Liberty,George Mason,12
+Liberty,Virginia,6
+William & Mary,James Madison,12
+William & Mary,Liberty,15
+William & Mary,North Carolina-Wilmington,10
+William & Mary,Johns Hopkins,11
+William & Mary,Georgetown,12
+William & Mary,South Carolina,0
+William & Mary,North Carolina State,6
+William & Mary,Virginia,13
+William & Mary,North Carolina,7
+William & Mary,Virginia Tech,9
+William & Mary,Radford,15
+James Madison,William & Mary,10
+James Madison,North Carolina-Wilmington,4
+James Madison,Liberty,12
+James Madison,South Carolina,6
+James Madison,Virginia,14
+James Madison,Duke,13
+James Madison,Maryland,7
+James Madison,George Washington,15
+James Madison,Delaware,9
+James Madison,North Carolina State,13
+James Madison,North Carolina,7
+James Madison,Virginia Tech,6
+James Madison,George Mason,15
+James Madison,Virginia Commonwealth,15
+South Carolina,Georgetown,13
+South Carolina,North Carolina,8
+South Carolina,Virginia Tech,10
+South Carolina,Maryland,13
+South Carolina,James Madison,11
+South Carolina,William & Mary,12
+South Carolina,American,15
+South Carolina,East Carolina,11
+South Carolina,North Carolina-Charlotte,11
+South Carolina,Appalachian State,8
+South Carolina,Virginia,6
+South Carolina,North Carolina State,11
+Georgetown,South Carolina,6
+Georgetown,Virginia Tech,7
+Georgetown,North Carolina,12
+Georgetown,William & Mary,10
+Georgetown,Virginia,12
+Georgetown,Duke,1
+Georgetown,American,15
+Georgetown,Salisbury,11
+Georgetown,Maryland-Baltimore County,12
+Georgetown,Maryland,6
+Georgetown,Johns Hopkins,11
+Georgetown,Towson,11
+Georgetown,Delaware,5
+Georgetown,George Washington,7
+Virginia Tech,North Carolina,8
+Virginia Tech,Georgetown,13
+Virginia Tech,South Carolina,11
+Virginia Tech,Johns Hopkins,12
+Virginia Tech,American,15
+Virginia Tech,Delaware,10
+Virginia Tech,George Washington,15
+Virginia Tech,Virginia,15
+Virginia Tech,North Carolina State,13
+Virginia Tech,William & Mary,13
+Virginia Tech,James Madison,15
+Virginia Tech,Radford,13
+Virginia Tech,Virginia Commonwealth,13
+Virginia Tech,George Mason,15
+Davidson,High Point,12
+Davidson,Navy,15
+Davidson,Mary Washington,7
+Davidson,Richmond,5
+Davidson,Elon,12
+Davidson,North Carolina-Asheville,10
+Davidson,Anderson,13
+Davidson,Campbell,10
+High Point,Davidson,6
+High Point,Mary Washington,6
+High Point,Navy,12
+High Point,North Carolina-Asheville,4
+High Point,Christopher Newport,12
+High Point,Campbell,10
+High Point,Elon,7
+High Point,Anderson,13
+Mary Washington,High Point,12
+Mary Washington,Davidson,5
+Mary Washington,North Carolina-Asheville,12
+Mary Washington,Christopher Newport,13
+Mary Washington,Shenandoah,13
+Mary Washington,St Mary's Maryland,13
+Mary Washington,Richmond,15
+Navy,Davidson,6
+Navy,High Point,9
+Navy,Richmond,7
+Navy,Elon,15
+Navy,Catholic,13
+Navy,Roanoke,13
+Navy,Christopher Newport,15
+North Carolina-Asheville,Christopher Newport,13
+North Carolina-Asheville,Elon,11
+North Carolina-Asheville,Richmond,6
+North Carolina-Asheville,Mary Washington,13
+North Carolina-Asheville,High Point,13
+North Carolina-Asheville,Davidson,7
+North Carolina-Asheville,Campbell,10
+North Carolina-Asheville,Anderson,12
+Christopher Newport,North Carolina-Asheville,11
+Christopher Newport,Richmond,6
+Christopher Newport,Elon,8
+Christopher Newport,Mary Washington,1
+Christopher Newport,High Point,10
+Christopher Newport,St Mary's Maryland,13
+Christopher Newport,Shenandoah,13
+Christopher Newport,Navy,3
+Christopher Newport,Catholic,13
+Richmond,Elon,15
+Richmond,Christopher Newport,15
+Richmond,North Carolina-Asheville,15
+Richmond,Davidson,15
+Richmond,Navy,15
+Richmond,Luther,10
+Richmond,Valparaiso,11
+Richmond,Bowdoin,9
+Richmond,Middlebury,11
+Richmond,Missouri S&T,15
+Richmond,Roanoke,13
+Richmond,Catholic,13
+Richmond,Mary Washington,7
+Elon,Richmond,8
+Elon,North Carolina-Asheville,9
+Elon,Christopher Newport,15
+Elon,Davidson,10
+Elon,Navy,13
+Elon,Anderson,10
+Elon,High Point,11
+Elon,Campbell,12
+American,Virginia Tech,2
+American,Delaware,1
+American,South Carolina,1
+American,Maryland,2
+American,Georgetown,0
+American,Salisbury,8
+American,Maryland-Baltimore County,8
+American,Johns Hopkins,3
+American,George Washington,5
+American,Towson,11
+Delaware,American,13
+Delaware,Virginia Tech,8
+Delaware,Virginia,11
+Delaware,James Madison,13
+Delaware,Towson,13
+Delaware,George Washington,10
+Delaware,Maryland,9
+Delaware,Georgetown,13
+Delaware,Salisbury,15
+Delaware,Maryland-Baltimore County,13
+George Washington,Maryland,6
+George Washington,Virginia,9
+George Washington,James Madison,5
+George Washington,Virginia Tech,3
+George Washington,Delaware,5
+George Washington,Towson,13
+George Washington,Maryland-Baltimore County,12
+George Washington,Salisbury,15
+George Washington,Georgetown,9
+George Washington,American,13
+Utah State,Montana State,6
+Utah State,Montana,12
+Utah State,Idaho,0
+Utah State,Brigham Young,9
+Utah State,Utah,12
+Utah State,Boise State,13
+Utah State,Oregon State,11
+Utah State,Oregon,9
+Utah State,Whitman,9
+Utah State,British Columbia,8
+Montana State,Utah State,13
+Montana State,Brigham Young,5
+Montana State,Montana,10
+Montana State,Idaho,13
+Montana State,Utah,6
+Montana State,Boise State,13
+Montana State,Washington State,11
+Montana State,Whitman,8
+Montana State,Oregon State,10
+Montana State,Oregon,9
+Brigham Young,Montana State,13
+Brigham Young,Idaho,13
+Brigham Young,Montana,13
+Brigham Young,Utah State,13
+Brigham Young,Boise State,9
+Brigham Young,Utah,6
+Brigham Young,Washington State,13
+Brigham Young,Gonzaga,13
+Montana,Utah State,10
+Montana,Montana State,12
+Montana,Brigham Young,6
+Montana,Boise State,13
+Montana,Idaho,13
+Montana,British Columbia,11
+Montana,Washington,2
+Montana,Utah,5
+Montana,Victoria,8
+Idaho,Brigham Young,6
+Idaho,Utah State,15
+Idaho,Montana State,10
+Idaho,Utah,2
+Idaho,Gonzaga,10
+Idaho,Boise State,15
+Idaho,Montana,4
+Idaho,Victoria,5
+Idaho,Washington,6
+Idaho,British Columbia,4
+Boise State,Brigham Young,13
+Boise State,Washington State,8
+Boise State,Gonzaga,12
+Boise State,Utah,8
+Boise State,Montana,2
+Boise State,Montana State,3
+Boise State,Idaho,14
+Boise State,Utah State,6
+Boise State,Whitman,3
+Boise State,Oregon,1
+Boise State,Oregon State,4
+Boise State,British Columbia,0
+Washington State,Gonzaga,0
+Washington State,Boise State,11
+Washington State,Brigham Young,9
+Washington State,Utah,4
+Washington State,Montana State,3
+Gonzaga,Washington State,15
+Gonzaga,Utah,6
+Gonzaga,Boise State,8
+Gonzaga,Brigham Young,12
+Gonzaga,Idaho,9
+Utah,Gonzaga,13
+Utah,Brigham Young,13
+Utah,Boise State,13
+Utah,Washington State,13
+Utah,Utah State,9
+Utah,Montana State,11
+Utah,Idaho,13
+Utah,Victoria,7
+Utah,British Columbia,10
+Utah,Montana,13
+Utah,Washington,9
+Utah,Oregon State,14
+Utah,Whitman,12
+North Carolina-Charlotte,North Carolina,4
+North Carolina-Charlotte,East Carolina,6
+North Carolina-Charlotte,South Carolina,4
+North Carolina-Charlotte,Wake Forest,13
+North Carolina-Charlotte,Duke,8
+North Carolina-Charlotte,Clemson,9
+North Carolina-Charlotte,Charleston,11
+Charleston,North Carolina-Wilmington,0
+Charleston,North Carolina State,2
+Charleston,Wake Forest,11
+Charleston,Duke,4
+Charleston,Clemson,10
+Charleston,Appalachian State,4
+Charleston,East Carolina,3
+Charleston,North Carolina-Charlotte,8
+Clemson,Wake Forest,11
+Clemson,North Carolina-Wilmington,6
+Clemson,Duke,2
+Clemson,North Carolina State,3
+Clemson,Charleston,11
+Clemson,Appalachian State,6
+Clemson,North Carolina-Charlotte,11
+Clemson,East Carolina,6
+Wake Forest,Clemson,5
+Wake Forest,Duke,1
+Wake Forest,Charleston,2
+Wake Forest,North Carolina-Wilmington,2
+Wake Forest,North Carolina State,1
+Wake Forest,North Carolina-Charlotte,3
+Wake Forest,East Carolina,3
+Wake Forest,Appalachian State,4
+Anderson,Campbell,6
+Anderson,Elon,7
+Anderson,Davidson,3
+Anderson,High Point,5
+Anderson,North Carolina-Asheville,4
+Campbell,Anderson,10
+Campbell,High Point,7
+Campbell,North Carolina-Asheville,8
+Campbell,Davidson,5
+Campbell,Elon,6
+Western Washington,Oregon State,15
+Western Washington,Washington,13
+Western Washington,Oregon,6
+Western Washington,Victoria,3
+Western Washington,British Columbia,5
+Oregon State,Western Washington,7
+Oregon State,Oregon,6
+Oregon State,Washington,10
+Oregon State,Oregon State,6
+Oregon State,Victoria,10
+Oregon State,British Columbia,13
+Oregon State,Utah State,13
+Oregon State,Montana State,9
+Oregon State,Whitman,13
+Oregon State,Boise State,13
+Oregon State,Utah,11
+Oregon,Oregon State,13
+Oregon,Washington,14
+Oregon,Western Washington,13
+Oregon,Victoria,15
+Oregon,Tufts,15
+Oregon,Pittsburgh,12
+Oregon,Wisconsin,12
+Oregon,Michigan,12
+Oregon,Whitman,13
+Oregon,Utah State,13
+Oregon,Boise State,13
+Oregon,Montana State,13
+Washington,Western Washington,1
+Washington,Oregon State,14
+Washington,Oregon,13
+Washington,British Columbia,1
+Washington,Washington,1
+Washington,Victoria,13
+Washington,Rutgers,15
+Washington,Northeastern,14
+Washington,Cal Poly-SLO,10
+Washington,Colorado,13
+Washington,Ohio State,9
+Washington,Montana,13
+Washington,Idaho,13
+Washington,Utah,13
+Victoria,British Columbia,13
+Victoria,Western Washington,12
+Victoria,Washington,8
+Victoria,Oregon,5
+Victoria,Oregon State,13
+Victoria,Wisconsin,6
+Victoria,Pittsburgh,14
+Victoria,Tufts,13
+Victoria,Iowa State,8
+Victoria,Utah,14
+Victoria,Idaho,13
+Victoria,Montana,14
+British Columbia,Victoria,8
+British Columbia,Washington,13
+British Columbia,Western Washington,13
+British Columbia,Oregon State,6
+British Columbia,Montana,9
+British Columbia,Utah,9
+British Columbia,Idaho,13
+British Columbia,Utah State,15
+British Columbia,Boise State,15
+Maryland-Baltimore County,Salisbury,11
+Maryland-Baltimore County,Johns Hopkins,9
+Maryland-Baltimore County,American,7
+Maryland-Baltimore County,Georgetown,10
+Maryland-Baltimore County,Towson,13
+Maryland-Baltimore County,George Washington,8
+Maryland-Baltimore County,Delaware,6
+Maryland-Baltimore County,Maryland,6
+Salisbury,Maryland-Baltimore County,5
+Salisbury,Johns Hopkins,2
+Salisbury,American,11
+Salisbury,Georgetown,1
+Salisbury,Delaware,5
+Salisbury,George Washington,10
+Towson,Delaware,1
+Towson,Maryland,1
+Towson,George Washington,4
+Towson,Johns Hopkins,6
+Towson,Georgetown,2
+Towson,Maryland-Baltimore County,3
+Towson,American,5
 Georgia,Minnesota,13
 Georgia,California,10
 Georgia,North Carolina,6
 Georgia,Ohio State,8
 Georgia,Colorado,10
 Georgia,Tulane,13
+Georgia,Tennessee-Chattanooga,13
 Georgia,Tennessee,15
 Georgia,Central Florida,10
 Georgia,LSU,11
@@ -19,23 +515,26 @@ Minnesota,Ohio State,10
 Minnesota,North Carolina,9
 Minnesota,California,12
 Minnesota,Rutgers,15
-Minnesota,Wisconsin,15
+Minnesota,Minnesota-Duluth,15
+Minnesota,Carleton College-CUT,10
+Minnesota,Northern Iowa,14
+Minnesota,Wisconsin-Milwaukee,15
 Minnesota,Marquette,9
 Minnesota,Iowa State,15
+Minnesota,Minnesota State-Mankato,13
+Minnesota,Iowa,7
+Minnesota,Wisconsin-Whitewater,12
+Minnesota,Wisconsin,15
 Minnesota,Luther,1
-Minnesota,Minnesota,5
-Minnesota,Carleton College,10
-Minnesota,Minnesota State,12
-Minnesota,North Dakota,15
+Minnesota,North Dakota State,15
 Ohio State,Minnesota,8
 Ohio State,California,14
 Ohio State,Georgia,14
 Ohio State,Brown,10
 Ohio State,Washington,14
 Ohio State,Toledo,13
-Ohio State,Miami,13
+Ohio State,Miami Ohio,13
 Ohio State,Kent State,13
-Ohio State,Case Western,10
 Ohio State,Ohio,15
 Ohio State,Cincinnati,15
 Ohio State,West Chester,15
@@ -43,72 +542,32 @@ Ohio State,Pennsylvania,13
 Ohio State,Oberlin,13
 Ohio State,Temple,11
 Ohio State,Penn State,9
-Ohio State,Pittsburgh,0
+Ohio State,Pittsburgh,10
+Ohio State,Case Western Reserve,10
 California,Georgia,8
 California,North Carolina,4
 California,Ohio State,8
 California,Minnesota,8
 California,Northeastern,9
-California,California,7
-California,Humboldt State,13
+California,Humboldt State,11
+California,California-Davis,11
 California,Sacramento State,11
-California,Fresno State,11
-California,Las Positas,15
-California,Stanford,11
-California,Chico State,11
-California,Santa Clara,15
-California,Cal Poly,5
-California,Cal State,13
+California,California-Santa Cruz,11
+California,Las Positas,11
+California,Stanford,15
+California,New Mexico,12
+California,Chico State,13
+California,California-Santa Barbara,13
+California,Cal Poly-SLO,8
+California,Southern California,13
+California,California-San Diego,10
+California,Arizona State,5
 California,UCLA,8
-California,Southern California,0
-California,San Diego,12
-California,Loyola Marymount,13
-California,New Mexico,13
-California,Northern Arizona,11
-California,Arizona,6
-California,Arizona State,4
-California,Susquehanna,7
-California,Dickinson,13
-California,Shippensburg,2
-California,Allegheny,10
-North Carolina,California,15
-North Carolina,Georgia,15
-North Carolina,Minnesota,15
-North Carolina,Michigan,14
-North Carolina,Brown,8
-North Carolina,Iowa State,15
-North Carolina,Texas,13
-North Carolina,Cal Poly,15
-North Carolina,Wisconsin,15
-North Carolina,Tufts,11
-North Carolina,East Carolina,11
-North Carolina,Johns Hopkins,13
-North Carolina,Virginia,11
-North Carolina,Appalachian State,11
-North Carolina,Maryland,12
-North Carolina,Liberty,13
-North Carolina,James Madison,13
-North Carolina,William,13
-North Carolina,Virginia Tech,12
-North Carolina,South Carolina,4
-North Carolina,Georgetown,7
-North Carolina,North Carolina,7
-North Carolina,Christopher Newport,13
-North Carolina,Elon,11
-North Carolina,Richmond,6
-North Carolina,Mary Washington,13
-North Carolina,High Point,13
-North Carolina,Duke,8
-North Carolina,Charleston,11
-North Carolina,Clemson,9
-North Carolina,Wake Forest,13
-North Carolina,Davidson,7
-North Carolina,Campbell,10
-North Carolina,Anderson,12
 Brown,Iowa State,15
-Brown,North Carolina,14
+Brown,North Carolina State,15
 Brown,Texas,11
 Brown,Michigan,15
+Brown,North Carolina,14
 Brown,Colorado,15
 Brown,Ohio State,15
 Brown,Massachusetts,13
@@ -125,21 +584,25 @@ Brown,MIT,13
 Brown,Tufts,15
 Iowa State,Brown,11
 Iowa State,Texas,7
-Iowa State,North Carolina,13
+Iowa State,North Carolina State,13
 Iowa State,Michigan,14
 Iowa State,Victoria,12
-Iowa State,Wisconsin,15
 Iowa State,Minnesota,5
-Iowa State,Marquette,8
+Iowa State,Wisconsin,15
+Iowa State,Minnesota State-Mankato,13
 Iowa State,Iowa,13
+Iowa State,Wisconsin-Whitewater,13
+Iowa State,Carleton College-CUT,14
+Iowa State,Wisconsin-Milwaukee,13
+Iowa State,Marquette,8
 Iowa State,Northern Iowa,13
-Iowa State,Nebraska,13
+Iowa State,Nebraska-Omaha,13
 Iowa State,Creighton,13
-Michigan,North Carolina,15
+Michigan,North Carolina State,15
 Michigan,Texas,7
 Michigan,Iowa State,15
 Michigan,Brown,7
-Michigan,Cal Poly,10
+Michigan,Cal Poly-SLO,10
 Michigan,Oregon,13
 Michigan,Chicago,11
 Michigan,Illinois State,9
@@ -154,54 +617,34 @@ Michigan,Western Michigan,15
 Texas,Michigan,15
 Texas,Iowa State,15
 Texas,Brown,7
-Texas,North Carolina,14
+Texas,North Carolina State,14
 Texas,Wisconsin,11
-Texas,Baylor,13
-Texas,North Texas,11
-Texas,Stephen F,8
-Texas,Texas Tech,12
-Texas,Southern Methodist,8
-Texas,Texas Christian,5
-Texas,Texas,9
-Texas,Colorado,11
 Texas,Colorado State,11
 Texas,Oklahoma State,15
-Texas,Saint Louis,15
 Texas,Kansas State,15
-Texas,Texas A,10
-Texas,Oklahoma,13
-Texas,Sam Houston,11
+Texas,Texas A&M,10
 Texas,Texas State,11
-Texas,Lamar,1
+Texas,Sam Houston State,11
+Texas,Texas-Rio Grande Valley,6
 Texas,Houston,4
-Oregon,Tufts,15
-Oregon,Pittsburgh,12
-Oregon,Victoria,15
-Oregon,Wisconsin,12
-Oregon,Michigan,12
-Oregon,Oregon State,13
-Oregon,Washington,14
-Oregon,Western Washington,15
-Oregon,Washington State,15
-Oregon,Whitman,13
-Oregon,Puget Sound,15
-Oregon,Utah State,13
-Oregon,Boise State,13
-Oregon,Montana State,13
+Texas,Lamar,3
+Texas,Texas-San Antonio,6
+Texas,Texas-El Paso,10
 Tufts,Oregon,8
 Tufts,Wisconsin,8
 Tufts,Victoria,10
 Tufts,Pittsburgh,5
-Tufts,North Carolina,15
-Tufts,Massachusetts,12
+Tufts,North Carolina State,15
+Tufts,Massachusetts- Dartmouth,13
 Tufts,Harvard,13
 Tufts,Northeastern,0
 Tufts,MIT,9
 Tufts,Boston College,7
 Tufts,Boston University,15
 Tufts,Tufts,5
+Tufts,Massachusetts,12
 Tufts,Dartmouth,13
-Tufts,New Hampshire,0
+Tufts,New Hampshire,13
 Tufts,Brown,7
 Tufts,Vermont,15
 Wisconsin,Victoria,15
@@ -210,35 +653,16 @@ Wisconsin,Pittsburgh,13
 Wisconsin,Oregon,9
 Wisconsin,North Carolina,8
 Wisconsin,Texas,13
-Wisconsin,Wisconsin,9
-Wisconsin,Marquette,15
-Wisconsin,Northern Michigan,9
-Wisconsin,Carthage College,12
-Wisconsin,Michigan Tech,5
-Wisconsin,Milwaukee School,7
-Wisconsin,Macalester,8
-Wisconsin,Carleton College,8
-Wisconsin,Carleton Hot,13
-Wisconsin,Luther,1
-Wisconsin,St Olaf,13
-Wisconsin,St,15
-Wisconsin,Minnesota,10
+Wisconsin,Wisconsin-Oshkosh,15
+Wisconsin,Wisconsin-Milwaukee,9
+Wisconsin,Wisconsin-Whitewater,13
+Wisconsin,Iowa,15
 Wisconsin,Iowa State,9
-Victoria,Wisconsin,6
-Victoria,Pittsburgh,14
-Victoria,Tufts,13
-Victoria,Oregon,5
-Victoria,Iowa State,8
-Victoria,Western Washington,12
-Victoria,Whitman,13
-Victoria,Washington,8
-Victoria,Brigham Young,8
-Victoria,Oregon State,13
-Victoria,Cal Poly,8
-Victoria,British Columbia,13
-Victoria,Utah,14
-Victoria,Idaho,13
-Victoria,Montana,14
+Wisconsin,Minnesota State-Mankato,13
+Wisconsin,Minnesota,8
+Wisconsin,Carleton College-CUT,13
+Wisconsin,Marquette,15
+Wisconsin,Luther,1
 Pittsburgh,Oregon,14
 Pittsburgh,Victoria,9
 Pittsburgh,Wisconsin,15
@@ -246,118 +670,123 @@ Pittsburgh,Tufts,12
 Pittsburgh,Colorado,13
 Pittsburgh,Carnegie Mellon,13
 Pittsburgh,Villanova,15
-Pittsburgh,Miami,15
+Pittsburgh,Miami Ohio,15
 Pittsburgh,Temple,15
 Pittsburgh,Lehigh,10
 Pittsburgh,Pennsylvania,13
 Pittsburgh,Penn State,15
-Pittsburgh,Case Western,14
+Pittsburgh,Case Western Reserve,14
 Pittsburgh,Oberlin,15
-Pittsburgh,Ohio State,0
+Pittsburgh,Ohio State,12
 Pittsburgh,West Virginia,15
 Pittsburgh,Edinboro,15
-Pittsburgh,Indiana,15
+Pittsburgh,Indiana Pennsylvania,15
 Pittsburgh,Slippery Rock,15
 Colorado,Northeastern,15
-Colorado,Cal Poly,10
+Colorado,Cal Poly-SLO,10
 Colorado,Rutgers,14
 Colorado,Washington,14
 Colorado,Brown,10
 Colorado,Pittsburgh,15
 Colorado,Georgia,12
-Colorado,Colorado State,10
-Colorado,Denver,7
+Colorado,Colorado State,13
+Colorado,Denver,13
+Colorado,Colorado-Colorado Springs,13
+Colorado,Colorado-Denver,13
 Colorado,Colorado,6
-Colorado,Colorado Mesa,11
-Colorado,Texas,13
-Colorado,Texas A,14
+Colorado,Colorado Mesa,13
+Colorado,Texas-Dallas,13
+Colorado,Texas A&M,14
 Colorado,Oklahoma State,11
 Colorado,Texas State,15
 Colorado,Saint Louis,9
 Northeastern,Colorado,11
 Northeastern,Washington,11
 Northeastern,Rutgers,15
-Northeastern,Cal Poly,14
+Northeastern,Cal Poly-SLO,14
 Northeastern,California,10
 Northeastern,Boston University,13
 Northeastern,Boston College,13
 Northeastern,MIT,13
 Northeastern,Harvard,13
 Northeastern,Tufts,15
-Northeastern,Massachusetts,14
+Northeastern,Massachusetts-Lowell,15
 Northeastern,Northeastern,0
 Northeastern,Brown,12
+Northeastern,Massachusetts,14
 Northeastern,Vermont,13
 Northeastern,Dartmouth,8
 Northeastern,Massachusetts Amherst,10
-Washington,Rutgers,15
-Washington,Northeastern,14
-Washington,Cal Poly,9
-Washington,Colorado,13
-Washington,Ohio State,9
-Washington,Oregon State,14
-Washington,Victoria,13
-Washington,British Columbia,1
-Washington,Brigham Young,12
-Washington,Western Washington,15
-Washington,Whitman,7
-Washington,Oregon,13
-Washington,Washington,1
-Washington,Lewis,15
-Washington,Humboldt State,15
-Washington,Nevada,3
-Washington,Portland State,7
-Washington,Montana,13
-Washington,Idaho,13
-Washington,Utah,13
 Rutgers,Washington,10
-Rutgers,Cal Poly,4
+Rutgers,Cal Poly-SLO,4
 Rutgers,Northeastern,7
 Rutgers,Colorado,8
 Rutgers,Minnesota,5
-Rutgers,SUNY,0
+Rutgers,SUNY-Buffalo,12
 Rutgers,Syracuse,13
 Rutgers,Connecticut,7
 Rutgers,Yale,13
+Rutgers,SUNY-Stony Brook,12
 Rutgers,Princeton,9
 Rutgers,Cornell,10
 Rutgers,Columbia,11
-Rutgers,New Jersey,13
+Rutgers,New Jersey Tech,13
 Rutgers,NYU,10
-Cal Poly,Rutgers,15
-Cal Poly,Colorado,13
-Cal Poly,Washington,13
-Cal Poly,Northeastern,8
-Cal Poly,North Carolina,10
-Cal Poly,Michigan,15
-Cal Poly,Whitman,13
-Cal Poly,Western Washington,13
-Cal Poly,Stanford,12
-Cal Poly,Victoria,13
-Cal Poly,Oregon State,13
-Cal Poly,Brigham Young,9
-Cal Poly,California,6
-Cal Poly,Cal Poly,7
-Cal Poly,Cal State,12
-Cal Poly,Southern California,0
-Cal Poly,UCLA,12
-Cal Poly,San Diego,10
-Cal Poly,Las Positas,13
-Cal Poly,Arizona State,5
-Cal Poly,Arizona,13
-Middlebury,Franciscan,11
+Cal Poly-SLO,Rutgers,15
+Cal Poly-SLO,Colorado,13
+Cal Poly-SLO,Washington,15
+Cal Poly-SLO,Northeastern,8
+Cal Poly-SLO,North Carolina,10
+Cal Poly-SLO,Michigan,15
+Cal Poly-SLO,Cal Poly-Pomona,13
+Cal Poly-SLO,Cal State-Long Beach,13
+Cal Poly-SLO,California-Irvine,6
+Cal Poly-SLO,California-Santa Barbara,12
+Cal Poly-SLO,Southern California,0
+Cal Poly-SLO,Las Positas,13
+Cal Poly-SLO,California-Davis,13
+Cal Poly-SLO,California,15
+Cal Poly-SLO,UCLA,12
+Cal Poly-SLO,California-San Diego,2
+Cal Poly-SLO,Arizona State,5
+Cal Poly-SLO,Arizona,13
+Michigan Tech,Hamilton,13
+Michigan Tech,Franciscan,15
+Michigan Tech,Middlebury,9
+Michigan Tech,Bowdoin,10
+Michigan Tech,Portland,4
+Michigan Tech,Wisconsin-Platteville,13
+Michigan Tech,Wisconsin-River Falls,13
+Michigan Tech,Wisconsin-Green Bay,13
+Michigan Tech,Carthage College,13
+Michigan Tech,St John's,13
+Michigan Tech,Winona State,13
+Michigan Tech,St. Thomas,13
+Michigan Tech,Carleton College-GoP,7
+Michigan Tech,Luther,14
+Hamilton,Michigan Tech,11
+Hamilton,Middlebury,10
+Hamilton,Franciscan,13
+Hamilton,Luther,5
+Hamilton,Berry,7
+Hamilton,Stevens Tech,13
+Hamilton,SUNY-Oneonta,10
+Hamilton,Marist,15
+Hamilton,Colgate,15
+Hamilton,Rochester,10
+Hamilton,St Lawrence University,13
+Hamilton,SUNY-Fredonia,13
+Hamilton,Ithaca,14
 Middlebury,Hamilton,12
 Middlebury,Michigan Tech,14
 Middlebury,Air Force,15
 Middlebury,Richmond,12
-Middlebury,Bryant,15
+Middlebury,Bryant University,15
 Middlebury,Williams,14
 Middlebury,Bowdoin,12
-Middlebury,Bryant University,15
 Middlebury,Colby,12
 Middlebury,Bates College,10
 Middlebury,Dartmouth,10
-Franciscan,Middlebury,10
 Franciscan,Michigan Tech,8
 Franciscan,Hamilton,12
 Franciscan,Valparaiso,15
@@ -365,49 +794,25 @@ Franciscan,Colby,15
 Franciscan,John Carroll,13
 Franciscan,Kenyon,13
 Franciscan,Ohio Wesleyan,13
-Franciscan,Cedarville,15
 Franciscan,Grove City,13
 Franciscan,Swarthmore,13
+Franciscan,Cedarville,15
 Franciscan,Haverford,15
 Franciscan,Oberlin,15
-Michigan Tech,Hamilton,13
-Michigan Tech,Franciscan,15
-Michigan Tech,Middlebury,9
-Michigan Tech,Bowdoin,10
-Michigan Tech,Portland,4
-Michigan Tech,Wisconsin,13
-Michigan Tech,Carthage College,13
-Michigan Tech,St John,13
-Michigan Tech,Winona State,13
-Michigan Tech,St,13
-Michigan Tech,Carleton College,7
-Michigan Tech,Luther,15
-Hamilton,Michigan Tech,11
-Hamilton,Middlebury,10
-Hamilton,Franciscan,13
-Hamilton,Luther,5
-Hamilton,Berry,7
-Hamilton,Stevens Tech,13
-Hamilton,SUNY,10
-Hamilton,Marist,15
-Hamilton,Colgate,15
-Hamilton,Rochester,10
-Hamilton,St Lawrence,13
-Hamilton,Ithaca,14
 Air Force,Portland,12
 Air Force,Claremont,14
-Air Force,Bryant,11
+Air Force,Bryant University,11
 Air Force,Middlebury,12
-Air Force,Carleton Colleg,15
+Air Force,Carleton College-GoP,15
 Air Force,Bowdoin,15
 Air Force,Colorado College,12
-Air Force,Colorado School,11
+Air Force,Colorado School of Mines,11
 Air Force,Air Force,0
 Air Force,Truman State,15
-Air Force,Missouri S,15
+Air Force,Missouri S&T,15
 Air Force,Rice,15
 Portland,Air Force,5
-Portland,Bryant,4
+Portland,Bryant University,4
 Portland,Claremont,11
 Portland,Berry,15
 Portland,Michigan Tech,15
@@ -416,36 +821,58 @@ Portland,Pacific Lutheran,13
 Portland,Whitman,6
 Portland,Whitworth,15
 Portland,Puget Sound,15
-Bryant,Claremont,15
-Bryant,Portland,13
-Bryant,Air Force,7
-Bryant,Middlebury,9
-Bryant,Colby,12
-Bryant,Missouri ,8
-Claremont,Bryant,2
+Bryant University,Claremont,15
+Bryant University,Portland,13
+Bryant University,Air Force,7
+Bryant University,Middlebury,2
+Bryant University,Colby,6
+Bryant University,Missouri S&T,8
+Bryant University,Brandeis,11
+Bryant University,Bates College,15
+Bryant University,Bowdoin,5
+Bryant University,Williams,15
+Bryant University,Worcester Polytech,13
+Bryant University,Providence College,13
+Bryant University,Clark,13
+Claremont,Bryant University,2
 Claremont,Air Force,3
 Claremont,Portland,12
-Claremont,Missouri ,6
+Claremont,Missouri S&T,6
 Claremont,Colby,8
 Claremont,Valparaiso,9
 Claremont,Biola Univeristy,15
 Claremont,Caltech,12
 Claremont,Occidental,13
-Carleton Colleg,Missouri ,11
-Carleton Colleg,Berry,15
-Carleton Colleg,Colby,14
-Carleton Colleg,Air Force,13
-Carleton Colleg,Luther,15
-Missouri ,Carleton Colleg,10
-Missouri ,Colby,11
-Missouri ,Berry,12
-Missouri ,Richmond,11
-Missouri ,Claremont,14
-Missouri ,Bryant,15
+Carleton College-GoP,Missouri S&T,11
+Carleton College-GoP,Berry,15
+Carleton College-GoP,Colby,14
+Carleton College-GoP,Air Force,13
+Carleton College-GoP,Luther,11
+Carleton College-GoP,Wisconsin-Platteville,12
+Carleton College-GoP,Macalester,13
+Carleton College-GoP,Carleton Hot Karls,13
+Carleton College-GoP,Michigan Tech,13
+Carleton College-GoP,Winona State,15
+Carleton College-GoP,Bethel,15
+Carleton College-GoP,St. Thomas,15
+Carleton College-GoP,St Olaf,15
+Missouri S&T,Carleton College-GoP,10
+Missouri S&T,Colby,11
+Missouri S&T,Berry,12
+Missouri S&T,Richmond,11
+Missouri S&T,Claremont,14
+Missouri S&T,Bryant University,15
+Missouri S&T,Truman State,15
+Missouri S&T,John Brown,15
+Missouri S&T,Tulsa,11
+Missouri S&T,Harding,11
+Missouri S&T,Colorado College,13
+Missouri S&T,Air Force,9
+Missouri S&T,Rice,15
 Colby,Berry,11
-Colby,Missouri ,8
-Colby,Carleton Colleg,5
-Colby,Bryant,5
+Colby,Missouri S&T,8
+Colby,Carleton College-GoP,5
+Colby,Bryant University,10
 Colby,Claremont,11
 Colby,Franciscan,12
 Colby,Brown,0
@@ -455,48 +882,34 @@ Colby,Amherst College,15
 Colby,Massachusetts,2
 Colby,Bates College,13
 Colby,Brandeis,15
-Colby,Bryant University,10
 Colby,Bowdoin,13
 Colby,Williams,15
 Colby,Middlebury,10
 Berry,Colby,9
-Berry,Carleton Colleg,6
-Berry,Missouri ,10
+Berry,Carleton College-GoP,6
+Berry,Missouri S&T,10
 Berry,Portland,5
 Berry,Hamilton,14
-Berry,Embry,0
+Berry,Embry-Riddle Florida,11
 Berry,Ave Maria,15
 Berry,Florida Tech,14
 Berry,Georgia College,12
 Berry,Belmont,15
 Berry,Stetson,13
 Berry,Samford,15
-Berry,Union,15
-Richmond,Luther,10
-Richmond,Valparaiso,11
-Richmond,Bowdoin,9
-Richmond,Middlebury,11
-Richmond,Missouri ,15
-Richmond,Elon,15
-Richmond,Christopher Newport,15
-Richmond,North Carolina,15
-Richmond,Davidson,15
-Richmond,Navy,15
-Richmond,Roanoke,13
-Richmond,Catholic,13
-Richmond,Mary Washington,7
+Berry,Union Tennessee,15
 Luther,Richmond,8
 Luther,Bowdoin,13
 Luther,Valparaiso,14
-Luther,Carleton Colleg,10
+Luther,Carleton College-GoP,4
 Luther,Hamilton,14
-Luther,Carleton College,4
-Luther,Carleton Hot,13
-Luther,Wisconsin,0
+Luther,Carleton Hot Karls,13
+Luther,Wisconsin-Platteville,13
 Luther,Macalester,15
-Luther,Michigan Tech,0
+Luther,Michigan Tech,10
 Luther,St Olaf,13
 Luther,Marquette,6
+Luther,Wisconsin,0
 Luther,Minnesota,0
 Luther,Grinnell,13
 Luther,Coe,13
@@ -522,447 +935,27 @@ Valparaiso,Butler,13
 Valparaiso,Indiana Wesleyan,12
 Valparaiso,Kettering,13
 Valparaiso,Kalamazoo,13
-Valparaiso,Rose,15
+Valparaiso,Rose-Hulman,15
 Valparaiso,Eastern Illinois,12
 Valparaiso,North Park,15
 Valparaiso,Knox,10
 Valparaiso,Olivet Nazarene,13
-Brigham Young,Whitman,13
-Brigham Young,Stanford,13
-Brigham Young,British Columbia,13
-Brigham Young,Victoria,13
-Brigham Young,Washington,13
-Brigham Young,Cal Poly,13
-Brigham Young,Oregon State,13
-Brigham Young,Western Washington,13
-Brigham Young,Montana State,13
-Brigham Young,Idaho,13
-Brigham Young,Montana,13
-Brigham Young,Utah State,13
-Brigham Young,Boise State,9
-Brigham Young,Utah,6
-Brigham Young,Washington State,13
-Brigham Young,Gonzaga,13
-Whitman,Brigham Young,9
-Whitman,Victoria,11
-Whitman,Cal Poly,7
-Whitman,Western Washington,6
-Whitman,British Columbia,9
-Whitman,Stanford,10
-Whitman,Oregon State,8
-Whitman,Washington,13
-Whitman,Nevada,13
-Whitman,Oregon,6
-Whitman,Lewis,13
-Whitman,Gonzaga,15
-Whitman,Montana State,15
-Whitman,Boise State,13
-Whitman,Utah State,13
-Whitman,Utah,11
-Whitman,Willamette University,13
-Whitman,Portland,15
-Whitman,Seattle,15
-Western Washington,Victoria,3
-Western Washington,British Columbia,5
-Western Washington,Cal Poly,5
-Western Washington,Whitman,13
-Western Washington,Stanford,13
-Western Washington,Oregon State,15
-Western Washington,Washington,8
-Western Washington,Brigham Young,6
-Western Washington,Oregon,2
-Western Washington,Portland State,6
-Oregon State,Stanford,14
-Oregon State,Washington,10
-Oregon State,Victoria,10
-Oregon State,British Columbia,13
-Oregon State,Western Washington,9
-Oregon State,Cal Poly,8
-Oregon State,Whitman,13
-Oregon State,Brigham Young,8
-Oregon State,Oregon,6
-Oregon State,Oregon State,6
-Oregon State,Humboldt State,13
-Oregon State,Lewis,13
-Oregon State,Nevada,15
-Oregon State,Gonzaga,14
-Oregon State,Utah State,13
-Oregon State,Montana State,9
-Oregon State,Boise State,13
-Oregon State,Utah,11
-Oregon State,Montana,15
-Stanford,Oregon State,12
-Stanford,Brigham Young,8
-Stanford,British Columbia,13
-Stanford,Cal Poly,10
-Stanford,Western Washington,12
-Stanford,Whitman,13
-Stanford,Sonoma State,13
-Stanford,Chico State,13
-Stanford,Santa Clara,13
-Stanford,Nevada,13
-Stanford,San Jose,13
-Stanford,California,15
-Stanford,Southern California,13
-Stanford,Arizona,14
-Stanford,Humboldt State,13
-British Columbia,Western Washington,13
-British Columbia,Brigham Young,7
-British Columbia,Stanford,7
-British Columbia,Washington,13
-British Columbia,Oregon State,6
-British Columbia,Whitman,13
-British Columbia,Victoria,8
-British Columbia,Montana,9
-British Columbia,Utah,9
-British Columbia,Idaho,13
-British Columbia,Montana State,0
-British Columbia,Utah State,15
-British Columbia,Boise State,15
-Johns Hopkins,East Carolina,13
-Johns Hopkins,Duke,9
-Johns Hopkins,North Carolina,5
-Johns Hopkins,Maryland,7
-Johns Hopkins,Virginia Tech,14
-Johns Hopkins,William,12
-Johns Hopkins,Virginia,15
-Johns Hopkins,Salisbury,11
-Johns Hopkins,American,11
-Johns Hopkins,Towson,15
-Johns Hopkins,Georgetown,12
-East Carolina,Johns Hopkins,8
-East Carolina,North Carolina,5
-East Carolina,Duke,6
-East Carolina,Liberty,9
-East Carolina,South Carolina,4
-East Carolina,Appalachian State,11
-East Carolina,Wake Forest,11
-East Carolina,Charleston,11
-East Carolina,Clemson,10
-Duke,Johns Hopkins,11
-Duke,East Carolina,11
-Duke,Maryland,11
-Duke,James Madison,11
-Duke,Georgetown,0
-Duke,North Carolina,11
-Duke,Wake Forest,11
-Duke,Clemson,11
-Duke,Charleston,11
-Duke,Appalachian State,11
-Virginia,North Carolina,5
-Virginia,Maryland,7
-Virginia,Appalachian State,12
-Virginia,Johns Hopkins,8
-Virginia,James Madison,15
-Virginia,Georgetown,14
-Virginia,George Washington,15
-Virginia,Delaware,13
-Virginia,Virginia Tech,12
-Virginia,William,6
-Virginia,South Carolina,13
-Virginia,George Mason,13
-Virginia,Liberty,15
-Virginia,Radford,15
-Maryland,Appalachian State,12
-Maryland,Virginia,10
-Maryland,North Carolina,13
-Maryland,Johns Hopkins,12
-Maryland,South Carolina,10
-Maryland,Duke,14
-Maryland,George Washington,15
-Maryland,James Madison,11
-Maryland,American,7
-Maryland,Salisbury,11
-Maryland,Georgetown,11
-Maryland,Towson,13
-Maryland,Delaware,6
-Maryland,Maryland,6
-Appalachian State,Maryland,11
-Appalachian State,North Carolina,2
-Appalachian State,Virginia,6
-Appalachian State,Liberty,13
-Appalachian State,East Carolina,10
-Appalachian State,South Carolina,11
-Appalachian State,Clemson,10
-Appalachian State,Charleston,11
-Appalachian State,Wake Forest,11
-Appalachian State,Duke,9
-Liberty,North Carolina,5
-Liberty,William,4
-Liberty,James Madison,11
-Liberty,Appalachian State,11
-Liberty,East Carolina,13
-Liberty,George Mason,12
-Liberty,Virginia,6
-William,James Madison,12
-William,Liberty,15
-William,North Carolina,7
-William,Johns Hopkins,11
-William,Georgetown,12
-William,South Carolina,0
-William,Virginia,13
-William,Virginia Tech,9
-William,Radford,15
-James Madison,William,10
-James Madison,North Carolina,7
-James Madison,Liberty,12
-James Madison,South Carolina,6
-James Madison,Virginia,14
-James Madison,Duke,13
-James Madison,Maryland,7
-James Madison,George Washington,15
-James Madison,Delaware,9
-James Madison,Virginia Tech,6
-James Madison,George Mason,15
-James Madison,Virginia Commonwealth,15
-South Carolina,Georgetown,13
-South Carolina,North Carolina,11
-South Carolina,Virginia Tech,10
-South Carolina,Maryland,13
-South Carolina,James Madison,11
-South Carolina,William,12
-South Carolina,American,15
-South Carolina,East Carolina,11
-South Carolina,Appalachian State,8
-South Carolina,Virginia,6
-Georgetown,South Carolina,6
-Georgetown,Virginia Tech,7
-Georgetown,North Carolina,12
-Georgetown,William,10
-Georgetown,Virginia,12
-Georgetown,Duke,1
-Georgetown,American,15
-Georgetown,Salisbury,11
-Georgetown,Maryland,6
-Georgetown,Johns Hopkins,11
-Georgetown,Towson,11
-Georgetown,Delaware,5
-Georgetown,George Washington,7
-Virginia Tech,North Carolina,8
-Virginia Tech,Georgetown,13
-Virginia Tech,South Carolina,11
-Virginia Tech,Johns Hopkins,12
-Virginia Tech,American,15
-Virginia Tech,Delaware,10
-Virginia Tech,George Washington,15
-Virginia Tech,Virginia,15
-Virginia Tech,William,13
-Virginia Tech,James Madison,15
-Virginia Tech,Radford,13
-Virginia Tech,Virginia Commonwealth,13
-Virginia Tech,George Mason,15
-Davidson,High Point,12
-Davidson,Navy,15
-Davidson,Mary Washington,7
-Davidson,Richmond,5
-Davidson,Elon,12
-Davidson,North Carolina,10
-Davidson,Anderson,13
-Davidson,Campbell,10
-High Point,Davidson,6
-High Point,Mary Washington,6
-High Point,Navy,15
-High Point,North Carolina,4
-High Point,Christopher Newport,12
-High Point,Campbell,10
-High Point,Elon,7
-High Point,Anderson,13
-Mary Washington,High Point,12
-Mary Washington,Davidson,5
-Mary Washington,North Carolina,12
-Mary Washington,Christopher Newport,13
-Mary Washington,Shenandoah,13
-Mary Washington,St Mary,13
-Mary Washington,Richmond,15
-Navy,Davidson,6
-Navy,High Point,0
-Navy,Richmond,7
-Navy,Elon,15
-Navy,Catholic,13
-Navy,Roanoke,13
-Navy,Christopher Newport,15
-Christopher Newport,North Carolina,11
-Christopher Newport,Richmond,6
-Christopher Newport,Elon,15
-Christopher Newport,Mary Washington,1
-Christopher Newport,High Point,10
-Christopher Newport,St Mary,13
-Christopher Newport,Shenandoah,13
-Christopher Newport,Navy,3
-Christopher Newport,Catholic,13
-Elon,Richmond,8
-Elon,North Carolina,9
-Elon,Christopher Newport,0
-Elon,Davidson,10
-Elon,Navy,13
-Elon,Anderson,10
-Elon,High Point,11
-Elon,Campbell,12
-American,Virginia Tech,2
-American,Delaware,1
-American,South Carolina,1
-American,Maryland,8
-American,George Washington,5
-American,Georgetown,0
-American,Salisbury,8
-American,Johns Hopkins,3
-American,Towson,11
-Delaware,American,13
-Delaware,Virginia Tech,8
-Delaware,Virginia,11
-Delaware,James Madison,13
-Delaware,Towson,13
-Delaware,George Washington,10
-Delaware,Maryland,9
-Delaware,Georgetown,13
-Delaware,Salisbury,15
-George Washington,Maryland,0
-George Washington,Virginia,9
-George Washington,James Madison,5
-George Washington,Virginia Tech,3
-George Washington,American,13
-George Washington,Delaware,5
-George Washington,Towson,13
-George Washington,Salisbury,15
-George Washington,Georgetown,9
-Utah State,Montana State,6
-Utah State,Montana,12
-Utah State,Idaho,0
-Utah State,Brigham Young,9
-Utah State,Utah,12
-Utah State,Boise State,13
-Utah State,Oregon State,11
-Utah State,Oregon,9
-Utah State,Whitman,9
-Utah State,British Columbia,8
-Montana State,Utah State,13
-Montana State,Brigham Young,5
-Montana State,Montana,10
-Montana State,Idaho,13
-Montana State,Utah,6
-Montana State,Boise State,13
-Montana State,Washington State,11
-Montana State,Whitman,0
-Montana State,Oregon State,10
-Montana State,Oregon,9
-Montana State,British Columbia,0
-Montana,Utah State,10
-Montana,Montana State,12
-Montana,Brigham Young,6
-Montana,Boise State,13
-Montana,Idaho,13
-Montana,British Columbia,11
-Montana,Washington,2
-Montana,Utah,5
-Montana,Victoria,8
-Montana,Oregon State,0
-Idaho,Brigham Young,6
-Idaho,Utah State,15
-Idaho,Montana State,10
-Idaho,Utah,2
-Idaho,Gonzaga,10
-Idaho,Boise State,15
-Idaho,Montana,4
-Idaho,Victoria,5
-Idaho,Washington,6
-Idaho,British Columbia,4
-Boise State,Brigham Young,13
-Boise State,Washington State,8
-Boise State,Gonzaga,12
-Boise State,Utah,8
-Boise State,Montana,2
-Boise State,Montana State,3
-Boise State,Idaho,14
-Boise State,Utah State,6
-Boise State,Whitman,3
-Boise State,Oregon,1
-Boise State,Oregon State,4
-Boise State,British Columbia,0
-Washington State,Gonzaga,11
-Washington State,Boise State,11
-Washington State,Brigham Young,9
-Washington State,Utah,4
-Washington State,Montana State,3
-Washington State,Oregon,4
-Washington State,Nevada,11
-Washington State,Puget Sound,5
-Gonzaga,Washington State,13
-Gonzaga,Utah,6
-Gonzaga,Boise State,8
-Gonzaga,Brigham Young,12
-Gonzaga,Idaho,9
-Gonzaga,Portland State,13
-Gonzaga,Lewis,13
-Gonzaga,Puget Sound,13
-Gonzaga,Oregon State,9
-Gonzaga,Whitman,7
-Utah,Gonzaga,13
-Utah,Brigham Young,13
-Utah,Boise State,13
-Utah,Washington State,13
-Utah,Utah State,9
-Utah,Montana State,11
-Utah,Idaho,13
-Utah,Victoria,7
-Utah,British Columbia,10
-Utah,Montana,13
-Utah,Washington,9
-Utah,Oregon State,14
-Utah,Whitman,12
-Charleston,North Carolina,8
-Charleston,Wake Forest,11
-Charleston,Duke,4
-Charleston,Clemson,10
-Charleston,Appalachian State,4
-Charleston,East Carolina,3
-Clemson,Wake Forest,11
-Clemson,North Carolina,11
-Clemson,Duke,2
-Clemson,Charleston,11
-Clemson,Appalachian State,6
-Clemson,East Carolina,6
-Wake Forest,Clemson,5
-Wake Forest,Duke,1
-Wake Forest,Charleston,2
-Wake Forest,North Carolina,3
-Wake Forest,East Carolina,3
-Wake Forest,Appalachian State,4
-Anderson,Campbell,6
-Anderson,Elon,7
-Anderson,Davidson,3
-Anderson,High Point,5
-Anderson,North Carolina,4
-Campbell,Anderson,10
-Campbell,High Point,7
-Campbell,North Carolina,8
-Campbell,Davidson,5
-Campbell,Elon,6
-Salisbury,Maryland,5
-Salisbury,Johns Hopkins,2
-Salisbury,American,11
-Salisbury,Georgetown,1
-Salisbury,Delaware,5
-Salisbury,George Washington,10
-Towson,Delaware,1
-Towson,Maryland,3
-Towson,George Washington,4
-Towson,Johns Hopkins,6
-Towson,Georgetown,2
-Towson,American,5
-New Mexico,Northern Arizona,0
+New Mexico,Northern Arizona,9
 New Mexico,Arizona State,13
 New Mexico,Grand Canyon,13
 New Mexico,Arizona,10
-New Mexico,California,7
+New Mexico,California,11
+New Mexico,California-Santa Barbara,7
 New Mexico,Chico State,11
 New Mexico,Humboldt State,15
-Northern Arizona,New Mexico,0
+Northern Arizona,New Mexico,13
 Northern Arizona,Arizona,10
 Northern Arizona,Arizona State,13
 Northern Arizona,Grand Canyon,13
-Northern Arizona,California,12
+Northern Arizona,California-San Diego,5
 Northern Arizona,UCLA,10
 Northern Arizona,Santa Clara,7
+Northern Arizona,California-Davis,12
 Arizona,Northern Arizona,12
 Arizona,Grand Canyon,13
 Arizona,Arizona State,5
@@ -970,15 +963,20 @@ Arizona,New Mexico,13
 Arizona,Humboldt State,13
 Arizona,Stanford,12
 Arizona,Southern California,4
-Arizona,California,9
-Arizona,Cal Poly,2
+Arizona,California-San Diego,10
+Arizona,California-Santa Cruz,11
+Arizona,California-Santa Barbara,9
+Arizona,California-Irvine,11
+Arizona,Cal Poly-SLO,2
 Arizona,UCLA,7
 Arizona State,New Mexico,6
 Arizona State,Northern Arizona,3
 Arizona State,Arizona,11
-Arizona State,Cal Poly,12
-Arizona State,California,9
+Arizona State,Cal Poly-SLO,12
+Arizona State,California-San Diego,9
 Arizona State,UCLA,9
+Arizona State,California-Irvine,8
+Arizona State,California,8
 Grand Canyon,Arizona,10
 Grand Canyon,New Mexico,7
 Grand Canyon,Northern Arizona,10
@@ -986,13 +984,13 @@ Drexel,Millersville,13
 Drexel,West Chester,11
 Drexel,Temple,4
 Drexel,Lehigh,8
-Drexel,Saint Joseph,15
+Drexel,Saint Joseph's,15
 Drexel,Carnegie Mellon,5
 Drexel,Penn State,15
 Millersville,Drexel,5
 Millersville,Temple,7
 Millersville,West Chester,0
-Millersville,Saint Joseph,15
+Millersville,Saint Joseph's,15
 Temple,Millersville,12
 Temple,Drexel,10
 Temple,Villanova,13
@@ -1010,16 +1008,16 @@ West Chester,Pennsylvania,12
 West Chester,Ohio State,5
 West Chester,Villanova,0
 Villanova,Lehigh,15
-Villanova,Saint Joseph,13
+Villanova,Saint Joseph's,13
 Villanova,Pennsylvania,15
 Villanova,Temple,11
 Villanova,Pittsburgh,3
-Villanova,Case Western,14
+Villanova,Case Western Reserve,14
 Villanova,Ohio,0
 Villanova,West Chester,15
 Lehigh,Villanova,11
 Lehigh,Pennsylvania,10
-Lehigh,Saint Joseph,13
+Lehigh,Saint Joseph's,13
 Lehigh,Temple,5
 Lehigh,Drexel,15
 Lehigh,Jefferson,8
@@ -1031,7 +1029,7 @@ Lehigh,Lancaster Bible,15
 Lehigh,Ohio,10
 Lehigh,Pittsburgh,15
 Lehigh,Messiah,2
-Pennsylvania,Saint Joseph,13
+Pennsylvania,Saint Joseph's,13
 Pennsylvania,Lehigh,13
 Pennsylvania,Villanova,0
 Pennsylvania,West Chester,6
@@ -1040,14 +1038,14 @@ Pennsylvania,Dayton,15
 Pennsylvania,Pittsburgh,4
 Pennsylvania,Ohio State,4
 Pennsylvania,Temple,10
-Pennsylvania,Case Western,8
+Pennsylvania,Case Western Reserve,8
 Pennsylvania,Oberlin,15
 Pennsylvania,Penn State,15
-Saint Joseph,Pennsylvania,1
-Saint Joseph,Villanova,2
-Saint Joseph,Lehigh,5
-Saint Joseph,Drexel,4
-Saint Joseph,Millersville,0
+Saint Joseph's,Pennsylvania,1
+Saint Joseph's,Villanova,2
+Saint Joseph's,Lehigh,5
+Saint Joseph's,Drexel,4
+Saint Joseph's,Millersville,0
 Jefferson,Lehigh,15
 Jefferson,Ursinus,15
 Jefferson,Swarthmore,6
@@ -1061,10 +1059,8 @@ Swarthmore,Grove City,9
 Swarthmore,Franciscan,1
 Swarthmore,Wooster,15
 Swarthmore,Cedarville,6
-Swarthmore,Messiah,0
 Ursinus,Jefferson,6
 Ursinus,Lehigh,1
-Ursinus,Lancaster Bible,0
 Haverford,Lancaster Bible,13
 Haverford,Scranton,15
 Haverford,Muhlenberg,10
@@ -1078,7 +1074,6 @@ Lancaster Bible,Haverford,3
 Lancaster Bible,Muhlenberg,4
 Lancaster Bible,Scranton,5
 Lancaster Bible,Lehigh,5
-Lancaster Bible,Ursinus,0
 Muhlenberg,Scranton,15
 Muhlenberg,Lancaster Bible,13
 Muhlenberg,Haverford,11
@@ -1095,19 +1090,13 @@ Indiana,Purdue,9
 Indiana,Southern Indiana,13
 Indiana,Kentucky,7
 Indiana,Notre Dame,15
-Indiana,Loyola,15
+Indiana,Loyola-Chicago,15
 Indiana,Illinois,6
 Indiana,Michigan,4
 Indiana,Chicago,11
 Indiana,Northwestern,10
 Indiana,Illinois State,13
 Indiana,Michigan State,11
-Indiana,Carnegie Mellon,3
-Indiana,Penn State,3
-Indiana,Edinboro,4
-Indiana,Pittsburgh,2
-Indiana,Slippery Rock,6
-Indiana,West Virginia,7
 Ball State,Indiana,6
 Ball State,Southern Indiana,10
 Ball State,Kentucky,8
@@ -1118,7 +1107,7 @@ Notre Dame,Kentucky,15
 Notre Dame,Purdue,11
 Notre Dame,Ball State,13
 Notre Dame,Indiana,6
-Notre Dame,Grand Valley,5
+Notre Dame,Grand Valley State,5
 Notre Dame,Michigan,13
 Notre Dame,Illinois,7
 Notre Dame,Northwestern,2
@@ -1139,28 +1128,28 @@ Kentucky,Notre Dame,0
 Kentucky,Ball State,9
 Kentucky,Indiana,10
 Kentucky,Southern Indiana,13
-Kentucky,Grand Valley,10
+Kentucky,Grand Valley State,10
 Kentucky,Purdue,7
 Kentucky,Michigan,3
-Kentucky,Loyola,11
+Kentucky,Loyola-Chicago,11
 Kentucky,Chicago,11
 Kentucky,Michigan State,5
 Butler,Kalamazoo,13
 Butler,Valparaiso,10
 Butler,Kettering,13
-Butler,Rose,15
+Butler,Rose-Hulman,15
 Butler,Indiana Wesleyan,13
-Butler,Wheaton,15
+Butler,Wheaton Illinois,15
 Butler,Olivet Nazarene,7
 Butler,North Park,12
 Butler,Knox,5
 Kalamazoo,Butler,2
 Kalamazoo,Kettering,3
-Kalamazoo,Rose,5
+Kalamazoo,Rose-Hulman,5
 Kalamazoo,Indiana Wesleyan,9
 Kalamazoo,Valparaiso,1
 Indiana Wesleyan,Kettering,12
-Indiana Wesleyan,Rose,9
+Indiana Wesleyan,Rose-Hulman,9
 Indiana Wesleyan,Valparaiso,7
 Indiana Wesleyan,Kalamazoo,11
 Indiana Wesleyan,Butler,0
@@ -1168,19 +1157,19 @@ Kettering,Indiana Wesleyan,4
 Kettering,Kalamazoo,7
 Kettering,Butler,6
 Kettering,Valparaiso,1
-Kettering,Rose,4
-Rose,Indiana Wesleyan,11
-Rose,Kalamazoo,8
-Rose,Butler,5
-Rose,Kettering,13
-Rose,Valparaiso,1
-Rose,Olivet Nazarene,7
-Rose,Wheaton,4
-Rose,North Park,10
+Kettering,Rose-Hulman,4
+Rose-Hulman,Indiana Wesleyan,11
+Rose-Hulman,Kalamazoo,8
+Rose-Hulman,Butler,5
+Rose-Hulman,Kettering,13
+Rose-Hulman,Valparaiso,1
+Rose-Hulman,Olivet Nazarene,7
+Rose-Hulman,Wheaton Illinois,4
+Rose-Hulman,North Park,10
 North Georgia,Dalton State,13
 North Georgia,Stetson,13
 North Georgia,Georgia College,7
-North Georgia,Embry,15
+North Georgia,Embry-Riddle Florida,15
 North Georgia,Florida Tech,11
 North Georgia,Ave Maria,15
 North Georgia,Belmont,13
@@ -1196,26 +1185,26 @@ Georgia College,Berry,11
 Georgia College,Stetson,4
 Stetson,North Georgia,5
 Stetson,Dalton State,13
-Stetson,Embry,11
+Stetson,Embry-Riddle Florida,11
 Stetson,Florida Tech,3
 Stetson,Georgia College,15
 Stetson,Ave Maria,15
 Stetson,Belmont,11
 Stetson,Berry,4
-Embry,Berry,0
-Embry,Florida Tech,9
-Embry,Ave Maria,13
-Embry,North Georgia,5
-Embry,Stetson,15
-Embry,Samford,11
-Embry,Union,14
+Embry-Riddle Florida,Berry,12
+Embry-Riddle Florida,Florida Tech,9
+Embry-Riddle Florida,Ave Maria,13
+Embry-Riddle Florida,North Georgia,5
+Embry-Riddle Florida,Stetson,15
+Embry-Riddle Florida,Samford,11
+Embry-Riddle Florida,Union Tennessee,14
 Florida Tech,Ave Maria,13
-Florida Tech,Embry,15
+Florida Tech,Embry-Riddle Florida,15
 Florida Tech,Berry,11
 Florida Tech,North Georgia,12
 Florida Tech,Dalton State,15
 Florida Tech,Stetson,15
-Florida Tech,Union,13
+Florida Tech,Union Tennessee,13
 Florida Tech,Samford,15
 Florida Tech,Alabama,3
 Florida Tech,Florida,3
@@ -1225,84 +1214,25 @@ Florida Tech,Central Florida,7
 Florida Tech,South Florida,5
 Ave Maria,Florida Tech,7
 Ave Maria,Berry,0
-Ave Maria,Embry,11
+Ave Maria,Embry-Riddle Florida,11
 Ave Maria,North Georgia,14
 Ave Maria,Dalton State,15
 Ave Maria,Stetson,0
-Humboldt State,Oregon State,8
-Humboldt State,Lewis,15
-Humboldt State,Washington,13
-Humboldt State,Portland State,13
-Humboldt State,Las Positas,11
-Humboldt State,California,6
-Humboldt State,Sacramento State,11
-Humboldt State,Fresno State,11
-Humboldt State,Nevada,15
-Humboldt State,Sonoma State,15
-Humboldt State,Arizona,9
-Humboldt State,Southern California,9
-Humboldt State,Stanford,6
-Humboldt State,New Mexico,9
-Lewis,Washington,5
-Lewis,Humboldt State,2
-Lewis,Oregon State,4
-Lewis,Puget Sound,12
-Lewis,Gonzaga,0
-Lewis,Portland State,1
-Lewis,Whitman,10
-Lewis,Nevada,11
-Lewis,Whitworth,15
-Lewis,Seattle,13
-Lewis,Pacific Lutheran,15
-Nevada,Oregon State,8
-Nevada,Washington,13
-Nevada,Whitman,7
-Nevada,Lewis,15
-Nevada,Washington State,15
-Nevada,Santa Clara,8
-Nevada,San Jose,13
-Nevada,Chico State,13
-Nevada,Stanford,7
-Nevada,Sonoma State,13
-Nevada,Las Positas,12
-Nevada,Humboldt State,14
-Portland State,Gonzaga,4
-Portland State,Puget Sound,6
-Portland State,Lewis,13
-Portland State,Humboldt State,9
-Portland State,Washington,15
-Portland State,Western Washington,15
-Puget Sound,Lewis,8
-Puget Sound,Portland State,13
-Puget Sound,Gonzaga,7
-Puget Sound,Oregon,3
-Puget Sound,Washington State,15
-Puget Sound,Seattle,13
-Puget Sound,Whitworth,11
-Puget Sound,Portland,6
-Puget Sound,Pacific Lutheran,15
-Puget Sound,Willamette University,15
 South Florida,Miami,13
 South Florida,Florida Atlantic,11
 South Florida,Central Florida,5
 South Florida,Florida State,6
 South Florida,Auburn,8
-South Florida,Alabama,2
+South Florida,Alabama-Huntsville,4
 South Florida,Georgia,2
 South Florida,Georgia Tech,4
 South Florida,LSU,6
+South Florida,Alabama,2
 South Florida,Florida Tech,8
 Miami,South Florida,7
 Miami,Central Florida,5
 Miami,Florida Atlantic,11
 Miami,North Florida,15
-Miami,Kent State,13
-Miami,Toledo,13
-Miami,Ohio State,3
-Miami,Cincinnati,5
-Miami,Dayton,0
-Miami,Pittsburgh,0
-Miami,Case Western,0
 Central Florida,Miami,13
 Central Florida,South Florida,10
 Central Florida,Florida,7
@@ -1310,120 +1240,120 @@ Central Florida,Emory,11
 Central Florida,Kennesaw State,11
 Central Florida,Georgia,6
 Central Florida,Alabama,6
+Central Florida,Alabama-Huntsville,15
 Central Florida,Florida Tech,10
 Florida Atlantic,South Florida,8
 Florida Atlantic,Miami,14
-Florida Atlantic,Florida Gulf,15
+Florida Atlantic,Florida Gulf Coast,15
 Florida State,North Florida,15
-Florida State,Florida Gulf,13
+Florida State,Florida Gulf Coast,13
 Florida State,Florida,15
 Florida State,South Florida,13
-Florida State,Alabama,12
+Florida State,Alabama-Huntsville,13
 Florida State,Auburn,7
+Florida State,Alabama,12
 Florida State,Tulane,13
 North Florida,Florida State,0
 North Florida,Florida,0
-North Florida,Florida Gulf,0
+North Florida,Florida Gulf Coast,0
 North Florida,Miami,0
-Florida,Florida Gulf,13
+Florida,Florida Gulf Coast,13
 Florida,North Florida,15
 Florida,Florida State,13
 Florida,Central Florida,11
 Florida,Alabama,10
 Florida,LSU,13
+Florida,Alabama-Birmingham,13
 Florida,Georgia,14
 Florida,Kennesaw State,15
 Florida,Florida Tech,13
 Florida,Georgia Tech,10
-Florida Gulf,Florida,3
-Florida Gulf,Florida State,3
-Florida Gulf,North Florida,0
-Florida Gulf,Florida Atlantic,5
+Florida Gulf Coast,Florida,3
+Florida Gulf Coast,Florida State,3
+Florida Gulf Coast,North Florida,15
+Florida Gulf Coast,Florida Atlantic,5
 Chicago,Michigan,0
 Chicago,Indiana,2
-Chicago,Grand Valley,11
-Chicago,Loyola,14
-Chicago,Illinois,0
+Chicago,Grand Valley State,11
+Chicago,Loyola-Chicago,14
+Chicago,Illinois,1
 Chicago,Michigan State,7
 Chicago,Kentucky,3
 Chicago,Northern Illinois,11
 Chicago,DePaul,13
 Chicago,Northwestern,10
 Chicago,Illinois State,4
+Chicago,Illinois-Chicago,15
 Illinois State,Michigan,10
 Illinois State,Indiana,7
-Illinois State,Loyola,11
+Illinois State,Loyola-Chicago,11
+Illinois State,Illinois-Chicago,12
 Illinois State,Illinois,7
-Illinois State,Northwestern,0
 Illinois State,Chicago,7
 Illinois State,DePaul,14
-Grand Valley,Kentucky,12
-Grand Valley,Notre Dame,11
-Grand Valley,Chicago,7
-Grand Valley,Northwestern,12
-Grand Valley,Michigan State,15
+Grand Valley State,Kentucky,12
+Grand Valley State,Notre Dame,11
+Grand Valley State,Chicago,7
+Grand Valley State,Northwestern,12
+Grand Valley State,Michigan State,15
 Northwestern,Michigan,2
 Northwestern,Purdue,10
 Northwestern,Indiana,7
-Northwestern,Grand Valley,13
+Northwestern,Grand Valley State,13
 Northwestern,Notre Dame,15
 Northwestern,Illinois,11
 Northwestern,Michigan State,11
 Northwestern,DePaul,13
 Northwestern,Northern Illinois,13
 Northwestern,Chicago,8
-Northwestern,Illinois State,0
-Northwestern,Loyola,15
-Loyola,Indiana,4
-Loyola,Illinois,12
-Loyola,Chicago,10
-Loyola,Illinois State,6
-Loyola,Kentucky,7
-Loyola,Northwestern,5
-Loyola,Northern Illinois,8
-Loyola,DePaul,13
-Illinois,Loyola,4
+Northwestern,Loyola-Chicago,15
+Loyola-Chicago,Indiana,4
+Loyola-Chicago,Illinois,6
+Loyola-Chicago,Chicago,10
+Loyola-Chicago,Illinois State,6
+Loyola-Chicago,Kentucky,7
+Loyola-Chicago,Illinois-Chicago,12
+Loyola-Chicago,Northwestern,5
+Loyola-Chicago,Northern Illinois,8
+Loyola-Chicago,DePaul,13
+Illinois,Loyola-Chicago,15
 Illinois,Indiana,9
 Illinois,Michigan,3
 Illinois,Purdue,10
-Illinois,Chicago,0
+Illinois,Chicago,11
 Illinois,Notre Dame,13
 Illinois,Northwestern,8
 Illinois,Michigan State,15
+Illinois,Illinois-Chicago,13
 Illinois,Illinois State,13
-Illinois,Illinois,1
-Illinois,Northern Illinois,0
-Illinois,DePaul,6
+Illinois,Northern Illinois,15
+Illinois,DePaul,13
 Eastern Illinois,Valparaiso,0
 Eastern Illinois,Knox,7
-Eastern Illinois,North Park,0
+Eastern Illinois,North Park,3
 Eastern Illinois,Olivet Nazarene,5
-Eastern Illinois,Wheaton,7
+Eastern Illinois,Wheaton Illinois,7
 Knox,Eastern Illinois,12
 Knox,Valparaiso,8
 Knox,Olivet Nazarene,14
-Knox,Wheaton,10
+Knox,Wheaton Illinois,10
 Knox,Butler,7
 Knox,North Park,5
 North Park,Valparaiso,4
-North Park,Eastern Illinois,0
+North Park,Eastern Illinois,15
 North Park,Butler,11
-North Park,Rose,8
+North Park,Rose-Hulman,8
 North Park,Knox,12
 North Park,Olivet Nazarene,13
-North Park,Wheaton,7
-Wheaton,Butler,5
-Wheaton,Olivet Nazarene,5
-Wheaton,Rose,9
-Wheaton,Knox,5
-Wheaton,Eastern Illinois,10
-Wheaton,North Park,13
-Wheaton,Wentworth,4
-Wheaton,Brandeis,4
-Wheaton,Stonehill,9
-Wheaton,Bentley,4
-Olivet Nazarene,Rose,14
-Olivet Nazarene,Wheaton,13
+North Park,Wheaton Illinois,7
+Wheaton Illinois,Butler,5
+Wheaton Illinois,Olivet Nazarene,5
+Wheaton Illinois,Rose-Hulman,9
+Wheaton Illinois,Knox,5
+Wheaton Illinois,Eastern Illinois,10
+Wheaton Illinois,North Park,13
+Olivet Nazarene,Rose-Hulman,14
+Olivet Nazarene,Wheaton Illinois,13
 Olivet Nazarene,Butler,14
 Olivet Nazarene,Valparaiso,4
 Olivet Nazarene,Knox,10
@@ -1435,7 +1365,7 @@ Michigan State,Indiana,7
 Michigan State,Illinois,0
 Michigan State,Northwestern,2
 Michigan State,Kentucky,6
-Michigan State,Grand Valley,12
+Michigan State,Grand Valley State,12
 Michigan State,Western Michigan,15
 Massachusetts,Rhode Island,13
 Massachusetts,New Hampshire,15
@@ -1446,13 +1376,11 @@ Massachusetts,Amherst College,13
 Massachusetts,Dartmouth,15
 Massachusetts,Massachusetts Amherst,13
 Massachusetts,Colby,13
-Massachusetts,Harvard,13
-Massachusetts,Tufts,10
-Massachusetts,Massachusetts,15
 Massachusetts,Boston College,15
-Massachusetts,Northeastern,13
-Massachusetts,Boston University,4
 Massachusetts,MIT,15
+Massachusetts,Northeastern,13
+Massachusetts,Tufts,10
+Massachusetts,Harvard,13
 Rhode Island,Massachusetts,1
 Rhode Island,Maine,11
 Rhode Island,Vermont,3
@@ -1463,7 +1391,7 @@ Vermont,Brown,8
 Vermont,Rhode Island,13
 Vermont,Massachusetts,13
 Vermont,Amherst College,12
-Vermont,Dartmouth,0
+Vermont,Dartmouth,13
 Vermont,Massachusetts Amherst,13
 Vermont,Boston College,12
 Vermont,MIT,11
@@ -1481,7 +1409,7 @@ New Hampshire,Maine,11
 New Hampshire,Brown,9
 New Hampshire,Rhode Island,13
 New Hampshire,Harvard,11
-New Hampshire,Tufts,0
+New Hampshire,Tufts,1
 New Hampshire,Dartmouth,1
 Amherst College,Massachusetts,5
 Amherst College,Massachusetts Amherst,2
@@ -1503,7 +1431,7 @@ Massachusetts Amherst,Northeastern,12
 Dartmouth,Massachusetts Amherst,8
 Dartmouth,Massachusetts,12
 Dartmouth,Colby,13
-Dartmouth,Vermont,0
+Dartmouth,Vermont,7
 Dartmouth,Amherst College,15
 Dartmouth,Brown,7
 Dartmouth,Tufts,7
@@ -1514,25 +1442,19 @@ Dartmouth,Northeastern,9
 Dartmouth,Bowdoin,13
 Dartmouth,Bates College,13
 Dartmouth,Middlebury,13
-Alabama,Troy,11
-Alabama,Auburn,10
-Alabama,Southern Mississippi,11
-Alabama,Mississippi State,11
-Alabama,Tulane,13
-Alabama,Alabama,4
-Alabama,LSU,11
-Alabama,Vanderbilt,15
-Alabama,Mississippi,13
-Alabama,Jacksonville State,13
-Alabama,Middle Tennessee,15
-Alabama,Florida State,13
-Alabama,South Florida,15
-Alabama,Florida,7
-Alabama,Central Florida,7
-Alabama,Tennessee,15
-Alabama,Florida Tech,13
-Alabama,Georgia,5
-Troy,Alabama,3
+Alabama-Birmingham,Troy,11
+Alabama-Birmingham,Southern Mississippi,11
+Alabama-Birmingham,Auburn,4
+Alabama-Birmingham,Mississippi State,10
+Alabama-Birmingham,Alabama-Huntsville,7
+Alabama-Birmingham,Tulane,6
+Alabama-Birmingham,Vanderbilt,15
+Alabama-Birmingham,Middle Tennessee State,15
+Alabama-Birmingham,LSU,2
+Alabama-Birmingham,Alabama,4
+Alabama-Birmingham,Florida,7
+Troy,Alabama-Birmingham,7
+Troy,Alabama-Huntsville,3
 Troy,Tulane,1
 Troy,Mississippi State,3
 Troy,Southern Mississippi,10
@@ -1541,38 +1463,66 @@ Troy,Mississippi,13
 Tulane,Mississippi State,11
 Tulane,Southern Mississippi,11
 Tulane,Troy,11
-Tulane,Alabama,11
+Tulane,Alabama-Huntsville,11
 Tulane,Auburn,8
+Tulane,Alabama-Birmingham,11
 Tulane,Vanderbilt,15
 Tulane,Georgia,6
 Tulane,Tennessee,9
+Tulane,Tennessee-Chattanooga,9
 Tulane,Florida State,8
 Mississippi State,Tulane,4
 Mississippi State,Auburn,4
 Mississippi State,Troy,11
-Mississippi State,Alabama,6
+Mississippi State,Alabama-Birmingham,8
 Mississippi State,Southern Mississippi,11
+Mississippi State,Alabama-Huntsville,6
 Mississippi State,Jacksonville State,9
 Auburn,Mississippi State,11
-Auburn,Alabama,12
+Auburn,Alabama-Huntsville,12
+Auburn,Alabama-Birmingham,11
 Auburn,Southern Mississippi,11
 Auburn,Tulane,10
 Auburn,Troy,10
 Auburn,LSU,11
 Auburn,South Florida,13
 Auburn,Florida State,12
+Alabama-Huntsville,Troy,11
+Alabama-Huntsville,Auburn,10
+Alabama-Huntsville,Tulane,13
+Alabama-Huntsville,Alabama-Birmingham,11
+Alabama-Huntsville,Mississippi State,11
+Alabama-Huntsville,Alabama,9
+Alabama-Huntsville,Florida State,6
+Alabama-Huntsville,South Florida,13
+Alabama-Huntsville,Central Florida,10
+Alabama-Huntsville,Tennessee,15
 Southern Mississippi,Tulane,2
-Southern Mississippi,Alabama,4
+Southern Mississippi,Alabama-Birmingham,4
 Southern Mississippi,Auburn,2
 Southern Mississippi,Troy,8
 Southern Mississippi,Mississippi State,7
 Southern Mississippi,Mississippi,13
+Alabama,LSU,11
+Alabama,Vanderbilt,12
+Alabama,Mississippi,13
+Alabama,Jacksonville State,13
+Alabama,Middle Tennessee State,13
+Alabama,Alabama-Huntsville,13
+Alabama,Florida,7
+Alabama,Alabama-Birmingham,13
+Alabama,Central Florida,7
+Alabama,Florida State,13
+Alabama,Florida Tech,13
+Alabama,Georgia,5
+Alabama,South Florida,15
 LSU,Alabama,13
 LSU,Mississippi,13
 LSU,Jacksonville State,13
-LSU,Middle Tennessee,13
+LSU,Middle Tennessee State,13
 LSU,Vanderbilt,13
 LSU,Auburn,12
+LSU,Alabama-Birmingham,13
 LSU,Florida,14
 LSU,Georgia,7
 LSU,Emory,14
@@ -1580,23 +1530,25 @@ LSU,Florida Tech,13
 LSU,South Florida,12
 LSU,Georgia Tech,8
 Jacksonville State,Vanderbilt,5
-Jacksonville State,Middle Tennessee,11
+Jacksonville State,Middle Tennessee State,11
 Jacksonville State,LSU,8
 Jacksonville State,Alabama,5
 Jacksonville State,Mississippi,13
 Jacksonville State,Mississippi State,13
 Vanderbilt,Jacksonville State,11
-Vanderbilt,Alabama,10
-Vanderbilt,Middle Tennessee,11
+Vanderbilt,Alabama,11
+Vanderbilt,Middle Tennessee State,11
 Vanderbilt,Mississippi,13
 Vanderbilt,LSU,6
 Vanderbilt,Tulane,7
-Middle Tennessee,Mississippi,13
-Middle Tennessee,Jacksonville State,7
-Middle Tennessee,Vanderbilt,10
-Middle Tennessee,LSU,2
-Middle Tennessee,Alabama,7
-Mississippi,Middle Tennessee,9
+Vanderbilt,Alabama-Birmingham,10
+Middle Tennessee State,Mississippi,13
+Middle Tennessee State,Jacksonville State,7
+Middle Tennessee State,Vanderbilt,10
+Middle Tennessee State,LSU,2
+Middle Tennessee State,Alabama,2
+Middle Tennessee State,Alabama-Birmingham,7
+Mississippi,Middle Tennessee State,9
 Mississippi,LSU,7
 Mississippi,Alabama,4
 Mississippi,Vanderbilt,7
@@ -1605,53 +1557,52 @@ Mississippi,Southern Mississippi,15
 Mississippi,Troy,8
 Yale,Sacred Heart,15
 Yale,Connecticut,4
-Yale,SUNY,0
-Yale,Southern Connecticut,13
+Yale,SUNY-New Paltz,13
+Yale,SUNY-Albany,10
+Yale,Southern Connecticut State,13
 Yale,NYU,12
 Yale,Princeton,7
 Yale,Rutgers,7
 Yale,RIT,15
 Yale,Cornell,3
+Yale,SUNY-Buffalo,6
 Sacred Heart,Yale,3
-Sacred Heart,SUNY,2
-Sacred Heart,Southern Connecticut,7
+Sacred Heart,SUNY-New Paltz,3
+Sacred Heart,SUNY-Albany,2
+Sacred Heart,Southern Connecticut State,7
 Sacred Heart,Connecticut,2
-Southern Connecticut,SUNY,10
-Southern Connecticut,Connecticut,6
-Southern Connecticut,Sacred Heart,8
-Southern Connecticut,Yale,2
-SUNY,Southern Connecticut,12
-SUNY,Sacred Heart,13
-SUNY,Yale,0
-SUNY,Connecticut,9
-SUNY,SUNY,10
-SUNY,Rutgers,0
-SUNY,RIT,6
-SUNY,Cornell,3
-SUNY,NYU,7
-SUNY,Marist,6
-SUNY,Stevens Tech,9
-SUNY,Hamilton,8
-SUNY,Wesleyan,1
-SUNY,Ithaca,7
-SUNY,Rochester,11
-SUNY,Rensselaer Polytech,8
-SUNY,Princeton,8
-SUNY,SUNY Oneonta,5
-SUNY,Hofstra,11
-SUNY,Rowan,13
-SUNY,Columbia,10
-SUNY,Syracuse,5
-SUNY,Colgate,8
-SUNY,St Lawrence,15
+Southern Connecticut State,SUNY-New Paltz,10
+Southern Connecticut State,SUNY-Albany,6
+Southern Connecticut State,Connecticut,6
+Southern Connecticut State,Sacred Heart,8
+Southern Connecticut State,Yale,2
+SUNY-New Paltz,Southern Connecticut State,12
+SUNY-New Paltz,Sacred Heart,13
+SUNY-New Paltz,Yale,10
+SUNY-New Paltz,Connecticut,8
+SUNY-New Paltz,SUNY-Albany,5
 Connecticut,Yale,11
-Connecticut,Southern Connecticut,13
-Connecticut,SUNY,15
+Connecticut,Southern Connecticut State,13
+Connecticut,SUNY-New Paltz,13
 Connecticut,Sacred Heart,13
+Connecticut,SUNY-Albany,15
+Connecticut,SUNY-Binghamton,15
 Connecticut,Rutgers,13
 Connecticut,Cornell,15
 Connecticut,Syracuse,15
+Connecticut,SUNY-Stony Brook,13
 Connecticut,Princeton,12
+SUNY-Albany,Southern Connecticut State,11
+SUNY-Albany,Sacred Heart,13
+SUNY-Albany,Yale,7
+SUNY-Albany,SUNY-New Paltz,10
+SUNY-Albany,SUNY-Binghamton,10
+SUNY-Albany,Connecticut,7
+SUNY-Albany,RIT,9
+SUNY-Albany,Cornell,3
+SUNY-Albany,SUNY-Buffalo,9
+SUNY-Albany,SUNY Oneonta,12
+SUNY-Albany,Princeton,13
 Rensselaer Polytech,Union,11
 Rensselaer Polytech,Marist,5
 Rensselaer Polytech,Skidmore,15
@@ -1660,22 +1611,18 @@ Rensselaer Polytech,Army,9
 Rensselaer Polytech,Colgate,7
 Rensselaer Polytech,Wesleyan,5
 Rensselaer Polytech,Stevens Tech,9
-Rensselaer Polytech,SUNY,9
+Rensselaer Polytech,SUNY-Geneseo,9
+Rensselaer Polytech,SUNY-Oneonta,9
 Union,Rensselaer Polytech,5
 Union,Skidmore,6
 Union,New Haven,3
 Union,Marist,5
-Union,Florida Tech,6
-Union,Embry,12
-Union,Samford,10
-Union,Berry,10
-Union,Belmont,0
-Union,Johnson,15
 Marist,Rensselaer Polytech,11
 Marist,Union,11
 Marist,Skidmore,11
 Marist,Wesleyan,16
-Marist,SUNY,15
+Marist,SUNY-Fredonia,15
+Marist,SUNY-Geneseo,15
 Marist,Hamilton,14
 Marist,Stevens Tech,15
 Skidmore,Union,11
@@ -1693,17 +1640,17 @@ Army,Saint Rose,11
 Army,Wesleyan,12
 Army,Rensselaer Polytech,13
 Army,Rochester,12
-Army,Ithaca,0
+Army,Ithaca,12
 Army,Stevens Tech,0
 Vassar,Army,5
 Vassar,Saint Rose,11
 Vassar,Wesleyan,1
-Vassar,Hartford,0
+Vassar,Hartford,8
 Vassar,Skidmore,11
 Hartford,Saint Rose,10
 Hartford,Army,9
 Hartford,Wesleyan,5
-Hartford,Vassar,0
+Hartford,Vassar,11
 Hartford,New Haven,15
 Saint Rose,Hartford,6
 Saint Rose,Wesleyan,1
@@ -1715,68 +1662,169 @@ Wesleyan,Vassar,11
 Wesleyan,Army,15
 Wesleyan,Marist,15
 Wesleyan,Rensselaer Polytech,15
-Wesleyan,Colgate,0
-Wesleyan,SUNY,15
+Wesleyan,Colgate,6
+Wesleyan,SUNY-Oneonta,15
+Illinois-Chicago,Illinois State,6
+Illinois-Chicago,Illinois,1
+Illinois-Chicago,Loyola-Chicago,4
+Illinois-Chicago,Chicago,7
+Illinois-Chicago,DePaul,6
 DePaul,Northwestern,2
 DePaul,Chicago,3
 DePaul,Northern Illinois,9
 DePaul,Illinois State,11
-DePaul,Illinois,8
-DePaul,Loyola,9
+DePaul,Illinois,6
+DePaul,Illinois-Chicago,8
+DePaul,Loyola-Chicago,9
 Northern Illinois,Chicago,6
 Northern Illinois,Northwestern,1
 Northern Illinois,DePaul,6
-Northern Illinois,Illinois,0
-Northern Illinois,Loyola,7
+Northern Illinois,Illinois,5
+Northern Illinois,Loyola-Chicago,7
+Wisconsin-Milwaukee,Wisconsin-Oshkosh,13
+Wisconsin-Milwaukee,Wisconsin-Eau Claire,12
+Wisconsin-Milwaukee,Wisconsin,13
+Wisconsin-Milwaukee,Wisconsin-Whitewater,12
+Wisconsin-Milwaukee,Marquette,13
+Wisconsin-Milwaukee,Minnesota-Duluth,12
+Wisconsin-Milwaukee,Minnesota,10
+Wisconsin-Milwaukee,Northern Iowa,12
+Wisconsin-Milwaukee,Carleton College-CUT,10
+Wisconsin-Milwaukee,Iowa State,4
+Wisconsin-Oshkosh,Wisconsin-Milwaukee,5
+Wisconsin-Oshkosh,Wisconsin,2
+Wisconsin-Oshkosh,Wisconsin-Eau Claire,6
+Wisconsin-Oshkosh,Wisconsin- La Crosse,12
+Wisconsin-Oshkosh,Northern Michigan,9
+Wisconsin-Eau Claire,Wisconsin-Milwaukee,5
+Wisconsin-Eau Claire,Wisconsin-Oshkosh,15
+Wisconsin-Eau Claire,Marquette,9
+Wisconsin-Eau Claire,Wisconsin- La Crosse,14
+Wisconsin-Eau Claire,Northern Michigan,13
 Marquette,Northern Michigan,13
+Marquette,Wisconsin- La Crosse,13
+Marquette,Wisconsin-Stevens Point,13
+Marquette,Wisconsin-Whitewater,0
+Marquette,Wisconsin-Milwaukee,7
+Marquette,Wisconsin-Eau Claire,15
+Marquette,Northern Iowa,13
+Marquette,Carleton College-CUT,5
+Marquette,Minnesota-Duluth,14
+Marquette,Minnesota,13
+Marquette,Iowa,13
 Marquette,Wisconsin,1
 Marquette,Luther,13
-Marquette,Minnesota,13
 Marquette,Iowa State,7
 Northern Michigan,Marquette,2
-Northern Michigan,Wisconsin,11
-Carthage College,Wisconsin,13
-Carthage College,Milwaukee School,4
+Northern Michigan,Wisconsin-Stevens Point,10
+Northern Michigan,Wisconsin-Whitewater,6
+Northern Michigan,Wisconsin- La Crosse,5
+Northern Michigan,Wisconsin-Eau Claire,12
+Northern Michigan,Wisconsin-Oshkosh,11
+Wisconsin- La Crosse,Wisconsin-Stevens Point,11
+Wisconsin- La Crosse,Marquette,2
+Wisconsin- La Crosse,Wisconsin-Whitewater,8
+Wisconsin- La Crosse,Northern Michigan,13
+Wisconsin- La Crosse,Wisconsin-Eau Claire,10
+Wisconsin- La Crosse,Wisconsin-Oshkosh,13
+Wisconsin-Stevens Point,Wisconsin- La Crosse,7
+Wisconsin-Stevens Point,Wisconsin-Whitewater,6
+Wisconsin-Stevens Point,Northern Michigan,9
+Wisconsin-Stevens Point,Marquette,1
+Wisconsin-Whitewater,Wisconsin-Stevens Point,13
+Wisconsin-Whitewater,Wisconsin- La Crosse,12
+Wisconsin-Whitewater,Northern Michigan,13
+Wisconsin-Whitewater,Marquette,1
+Wisconsin-Whitewater,Wisconsin,8
+Wisconsin-Whitewater,Wisconsin-Milwaukee,8
+Wisconsin-Whitewater,Minnesota State-Mankato,14
+Wisconsin-Whitewater,Iowa,7
+Wisconsin-Whitewater,Minnesota,13
+Wisconsin-Whitewater,Iowa State,5
+Wisconsin-Platteville,Carthage College,13
+Wisconsin-Platteville,Michigan Tech,5
+Wisconsin-Platteville,Wisconsin-Green Bay,13
+Wisconsin-Platteville,Milwaukee School of Engineering,13
+Wisconsin-Platteville,Wisconsin-River Falls,13
+Wisconsin-Platteville,Macalester,8
+Wisconsin-Platteville,Carleton College-GoP,8
+Wisconsin-Platteville,Carleton Hot Karls,13
+Wisconsin-Platteville,Luther,5
+Wisconsin-Platteville,St Olaf,13
+Wisconsin-Platteville,St. Thomas,15
+Carthage College,Wisconsin-Platteville,4
+Carthage College,Wisconsin-Green Bay,3
+Carthage College,Milwaukee School of Engineering,4
+Carthage College,Wisconsin-River Falls,13
 Carthage College,Michigan Tech,2
-Milwaukee School,Wisconsin,13
-Milwaukee School,Carthage College,13
-Harvard,Massachusetts,5
+Wisconsin-River Falls,Wisconsin-Green Bay,1
+Wisconsin-River Falls,Milwaukee School of Engineering,0
+Wisconsin-River Falls,Michigan Tech,1
+Wisconsin-River Falls,Carthage College,12
+Wisconsin-River Falls,Wisconsin-Platteville,0
+Wisconsin-Green Bay,Wisconsin-River Falls,13
+Wisconsin-Green Bay,Carthage College,13
+Wisconsin-Green Bay,Wisconsin-Platteville,7
+Wisconsin-Green Bay,Michigan Tech,5
+Wisconsin-Green Bay,Milwaukee School of Engineering,7
+Milwaukee School of Engineering,Wisconsin-River Falls,13
+Milwaukee School of Engineering,Carthage College,13
+Milwaukee School of Engineering,Wisconsin-Platteville,4
+Milwaukee School of Engineering,Wisconsin-Green Bay,13
+Harvard,Massachusetts- Dartmouth,13
+Harvard,Massachusetts-Lowell,13
 Harvard,Tufts,5
 Harvard,Northeastern,6
 Harvard,Boston College,13
 Harvard,Boston University,12
 Harvard,MIT,0
 Harvard,New Hampshire,13
+Harvard,Massachusetts,5
 Harvard,Dartmouth,11
 Harvard,Vermont,12
+Massachusetts- Dartmouth,Harvard,4
+Massachusetts- Dartmouth,Tufts,0
+Massachusetts- Dartmouth,Massachusetts-Lowell,4
+Massachusetts- Dartmouth,Boston College,6
+Massachusetts- Dartmouth,Boston University,4
+Massachusetts-Lowell,Harvard,5
+Massachusetts-Lowell,Massachusetts- Dartmouth,15
+Massachusetts-Lowell,Northeastern,6
+Massachusetts-Lowell,MIT,5
 Boston University,Northeastern,6
 Boston University,MIT,10
 Boston University,Boston College,7
 Boston University,Harvard,11
 Boston University,Tufts,8
-Boston University,Massachusetts,15
+Boston University,Massachusetts- Dartmouth,15
 Boston College,Northeastern,4
 Boston College,Boston University,13
 Boston College,MIT,10
 Boston College,Harvard,11
-Boston College,Massachusetts,0
+Boston College,Massachusetts- Dartmouth,15
 Boston College,Tufts,15
+Boston College,Massachusetts,0
 Boston College,Vermont,11
 Boston College,Brown,2
 MIT,Boston University,11
 MIT,Northeastern,4
 MIT,Boston College,12
 MIT,Tufts,6
-MIT,Massachusetts,0
+MIT,Massachusetts-Lowell,15
 MIT,Harvard,15
+MIT,Massachusetts,0
 MIT,Vermont,9
 MIT,Brown,6
 MIT,Dartmouth,10
-Wentworth,Wheaton,13
+Wentworth,Wheaton MA,13
 Wentworth,Brandeis,7
 Wentworth,Stonehill,8
 Wentworth,Bentley,5
-Brandeis,Wheaton,13
+Wheaton MA,Wentworth,4
+Wheaton MA,Brandeis,4
+Wheaton MA,Stonehill,9
+Wheaton MA,Bentley,4
+Brandeis,Wheaton MA,13
 Brandeis,Wentworth,13
 Brandeis,Stonehill,15
 Brandeis,Bentley,15
@@ -1785,31 +1833,66 @@ Brandeis,Colby,8
 Brandeis,Bates College,4
 Brandeis,Williams,10
 Bentley,Stonehill,13
-Bentley,Wheaton,13
+Bentley,Wheaton MA,13
 Bentley,Wentworth,13
 Bentley,Brandeis,8
 Bentley,Bowdoin,8
 Bentley,Williams,3
 Bentley,Bates College,9
 Stonehill,Bentley,6
-Stonehill,Wheaton,13
+Stonehill,Wheaton MA,13
 Stonehill,Wentworth,11
 Stonehill,Brandeis,4
+SUNY-Buffalo,Rutgers,7
+SUNY-Buffalo,NYU,12
+SUNY-Buffalo,SUNY-Albany,6
+SUNY-Buffalo,SUNY Oneonta,13
+SUNY-Buffalo,SUNY-Binghamton,13
+SUNY-Buffalo,Cornell,3
+SUNY-Buffalo,Princeton,5
+SUNY-Buffalo,Yale,11
+SUNY-Buffalo,Syracuse,5
 Syracuse,Rutgers,5
 Syracuse,Connecticut,9
 Syracuse,Princeton,14
-Syracuse,SUNY,9
+Syracuse,SUNY-Binghamton,7
 Syracuse,RIT,6
+Syracuse,SUNY-Buffalo,9
 Syracuse,Cornell,10
-RIT,SUNY,11
+SUNY-Binghamton,SUNY-Albany,6
+SUNY-Binghamton,Connecticut,9
+SUNY-Binghamton,SUNY-Stony Brook,11
+SUNY-Binghamton,SUNY Oneonta,13
+SUNY-Binghamton,Cornell,11
+SUNY-Binghamton,SUNY-Buffalo,9
+SUNY-Binghamton,Princeton,13
+SUNY-Binghamton,Syracuse,11
+SUNY-Binghamton,RIT,6
+RIT,SUNY-Stony Brook,10
 RIT,Cornell,10
 RIT,Yale,12
+RIT,SUNY-Albany,15
 RIT,Syracuse,13
-Cornell,SUNY,13
+RIT,SUNY-Binghamton,11
+SUNY-Stony Brook,RIT,12
+SUNY-Stony Brook,Cornell,8
+SUNY-Stony Brook,Rutgers,6
+SUNY-Stony Brook,SUNY-Binghamton,15
+SUNY-Stony Brook,Connecticut,1
+SUNY-Stony Brook,Princeton,8
+SUNY-Stony Brook,SUNY Oneonta,5
+SUNY-Stony Brook,Hofstra,11
+SUNY-Stony Brook,Rowan,13
+SUNY-Stony Brook,NYU,7
+SUNY-Stony Brook,Columbia,10
+Cornell,SUNY-Stony Brook,13
 Cornell,RIT,11
 Cornell,Connecticut,10
 Cornell,NYU,15
+Cornell,SUNY-Albany,13
 Cornell,SUNY Oneonta,13
+Cornell,SUNY-Binghamton,8
+Cornell,SUNY-Buffalo,13
 Cornell,Rutgers,12
 Cornell,Yale,15
 Cornell,Syracuse,12
@@ -1817,64 +1900,103 @@ Princeton,NYU,9
 Princeton,Yale,12
 Princeton,Syracuse,13
 Princeton,Rutgers,7
-Princeton,SUNY,9
+Princeton,SUNY-Stony Brook,9
 Princeton,Connecticut,9
+Princeton,SUNY-Albany,10
+Princeton,SUNY-Buffalo,13
+Princeton,SUNY-Binghamton,15
 Princeton,Rowan,10
 Princeton,Hofstra,13
 NYU,Princeton,6
 NYU,Yale,9
 NYU,Cornell,8
-NYU,SUNY,9
+NYU,SUNY-Buffalo,14
 NYU,Columbia,10
 NYU,Rutgers,7
-Stevens Tech,SUNY,11
+NYU,SUNY-Stony Brook,9
+SUNY-Fredonia,Marist,2
+SUNY-Fredonia,Ithaca,4
+SUNY-Fredonia,SUNY-Geneseo,11
+SUNY-Fredonia,SUNY-Oneonta,11
+SUNY-Fredonia,Hamilton,6
+SUNY-Fredonia,St Lawrence University,13
+SUNY-Fredonia,Rochester,7
+SUNY-Fredonia,SUNY-Cortland,10
+SUNY-Geneseo,Marist,6
+SUNY-Geneseo,Rochester,11
+SUNY-Geneseo,Rensselaer Polytech,6
+SUNY-Geneseo,SUNY-Fredonia,12
+SUNY-Geneseo,Ithaca,9
+SUNY-Geneseo,Colgate,4
+SUNY-Geneseo,St Lawrence University,15
+SUNY-Oneonta,Stevens Tech,9
+SUNY-Oneonta,Hamilton,8
+SUNY-Oneonta,Wesleyan,1
+SUNY-Oneonta,Rensselaer Polytech,8
+SUNY-Oneonta,SUNY-Fredonia,10
+SUNY-Oneonta,Rochester,10
+SUNY-Oneonta,St Lawrence University,13
+SUNY-Oneonta,Colgate,8
+SUNY-Oneonta,Ithaca,7
+Stevens Tech,SUNY-Oneonta,11
 Stevens Tech,Hamilton,8
 Stevens Tech,Marist,10
 Stevens Tech,Rensselaer Polytech,10
 Stevens Tech,Rochester,13
 Stevens Tech,Army,1
-Stevens Tech,New York,13
-Stevens Tech,College of,11
+Stevens Tech,New York Tech,13
+Stevens Tech,College of New Jersey,11
 Colgate,Rensselaer Polytech,11
-Colgate,Wesleyan,0
+Colgate,Wesleyan,9
 Colgate,Hamilton,12
 Colgate,Ithaca,8
-Colgate,SUNY,15
+Colgate,SUNY-Cortland,13
+Colgate,SUNY-Geneseo,11
+Colgate,SUNY-Oneonta,15
 Ithaca,Rochester,9
-Ithaca,Army,0
+Ithaca,Army,6
 Ithaca,Colgate,12
-Ithaca,SUNY,13
+Ithaca,SUNY-Fredonia,13
+Ithaca,SUNY-Geneseo,10
+Ithaca,SUNY-Cortland,13
 Ithaca,Hamilton,10
+Ithaca,SUNY-Oneonta,13
 Rochester,Ithaca,10
 Rochester,Army,4
 Rochester,Hamilton,7
-Rochester,SUNY,10
+Rochester,SUNY-Geneseo,10
 Rochester,Stevens Tech,9
-Rochester,St Lawrence,13
-SUNY Oneonta,SUNY,10
+Rochester,St Lawrence University,13
+Rochester,SUNY-Oneonta,7
+Rochester,SUNY-Fredonia,11
+Rochester,SUNY-Cortland,11
+SUNY Oneonta,SUNY-Binghamton,5
 SUNY Oneonta,Cornell,3
+SUNY Oneonta,SUNY-Buffalo,4
+SUNY Oneonta,SUNY-Albany,2
+SUNY Oneonta,SUNY-Stony Brook,10
 Columbia,Rutgers,8
 Columbia,NYU,4
-Columbia,New Jersey,11
-Columbia,SUNY,6
+Columbia,New Jersey Tech,11
+Columbia,SUNY-Stony Brook,6
 Columbia,Rowan,11
 Columbia,Hofstra,13
-New Jersey,Rutgers,2
-New Jersey,Columbia,7
-New Jersey,Rowan,3
-New Jersey,Hofstra,4
+New Jersey Tech,Rutgers,2
+New Jersey Tech,Columbia,7
+New Jersey Tech,Rowan,3
+New Jersey Tech,Hofstra,4
 Rowan,Princeton,9
-Rowan,SUNY,6
+Rowan,SUNY-Stony Brook,6
 Rowan,Hofstra,11
 Rowan,Columbia,5
-Rowan,New Jersey,13
-Hofstra,SUNY,6
+Rowan,New Jersey Tech,13
+Hofstra,SUNY-Stony Brook,6
 Hofstra,Princeton,9
 Hofstra,Rowan,7
 Hofstra,Columbia,11
-Hofstra,New Jersey,13
-New York,Stevens Tech,2
-College of,Stevens Tech,7
+Hofstra,New Jersey Tech,13
+New York Tech,Stevens Tech,2
+College of New Jersey,Stevens Tech,7
 Western Michigan,Michigan,0
 Western Michigan,Michigan State,1
 Williams,Bowdoin,6
@@ -1888,15 +2010,6 @@ Williams,Bryant University,10
 Williams,Providence College,13
 Williams,Amherst College,15
 Williams,Worcester Polytech,13
-Bryant University,Brandeis,11
-Bryant University,Bates College,15
-Bryant University,Colby,6
-Bryant University,Middlebury,2
-Bryant University,Bowdoin,5
-Bryant University,Williams,15
-Bryant University,Worcester Polytech,13
-Bryant University,Providence College,13
-Bryant University,Clark,13
 Bates College,Colby,6
 Bates College,Bryant University,7
 Bates College,Brandeis,15
@@ -1904,164 +2017,286 @@ Bates College,Williams,11
 Bates College,Bentley,10
 Bates College,Middlebury,8
 Bates College,Dartmouth,5
+California-Davis,California-Santa Cruz,4
+California-Davis,Sacramento State,11
+California-Davis,California,8
+California-Davis,Fresno State,11
+California-Davis,Las Positas,13
+California-Davis,Humboldt State,13
+California-Davis,Stanford,14
+California-Davis,Chico State,15
+California-Davis,Cal Poly-SLO,4
+California-Davis,Northern Arizona,11
+California-Santa Cruz,California-Davis,11
+California-Santa Cruz,Fresno State,11
+California-Santa Cruz,Las Positas,15
+California-Santa Cruz,Humboldt State,11
+California-Santa Cruz,California,8
+California-Santa Cruz,Sacramento State,11
+California-Santa Cruz,Chico State,11
+California-Santa Cruz,Santa Clara,15
+California-Santa Cruz,Arizona,10
+Humboldt State,Las Positas,11
+Humboldt State,California,8
+Humboldt State,Sacramento State,11
+Humboldt State,California-Santa Cruz,7
+Humboldt State,Fresno State,11
+Humboldt State,California-Davis,6
+Humboldt State,Nevada-Reno,15
+Humboldt State,Sonoma State,15
+Humboldt State,Arizona,9
+Humboldt State,Southern California,9
+Humboldt State,Stanford,6
+Humboldt State,New Mexico,9
 Las Positas,Humboldt State,10
-Las Positas,California,0
+Las Positas,California-Santa Cruz,0
 Las Positas,Fresno State,11
 Las Positas,Sacramento State,11
+Las Positas,California-Davis,12
+Las Positas,California,6
 Las Positas,Santa Clara,0
-Las Positas,Nevada,13
-Las Positas,Cal Poly,4
+Las Positas,Nevada-Reno,13
+Las Positas,Cal Poly-SLO,4
 Las Positas,Southern California,7
-Sacramento State,California,5
+Sacramento State,California-Davis,3
 Sacramento State,Humboldt State,5
+Sacramento State,California,4
 Sacramento State,Las Positas,8
 Sacramento State,Fresno State,11
-Sacramento State,San Jose,15
-Fresno State,California,1
+Sacramento State,California-Santa Cruz,5
+Sacramento State,San Jose State,15
+Fresno State,California-Santa Cruz,1
 Fresno State,Las Positas,2
+Fresno State,California-Davis,1
 Fresno State,Sacramento State,2
 Fresno State,Humboldt State,2
-Fresno State,San Jose,8
+Fresno State,San Jose State,8
+Stanford,Sonoma State,13
+Stanford,Chico State,13
+Stanford,Santa Clara,13
+Stanford,Nevada-Reno,13
+Stanford,San Jose State,13
+Stanford,California,11
+Stanford,California-Davis,7
+Stanford,Southern California,13
+Stanford,Arizona,14
+Stanford,Humboldt State,13
+Stanford,California-San Diego,15
 Sonoma State,Stanford,6
 Sonoma State,Santa Clara,10
-Sonoma State,San Jose,13
+Sonoma State,San Jose State,13
 Sonoma State,Chico State,5
-Sonoma State,Nevada,2
+Sonoma State,Nevada-Reno,2
 Sonoma State,Humboldt State,12
-Santa Clara,Nevada,13
+Santa Clara,Nevada-Reno,13
 Santa Clara,Sonoma State,13
 Santa Clara,Stanford,8
-Santa Clara,San Jose,13
+Santa Clara,San Jose State,13
 Santa Clara,Chico State,15
-Santa Clara,California,9
+Santa Clara,California-Santa Cruz,7
 Santa Clara,Las Positas,15
 Santa Clara,UCLA,4
+Santa Clara,California-San Diego,4
 Santa Clara,Northern Arizona,10
-Chico State,San Jose,13
+Santa Clara,California-Santa Barbara,9
+Nevada-Reno,Santa Clara,8
+Nevada-Reno,San Jose State,13
+Nevada-Reno,Chico State,13
+Nevada-Reno,Stanford,7
+Nevada-Reno,Sonoma State,13
+Nevada-Reno,Las Positas,12
+Nevada-Reno,Humboldt State,14
+Chico State,San Jose State,13
 Chico State,Stanford,9
-Chico State,Nevada,11
+Chico State,Nevada-Reno,11
 Chico State,Sonoma State,12
 Chico State,Santa Clara,0
-Chico State,California,15
+Chico State,California-Davis,5
+Chico State,California-Santa Cruz,15
+Chico State,California-Santa Barbara,10
+Chico State,California,7
 Chico State,New Mexico,12
-San Jose,Chico State,5
-San Jose,Nevada,6
-San Jose,Sonoma State,7
-San Jose,Santa Clara,7
-San Jose,Stanford,2
-San Jose,Fresno State,15
-San Jose,Sacramento State,8
-Winona State,St John,15
+Chico State,California-San Diego,11
+San Jose State,Chico State,5
+San Jose State,Nevada-Reno,6
+San Jose State,Sonoma State,7
+San Jose State,Santa Clara,7
+San Jose State,Stanford,2
+San Jose State,Fresno State,15
+San Jose State,Sacramento State,8
+Minnesota-Duluth,Minnesota,5
+Minnesota-Duluth,Northern Iowa,13
+Minnesota-Duluth,Wisconsin-Milwaukee,9
+Minnesota-Duluth,Marquette,15
+Minnesota-Duluth,Carleton College-CUT,5
+Minnesota-Duluth,Minnesota State-Mankato,12
+Minnesota-Duluth,North Dakota State,13
+Northern Iowa,Marquette,7
+Northern Iowa,Minnesota-Duluth,10
+Northern Iowa,Minnesota,3
+Northern Iowa,Carleton College-CUT,3
+Northern Iowa,Wisconsin-Milwaukee,8
+Northern Iowa,Minnesota State-Mankato,10
+Northern Iowa,Nebraska-Omaha,13
+Northern Iowa,Nebraska,13
+Northern Iowa,Iowa State,2
+Northern Iowa,Creighton,13
+Northern Iowa,Iowa,5
+Carleton College-CUT,Minnesota,12
+Carleton College-CUT,Marquette,13
+Carleton College-CUT,Northern Iowa,13
+Carleton College-CUT,Minnesota-Duluth,13
+Carleton College-CUT,Iowa State,12
+Carleton College-CUT,Wisconsin,11
+Carleton College-CUT,Wisconsin-Milwaukee,15
+Carleton College-CUT,North Dakota State,13
+Carleton College-CUT,Minnesota State-Mankato,13
+Iowa,Wisconsin,8
+Iowa,Wisconsin-Whitewater,13
+Iowa,Minnesota,13
+Iowa,Iowa State,10
+Iowa,Minnesota State-Mankato,13
+Iowa,Marquette,15
+Iowa,Creighton,13
+Iowa,Nebraska-Omaha,13
+Iowa,Nebraska,13
+Iowa,Northern Iowa,13
+Minnesota State-Mankato,Wisconsin-Whitewater,13
+Minnesota State-Mankato,Minnesota,2
+Minnesota State-Mankato,Iowa State,4
+Minnesota State-Mankato,Wisconsin,4
+Minnesota State-Mankato,Iowa,9
+Minnesota State-Mankato,Minnesota-Duluth,8
+Minnesota State-Mankato,Northern Iowa,15
+Minnesota State-Mankato,Carleton College-CUT,4
+Minnesota State-Mankato,North Dakota State,15
+Winona State,St John's,15
 Winona State,Michigan Tech,7
-Winona State,St,12
+Winona State,St. Thomas,12
 Winona State,St Olaf,6
-Winona State,Carleton College,3
+Winona State,Carleton College-GoP,3
 Winona State,Macalester,14
 Winona State,Bethel,1
-St John,Winona State,6
-St John,Michigan Tech,7
-St John,St,15
-St John,St Olaf,2
-St John,Carleton Hot,11
-St John,Macalester,12
-St John,Bethel,14
-St Olaf,St,15
-St Olaf,St John,13
+St John's,Winona State,6
+St John's,Michigan Tech,7
+St John's,St. Thomas,15
+St John's,St Olaf,2
+St John's,Carleton Hot Karls,11
+St John's,Macalester,12
+St John's,Bethel,14
+St Olaf,St. Thomas,15
+St Olaf,St John's,13
 St Olaf,Winona State,7
 St Olaf,Luther,7
-St Olaf,Wisconsin,15
-St Olaf,Carleton Hot,15
+St Olaf,Wisconsin-Platteville,15
+St Olaf,Carleton Hot Karls,15
 St Olaf,Macalester,15
-St Olaf,Carleton College,4
-St,St Olaf,12
-St,St John,13
-St,Winona State,15
-St,Michigan Tech,7
-St,Macalester,12
-St,Wisconsin,14
-St,Carleton College,4
-St,Bethel,15
-Macalester,Wisconsin,13
-Macalester,Carleton College,7
-Macalester,Carleton Hot,15
+St Olaf,Carleton College-GoP,4
+St. Thomas,St Olaf,12
+St. Thomas,St John's,13
+St. Thomas,Winona State,15
+St. Thomas,Michigan Tech,7
+St. Thomas,Macalester,12
+St. Thomas,Wisconsin-Platteville,14
+St. Thomas,Carleton College-GoP,4
+St. Thomas,Bethel,15
+Macalester,Wisconsin-Platteville,13
+Macalester,Carleton College-GoP,7
+Macalester,Carleton Hot Karls,15
 Macalester,Luther,7
 Macalester,Winona State,15
-Macalester,St,15
-Macalester,St John,13
+Macalester,St. Thomas,15
+Macalester,St John's,13
 Macalester,St Olaf,10
-Carleton College,Luther,11
-Carleton College,Wisconsin,12
-Carleton College,Macalester,13
-Carleton College,Carleton Hot,13
-Carleton College,Michigan Tech,13
-Carleton College,Winona State,15
-Carleton College,Minnesota,12
-Carleton College,North Dakota,13
-Carleton College,Minnesota State,13
-Carleton College,Bethel,15
-Carleton College,St,15
-Carleton College,St Olaf,15
-Carleton Hot,Luther,4
-Carleton Hot,Wisconsin,8
-Carleton Hot,Macalester,10
-Carleton Hot,Carleton College,1
-Carleton Hot,St John,10
-Carleton Hot,St Olaf,10
-Carleton Hot,Bethel,15
-Stephen F,North Texas,0
-Stephen F,Texas Tech,1
-Stephen F,Texas,13
-Stephen F,Baylor,6
-Stephen F,Texas Christian,5
-Stephen F,Southern Methodist,9
-North Texas,Stephen F,0
+Carleton Hot Karls,Luther,4
+Carleton Hot Karls,Wisconsin-Platteville,8
+Carleton Hot Karls,Macalester,10
+Carleton Hot Karls,Carleton College-GoP,1
+Carleton Hot Karls,St John's,10
+Carleton Hot Karls,St Olaf,10
+Carleton Hot Karls,Bethel,15
+Stephen F. Austin,North Texas,13
+Stephen F. Austin,Texas Tech,1
+Stephen F. Austin,Texas-Arlington,13
+Stephen F. Austin,Baylor,6
+Stephen F. Austin,Texas Christian,5
+Stephen F. Austin,Southern Methodist,9
+North Texas,Stephen F. Austin,4
 North Texas,Texas Tech,4
-North Texas,Texas,7
+North Texas,Texas-Arlington,11
 North Texas,Baylor,7
+North Texas,Texas-Dallas,7
 North Texas,Southern Methodist,13
 North Texas,Texas Christian,8
-Baylor,Texas,5
+Baylor,Texas-Arlington,13
 Baylor,North Texas,10
-Baylor,Stephen F,13
+Baylor,Stephen F. Austin,13
+Baylor,Texas-Dallas,5
 Baylor,Texas Christian,9
 Baylor,Texas Tech,6
 Baylor,Saint Louis,12
 Baylor,Texas State,6
-Baylor,Arkansas,0
+Texas-Arlington,Baylor,6
+Texas-Arlington,North Texas,7
+Texas-Arlington,Stephen F. Austin,8
+Texas-Arlington,Texas Tech,2
+Texas-Arlington,Southern Methodist,8
 Texas Tech,North Texas,13
-Texas Tech,Stephen F,13
-Texas Tech,Texas,9
+Texas Tech,Stephen F. Austin,13
+Texas Tech,Texas-Arlington,13
+Texas Tech,Texas-Dallas,9
 Texas Tech,Texas Christian,1
 Texas Tech,Baylor,15
-Texas Tech,Texas A,8
+Texas Tech,Texas A&M,8
 Texas Tech,Kansas,12
 Texas Christian,Southern Methodist,13
-Texas Christian,Texas,13
+Texas Christian,Texas-Dallas,13
 Texas Christian,North Texas,12
 Texas Christian,Texas Tech,0
 Texas Christian,Baylor,7
-Texas Christian,Stephen F,10
+Texas Christian,Stephen F. Austin,10
 Southern Methodist,Texas Christian,3
-Southern Methodist,Texas,12
+Southern Methodist,Texas-Dallas,9
 Southern Methodist,North Texas,6
-Southern Methodist,Stephen F,5
+Southern Methodist,Stephen F. Austin,5
+Southern Methodist,Texas-Arlington,12
+Texas-Dallas,North Texas,11
+Texas-Dallas,Southern Methodist,7
+Texas-Dallas,Texas Christian,5
+Texas-Dallas,Texas-Dallas,3
+Texas-Dallas,Texas Tech,12
+Texas-Dallas,Baylor,13
+Texas-Dallas,Colorado,11
+Texas-Dallas,Saint Louis,15
+Texas-Dallas,Texas A&M,11
+Texas-Dallas,Oklahoma,13
 Catholic,Roanoke,11
 Catholic,Navy,7
 Catholic,Richmond,5
 Catholic,Christopher Newport,7
-Catholic,St Mary,15
+Catholic,St Mary's Maryland,15
 Roanoke,Catholic,7
 Roanoke,Richmond,2
 Roanoke,Navy,4
 Roanoke,Shenandoah,11
 Shenandoah,Mary Washington,8
 Shenandoah,Christopher Newport,5
-Shenandoah,St Mary,11
+Shenandoah,St Mary's Maryland,11
 Shenandoah,Roanoke,9
-St Mary,Christopher Newport,2
-St Mary,Mary Washington,4
-St Mary,Shenandoah,7
-St Mary,Catholic,2
+St Mary's Maryland,Christopher Newport,2
+St Mary's Maryland,Mary Washington,4
+St Mary's Maryland,Shenandoah,7
+St Mary's Maryland,Catholic,2
+Whitman,Montana State,9
+Whitman,Oregon,6
+Whitman,Boise State,13
+Whitman,Oregon State,8
+Whitman,Utah State,13
+Whitman,Utah,11
+Whitman,Willamette University,13
+Whitman,Portland,15
+Whitman,Lewis & Clark,13
+Whitman,Seattle,15
 Willamette University,Portland,1
 Willamette University,Whitman,0
 Willamette University,Pacific Lutheran,2
@@ -2070,56 +2305,70 @@ Willamette University,Puget Sound,4
 Willamette University,Seattle,15
 Pacific Lutheran,Portland,4
 Pacific Lutheran,Willamette University,13
-Pacific Lutheran,Lewis,4
+Pacific Lutheran,Lewis & Clark,4
 Pacific Lutheran,Puget Sound,7
 Pacific Lutheran,Seattle,15
-Whitworth,Lewis,8
+Lewis & Clark,Whitworth,15
+Lewis & Clark,Seattle,13
+Lewis & Clark,Puget Sound,12
+Lewis & Clark,Whitman,10
+Lewis & Clark,Pacific Lutheran,15
+Whitworth,Lewis & Clark,8
 Whitworth,Puget Sound,13
 Whitworth,Seattle,10
 Whitworth,Portland,4
 Whitworth,Willamette University,15
+Puget Sound,Seattle,13
+Puget Sound,Whitworth,11
+Puget Sound,Lewis & Clark,8
+Puget Sound,Portland,6
+Puget Sound,Pacific Lutheran,15
+Puget Sound,Willamette University,15
 Seattle,Puget Sound,0
-Seattle,Lewis,3
+Seattle,Lewis & Clark,3
 Seattle,Whitworth,5
 Seattle,Whitman,0
 Seattle,Pacific Lutheran,0
 Seattle,Willamette University,0
-Minnesota State,Minnesota,8
-Minnesota State,Carleton College,4
-Minnesota State,North Dakota,15
-North Dakota,Carleton College,0
-North Dakota,Minnesota,3
-North Dakota,Minnesota State,11
-Bethel,Carleton College,2
+North Dakota State,Carleton College-CUT,0
+North Dakota State,Minnesota,3
+North Dakota State,Minnesota-Duluth,4
+North Dakota State,Minnesota State-Mankato,11
+Bethel,Carleton College-GoP,2
 Bethel,Winona State,0
-Bethel,St,10
-Bethel,St John,12
-Bethel,Carleton Hot,10
+Bethel,St. Thomas,10
+Bethel,St John's,12
+Bethel,Carleton Hot Karls,10
 Toledo,Kent State,11
 Toledo,Ohio State,3
-Toledo,Miami,11
+Toledo,Miami Ohio,11
 Toledo,Cincinnati,4
 Toledo,Wright State,13
 Toledo,Akron,1
 Kent State,Toledo,9
-Kent State,Miami,8
+Kent State,Miami Ohio,8
 Kent State,Cincinnati,3
 Kent State,Ohio State,1
 Kent State,Wright State,0
+Miami Ohio,Kent State,13
+Miami Ohio,Toledo,13
+Miami Ohio,Ohio State,3
+Miami Ohio,Cincinnati,5
+Miami Ohio,Dayton,0
+Miami Ohio,Pittsburgh,0
+Miami Ohio,Case Western Reserve,0
 Cincinnati,Kent State,13
 Cincinnati,Toledo,13
-Cincinnati,Miami,13
-Cincinnati,Ohio,0
+Cincinnati,Miami Ohio,13
 Cincinnati,Ohio State,8
 Cincinnati,Pennsylvania,12
-Cincinnati,Case Western,9
+Cincinnati,Case Western Reserve,9
 Cincinnati,Temple,11
 Ohio,Dayton,11
 Ohio,Wright State,11
 Ohio,Cleveland State,11
 Ohio,Akron,11
-Ohio,Case Western,11
-Ohio,Cincinnati,0
+Ohio,Case Western Reserve,11
 Ohio,Ohio State,1
 Ohio,Temple,14
 Ohio,Lehigh,15
@@ -2127,27 +2376,27 @@ Ohio,Carnegie Mellon,7
 Ohio,Villanova,15
 Dayton,Ohio,7
 Dayton,Cleveland State,11
-Dayton,Case Western,8
+Dayton,Case Western Reserve,8
 Dayton,Wright State,11
 Dayton,Akron,11
-Dayton,Miami,15
+Dayton,Miami Ohio,15
 Dayton,Carnegie Mellon,8
 Dayton,Penn State,7
 Dayton,Pennsylvania,0
-Case Western,Wright State,11
-Case Western,Akron,11
-Case Western,Dayton,11
-Case Western,Cleveland State,11
-Case Western,Ohio,8
-Case Western,Ohio State,13
-Case Western,Villanova,13
-Case Western,Penn State,0
-Case Western,Cincinnati,15
-Case Western,Miami,15
-Case Western,Oberlin,13
-Case Western,Pittsburgh,2
-Case Western,Pennsylvania,9
-Wright State,Case Western,3
+Case Western Reserve,Wright State,11
+Case Western Reserve,Akron,11
+Case Western Reserve,Dayton,11
+Case Western Reserve,Cleveland State,11
+Case Western Reserve,Ohio,8
+Case Western Reserve,Villanova,13
+Case Western Reserve,Penn State,15
+Case Western Reserve,Cincinnati,15
+Case Western Reserve,Miami Ohio,15
+Case Western Reserve,Oberlin,13
+Case Western Reserve,Pittsburgh,2
+Case Western Reserve,Pennsylvania,9
+Case Western Reserve,Ohio State,13
+Wright State,Case Western Reserve,3
 Wright State,Ohio,6
 Wright State,Akron,11
 Wright State,Dayton,5
@@ -2155,7 +2404,7 @@ Wright State,Cleveland State,11
 Wright State,Toledo,12
 Wright State,Kent State,1
 Akron,Cleveland State,11
-Akron,Case Western,3
+Akron,Case Western Reserve,3
 Akron,Wright State,7
 Akron,Ohio,3
 Akron,Dayton,3
@@ -2163,14 +2412,13 @@ Akron,Toledo,0
 Cleveland State,Akron,4
 Cleveland State,Dayton,4
 Cleveland State,Ohio,1
-Cleveland State,Case Western,2
+Cleveland State,Case Western Reserve,2
 Cleveland State,Wright State,6
 John Carroll,Ohio Wesleyan,11
 John Carroll,Franciscan,8
 John Carroll,Kenyon,6
 John Carroll,Oberlin,1
 John Carroll,Denison,0
-John Carroll,Ohio Northern,0
 Ohio Wesleyan,John Carroll,10
 Ohio Wesleyan,Kenyon,8
 Ohio Wesleyan,Oberlin,3
@@ -2186,29 +2434,29 @@ Kenyon,Denison,9
 Oberlin,Ohio Wesleyan,13
 Oberlin,John Carroll,13
 Oberlin,Kenyon,13
-Oberlin,Xavier,0
 Oberlin,Wooster,10
+Oberlin,Xavier,9
 Oberlin,Shippensburg,15
 Oberlin,Franciscan,11
 Oberlin,Penn State,1
 Oberlin,Ohio State,2
-Oberlin,Case Western,0
+Oberlin,Case Western Reserve,0
 Oberlin,Pittsburgh,0
 Oberlin,Temple,0
 Oberlin,Pennsylvania,0
-Cedarville,Xavier,15
+Cedarville,Xavier,14
 Cedarville,Denison,15
 Cedarville,Ohio Northern,15
 Cedarville,Wooster,15
-Cedarville,Franciscan,12
 Cedarville,Haverford,6
 Cedarville,Shippensburg,10
+Cedarville,Franciscan,12
 Cedarville,Swarthmore,15
 Xavier,Cedarville,0
 Xavier,Wooster,10
 Xavier,Denison,12
 Xavier,Ohio Northern,11
-Xavier,Oberlin,0
+Xavier,Oberlin,8
 Xavier,Grove City,15
 Xavier,Messiah,10
 Denison,Wooster,8
@@ -2230,19 +2478,18 @@ Ohio Northern,Denison,12
 Ohio Northern,Cedarville,4
 Ohio Northern,Xavier,9
 Ohio Northern,Ohio Wesleyan,0
-Ohio Northern,John Carroll,0
 Carnegie Mellon,Pittsburgh,9
 Carnegie Mellon,Drexel,13
 Carnegie Mellon,Dayton,14
 Carnegie Mellon,Ohio,14
 Carnegie Mellon,Penn State,10
-Carnegie Mellon,Indiana,15
+Carnegie Mellon,Indiana Pennsylvania,15
 Carnegie Mellon,Slippery Rock,15
 Carnegie Mellon,Edinboro,12
 Carnegie Mellon,West Virginia,7
 Penn State,Drexel,14
 Penn State,Carnegie Mellon,11
-Penn State,Case Western,0
+Penn State,Case Western Reserve,0
 Penn State,Temple,12
 Penn State,Dayton,15
 Penn State,Oberlin,15
@@ -2250,13 +2497,12 @@ Penn State,Pittsburgh,6
 Penn State,Ohio State,12
 Penn State,Pennsylvania,0
 Penn State,West Virginia,15
-Penn State,Indiana,15
+Penn State,Indiana Pennsylvania,15
 Penn State,Slippery Rock,11
 Penn State,Edinboro,15
 Messiah,Lehigh,12
 Messiah,Muhlenberg,10
 Messiah,Xavier,14
-Messiah,Swarthmore,0
 Messiah,Bucknell,15
 Messiah,Allegheny,13
 Messiah,Shippensburg,15
@@ -2273,68 +2519,57 @@ Shippensburg,Cedarville,9
 Shippensburg,Muhlenberg,15
 Shippensburg,Oberlin,8
 Shippensburg,Susquehanna,13
-Shippensburg,California,13
+Shippensburg,California-Pennsylvania,13
 Shippensburg,Dickinson,13
 Shippensburg,Grove City,15
 Shippensburg,Messiah,10
 Oklahoma,Washington University,9
-Oklahoma,Missouri,0
-Oklahoma,Arkansas,0
-Oklahoma,Missouri State,0
+Oklahoma,Missouri,11
+Oklahoma,Arkansas,8
+Oklahoma,Missouri State,11
 Oklahoma,Kansas State,2
 Oklahoma,Saint Louis,14
 Oklahoma,Central Arkansas,11
 Oklahoma,Kansas,13
 Oklahoma,Oklahoma State,14
 Oklahoma,Colorado State,7
-Oklahoma,Texas,9
+Oklahoma,Texas-Dallas,9
 Washington University,Oklahoma,6
 Washington University,Missouri State,10
 Washington University,Missouri,8
 Washington University,Arkansas,10
 Washington University,Oklahoma State,11
-Washington University,Texas A,8
+Washington University,Texas A&M,8
 Washington University,Kansas State,12
 Washington University,Kansas,11
-Missouri,Oklahoma,0
+Missouri,Oklahoma,6
 Missouri,Missouri State,8
 Missouri,Washington University,7
-Missouri,Saint Louis,0
-Missouri,Central Arkansas,0
 Missouri,Kansas State,14
 Missouri State,Washington University,9
 Missouri State,Missouri,7
 Missouri State,Arkansas,6
-Missouri State,Oklahoma,0
-Missouri State,Saint Louis,0
-Missouri State,Kansas State,0
-Missouri State,Central Arkansas,0
-Arkansas,Oklahoma,0
+Missouri State,Oklahoma,3
+Arkansas,Oklahoma,6
 Arkansas,Missouri State,11
 Arkansas,Washington University,6
-Arkansas,Kansas State,9
-Arkansas,Central Arkansas,0
-Arkansas,Saint Louis,0
 Arkansas,Colorado State,9
 Arkansas,Kansas,6
-Arkansas,Baylor,0
+Arkansas,Kansas State,9
 Oklahoma State,Saint Louis,11
 Oklahoma State,Central Arkansas,11
 Oklahoma State,Kansas,11
 Oklahoma State,Kansas State,11
 Oklahoma State,Oklahoma,8
-Oklahoma State,Washington University,15
 Oklahoma State,Texas,7
+Oklahoma State,Washington University,15
 Oklahoma State,Colorado,15
 Saint Louis,Oklahoma State,4
 Saint Louis,Oklahoma,10
 Saint Louis,Kansas State,11
 Saint Louis,Central Arkansas,11
 Saint Louis,Kansas,8
-Saint Louis,Missouri,0
-Saint Louis,Missouri State,0
-Saint Louis,Arkansas,0
-Saint Louis,Texas,5
+Saint Louis,Texas-Dallas,5
 Saint Louis,Baylor,15
 Saint Louis,Colorado,13
 Kansas,Central Arkansas,11
@@ -2350,21 +2585,17 @@ Central Arkansas,Oklahoma State,4
 Central Arkansas,Oklahoma,10
 Central Arkansas,Saint Louis,1
 Central Arkansas,Kansas State,3
-Central Arkansas,Arkansas,0
-Central Arkansas,Missouri,0
-Central Arkansas,Missouri State,0
 Kansas State,Oklahoma,11
 Kansas State,Kansas,6
 Kansas State,Saint Louis,3
 Kansas State,Oklahoma State,6
 Kansas State,Central Arkansas,11
-Kansas State,Arkansas,15
-Kansas State,Missouri State,0
 Kansas State,Missouri,15
 Kansas State,Texas,5
 Kansas State,Washington University,9
 Kansas State,Texas State,15
-Truman State,Missouri S,10
+Kansas State,Arkansas,15
+Truman State,Missouri S&T,10
 Truman State,Tulsa,8
 Truman State,Harding,10
 Truman State,John Brown,11
@@ -2372,146 +2603,230 @@ Truman State,Air Force,9
 Truman State,Colorado College,14
 Truman State,Rice,12
 Truman State,Trinity,15
-Missouri S,Truman State,15
-Missouri S,John Brown,15
-Missouri S,Tulsa,11
-Missouri S,Harding,11
-Missouri S,Colorado College,13
-Missouri S,Air Force,9
-Missouri S,Rice,15
-John Brown,Missouri S,9
+John Brown,Missouri S&T,9
 John Brown,Harding,11
 John Brown,Tulsa,7
 John Brown,Truman State,15
-John Brown,Colorado School,12
+John Brown,Colorado School of Mines,12
 John Brown,Trinity,15
 John Brown,Colorado College,11
 Tulsa,Truman State,3
-Tulsa,Missouri S,3
+Tulsa,Missouri S&T,3
 Tulsa,John Brown,1
 Harding,John Brown,6
 Harding,Truman State,6
-Harding,Missouri S,4
+Harding,Missouri S&T,4
 Denver,Colorado State,5
 Denver,Colorado Mesa,12
-Denver,Colorado,11
+Denver,Colorado,12
+Denver,Colorado-Denver,11
+Denver,Colorado-Colorado Springs,11
 Colorado State,Denver,13
-Colorado State,Colorado,6
+Colorado State,Colorado,4
 Colorado State,Colorado Mesa,10
+Colorado State,Colorado-Colorado Springs,6
+Colorado State,Colorado-Denver,12
 Colorado State,Texas,10
 Colorado State,Oklahoma,12
 Colorado State,Arkansas,10
-Colorado State,Texas A,11
+Colorado State,Texas A&M,11
 Colorado Mesa,Denver,7
 Colorado Mesa,Colorado State,11
-Colorado Mesa,Colorado,7
+Colorado Mesa,Colorado,4
+Colorado Mesa,Colorado-Colorado Springs,7
+Colorado-Colorado Springs,Colorado,5
+Colorado-Colorado Springs,Colorado-Denver,8
+Colorado-Colorado Springs,Colorado State,10
+Colorado-Colorado Springs,Denver,7
+Colorado-Colorado Springs,Colorado Mesa,11
+Colorado-Denver,Colorado-Colorado Springs,13
+Colorado-Denver,Colorado,2
+Colorado-Denver,Colorado State,11
+Colorado-Denver,Denver,9
 Colorado College,Air Force,10
-Colorado College,Colorado School,12
-Colorado College,Missouri S,12
+Colorado College,Colorado School of Mines,12
+Colorado College,Missouri S&T,12
 Colorado College,Truman State,7
 Colorado College,Rice,12
 Colorado College,John Brown,12
-Colorado School,Air Force,10
-Colorado School,Colorado College,8
-Colorado School,Colorado School,5
-Colorado School,Trinity,15
-Colorado School,John Brown,8
-Colorado School,Rice,0
-Cal State,Cal Poly,11
-Cal State,California,1
-Cal State,San Diego,10
-Cal State,Loyola Marymount,0
-San Diego,Loyola Marymount,10
-San Diego,UCLA,2
-San Diego,California,5
-San Diego,Southern California,2
-San Diego,Cal Poly,9
-San Diego,Cal State,12
-Loyola Marymount,San Diego,6
+Colorado School of Mines,Air Force,10
+Colorado School of Mines,Colorado College,8
+Colorado School of Mines,Colorado School of Mines,5
+Colorado School of Mines,Trinity,15
+Colorado School of Mines,John Brown,8
+Colorado School of Mines,Rice,0
+California-Santa Barbara,Cal Poly-Pomona,13
+California-Santa Barbara,California-Irvine,13
+California-Santa Barbara,Cal State-Long Beach,13
+California-Santa Barbara,Cal Poly-SLO,3
+California-Santa Barbara,California-San Diego,8
+California-Santa Barbara,Chico State,13
+California-Santa Barbara,New Mexico,13
+California-Santa Barbara,California,5
+California-Santa Barbara,Southern California,11
+California-Santa Barbara,Santa Clara,15
+California-Santa Barbara,Arizona,6
+California-Santa Barbara,UCLA,6
+Cal Poly-Pomona,California-Santa Barbara,8
+Cal Poly-Pomona,Cal Poly-SLO,7
+Cal Poly-Pomona,California-Irvine,12
+Cal Poly-Pomona,Cal State-Long Beach,12
+Cal Poly-Pomona,UCLA,6
+Cal Poly-Pomona,San Diego State,10
+California-Irvine,California-Santa Barbara,3
+California-Irvine,Cal Poly-Pomona,8
+California-Irvine,Cal Poly-SLO,5
+California-Irvine,Loyola Marymount,13
+California-Irvine,UCLA,0
+California-Irvine,Arizona,2
+California-Irvine,California-San Diego,4
+California-Irvine,Arizona State,2
+Cal State-Long Beach,Cal Poly-SLO,0
+Cal State-Long Beach,California-Santa Barbara,1
+Cal State-Long Beach,Cal Poly-Pomona,11
+Cal State-Long Beach,San Diego State,10
+San Diego State,Loyola Marymount,10
+San Diego State,UCLA,2
+San Diego State,California-San Diego,5
+San Diego State,Southern California,2
+San Diego State,Cal Poly-Pomona,9
+San Diego State,Cal State-Long Beach,12
+Loyola Marymount,San Diego State,6
 Loyola Marymount,Southern California,1
 Loyola Marymount,UCLA,2
-Loyola Marymount,California,6
-Loyola Marymount,Cal State,0
-UCLA,California,9
-UCLA,San Diego,13
+Loyola Marymount,California-San Diego,1
+Loyola Marymount,California-Irvine,6
+UCLA,California-San Diego,7
+UCLA,San Diego State,13
 UCLA,Loyola Marymount,13
 UCLA,Southern California,12
-UCLA,Cal Poly,5
+UCLA,Cal Poly-Pomona,13
 UCLA,Santa Clara,13
 UCLA,Northern Arizona,13
+UCLA,Cal Poly-SLO,5
+UCLA,California-Irvine,11
 UCLA,Arizona State,4
 UCLA,Arizona,11
-Southern California,California,0
+UCLA,California-Santa Barbara,8
+UCLA,California,9
+California-San Diego,UCLA,6
+California-San Diego,Southern California,9
+California-San Diego,San Diego State,12
+California-San Diego,Loyola Marymount,13
+California-San Diego,California-Santa Barbara,7
+California-San Diego,Northern Arizona,13
+California-San Diego,Santa Clara,13
+California-San Diego,Stanford,11
+California-San Diego,Arizona,12
+California-San Diego,Chico State,15
+California-San Diego,California,9
+California-San Diego,Cal Poly-SLO,11
+California-San Diego,Arizona State,4
+California-San Diego,California-Irvine,11
+California-San Diego,California-San Diego,4
+Southern California,California-San Diego,4
 Southern California,Loyola Marymount,13
-Southern California,San Diego,13
+Southern California,San Diego State,13
 Southern California,UCLA,15
-Southern California,Cal Poly,15
+Southern California,Cal Poly-SLO,15
 Southern California,Stanford,15
 Southern California,Humboldt State,13
 Southern California,Arizona,12
+Southern California,California,0
+Southern California,California-Santa Barbara,0
 Southern California,Las Positas,15
-Texas A,Colorado,9
-Texas A,Texas State,7
-Texas A,Texas,9
-Texas A,Colorado State,13
-Texas A,Texas Tech,15
-Texas A,Washington University,12
-Texas A,Sam Houston,11
-Texas A,Houston,11
-Texas A,Lamar,11
-Texas State,Texas A,8
+Texas A&M,Colorado,9
+Texas A&M,Texas State,7
+Texas A&M,Texas,9
+Texas A&M,Texas-Dallas,14
+Texas A&M,Colorado State,13
+Texas A&M,Texas Tech,15
+Texas A&M,Washington University,12
+Texas A&M,Texas-Rio Grande Valley,5
+Texas A&M,Sam Houston State,11
+Texas A&M,Texas-San Antonio,11
+Texas A&M,Houston,11
+Texas A&M,Texas-El Paso,11
+Texas A&M,Lamar,11
+Texas State,Texas A&M,8
 Texas State,Colorado,9
 Texas State,Kansas State,0
 Texas State,Baylor,15
 Texas State,Texas,8
-Texas State,Sam Houston,11
+Texas State,Sam Houston State,11
+Texas State,Texas-Rio Grande Valley,6
 Texas State,Texas State,2
+Texas State,Texas-El Paso,9
 Texas State,Lamar,11
-Trinity,Colorado School,8
+Trinity,Colorado School of Mines,8
 Trinity,Rice,6
 Trinity,John Brown,8
 Trinity,Truman State,8
 Trinity,Dallas Baptist,10
 Trinity,Dallas,13
-Trinity,Sul Ross,13
+Trinity,Sul Ross State,13
 Trinity,Abilene Christian,9
 Rice,Trinity,13
-Rice,Colorado School,15
+Rice,Colorado School of Mines,15
 Rice,Air Force,13
-Rice,Missouri S,13
+Rice,Missouri S&T,13
 Rice,Colorado College,13
 Rice,Truman State,15
 Rice,Abilene Christian,13
 Rice,Dallas,8
 Rice,Dallas Baptist,10
-Rice,Sul Ross,13
+Rice,Sul Ross State,13
 Clark,Williams,3
 Clark,Providence College,12
 Clark,Amherst College,8
-Clark,Worcester Polytech,0
+Clark,Worcester Polytech,13
 Clark,Bryant University,4
 Worcester Polytech,Providence College,6
 Worcester Polytech,Amherst College,9
 Worcester Polytech,Bryant University,3
-Worcester Polytech,Clark,0
+Worcester Polytech,Clark,12
 Worcester Polytech,Williams,3
 Providence College,Worcester Polytech,13
 Providence College,Clark,13
 Providence College,Williams,4
 Providence College,Bryant University,8
 Providence College,Amherst College,9
-Sam Houston,Texas,1
-Sam Houston,Texas State,3
-Sam Houston,Texas A,4
-Sam Houston,Houston,9
-Lamar,Texas,11
+Sam Houston State,Texas-Rio Grande Valley,6
+Sam Houston State,Texas State,3
+Sam Houston State,Texas,1
+Sam Houston State,Texas A&M,4
+Sam Houston State,Houston,9
+Texas-Rio Grande Valley,Sam Houston State,8
+Texas-Rio Grande Valley,Texas A&M,7
+Texas-Rio Grande Valley,Texas State,11
+Texas-Rio Grande Valley,Texas,7
+Texas-Rio Grande Valley,Lamar,1
+Texas-Rio Grande Valley,Texas-San Antonio,7
+Texas-San Antonio,Lamar,7
+Texas-San Antonio,Texas A&M,9
+Texas-San Antonio,Texas-El Paso,9
+Texas-San Antonio,Texas,8
+Texas-San Antonio,Houston,8
+Texas-San Antonio,Texas-Rio Grande Valley,9
+Lamar,Texas-San Antonio,9
+Lamar,Texas-El Paso,7
+Lamar,Texas,9
 Lamar,Houston,11
-Lamar,Texas A,0
+Lamar,Texas A&M,0
 Lamar,Texas State,3
-Houston,Texas,11
-Houston,Texas A,0
+Lamar,Texas-Rio Grande Valley,11
+Houston,Texas-El Paso,11
+Houston,Texas,2
+Houston,Texas A&M,0
 Houston,Lamar,0
-Houston,Sam Houston,11
+Houston,Texas-San Antonio,5
+Houston,Sam Houston State,11
+Texas-El Paso,Houston,4
+Texas-El Paso,Lamar,2
+Texas-El Paso,Texas-San Antonio,5
+Texas-El Paso,Texas A&M,2
+Texas-El Paso,Texas,6
+Texas-El Paso,Texas State,4
 Kennesaw State,Emory,12
 Kennesaw State,Georgia Tech,12
 Kennesaw State,Central Florida,9
@@ -2537,40 +2852,49 @@ Georgia Tech,LSU,15
 Georgia Tech,Tennessee Tech,13
 Georgia Tech,Georgia Southern,11
 Georgia Tech,Tennessee,6
-Tennessee,Tennessee,6
+Tennessee,Tennessee-Chattanooga,13
+Tennessee,Tulane,10
 Tennessee,Georgia,2
-Tennessee,Tulane,7
-Tennessee,Alabama,14
-Tennessee,Georgia State,12
+Tennessee,Alabama-Huntsville,14
+Tennessee,Georgia State,8
 Tennessee,Georgia Tech,12
 Tennessee,Kennesaw State,15
-Tennessee,Tennessee Tech,15
-Tennessee,Georgia Southern,12
+Tennessee-Chattanooga,Tennessee,6
+Tennessee-Chattanooga,Georgia,6
+Tennessee-Chattanooga,Tulane,7
+Tennessee-Chattanooga,Georgia State,12
+Tennessee-Chattanooga,Tennessee Tech,15
+Tennessee-Chattanooga,Georgia Southern,12
 Belmont,Stetson,13
 Belmont,Berry,6
 Belmont,North Georgia,6
 Belmont,Samford,12
-Belmont,Union,0
 Belmont,Johnson,15
-Samford,Embry,15
+Samford,Embry-Riddle Florida,15
 Samford,Florida Tech,7
-Samford,Union,15
+Samford,Union Tennessee,15
 Samford,Berry,13
 Samford,Belmont,15
 Samford,North Georgia,10
-Georgia State,Tennessee,11
+Union Tennessee,Florida Tech,6
+Union Tennessee,Embry-Riddle Florida,12
+Union Tennessee,Samford,10
+Union Tennessee,Berry,10
+Union Tennessee,Johnson,15
+Georgia State,Tennessee-Chattanooga,11
 Georgia State,Georgia,4
+Georgia State,Tennessee,11
 Georgia State,Emory,2
 Georgia Southern,Tennessee Tech,13
 Georgia Southern,Kennesaw State,8
 Georgia Southern,Georgia Tech,12
 Georgia Southern,Emory,1
-Georgia Southern,Tennessee,9
+Georgia Southern,Tennessee-Chattanooga,9
 Tennessee Tech,Georgia Southern,6
 Tennessee Tech,Georgia Tech,5
 Tennessee Tech,Emory,3
 Tennessee Tech,Kennesaw State,0
-Tennessee Tech,Tennessee,0
+Tennessee Tech,Tennessee-Chattanooga,0
 Biola Univeristy,Claremont,3
 Biola Univeristy,Occidental,7
 Biola Univeristy,Caltech,7
@@ -2581,27 +2905,27 @@ Caltech,Claremont,7
 Caltech,Biola Univeristy,13
 Caltech,Occidental,6
 Dallas Baptist,Trinity,8
-Dallas Baptist,Dallas,0
-Dallas Baptist,Sul Ross,4
+Dallas Baptist,Dallas,11
+Dallas Baptist,Sul Ross State,4
 Dallas Baptist,Abilene Christian,7
 Dallas Baptist,Rice,3
 Abilene Christian,Dallas,11
-Abilene Christian,Sul Ross,6
+Abilene Christian,Sul Ross State,6
 Abilene Christian,Rice,7
 Abilene Christian,Dallas Baptist,8
 Abilene Christian,Trinity,8
 Dallas,Abilene Christian,10
-Dallas,Dallas Baptist,0
+Dallas,Dallas Baptist,10
 Dallas,Trinity,6
 Dallas,Rice,7
-Dallas,Sul Ross,4
-Sul Ross,Abilene Christian,13
-Sul Ross,Dallas Baptist,13
-Sul Ross,Trinity,8
-Sul Ross,Dallas,12
-Sul Ross,Rice,12
+Dallas,Sul Ross State,4
+Sul Ross State,Abilene Christian,13
+Sul Ross State,Dallas Baptist,13
+Sul Ross State,Trinity,8
+Sul Ross State,Dallas,12
+Sul Ross State,Rice,12
 Radford,Virginia Tech,2
-Radford,William,3
+Radford,William & Mary,3
 Radford,Virginia Commonwealth,10
 Radford,Virginia,2
 Virginia Commonwealth,Virginia Tech,2
@@ -2613,19 +2937,25 @@ George Mason,Virginia,9
 George Mason,James Madison,4
 George Mason,Virginia Tech,8
 George Mason,Virginia Commonwealth,11
+Indiana Pennsylvania,Carnegie Mellon,3
+Indiana Pennsylvania,Penn State,3
+Indiana Pennsylvania,Edinboro,4
+Indiana Pennsylvania,Pittsburgh,2
+Indiana Pennsylvania,Slippery Rock,6
+Indiana Pennsylvania,West Virginia,7
 West Virginia,Penn State,4
 West Virginia,Pittsburgh,1
 West Virginia,Slippery Rock,10
 West Virginia,Edinboro,6
-West Virginia,Indiana,13
+West Virginia,Indiana Pennsylvania,13
 West Virginia,Carnegie Mellon,0
 Slippery Rock,Carnegie Mellon,4
 Slippery Rock,Penn State,5
 Slippery Rock,West Virginia,6
-Slippery Rock,Indiana,14
+Slippery Rock,Indiana Pennsylvania,14
 Slippery Rock,Pittsburgh,1
 Slippery Rock,Edinboro,10
-Edinboro,Indiana,15
+Edinboro,Indiana Pennsylvania,15
 Edinboro,Pittsburgh,0
 Edinboro,West Virginia,14
 Edinboro,Carnegie Mellon,2
@@ -2635,40 +2965,41 @@ Allegheny,Bucknell,6
 Allegheny,Grove City,5
 Allegheny,Messiah,1
 Allegheny,Susquehanna,5
-Allegheny,California,11
+Allegheny,California-Pennsylvania,11
 Bucknell,Allegheny,13
 Bucknell,Messiah,7
 Bucknell,Grove City,11
 Bucknell,Dickinson,14
 Bucknell,Susquehanna,11
-Susquehanna,California,12
+Susquehanna,California-Pennsylvania,12
 Susquehanna,Shippensburg,9
 Susquehanna,Dickinson,7
 Susquehanna,Grove City,7
 Susquehanna,Allegheny,15
 Susquehanna,Bucknell,15
-Dickinson,California,14
+California-Pennsylvania,Susquehanna,7
+California-Pennsylvania,Dickinson,13
+California-Pennsylvania,Shippensburg,2
+California-Pennsylvania,Allegheny,10
+Dickinson,California-Pennsylvania,14
 Dickinson,Susquehanna,12
 Dickinson,Shippensburg,7
 Dickinson,Bucknell,15
 Dickinson,Grove City,4
-Iowa,Creighton,13
-Iowa,Iowa State,10
-Iowa,Nebraska,13
-Iowa,Northern Iowa,13
 Creighton,Iowa,2
-Creighton,Nebraska,6
+Creighton,Nebraska-Omaha,6
+Creighton,Nebraska,3
 Creighton,Northern Iowa,3
 Creighton,Iowa State,0
-Northern Iowa,Nebraska,13
-Northern Iowa,Iowa State,2
-Northern Iowa,Creighton,13
-Northern Iowa,Iowa,5
+Nebraska-Omaha,Northern Iowa,8
+Nebraska-Omaha,Creighton,13
+Nebraska-Omaha,Iowa,3
+Nebraska-Omaha,Iowa State,6
+Nebraska-Omaha,Nebraska,6
 Nebraska,Northern Iowa,10
-Nebraska,Creighton,13
+Nebraska,Creighton,11
 Nebraska,Iowa,4
-Nebraska,Iowa State,6
-Nebraska,Nebraska,6
+Nebraska,Nebraska-Omaha,11
 Grinnell,Coe,13
 Grinnell,Luther,4
 Grinnell,Drake,4
@@ -2685,8 +3016,16 @@ Cornell College,Coe,10
 Cornell College,Drake,8
 Cornell College,Grinnell,4
 Cornell College,Luther,5
-St Lawrence,Rochester,6
-St Lawrence,Hamilton,6
-St Lawrence,SUNY,3
+SUNY-Cortland,Colgate,6
+SUNY-Cortland,Ithaca,3
+SUNY-Cortland,Rochester,7
+SUNY-Cortland,St Lawrence University,14
+SUNY-Cortland,SUNY-Fredonia,9
+St Lawrence University,Rochester,6
+St Lawrence University,Hamilton,6
+St Lawrence University,SUNY-Oneonta,4
+St Lawrence University,SUNY-Fredonia,5
+St Lawrence University,SUNY-Cortland,13
+St Lawrence University,SUNY-Geneseo,3
 Johnson,Belmont,11
-Johnson,Union,5
+Johnson,Union Tennessee,5
