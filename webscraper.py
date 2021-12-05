@@ -86,6 +86,7 @@ def find_all_links(filename, soup):
         link = a['href'] if re.search("schedule/Men/CollegeMen/",a['href']) else a['href']+"schedule/Men/CollegeMen/"
         f.write(link + "\n")
     f.close()
+    
 def test(url):
     data = scrape_page(requests.get(url))
     print(data)
