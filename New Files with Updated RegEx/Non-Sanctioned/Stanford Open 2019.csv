@@ -21,11 +21,11 @@ San Jose State,California,7,10
 Santa Clara,Texas,13,1
 Whitman,California,13,2
 Utah State,Humboldt State,5,13
-UCL,Whitworth,13,7
+UCLA,Whitworth,13,7
 Whitworth,Humboldt State,9,8
 Utah State,Whitworth,9,8
-UCL,Humboldt State,13,4
-UCL,Utah State,11,8
+UCLA,Humboldt State,13,4
+UCLA,Utah State,11,8
 Chico State,Stanford,13,2
 California-Davis,Chico State,10,7
 North Texas,Stanford,13,2
@@ -64,7 +64,7 @@ Nevada-Reno,Stanford,6,5
 California,Washington University,7,3
 Air Force,Claremont,7,1
 California-Davis,California-Santa Cruz,5,4
-UCL,Santa Clara,6,7
+UCLA,Santa Clara,6,7
 Whitman,Humboldt State,9,5
 Las Positas,North Texas,11,8
 Carleton College-GoP,Nevada-Reno,7,8

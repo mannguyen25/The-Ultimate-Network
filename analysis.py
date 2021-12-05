@@ -16,48 +16,52 @@ import os
 import re
 
 
-def make_team_graph(csv_list):
-    graph = nx.DiGraph()
+def make_team_graph(csv_lists):
+    edge_lists = []
+    for csv_list in csv_lists:
+        graph = nx.DiGraph()
 
-    for csv in csv_list:
-        df = pd.read_csv(csv)
-        column_names = []
-        for col in df:
-            column_names.append(col)
+        for csv in csv_list:
+            df = pd.read_csv(csv)
+            column_names = []
+            for col in df:
+                column_names.append(col)
 
-        seed = re.compile('\s+\(\d+\)')
-        for row in df.index:
-            if df[column_names[0]][row] == 'Date':
-                df.drop(row)
-            for col in range(1,3):
-                team = df[column_names[col]][row]
-                loc = seed.search(team)
-                if loc:
-                    df = df.replace(to_replace=team, value=team[0:loc.start()])
+            for row in df.index:
+                if df[column_names[0]][row] == 'Date':
+                    df.drop(row)
 
-        for i in df.index:
-            weight1 = df[column_names[3]][i]
-            weight2 = df[column_names[4]][i]
-            if weight1 == 'W' or weight2 == 'F' or weight2 == 'L':
-                weight1 = 15
-                weight2 = 0
-            if weight1 == 'F' or weight1 == 'L' or weight2 == 'W':
-                weight1 = 0
-                weight2 = 15
-            graph.add_edge(df[column_names[1]][i], df[column_names[2]][i], weight=weight1)
-            graph.add_edge(df[column_names[2]][i], df[column_names[1]][i], weight=weight2)
+            for i in df.index:
+                weight1 = df[column_names[2]][i]
+                weight2 = df[column_names[3]][i]
+                if weight1 == 'W' or weight2 == 'F' or weight2 == 'L':
+                    weight1 = 15
+                    weight2 = 0
+                if weight1 == 'F' or weight1 == 'L' or weight2 == 'W':
+                    weight1 = 0
+                    weight2 = 15
+                graph.add_edge(df[column_names[0]][i], df[column_names[1]][i], weight=weight1)
+                graph.add_edge(df[column_names[1]][i], df[column_names[0]][i], weight=weight2)
 
-    edge_list = nx.to_pandas_edgelist(graph)
-    edge_list.to_csv(path_or_buf='games_edgelist.csv', index=False)
+        edge_list = nx.to_pandas_edgelist(graph)
+        edge_lists.append(edge_list)
+
+    edge_lists[0].to_csv(path_or_buf='nonsanctioned_edgelist.csv', index=False)
+    edge_lists[1].to_csv(path_or_buf='sanctioned_edgelist.csv', index=False)
+    edge_lists[2].to_csv(path_or_buf='games_edgelist.csv', index=False)
     return graph
 
 
 def make_bipartite_graph(csv_list):
     bigraph = nx.Graph()
     edge_ids = pd.DataFrame()
+    regions = pd.read_csv('./region_labels.csv')
+    region_col_names = []
+    for col in regions:
+        region_col_names.append(col)
 
     for csv in csv_list:
-        filename = csv[2:-4]
+        filename = csv[31:-4]
         edge_ids = edge_ids.append({'id': filename, 'category': 'tournament'}, ignore_index=True)
 
         df = pd.read_csv(csv)
@@ -68,18 +72,36 @@ def make_bipartite_graph(csv_list):
 
         teams = []
         for row in df.index:
-            home = df[column_names[1]][row]
-            away = df[column_names[2]][row]
+            home = df[column_names[0]][row]
+            away = df[column_names[1]][row]
             if home not in teams:
                 teams.append(home)
             if away not in teams:
                 teams.append(away)
 
-        bigraph.add_node(filename, bipartite=0)
-        bigraph.add_nodes_from(teams, bipartite=1)
+        team_regions = {}
+        file_region = None
+        for row in regions.index:
+            if filename == regions[region_col_names[0]][row]:
+                file_region = regions[region_col_names[4]][row]
+        for index, team in enumerate(teams):
+            for row in regions.index:
+                if team == regions[region_col_names[0]][row]:
+                    team_regions[team] = regions[region_col_names[4]][row]
+                elif team[:-2] == regions[region_col_names[0]][row]:
+                    team_regions[team[:-2]] = regions[region_col_names[4]][row]
+
+        # print(filename)
+        # print(len(teams))
+        # print(len(team_regions))
+
+        bigraph.add_node(filename, bipartite=0, region=file_region)
         for team in teams:
+            bigraph.add_node(team, bipartite=1, region=team_regions[team])
             bigraph.add_edge(filename, team)
             edge_ids = edge_ids.append({'id': team, 'category': 'team'}, ignore_index=True)
+
+
 
     edge_ids.to_csv(path_or_buf='bipartite_labels.csv', index=False)
     edge_list = nx.to_pandas_edgelist(bigraph)
@@ -156,20 +178,19 @@ def analyze(graph, label, file_object=None):
 
     # Degree assortativity
     assor = nx.algorithms.assortativity.degree_assortativity_coefficient(graph)
-    print(f'\tThe degree assortativity is {assor}', file=file_object)
+    print(f'\tThe degree assortativity is {assor}\n', file=file_object)
 
-    centrality = nx.algorithms.eigenvector_centrality(graph)
+    centrality = nx.algorithms.eigenvector_centrality(graph, max_iter=500)
     centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
-    print(f'\tThe eigevector centralities are {centrality}', file=file_object)
+    print(f'\tThe eigevector centralities are {centrality}\n', file=file_object)
+
+    centrality = nx.algorithms.closeness_centrality(graph)
+    centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
+    print(f'\tThe closeness centralities are {centrality}\n', file=file_object)
 
     # centrality = nx.algorithms.betweenness_centrality(graph)
     # centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
     # print(f'\tThe betweennes centralities are {centrality}', file=file_object)
-
-    # Create heatmaps of Laplacians and path matrices
-    # matrix = sns.heatmap(bi_lap.toarray(), cmap='rocket_r')
-    # fig = matrix.get_figure()
-    # fig.savefig("Bipartite Laplacian.png")
 
     # k-components
     # k_components = nx.algorithms.connectivity.k_components(nationals_graph)
@@ -199,12 +220,18 @@ def analyze(graph, label, file_object=None):
     plt.close()
 
 
-def bianalyze(graph, file_object=None):
-    # Redundancy
-    redundancies = bipartite.node_redundancy(graph)
-    print(f'\tThe average redundancy is {sum(redundancies)/len(redundancies)}', file=file_object)
-    for name in redundancies:
-        print(f'\t{name} has redundancy {redundancies[name]}', file=file_object)
+def bianalyze(part, team, tour, file_object=None):
+    print(f'Region analysis:', file=file_object)
+
+    # print(nx.get_node_attributes(part, 'region'), file=file_object)
+
+    region_assor = nx.attribute_assortativity_coefficient(part, 'region')
+    team_assor = nx.attribute_assortativity_coefficient(team, 'region')
+    tour_assor = nx.attribute_assortativity_coefficient(tour, 'region')
+
+    print(f'\tThe bipartite region assortativity is {region_assor}', file=file_object)
+    print(f'\tThe team region assortativity is {team_assor}', file=file_object)
+    print(f'\tThe tournament region assortativity is {tour_assor}', file=file_object)
 
 
 def randcsvs(games, bipart, tournaments, teams):
@@ -258,23 +285,25 @@ def randcsvs(games, bipart, tournaments, teams):
 
 
 def main():
-    sanctioned = './Sanctioned 2019'
-    nonsanctioned = './Non-Sanctioned 2019'
-    csv_list1 = ['./D-I College Championships.csv', './nationals.csv']
+    sanctioned = './New Files with Updated RegEx/Sanctioned Games'
+    nonsanctioned = './New Files with Updated RegEx/Non-Sanctioned'
+    csv_list1 = []
     csv_list2 = []
+    csv_list3 = []
 
     for entry in os.scandir(sanctioned):
         if entry.path.endswith('.csv'):
             csv_list1.append(entry.path)
+            csv_list2.append(entry.path)
     # make_region_csv(csv_list)
     for entry in os.scandir(nonsanctioned):
         if entry.path.endswith('.csv'):
             csv_list1.append(entry.path)
-            csv_list2.append(entry.path)
+            csv_list3.append(entry.path)
 
-    # compare(csv_list1, csv_list2)
+    # compare(csv_list2, csv_list3)
 
-    game = make_team_graph(csv_list1)
+    game = make_team_graph([csv_list3, csv_list2, csv_list1])
     part, team, tour = make_bipartite_graph(csv_list1)
 
     df = pd.read_csv('./sanctioned_edgelist.csv')
@@ -285,13 +314,12 @@ def main():
     label = ['games', 'bipartite', 'tournaments', 'teams', 'sanctioned', 'nonsanctioned']
     graphs = [game, part, tour, team, sanctioned, nonsanctioned]
 
-    randcsvs(game, part, tour, team)
+    # randcsvs(game, part, tour, team)
 
     with open('Analysis Results.txt', 'w') as file_object:
         for index, graph in enumerate(graphs):
             analyze(graph, label[index], file_object)
-        # print('For the bipartite graph:', file=file_object)
-        # bianalyze(part, file_object)
+        bianalyze(part, team, tour, file_object)
 
 
 if __name__ == '__main__':

@@ -32,14 +32,14 @@ def parse_table(game_data, soup, key):
     home = re.search("[a-zA-Z]+(([',. \-\&]+[a-zA-Z ])?[a-zA-Z]*)*", home)
     if home is not None:
         home = " ".join(home.group().split())
-        home = key[home] if home in key else re.sub("(([- ])*?[A-C])*$","",home)
+        home = key[home] if home in key else re.sub("[^a-zA-Z]+(([- ])*?[A-C])*$","",home)
     else:
         return                        
     away = re.sub("[\(\)]", "",away.a.string)
     away = re.search("[a-zA-Z]+(([',. \-\&]+[a-zA-Z ])?[a-zA-Z]*)*", away)
     if away is not None:
         away = " ".join(away.group().split())
-        away = key[away] if away in key else re.sub("(([- ])*?[A-C])*$","",away)
+        away = key[away] if away in key else re.sub("[^a-zA-Z]+(([- ])*?[A-C])*$","",away)
     else:
         return
     h_score = key[h_score.string] if h_score.string in key else int(h_score.string)
@@ -59,7 +59,7 @@ def scrape_page(page):
     pools = soup.findAll("table", {"class":"global_table scores_table"})
     games = []
     key = {"W": 15, "F": 0, "L":0,"Bryant": "Bryant University", "Carleton College": 
-              "Carlton College-CUT", "SUNY New Paltz":"SUNY-New Paltz"}
+              "Carleton College-CUT", "SUNY New Paltz":"SUNY-New Paltz"}
     for pool in pools:
         entries = pool.find_all("span", {"class":"adjust-data"})
         for i in range(0,len(entries),8):
@@ -97,7 +97,7 @@ def main():
     page = requests.get(url)
     soup = bs.BeautifulSoup(page.text,'html.parser')
     path = "C:/Users/Man/Documents/GitHub/The-Ultimate-Network/New Files with Updated RegEx/"
-    # test("https://play.usaultimate.org/events/Ohio-Valley-Dev-College-Mens-CC-2019/schedule/Men/CollegeMen/")
+    # test("https://play.usaultimate.org/events/Trouble-in-Vegas-2019//schedule/Men/CollegeMen/")
     file1 = open("C:/Users/Man/Documents/GitHub/The-Ultimate-Network/links.csv","r")
     links = file1.readlines()
     for entry in links:
@@ -107,10 +107,10 @@ def main():
         data = scrape_page(requests.get(link.strip("\n")))
         if not len(data):
             continue 
-        print(data)
+    #     print(data)
         # write_to_csv(data, "C:/Users/Man/Documents/GitHub/The-Ultimate-Network/all_games.csv")
-        # write_to_csv(data, path+tournament+".csv","a")
-    file1.close()
+        write_to_csv(data, path+tournament+".csv","a")
+    # file1.close()
     # for a in soup.find_all('a', href=re.compile('(https:\/\/play.usaultimate.org\/events\/).+')):
         # data = scrape_page(requests.get(a['href']+"/schedule/Men/CollegeMen/"))
     #     # header = ["Date", "Home Team", "Away Team", "Home Score", "Away Score"]
