@@ -46,6 +46,13 @@ def make_team_graph(csv_lists):
         edge_list = nx.to_pandas_edgelist(graph)
         edge_lists.append(edge_list)
 
+    # temp = graph
+    # for (n1, n2, data) in temp.edges(data=True):
+    #     data.clear()
+    # social = nx.to_undirected(graph)
+    # edge_list = nx.to_pandas_edgelist(social)
+    # edge_list.to_csv(path_or_buf='social_edgelist.csv', index=False)
+
     edge_lists[0].to_csv(path_or_buf='nonsanctioned_edgelist.csv', index=False)
     edge_lists[1].to_csv(path_or_buf='sanctioned_edgelist.csv', index=False)
     edge_lists[2].to_csv(path_or_buf='games_edgelist.csv', index=False)
@@ -188,6 +195,15 @@ def analyze(graph, label, file_object=None):
     centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
     print(f'\tThe closeness centralities are {centrality}\n', file=file_object)
 
+    # selected = []
+    # if label == 'games':
+    #     cycles = nx.simple_cycles(graph)
+    #     cycles_list = list(cycles)
+    #     [selected.append(x) for x in cycles_list if len(x) > 3 and len(x) < 7]
+    #     print('\tThe cycles of length 4-6 are:', file=file_object)
+    #     for selection in selected:
+    #         print(f'\t\t{selection}', file=file_object)
+
     # centrality = nx.algorithms.betweenness_centrality(graph)
     # centrality = {key:val for key, val in sorted(centrality.items(), key=lambda item: item[1], reverse=True)}
     # print(f'\tThe betweennes centralities are {centrality}', file=file_object)
@@ -197,6 +213,13 @@ def analyze(graph, label, file_object=None):
     # for num in k_components:
     #     if num > 5:
     #         print(f'The {num}-components are {k_components[num]}\\\\')
+
+    # if label != 'games':
+    #     clique_list = list(nx.find_cliques(graph))
+    #     clique_num = nx.graph_clique_number(graph, cliques=clique_list)
+    #     num_cliques = nx.graph_number_of_cliques(graph, cliques=clique_list)
+    #     print(f'\tThe clique number is {clique_num}', file=file_object)
+    #     print(f'\tThe number of cliques is {num_cliques}\n', file=file_object)
 
 
     # Check power law distribution
@@ -213,29 +236,65 @@ def analyze(graph, label, file_object=None):
         p_k[i] = sum / len(degree_sequence)
 
     plt.loglog(p_k)
-    plt.title(f'{label} graph ')
+    plt.title(f'{label} graph')
     plt.ylabel('Cumulative Distribution Function')
     plt.xlabel('Degree')
     plt.savefig(f'{label} loglog')
     plt.close()
 
+    degree_sequence = sorted([d for n, d in graph.degree()])
+    # bin_size = list(n for n in range(1, 150))
+    bin_size = 20
+    plt.hist(degree_sequence, bins=bin_size)
+    plt.title(f'{label} graph degree distribution')
+    plt.ylabel('Count')
+    plt.xlabel('Degree')
+    plt.savefig(f'{label} degree distribution')
+    plt.close()
 
-def bianalyze(part, team, tour, file_object=None):
+
+def bianalyze(games, sanc, nonsanc, part, team, tour, file_object=None):
     print(f'Region analysis:', file=file_object)
 
     # print(nx.get_node_attributes(part, 'region'), file=file_object)
 
+    regions = pd.read_csv('./region_labels.csv')
+    region_col_names = []
+    for col in regions:
+        region_col_names.append(col)
+
+    region_dict = {}
+    for graph in [games, sanc, nonsanc]:
+        for node in graph.nodes():
+            for row in regions.index:
+                if node == regions[region_col_names[0]][row]:
+                    region_dict[node] = regions[region_col_names[4]][row]
+
+    nx.set_node_attributes(games, region_dict, 'region')
+    nx.set_node_attributes(sanc, region_dict, 'region')
+    nx.set_node_attributes(nonsanc, region_dict, 'region')
+
+    games_assor = nx.attribute_assortativity_coefficient(games, 'region')
+    sanc_assor = nx.attribute_assortativity_coefficient(sanc, 'region')
+    nonsanc_assor = nx.attribute_assortativity_coefficient(nonsanc, 'region')
     region_assor = nx.attribute_assortativity_coefficient(part, 'region')
     team_assor = nx.attribute_assortativity_coefficient(team, 'region')
     tour_assor = nx.attribute_assortativity_coefficient(tour, 'region')
 
+    print(f'\tThe games region assortativity is {games_assor}', file=file_object)
+    print(f'\tThe sanctioned region assortativity is {sanc_assor}', file=file_object)
+    print(f'\tThe non-sanctioned region assortativity is {nonsanc_assor}', file=file_object)
     print(f'\tThe bipartite region assortativity is {region_assor}', file=file_object)
     print(f'\tThe team region assortativity is {team_assor}', file=file_object)
     print(f'\tThe tournament region assortativity is {tour_assor}', file=file_object)
 
 
-def randcsvs(games, bipart, tournaments, teams):
+def randcsvs(social, bipart, tournaments, teams):
 
+    soc_seq = social.degree
+    soc_seq = [val for key, val in soc_seq]
+    print(soc_seq)
+    print(sum(soc_seq))
     deg_seq = bipart.degree
     deg_seq = {key: val for key, val in deg_seq}
     tournament_seq = tournaments.degree
@@ -249,11 +308,14 @@ def randcsvs(games, bipart, tournaments, teams):
     [part1_seq.append(val) for key, val in deg_seq.items() if key in tournaments.nodes]
     [part2_seq.append(val) for key, val in deg_seq.items() if key in teams.nodes]
 
+    rand_social = nx.Graph()
     rand_bipartite = nx.Graph()
     rand_tournaments = nx.Graph()
     rand_teams = nx.Graph()
 
     for i in range(100):
+        socrand = nx.configuration_model(soc_seq, create_using=social)
+        rand_social = nx.disjoint_union(rand_social, socrand)
         birand = bipartite.configuration_model(part1_seq, part2_seq, create_using=bipart)
         rand_bipartite = nx.disjoint_union(rand_bipartite, birand)
         tournrand = nx.configuration_model(tournament_seq, create_using=tournaments)
@@ -261,6 +323,8 @@ def randcsvs(games, bipart, tournaments, teams):
         teamrand = nx.configuration_model(team_seq, create_using=teams)
         rand_teams = nx.disjoint_union(rand_teams, teamrand)
 
+    edges = nx.to_pandas_edgelist(rand_social)
+    edges.to_csv(path_or_buf='socrand_edgelist.csv', index=False)
     edges = nx.to_pandas_edgelist(rand_bipartite)
     edges.to_csv(path_or_buf='birand_edgelist.csv', index=False)
     edges = nx.to_pandas_edgelist(rand_tournaments)
@@ -275,7 +339,9 @@ def randcsvs(games, bipart, tournaments, teams):
         else:
             nodes = nodes.append({'Id': node, 'category': 'team'}, ignore_index=True)
 
-    nodes.to_csv(path_or_buf='sing_birand_partition.csv', index=False) #node IDs are not integers?
+    nodes.to_csv(path_or_buf='sing_birand_partition.csv', index=False)
+    edges = nx.to_pandas_edgelist(socrand)
+    edges.to_csv(path_or_buf='sing_socrand_edgelist.csv', index=False)
     edges = nx.to_pandas_edgelist(birand)
     edges.to_csv(path_or_buf='sing_birand_edgelist.csv', index=False)
     edges = nx.to_pandas_edgelist(tournrand)
@@ -311,15 +377,18 @@ def main():
     df = pd.read_csv('./nonsanctioned_edgelist.csv')
     nonsanctioned = nx.from_pandas_edgelist(df)
 
-    label = ['games', 'bipartite', 'tournaments', 'teams', 'sanctioned', 'nonsanctioned']
-    graphs = [game, part, tour, team, sanctioned, nonsanctioned]
+    df = pd.read_csv('./social_edgelist.csv')
+    social = nx.from_pandas_edgelist(df)
 
-    # randcsvs(game, part, tour, team)
+    label = ['games', 'social', 'bipartite', 'tournaments', 'teams', 'sanctioned', 'nonsanctioned']
+    graphs = [game, social, part, tour, team, sanctioned, nonsanctioned]
+
+    # randcsvs(social, part, tour, team)
 
     with open('Analysis Results.txt', 'w') as file_object:
         for index, graph in enumerate(graphs):
             analyze(graph, label[index], file_object)
-        bianalyze(part, team, tour, file_object)
+        bianalyze(nx.to_undirected(game), nx. to_undirected(sanctioned), nx.to_undirected(nonsanctioned), part, team, tour, file_object)
 
 
 if __name__ == '__main__':
